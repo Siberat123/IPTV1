@@ -389,6 +389,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/373
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="Sports",BEIN SPORTS 2 fr
 http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/374
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="Sports",BEIN SPORTS 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="Sports",BEIN SPORTS 3 fr
 http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/375
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lIzyqdW.jpg" group-title="Sports",BEIN SPORTS 4 ar
@@ -414,6 +416,12 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",CBS Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291880-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=38bc0031-c914-4d68-b55f-12d8ef870e44
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="Sports",CBS Sports 1
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65ea8b928145cb0008509426/master.m3u8?
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="Sports",CBS Sports HQ
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="Sports",CBS Golazo Network
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",PSN 1
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",PSN 2
@@ -460,6 +468,8 @@ http://supersonictv.live:8080/006779/439866/22208
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u8Sn4SU.jpg" group-title="Sports",SONY TEN 2
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="Sports",Sky Sport 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky1.m3u8
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="Sports",Sky Sport Premier League
 https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports",Sky Sports Premier League 1
@@ -496,6 +506,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&checkedb
 https://nl.utako.moe/js4/index.m3u8
 #EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Sports",JSports 4+
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="Sports",ASTRO PREMIERE LEAGUE
+https://github.com/cattviptv2605/m3u8-world-/raw/main/astropremierleague.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="Sports",ASTRO PREMIERE LEAGUE 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep2.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport4.png" group-title="Sports",ASTRO SUPERSPORT 4
 http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/34531
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport5.png" group-title="Sports",ASTRO SUPERSPORT 5
@@ -506,6 +520,16 @@ http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/34533
 http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/34534
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport.png" group-title="Sports",ASTRO SUPERSPORT 1
 http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/34535
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a9/66/16/a96616c81d4cba4dd1e73c65a24ba77d.jpg" group-title="Sports",ARENA SPORT 1
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111989
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/87/e8/43/87e84386035aa3112e506fb9e9175071.jpg" group-title="Sports",ARENA SPORT 2
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111990
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c9/61/3a/c9613a85c849ca7626f0907e54bf82cc.jpg" group-title="Sports",ARENA SPORT 3
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111991 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/77/8c/2e/778c2e668f2c6f8345fbf96ef02adb90.jpg" group-title="Sports",ARENA SPORT 4
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111992
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5e/6f/86/5e6f86c463c84f9b1aa868ef60ed5e0f.jpg" group-title="Sports",ARENA SPORT 5
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111993
 #EXTINF:-1 group-title="Sports" tvg-logo="",KBSN Sports
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://live-114.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=SQuHD7cISYiboGZRb3O0wkHG2XNxR5DUyZqqP8FF&secret=dbb984cb4a0e1f03e915ac9266883845&time=1736162356
@@ -575,10 +599,16 @@ http://tvmate.icu:8080/69NpyV/884735/53717
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tg4SkbW.jpg" group-title="Sports",PORTO CANAL
 http://supersonictv.live:8080/006779/439866/7681
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="Sports",PORTO SP
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_BAR_1_HD_720P.png" group-title="Sports",DAZN 1
 http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/135336
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b5/d9/a0/b5d9a0d267097726b5ac7b211471b61b.jpg" group-title="Sports",DAZN 1+
+http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1499
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_BAR_2_HD_720P.png" group-title="Sports",DAZN 2
 http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/135337
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b5/d9/a0/b5d9a0d267097726b5ac7b211471b61b.jpg" group-title="Sports",DAZN 2+
+http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1503
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MuVNAIM.jpg" group-title="Sports",DAZN 4
 http://supersonictv.live:8080/006779/439866/7632
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J6Cvpx5.jpg" group-title="Sports",DAZN 5
@@ -618,6 +648,10 @@ http://tvmate.icu:8080/69NpyV/884735/11645
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LcmjcJN.jpg" group-title="Sports",ZIGGO SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14906
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="Sports",DFB Play TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6720e2bddaad7f000872f274/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="Sports",La liga Inside
+https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
 
 
 
