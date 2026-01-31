@@ -1,72 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="INDO NEWS",Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="INDO NEWS",Kompas TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
-#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvone.png?raw=true" group-title="INDO NEWS",tvOne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
-#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1920px-TvOne_2023.svg.png", TvOne 1
-https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
-#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="INDO NEWS",Metro TV
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" group-title="INDO NEWS",Metro TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
-#EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="INDO NEWS",CNBC Indo
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/cnbcid.jpg?raw=true" group-title="INDO NEWS",CNBC Indo 1
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gr0DX12.jpeg" group-title="INDO NEWS",CNBC Indo 2
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2018496991_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnnindonesia.png?raw=true" group-title="INDO NEWS",CNN Indo
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="INDO NEWS" tvg-id="cnnindonesia.id" tvg-logo="https://i.imgur.com/NSEpsIh.jpeg",CNN Indo 1
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="INDO NEWS", Inews
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
-#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://www.visionplus.id/images/repository/375/437375-SNAPSHOT-l.png", Inews 1
-https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
-#EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDO NEWS",Garuda TV
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="INDO NEWS",Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Nusantara TV 1
-https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="INDO NEWS", IDX
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/312/895/png-clipart-beritasatu-com-logo-beritasatu-media-holdings-news-kids-reading-quraan-television-text.png" group-title="INDO NEWS",Berita Satu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BeritaSatu.m3u8
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="INDO NEWS",TVRI Nasional
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="INDO NEWS",TVRI Nasional 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
-#EXTINF:-1 tvg-id="SindoNews.id" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", Sindonews
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
-#EXTINF:-1 tvg-id="RRINet.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/2560px-RRI_NET_2023.svg.png" group-title="INDO NEWS",RRI Net
-https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://www.visionplus.id/images/repository/171/438171-SNAPSHOT-l.png" group-title="INDO 1",ANTV 
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://www.visionplus.id/images/repository/446/353446-SNAPSHOT-l.png" group-title="INDO 1", MNCTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8 
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
+#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="INDO 1",MNCTV 1
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/447/353447-SNAPSHOT-l.png" group-title="INDO 1", GTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO 1",GTV 1
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.visionplus.id/images/repository/176/438176-SNAPSHOT-l.png" group-title="INDO 1", Trans 7
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 #EXTINF:-1 tvg-id="Trans7.id@SD" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="INDO 1",Trans7 1
@@ -92,10 +35,20 @@ https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="INDO 1", RCTI
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="INDO 1",RCTI 1
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDO 1",SCTV 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-id="--" group-title="INDO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png", SCTV 1
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="INDO 1",TVRI Nasional
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="INDO 1",TVRI Nasional 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="INDO 1",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
@@ -122,6 +75,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
 #EXTINF:-1 group-title="INDO 2" tvg-logo="https://dl.dropbox.com/s/2rp51aouwircr4f/images%20%281%29.jpeg", BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="INDO 2",SINPO TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19046type=drm
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/22/4e/f7/224ef7e43e8371e92c56ce599d09e45f.jpg" group-title="INDO 2",Antara TV
+https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/242/437242-SNAPSHOT-l.png" group-title="INDO 2", Celebrities Tv
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
 #EXTINF:-1 tvg-id="DAAITV.id@SD" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="INDO 2",DAAI TV
@@ -196,6 +156,26 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="Sports",BEIN SPORTS 1
+http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/841
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="Sports",BEIN SPORTS 1+
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000147/1024.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="Sports",BEIN SPORTS 2
+http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/842
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="Sports",BEIN SPORTS 3
+http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/843
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports4.png" group-title="Sports",BEIN SPORTS 4
+http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/844
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="Sports",BEIN SPORTS 5
+http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/845
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports6.png" group-title="Sports",BEIN SPORTS 6
+http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/846
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports7.png" group-title="Sports",BEIN SPORTS 7
+http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/847
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports8.png" group-title="Sports",BEIN SPORTS 8
+http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/132370
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports9.png" group-title="Sports",BEIN SPORTS 9
+http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/132371
 
 
 #EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://i.postimg.cc/PrqBt2h1/tvrisport.png" group-title="Sports",TVRI Sport
@@ -227,8 +207,6 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/cctv5%2B.png" group-title="Sports",CCTV5+
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="Sky Sports Premier League FHD" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sports" radio="false",Sky Sports EPL
-https://zamlb.tgaadi.workers.dev/1773.ts
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="Sports",Sky Sport Premier League
 https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports",Sky Sports Premier League 1
@@ -319,6 +297,138 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
+  
+
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="INDO NEWS",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="INDO NEWS",Kompas TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/310/692/png-transparent-kompas-tv-television-indonesia-news-kompas-television-angle-text-thumbnail.png" group-title="INDO NEWS",Kompas TV 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
+https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mediampd/KOMPASTVHD.mpd
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvone.png?raw=true" group-title="INDO NEWS",tvOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1920px-TvOne_2023.svg.png", TvOne 1
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="INDO NEWS",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" group-title="INDO NEWS",Metro TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="INDO NEWS",CNBC Indo
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/cnbcid.jpg?raw=true" group-title="INDO NEWS",CNBC Indo 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gr0DX12.jpeg" group-title="INDO NEWS",CNBC Indo 2
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2018496991_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnnindonesia.png?raw=true" group-title="INDO NEWS",CNN Indo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="INDO NEWS" tvg-id="cnnindonesia.id" tvg-logo="https://i.imgur.com/NSEpsIh.jpeg",CNN Indo 1
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="INDO NEWS", Inews
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
+#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://www.visionplus.id/images/repository/375/437375-SNAPSHOT-l.png", Inews 1
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDO NEWS",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="INDO NEWS",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Nusantara TV 1
+https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="INDO NEWS", IDX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/312/895/png-clipart-beritasatu-com-logo-beritasatu-media-holdings-news-kids-reading-quraan-television-text.png" group-title="INDO NEWS",Berita Satu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BeritaSatu.m3u8
+#EXTINF:-1 tvg-id="SindoNews.id" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", Sindonews
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+#EXTINF:-1 tvg-id="RRINet.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/2560px-RRI_NET_2023.svg.png" group-title="INDO NEWS",RRI Net
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+
+
+
+#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cqd-JrliSDG0kvFFKk8IDV7UBJDgP9KDjg&s", Arirang TV
+#EXTVLCOPT:http-origin=https://tv.garden
+#EXTVLCOPT:http-referrer=https://tv.garden/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKj_mv63oHLLaNAEG5GF8lVERge0ZAaUHew&s" group-title="WORLD NEWS", tvN International
+https://d50a1g0nh14ou.cloudfront.net/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="WORLD NEWS",CNN
+https://jmp2.uk/stvp-CHBD800001D0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg" group-title="WORLD NEWS",NBC NEWS
+https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg" group-title="WORLD NEWS",ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="WORLD NEWS",CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/17rc425/voa.png" group-title="WORLD NEWS",VOA TV
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png" group-title="WORLD NEWS",NEWS MAX
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WORLD NEWS",CCTV+
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Tv5 Monde" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", TV5 Monde
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000005/1024.m3u8
+#EXTINF:-1 tvg-id="--" group-title="WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", TV5 Monde 1
+https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd
+#EXTINF:-1 tvg-id="Sea Go" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS",Sea Go
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", FRANCE 24
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", BBC NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", HISTORY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", NHK WORD
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", CNA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", EURO NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", KOREA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", CGTN DOCUMENTARY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", FOX NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS",CGTN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", TV MACCAU
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", LIFETIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", CNBC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", EWTN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000049/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS",ABC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
+#EXTINF:-1 tvg-id="--" group-title="WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", ALJAZEERA 1
+https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", BBC NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", RT
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000153/1024.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1rB2wDv.png" group-title="WORLD NEWS",RT Docs
+https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS",DW NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
+#EXTINF:-1 tvg-id="insight.au" tvg-name="Insight" tvg-logo="https://i.imgur.com/9ETu8DD.png" group-title="WORLD NEWS", INSIGHT
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",American Ninja Warrior
@@ -405,76 +515,3 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd 
 #EXTINF:-1 tvg-id="--" group-title="Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", AXN
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
-  
-
-
-
-#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cqd-JrliSDG0kvFFKk8IDV7UBJDgP9KDjg&s", Arirang TV
-#EXTVLCOPT:http-origin=https://tv.garden
-#EXTVLCOPT:http-referrer=https://tv.garden/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKj_mv63oHLLaNAEG5GF8lVERge0ZAaUHew&s" group-title="WORLD NEWS", tvN International
-https://d50a1g0nh14ou.cloudfront.net/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="WORLD NEWS",CNN
-https://jmp2.uk/stvp-CHBD800001D0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg" group-title="WORLD NEWS",NBC NEWS
-https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg" group-title="WORLD NEWS",ABC NEWS
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="WORLD NEWS",CBS NEWS
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/17rc425/voa.png" group-title="WORLD NEWS",VOA TV
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png" group-title="WORLD NEWS",NEWS MAX
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WORLD NEWS",CCTV+
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Tv5 Monde" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", TV5 Monde
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000005/1024.m3u8
-#EXTINF:-1 tvg-id="--" group-title="WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", TV5 Monde 1
-https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd
-#EXTINF:-1 tvg-id="Sea Go" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS",Sea Go
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", FRANCE 24
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", BBC NEWS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", HISTORY
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", NHK WORD
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", CNA
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", EURO NEWS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", KOREA
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", CGTN DOCUMENTARY
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", FOX NEWS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS",CGTN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", TV MACCAU
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", LIFETIME
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", CNBC
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", EWTN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000049/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS",ABC
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
-#EXTINF:-1 tvg-id="--" group-title="WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", ALJAZEERA 1
-https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", BBC NEWS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", RT
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000153/1024.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1rB2wDv.png" group-title="WORLD NEWS",RT Docs
-https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS",DW NEWS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
-#EXTINF:-1 tvg-id="insight.au" tvg-name="Insight" tvg-logo="https://i.imgur.com/9ETu8DD.png" group-title="WORLD NEWS", INSIGHT
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
