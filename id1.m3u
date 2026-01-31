@@ -296,7 +296,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BeritaSatu.m3u8
 #EXTINF:-1 tvg-id="SindoNews.id" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", Sindonews TV
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
-#EXTINF:-1,Sindonews TV 1
+#EXTINF:-1 tvg-id="SindoNews.id" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", Sindonews TV 1
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 #EXTINF:-1 tvg-id="RRINet.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/2560px-RRI_NET_2023.svg.png" group-title="INDO NEWS",RRI Net
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
@@ -510,13 +510,23 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&checkedb
 https://github.com/cattviptv2605/m3u8-world-/raw/main/astropremierleague.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="Sports",ASTRO PREMIERE LEAGUE 3
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="Sports",ASTRO ARENA 1
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="Sports",ASTRO ARENA
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astaren2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="Sports",ASTRO ARENA 2
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="Sports",ASTRO FUTBOL
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="Sports",ASTRO+
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport4.png" group-title="Sports",ASTRO SUPERSPORT 4
 http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/34531
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport5.png" group-title="Sports",ASTRO SUPERSPORT 5
 http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/34532
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport3.png" group-title="Sports",ASTRO SUPERSPORT 3
 http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/34533
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport2.png" group-title="Sports,ASTRO SUPERSPORT 2
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport2.png" group-title="Sports",ASTRO SUPERSPORT 2
 http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/34534
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport.png" group-title="Sports",ASTRO SUPERSPORT 1
 http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/34535
