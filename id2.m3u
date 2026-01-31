@@ -155,33 +155,6 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="Sports",BEIN SPORTS 1
-http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/841
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="Sports",BEIN SPORTS 1+
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BeinSport1.m3u8
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="Sports",BEIN SPORTS 2
-http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/842
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="Sports",BEIN SPORTS 2+
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BeinSport2.m3u8
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="Sports",BEIN SPORTS 3
-http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/843
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="Sports",BEIN SPORTS 3+
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BeinSport3.m3u8
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports4.png" group-title="Sports",BEIN SPORTS 4
-http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/844
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="Sports",BEIN SPORTS 5
-http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/845
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports6.png" group-title="Sports",BEIN SPORTS 6
-http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/846
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports7.png" group-title="Sports",BEIN SPORTS 7
-http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/847
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports8.png" group-title="Sports",BEIN SPORTS 8
-http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/132370
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports9.png" group-title="Sports",BEIN SPORTS 9
-http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/132371
-
-
 #EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://i.postimg.cc/PrqBt2h1/tvrisport.png" group-title="Sports",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y6yh0pV.jpeg" group-title="Sports",MOJI
@@ -519,3 +492,4 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd 
 #EXTINF:-1 tvg-id="--" group-title="Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", AXN
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+
