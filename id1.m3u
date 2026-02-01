@@ -391,37 +391,77 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="Sports",BEIN SPORTS 3
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 
-#EXTINF:-1 group-title="Sports",[AR] BEIN SPORTS 1
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 1 4k
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156631&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 2 4k
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156630&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 3 4k
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156629&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 4 4k
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156628&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 5 4k
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156627&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 6 4k
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156626&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 7 4k
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156625&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 8 4k
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156624&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 9 4k
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156623&extension=ts
+
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 1 720p
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156649&extension=ts
-#EXTINF:-1 group-title="Sports",[AR] BEIN SPORTS 2
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 2 720p
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156648&extension=ts
-#EXTINF:-1 group-title="Sports",[AR] BEIN SPORTS 3
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 3 720p
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156647&extension=ts
-#EXTINF:-1 group-title="Sports",[AR] BEIN SPORTS 4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="Sports",BEIN SPORTS 3 Mods
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 4 720p
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156646&extension=ts
-#EXTINF:-1 group-title="Sports",[AR] BEIN SPORTS 5
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 5 720p
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156645&extension=ts
-#EXTINF:-1 group-title="Sports",[AR] BEIN SPORTS 6
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 6 720p
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156644&extension=ts
-#EXTINF:-1 group-title="Sports",[AR] BEIN SPORTS 7 720
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 7 720p
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156643&extension=ts
-#EXTINF:-1 group-title="Sports",[AR] BEIN SPORTS 8
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 8 720p
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156642&extension=ts
-#EXTINF:-1 group-title="Sports",[AR] BEIN SPORTS 9
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 9 720p
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156641&extension=ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QgMN6gm.jpg" group-title="Sports",BEIN SPORTS EXTRA
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CFK26ym.jpg" group-title="Sports",BEIN SPORTS EXTRA 1 sp
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 1 480p
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156613&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 2 480p
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156612&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 3 480p
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156611&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 4 480p
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156610&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 5 480p
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156609&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 6 480p
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156608&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 7 480p
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156607&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 8 480p
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156606&extension=ts
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 9 480p
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156605&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFK26ym.jpg" group-title="Sports",BEIN SPORTS XTRA n
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sports",BeIN Sports EXTRA 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QgMN6gm.jpg" group-title="Sports",BEIN SPORTS XTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sports",BEIN SPORTS XTRA+
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",BEIN SPORTS XTRA 2
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156637&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",CBS Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291880-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=38bc0031-c914-4d68-b55f-12d8ef870e44
