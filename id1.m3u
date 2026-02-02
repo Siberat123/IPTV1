@@ -70,7 +70,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BiznetKids.id@SD" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="INDO DAERAH",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
-#EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="INDO DAERAH,Biznet Lifestyle
+#EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="INDO DAERAH",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/oxygentv.jpg?raw=true" group-title="INDO DAERAH",Oxygen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -413,11 +413,11 @@ http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156649&extens
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156648&extension=ts
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 3 720p
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156647&extension=ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="Sports",BEIN SPORTS 3 Mods
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="BEIN SPORTS",BEIN SPORTS 3 Mods
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 4 720p
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156646&extension=ts
-#EXTINF:-1 group-title="Sports",BEIN SPORTS 5 720p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 5 720p
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156645&extension=ts
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 6 720p
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156644&extension=ts
@@ -466,9 +466,9 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156637&extension=ts
 
 
-#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://i.postimg.cc/PrqBt2h1/tvrisport.png" group-title="SPORTS",TVRI Sport
+#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://i.postimg.cc/PrqBt2h1/tvrisport.png" group-title="WORLD SPORTS",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wadooke/olahraga/refs/heads/main/png" group-title="SPORTS", TVRI Sport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wadooke/olahraga/refs/heads/main/png" group-title="WORLD SPORTS", TVRI Sport 2
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
@@ -666,7 +666,7 @@ http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/1846.ts
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/1847.ts
 #EXTINF:-1  tvg-name="Fox Sports 505 FHD" tvg-id="FoxSports505.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/angJkah.png" group-title="WORLD SPORTS" radio="false",Fox Sports 505
 https://a1xs.vip/700005
-#EXTINF:-1  tvg-name="Fox Sports 506 FHD" tvg-id="FoxSports506.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/eA1hiR0.png" group-title=WORLD SPORTS" radio="false",Fox Sports 506
+#EXTINF:-1  tvg-name="Fox Sports 506 FHD" tvg-id="FoxSports506.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/eA1hiR0.png" group-title="WORLD SPORTS" radio="false",Fox Sports 506
 https://a1xs.vip/700006
 #EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="WORLD SPORTS",JSport 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&checkedby:iptvcat.com
@@ -812,4 +812,3 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/3f/3b/733f3b353376675a9b85650d0b3973db.jpg" group-title="ENTERTAINMENT",HOOLY TV
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
-
