@@ -61,11 +61,6 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 
 
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="INDO DAERAH",Rajawali TV
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="INDO DAERAH",Rajawali TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 #EXTINF:-1 tvg-id="BiznetAdventure.id@SD" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="INDO DAERAH",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BiznetKids.id@SD" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="INDO DAERAH",Biznet Kids
@@ -81,10 +76,12 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1 tvg-id="MAXStream.id@SD" tvg-logo="https://i.postimg.cc/QxbFGWcM/maxstream.png" group-title="INDO DAERAH",MAX Stream
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#EXTINF:-1 tvg-id="RRINet.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/2560px-RRI_NET_2023.svg.png" group-title="INDO DAERAH",RRI Net
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+
+
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO DAERAH",Jawa Pos TV
 http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6BYfiq2PIJR7wSvY-Dl_0DRHAYBZxepdWnvSgUxm7g&s=10" group-title="INDO DAERAH", TRIBUN NEWS
-https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
 #EXTINF:0 tvg-id="outdoor" group-title="INDO DAERAH",DENS Life & Style
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
@@ -304,14 +301,14 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BeritaSatu.m3u8
+#EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/idtv.png?raw=true" group-title="INDO NEWS",Berita Satu 1
+https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 #EXTINF:-1 tvg-id="SindoNews.id" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", Sindonews TV
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTINF:-1 tvg-id="SindoNews.id" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", Sindonews TV 1
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
-#EXTINF:-1 tvg-id="RRINet.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/2560px-RRI_NET_2023.svg.png" group-title="INDO NEWS",RRI Net
-https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6BYfiq2PIJR7wSvY-Dl_0DRHAYBZxepdWnvSgUxm7g&s=10" group-title="INDO NEWS", Tribun News
+https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
 
 
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cqd-JrliSDG0kvFFKk8IDV7UBJDgP9KDjg&s", Arirang TV
@@ -389,69 +386,80 @@ https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 1 4k
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 1 4k Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156631&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 2 4k
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 2 4k Arab 
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156630&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 3 4k
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 3 4k Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156629&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 4 4k
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 4 4k Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156628&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 5 4k
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 5 4k Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156627&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 6 4k
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 6 4k Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156626&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 7 4k
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 7 4k Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156625&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 8 4k
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 8 4k Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156624&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 9 4k
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 9 4k Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156623&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 1 720p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 1 720p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156649&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 2 720p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 2 720p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156648&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 3 720p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 3 720p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156647&extension=ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="BEIN SPORTS",BEIN SPORTS 3 Mods
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 4 720p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 4 720p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156646&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 5 720p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 5 720p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156645&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 6 720p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 6 720p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156644&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 7 720p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 7 720p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156643&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 8 720p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 8 720p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156642&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 9 720p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 9 720p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156641&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 1 480p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 1 480p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156613&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 2 480p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 2 480p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156612&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 3 480p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 3 480p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156611&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 4 480p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 4 480p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156610&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 5 480p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 5 480p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156609&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 6 480p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 6 480p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156608&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 7 480p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 7 480p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156607&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 8 480p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 8 480p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156606&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 9 480p
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 9 480p Arab
 http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156605&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="BEIN SPORTS",BEIN SPORTS 1 my
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="BEIN SPORTS",BEIN SPORTS 1 Malaysia
 https://wahyu1ptv.pages.dev/AstroBein1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="BEIN SPORTS",BEIN SPORTS 2 my
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="BEIN SPORTS",BEIN SPORTS 2 Malaysia
 https://wahyu1ptv.pages.dev/AstroBein2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="BEIN SPORTS",BEIN SPORTS 3 my
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="BEIN SPORTS",BEIN SPORTS 3 Malaysia
 https://wahyu1ptv.pages.dev/AstroBein3.m3u
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664502528.png" group-title="BEIN SPORTS", BEIN SPORTS 1 Turkiye
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports1turkey.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664502539.png" group-title="BEIN SPORTS", BEIN SPORTS 2 Turkiye
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports2turkey.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664581228.png" group-title="BEIN SPORTS", BEIN SPORTS 3 Turkiye
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports3turkey.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFK26ym.jpg" group-title="BEIN SPORTS",BEIN SPORTS XTRA n
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -494,12 +502,22 @@ https://pepsi3.abntv.live/hls/psp3.m3u8
 https://pepsi4.abntv.live/hls/psp4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS",SCTV 22 Viet
 https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="WORLD SPORTS",Hub Premier 2
-https://a1xs.vip/1100042
 #EXTINF:-1  tvg-name="Now Sports PL 1 FHD" tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true" group-title="WORLD SPORTS" radio="false",Now Sports 1
 https://a1xs.vip/1100001
 #EXTINF:-1 tvg-id="Futbol.tj@SD" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="WORLD SPORTS",Futbol (1080p)
 https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/07/05/20240705021020002099_66.png" group-title="WORLD SPORTS", SPORT 1
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/866
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="WORLD SPORTS",HUB PREMIER 1
+http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="WORLD SPORTS",HUB PREMIER 2
+https://a1xs.vip/1100042
+#EXTINF:-1 tvg-id="465504" tvg-logo="https://i.imghippo.com/files/PKYK9834nDw.png" group-title="WORLD SPORTS", SPORTV 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
+#EXTINF:-1 tvg-id="465418" tvg-logo="https://i.imghippo.com/files/bnHW6108tBk.jpg" group-title="WORLD SPORTS", SPORTV 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
+#EXTINF:-1 tvg-id="465416" tvg-logo="https://i.imghippo.com/files/WU1252hQk.jpg" group-title="WORLD SPORTS", SPORTV 3
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/cctv5.png" group-title="WORLD SPORTS",CCTV5
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
@@ -705,15 +723,16 @@ https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us@SD" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="WORLD SPORTS",Unbeaten
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/06/19192821/WEDO_SPORTS_ROUND_RED-675x675.png" group-title="WORLD SPORTS", WEDO TV SPORTS
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8
 
 
 
 
-
-#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="ENTERTAINMENT",Mr. Bean
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",American Ninja Warrior
-https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|ID| ASIAN FOOD NETWORK" tvg-logo="" group-title="ENTERTAINMENT",ASIAN FOOD NETWORK
+http://sans7.org:88/02021349372647/7416812501/694309
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png" group-title="ENTERTAINMENT",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
@@ -740,75 +759,96 @@ http://supersonictv.live:8080/611366/682256/22045
 http://supersonictv.live:8080/611366/682256/22046
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Outdoor Channel
 http://supersonictv.live:8080/611366/682256/22131
-#EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mycinema.png?raw=true" group-title="ENTERTAINMENT",My Cinema
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="ENTERTAINMENT", OUTDOOR
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ID| BIOSKOP INDONESIA" tvg-logo="" group-title="MOVIES & SERIES",BIOSKOP INDONESIA
+http://sans7.org:88/02021349372647/7416812501/694317
+#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="MOVIES & SERIES",Mr. Bean
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES & SERIES",American Ninja Warrior
+https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mycinema.png?raw=true" group-title="MOVIES & SERIES",My Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
-#EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/myfamilychannel.png?raw=true" group-title="ENTERTAINMENT",My Family
+#EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/myfamilychannel.png?raw=true" group-title="MOVIES & SERIES",My Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
-#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mykidz.png?raw=true" group-title="ENTERTAINMENT",My Kidz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
-#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/mycinemaeurope.jpg?raw=true" group-title="ENTERTAINMENT",MY Cinema Europa
+#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/mycinemaeurope.jpg?raw=true" group-title="MOVIES & SERIES",MY Cinema Europa
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
 https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_2_0.png" group-title="ENTERTAINMENT",LG 1 Film
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_2_0.png" group-title="MOVIES & SERIES",LG 1 Film
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white.png" group-title="ENTERTAINMENT",LG 1
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white.png" group-title="MOVIES & SERIES",LG 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/CW_Gold_%28The_CW_Channels_feature_icon%29.jpg/revision/latest/scale-to-width-down/250?cb=20250802193103", CW Gold
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/CW_Gold_%28The_CW_Channels_feature_icon%29.jpg/revision/latest/scale-to-width-down/250?cb=20250802193103", CW Gold
 https://d1d726ny1vain2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/CW_Forever_%282024%29_%28better_version%29.png/revision/latest/scale-to-width-down/250?cb=20250718132251", CW Forever
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/CW_Forever_%282024%29_%28better_version%29.png/revision/latest/scale-to-width-down/250?cb=20250718132251", CW Forever
 https://d1sknsnbkyvie.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/playlist.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/851/437851-SNAPSHOT-l.png" group-title="ENTERTAINMENT", Z BIOSKOP
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/851/437851-SNAPSHOT-l.png" group-title="MOVIES & SERIES", Z BIOSKOP
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/849/437849-SNAPSHOT-l.png" group-title="ENTERTAINMENT", Celestial Movie
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/849/437849-SNAPSHOT-l.png" group-title="MOVIES & SERIES", Celestial Movie
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CCMC.png" group-title="ENTERTAINMENT",CCM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CCMC.png" group-title="MOVIES & SERIES",CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="ENTERTAINMENT", Thrill
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="MOVIES & SERIES", Thrill
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/164/438164-SNAPSHOT-l.png" group-title="ENTERTAINMENT", KIX
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/164/438164-SNAPSHOT-l.png" group-title="MOVIES & SERIES", KIX
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
-#EXTINF:-1 tvg-id="Cbeebies" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="ENTERTAINMENT", Cbeebies
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="ENTERTAINMENT", Rock Action
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="MOVIES & SERIES", Rock Action
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gqCgagp.jpeg" group-title="ENTERTAINMENT",ROCK ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqCgagp.jpeg" group-title="MOVIES & SERIES",ROCK ENTERTAINMENT
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="ENTERTAINMENT", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="MOVIES & SERIES", STUDIO UNIVERSAL
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="ENTERTAINMENT", ANIMAX
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="ENTERTAINMENT",ONE
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="MOVIES & SERIES",ONE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/GALAXY.png" group-title="ENTERTAINMENT",GALAXY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/GALAXY.png" group-title="MOVIES & SERIES",GALAXY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="ENTERTAINMENT", GALAXY PREMIUM
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="MOVIES & SERIES", GALAXY PREMIUM
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="ENTERTAINMENT", ZOO MOO
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
-#EXTINF:-1 tvg-id="USBC2400019EF" tvg-name="" tvg-logo="https://i.ibb.co/Kh5Mwfd/zoomoo.png" group-title="ENTERTAINMENT", ZOO MOO 1
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="ENTERTAINMENT",ORIGINAL
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="MOVIES & SERIES",ORIGINAL
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="ENTERTAINMENT", OUTDOOR
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="ENTERTAINMENT", MOONBUG
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000162/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="ENTERTAINMENT", DREAM CHANNEL
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qrhGpfd/pbskids.png" group-title="ENTERTAINMENT", PBS KIDS
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-id="--" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Kplus
+#EXTINF:-1 tvg-id="--" group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Kplus
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd 
-#EXTINF:-1 tvg-id="--" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", AXN
+#EXTINF:-1 tvg-id="--" group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", AXN
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/3f/3b/733f3b353376675a9b85650d0b3973db.jpg" group-title="ENTERTAINMENT",HOOLY TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/3f/3b/733f3b353376675a9b85650d0b3973db.jpg" group-title="MOVIES & SERIES",HOOLY TV
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Mentari TV.id" tvg-name="Mentari TV.id" tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="KIDS FUN", Mentari TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000152/1024.m3u8
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="KIDS FUN",Rajawali TV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="KIDS FUN",Rajawali TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mykidz.png?raw=true" group-title="KIDS FUN",My Kidz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="KIDS FUN", ANIMAX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
+#EXTINF:-1 tvg-id="Cbeebies" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="KIDS FUN", Cbeebies
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="KIDS FUN", ZOO MOO
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
+#EXTINF:-1 tvg-id="USBC2400019EF" tvg-name="" tvg-logo="https://i.ibb.co/Kh5Mwfd/zoomoo.png" group-title="KIDS FUN", ZOO MOO 1
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="KIDS FUN", MOONBUG
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000162/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="KIDS FUN", DREAM CHANNEL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qrhGpfd/pbskids.png" group-title="KIDS FUN", PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
