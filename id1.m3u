@@ -800,40 +800,47 @@ https://unbeaten-tcl.amagi.tv/playlist.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" ,S SPORT
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115206
+#EXTINF:-1 tvg-name="A SPOR" group-title="WORLD SPORTS",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="|ID| ASIAN FOOD NETWORK" tvg-logo="" group-title="ENTERTAINMENT",ASIAN FOOD NETWORK
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/animalplanet.png" group-title="DOCUMENTARY",Animal Planet
+https://edge2.roarzone.info:8444/roarzone/toffee/animal_planet_hd/index.m3u8?token=8d2143066010b25fac2654e2adb3e399bd9c0c34-f64d47557b8dae93313ae1a36d20dc87-1770112457-1770108857
+#EXTINF:-1 tvg-ID="" tvg-name="|ID| ASIAN FOOD NETWORK" tvg-logo="" group-title="DOCUMENTARY",ASIAN FOOD NETWORK
 http://sans7.org:88/02021349372647/7416812501/694309
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png" group-title="ENTERTAINMENT",BBC Earth
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png" group-title="DOCUMENTARY",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
-#EXTINF:-1 tvg-id="TravelXP4k.mv" tvg-name="Travel XP" tvg-logo="https://8upload.com/image/6857bb65966ba/travelxphilay.png" group-title="ENTERTAINMENT",Travel XP
+#EXTINF:-1 tvg-id="TravelXP4k.mv" tvg-name="Travel XP" tvg-logo="https://8upload.com/image/6857bb65966ba/travelxphilay.png" group-title="DOCUMENTARY",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC.mx"  tvg-logo="https://mimipipi22.github.io/logo/png/natgeo.png" group-title="ENTERTAINMENT", NAT GEO 🇺🇸
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC.mx"  tvg-logo="https://mimipipi22.github.io/logo/png/natgeo.png" group-title="DOCUMENTARY", NAT GEO 🇺🇸
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Nat Geo WILD
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Nat Geo WILD
 http://supersonictv.live:8080/611366/682256/22122
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",National Geographic East
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",National Geographic East
 http://supersonictv.live:8080/611366/682256/22123
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",National Geographic West
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",National Geographic West
 http://supersonictv.live:8080/611366/682256/22124
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Discovery Channel
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Discovery Channel
 http://supersonictv.live:8080/611366/682256/22074
-#EXTINF:-1 tvg-name="Discovery Life Channel HD" tvg-id="discovery-life-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" group-title="ENTERTAINMENT",Discovery Life
+#EXTINF:-1 tvg-name="Discovery Life Channel HD" tvg-id="discovery-life-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" group-title="DOCUMENTARY",Discovery Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Smithsonian Channel
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Smithsonian Channel
 http://supersonictv.live:8080/611366/682256/22148
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Animal Planet East
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Animal Planet East
 http://supersonictv.live:8080/611366/682256/22045
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Animal Planet West
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Animal Planet West
 http://supersonictv.live:8080/611366/682256/22046
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Outdoor Channel
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Outdoor Channel
 http://supersonictv.live:8080/611366/682256/22131
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="ENTERTAINMENT", OUTDOOR
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="DOCUMENTARY", OUTDOOR
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
-
+#EXTINF:-1 tvg-id="7a0871d0-1a45-430c-b513-3bba8a9cf820" tvg-logo="https://s3.aynaott.com/storage/6ccc7357c3d8d35770732126dd819596" group-title="DOCUMENTARY",Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1 tvg-id="6db89c8a-a26b-47fe-8643-6f2abd219ab4" tvg-logo="https://s3.aynaott.com/storage/13c04e44967d653c70eac9670b47fa5d" group-title="DOCUMENTARY",Adventure Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="|ID| BIOSKOP INDONESIA" tvg-logo="" group-title="MOVIES & SERIES",BIOSKOP INDONESIA
@@ -895,7 +902,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/3f/3b/733f3b353376675a9b85650d0b3973db.jpg" group-title="MOVIES & SERIES",HOOLY TV
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-chno="75" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title=""MOVIES & SERIES",Hallmark Channel
+http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
 
 
@@ -906,8 +914,10 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="KIDS FUN",RTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="KIDS FUN", RTV 2 (DE)
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="KIDS FUN", RTV 2
 https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="KIDS FUN",DISNEY
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mykidz.png?raw=true" group-title="KIDS FUN",My Kidz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
