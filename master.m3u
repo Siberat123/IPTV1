@@ -285,6 +285,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:0 group-title="INDO NEWS", CNBC INDONESIA 2
 #EXTVLCOPT:network-caching=1000
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2018496991_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnbcindonesia.png?raw=true" group-title="INDO NEWS",CNBC INDONESIA 3
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnnindonesia.png?raw=true" group-title="INDO NEWS",CNN INDONESIA 1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w80388450_b384000_sleng.m3u8
 #EXTINF:0 group-title="INDO NEWS",CNN INDONESIA 2  
@@ -500,7 +502,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22008.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oikIPP5.jpg" group-title="WORLD SPORTS",ESPN 4
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="WORLD SPORTS",ESPN 5
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22012.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="WORLD SPORTS",ESPN 6
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VaUUODO.jpg" group-title="WORLD SPORTS",ESPN NETWORK
@@ -741,6 +743,8 @@ https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 https://jmp2.uk/rok-6d8659091f745b8b864f438f06c56fae.m3u8
 #EXTINF:-1 channel-id="b4273871759a5631bd536d2214f175e5" tvg-id="b4273871759a5631bd536d2214f175e5" tvg-chno="246" tvg-name="Fubo Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b4273871759a5631bd536d2214f175e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761774127737_Roku-FSN-Logo-efefef.png" group-title="WORLD SPORTS",Fubo Sports Network
 https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCOzchAkDiIxwY9tbX-GXVS5UFx_lCeUeFTJ3_9iYG04syYmryQRY7XnhjXqEPIYF0rldOjyOJ3yBQgDkuRdjU3TtiFS8W_DyyvlkQHQ6pQvCTlLeRyBj2x5iVXZpywuiD2y5H7DeCiVdsgwSCUn_OWULmgMuK9-jp69aEYwxSTSsAWZczvcMcgg-epIkB/s700/CAZE%20TV.png" group-title="WORLD SPORTS",CAZE TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 
 
