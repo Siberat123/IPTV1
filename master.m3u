@@ -292,6 +292,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w80388450_b38400
 #EXTINF:0 group-title="INDO NEWS",CNN INDONESIA 2  
 #EXTVLCOPT:network-caching=1000
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mGbYVTp.png" group-title="INDO NEWS",CNN INDONESIA 3
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 
 
