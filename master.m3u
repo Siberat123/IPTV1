@@ -9,6 +9,10 @@
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="|ID| ANTV" tvg-logo="" group-title="INDO NASIONAL",ANTV 2
 http://sans7.org:88/02021349372647/7416812501/694308
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO NASIONAL",ANTV 3
+http://vipgpno.top:8080/VIP0166173590117097/11735901170761/34328
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO NASIONAL",ANTV 4
+https://cdnjktbpidfrmjkt4.transvision.co.id/live/chunk/2c9f9082998232e0019b35e7220c5b63/eng/chunk-stream3-8003
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://www.visionplus.id/images/repository/446/353446-SNAPSHOT-l.png" group-title="INDO NASIONAL", MNCTV 1
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 #EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="INDO NASIONAL",MNCTV 2
@@ -36,8 +40,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 http://103.179.182.117:6768/hls/56/56.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indosiar.png?raw=true" group-title="INDO NASIONAL", INDOSIAR 4
 https://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/edhyku/edycmfa/refs/heads/main/PlaylistOTT/Logo%20Super%20League.png" group-title="INDO NASIONAL",INDOSIAR 5 (BOLA)
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="INDO NASIONAL",MDTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
@@ -283,13 +285,27 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO NEWS",JAWA POS TV
 http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="INDO NEWS",CNN INDO
+#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="INDO NEWS",CNN INDO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/cnbcid.jpg?raw=true" group-title="INDO NEWS",CNBC INDO
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|ID| CNN INDONESIA" tvg-logo="" group-title="INDO NEWS",CNN INDO 2
+http://sans7.org:88/02021349372647/7416812501/694324
+#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://i.pinimg.com/236x/b8/85/70/b88570a5c0096be41378e9db0b850133.jpg" group-title="INDO NEWS",CNN INDO 3 
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|ID| CNBC INDONESIA" tvg-logo="" group-title="INDO NEWS",CNBC INDO 1
+http://sans7.org:88/02021349372647/7416812501/694323
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkYJ6pIswJ939aAjKZ0VERVaLGs0YD4q41g&s" group-title="INDO NEWS", CNBC INDO 2
+#EXTVLCOPT:http-origin=https://www.cnbcindonesia.com
+#EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkYJ6pIswJ939aAjKZ0VERVaLGs0YD4q41g&s" group-title="INDO NEWS", CNBC INDO 3
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1655917575_b384000_sleng.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="INDO NEWS",DETIK TV
+https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2026/02/07/717787cd70dc444fa99480495076ca41.smil/media_w2131979301_b1496496_13.ts
+#EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://i.pinimg.com/236x/e8/4f/d2/e84fd21cc11a24c57aa4f72d8e1936ef.jpg" group-title="INDO NEWS",CNBC INDO 4
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="WORLD NEWS",CNN
@@ -462,6 +478,21 @@ https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports3turke
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="BEIN SPORTS",BEIN SPORTS 3+ Tr
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="BEIN SPORTS",BEIN SPORT MAX 4 Es
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/376
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="BEIN SPORTS",BEIN SPORT MAX 5 Es
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/377
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="BEIN SPORTS",BEIN SPORT MAX 6 Es
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/378
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="BEIN SPORTS",BEIN SPORT MAX 7 Es
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/379
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="BEIN SPORTS",BEIN SPORT MAX 8 Es
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/380
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="BEIN SPORTS",BEIN SPORT MAX 9 Es
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/381
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="BEIN SPORTS",BEIN SPORT MAX 10 Es
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/382
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFK26ym.jpg" group-title="BEIN SPORTS",BEIN SPORTS XTRA n
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -491,8 +522,6 @@ https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playl
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291880-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=38bc0031-c914-4d68-b55f-12d8ef870e44
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="WORLD SPORTS",CBS SPORTS 2
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="WORLD SPORTS",CBS CHAMPIONS SPORTS
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65ea8b928145cb0008509426/master.m3u8?
 #EXTINF:-1 tvg-id="PersianaSports.fr@SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png" group-title="WORLD SPORTS",PERSIANA SPORTS 1
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-id="PersianaSports2.fr@HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png" group-title="WORLD SPORTS",PERSIANA SPORTS 2
@@ -569,6 +598,18 @@ http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641616
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641615
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="WORLD SPORTS",ALWAN WWE
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641617
+#EXTINF:-1 group-title="WORLD SPORTS",ZIGGO SPORT
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128986
+#EXTINF:-1 group-title="WORLD SPORTS",ZIGGO SPORT 2
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128987
+#EXTINF:-1 group-title="WORLD SPORTS",ZIGGO SPORT 3
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128988
+#EXTINF:-1 group-title="WORLD SPORTS",ZIGGO SPORT 4
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128994
+#EXTINF:-1 group-title="WORLD SPORTS",ZIGGO SPORT 5
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128995
+#EXTINF:-1 group-title="WORLD SPORTS",ZIGGO SPORT 6
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128996
 #EXTINF:-1 tvg-id="465504" tvg-logo="https://i.imghippo.com/files/PKYK9834nDw.png" group-title="WORLD SPORTS", SPORTV 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
 #EXTINF:-1 tvg-id="465418" tvg-logo="https://i.imghippo.com/files/bnHW6108tBk.jpg" group-title="WORLD SPORTS", SPORTV 2
@@ -689,6 +730,10 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS",FENERBAHCE TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b1696000_sltur.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/barca-tv-es.png" group-title="WORLD SPORTS",BARCA TV
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/721
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/BETISTV.png" group-title="WORLD SPORTS",BETIS TV
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/83026
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tg4SkbW.jpg" group-title="WORLD SPORTS",PORTO CANAL
 http://supersonictv.live:8080/006779/439866/7681
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wadooke/olahraga/refs/heads/main/png" group-title="WORLD SPORTS", FOX SPORT 1
@@ -773,8 +818,14 @@ https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/ts-us-w2-n1/playlist
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS",DD SPORT
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_6.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="WORLD SPORTS",EUROSPORT 1
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/281
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" group-title="WORLD SPORTS",EUROSPORT 2
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/282
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png" group-title="WORLD SPORTS",CANAL+ SPORT
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/371
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png" group-title="WORLD SPORTS",CANAL+ SPORT 360
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/370
 
 
 
@@ -996,6 +1047,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="KIDS FUN", RTV 2
 https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="KIDS FUN",RTV 3
+http://cdn.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="KIDS FUN",DISNEY
 https://fl1.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="KIDS FUN",Disney Channel
