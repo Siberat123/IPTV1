@@ -4,51 +4,38 @@
 # © 2025 Index IPTV - All Rights Reserved
 
 
-
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://www.visionplus.id/images/repository/171/438171-SNAPSHOT-l.png" group-title="INDO NASIONAL",ANTV  1
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="|ID| ANTV" tvg-logo="" group-title="INDO NASIONAL",ANTV 2
-http://sans7.org:88/02021349372647/7416812501/694308
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO NASIONAL",ANTV 3
-http://vipgpno.top:8080/VIP0166173590117097/11735901170761/34328
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO NASIONAL",ANTV 4
-https://cdnjktbpidfrmjkt4.transvision.co.id/live/chunk/2c9f9082998232e0019b35e7220c5b63/eng/chunk-stream3-8003
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://www.visionplus.id/images/repository/446/353446-SNAPSHOT-l.png" group-title="INDO NASIONAL", MNCTV 1
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
-#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="INDO NASIONAL",MNCTV 2
-https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/447/353447-SNAPSHOT-l.png" group-title="INDO NASIONAL", GTV 1
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV 2
-https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.visionplus.id/images/repository/176/438176-SNAPSHOT-l.png" group-title="INDO NASIONAL",TRANS 7 1
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
-#EXTINF:-1 tvg-id="Trans7.id@SD" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="INDO NASIONAL",TRANS 7 2
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rGrevBC.jpeg" group-title="INDO NASIONAL",TRANS 7 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.visionplus.id/images/repository/175/438175-SNAPSHOT-l.png" group-title="INDO NASIONAL",TRANS TV 1
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
-#EXTINF:-1 tvg-id="TransTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV 2
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR 1
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-id="--" group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_Indosiar_2015.svg/800px-Logo_Indosiar_2015.svg.png", INDOSIAR 2
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indosiar.png?raw=true" group-title="INDO NASIONAL", INDOSIAR 3
-http://103.179.182.117:6768/hls/56/56.m3u8
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indosiar.png?raw=true" group-title="INDO NASIONAL", INDOSIAR 4
 https://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
+#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="INDO NASIONAL",MNCTV
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV 1
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV 2
+http://vipneeene.top:8080/live/VIP01155171629672980/bf7314c8358b/34331.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rGrevBC.jpeg" group-title="INDO NASIONAL",TRANS 7 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="INDO NASIONAL",TRANS 7 2
+http://vipneeene.top:8080/live/VIP01155171629672980/bf7314c8358b/34325.ts
+#EXTINF:-1 group-title="INDO NASIONAL",TRANS TV 1
+http://vipneeene.top:8080/live/VIP01155171629672980/bf7314c8358b/34324.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="INDO NASIONAL", TRANS TV 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://20.detik.com/"
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/transtv.png?raw=true" group-title="INDO NASIONAL",Trans TV 3
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="INDO NASIONAL",MDTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="INDO NASIONAL",MDTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="INDO NASIONAL", RCTI 1
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="INDO NASIONAL",RCTI 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="INDO NASIONAL",RCTI
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDO NASIONAL",SCTV 1 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -237,29 +224,20 @@ https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="INDO NEWS",KOMPAS TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/310/692/png-transparent-kompas-tv-television-indonesia-news-kompas-television-angle-text-thumbnail.png" group-title="INDO NEWS",KOMPAS TV 3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
-https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mediampd/KOMPASTVHD.mpd
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvone.png?raw=true" group-title="INDO NEWS",TVONE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1920px-TvOne_2023.svg.png", TVONE 2
 https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7t2mbspy/TVONE.png" group-title="INDO NEWS",TVONE 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="INDO NEWS",METRO TV 1
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" group-title="INDO NEWS",METRO TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="INDO NEWS", INEWS 1
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
-#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://www.visionplus.id/images/repository/375/437375-SNAPSHOT-l.png", INEWS 2
+#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://www.visionplus.id/images/repository/375/437375-SNAPSHOT-l.png", INEWS 1
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PRrzyHd.png" group-title="INDO NEWS",INEWS 2
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDO NEWS",GARUDA TV 1
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/2560px-Logo_GarudaTV_Primer_Flat_2025.svg.png" group-title="INDO NEWS",GARUDA TV 2
@@ -269,18 +247,16 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", NUSANTARA TV 2
 https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="INDO NEWS", IDX
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/312/895/png-clipart-beritasatu-com-logo-beritasatu-media-holdings-news-kids-reading-quraan-television-text.png" group-title="INDO NEWS",BERITA SATU 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BeritaSatu.m3u8
-#EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/idtv.png?raw=true" group-title="INDO NEWS",BERITA SATU 2
+#EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/idtv.png?raw=true" group-title="INDO NEWS",BERITA SATU 1
 https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
-#EXTINF:-1 tvg-id="SindoNews.id" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", SINDONEWS TV 1
+#EXTINF:-1 tvg-id="Berita Satu.id" tvg-name="Berita Satu.id" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="INDO NEWS", BERITA SATU 2
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a1/fe/9b/a1fe9bd646cdcb8fb42b012fa8169301.jpg" group-title="INDO NEWS"",BERITA SATU 3
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
+#EXTINF:-1 tvg-id="SindoNews.id" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", SINDONEWS
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
-#EXTINF:-1 tvg-id="SindoNews.id" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", SINDONEWS TV 2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6BYfiq2PIJR7wSvY-Dl_0DRHAYBZxepdWnvSgUxm7g&s=10" group-title="INDO NEWS", TRIBUN NEWS
 https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO NEWS",JAWA POS TV
@@ -291,8 +267,6 @@ http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8?checked
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="|ID| CNN INDONESIA" tvg-logo="" group-title="INDO NEWS",CNN INDO 2
 http://sans7.org:88/02021349372647/7416812501/694324
-#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://i.pinimg.com/236x/b8/85/70/b88570a5c0096be41378e9db0b850133.jpg" group-title="INDO NEWS",CNN INDO 3 
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="|ID| CNBC INDONESIA" tvg-logo="" group-title="INDO NEWS",CNBC INDO 1
 http://sans7.org:88/02021349372647/7416812501/694323
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkYJ6pIswJ939aAjKZ0VERVaLGs0YD4q41g&s" group-title="INDO NEWS", CNBC INDO 2
@@ -300,12 +274,6 @@ http://sans7.org:88/02021349372647/7416812501/694323
 #EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkYJ6pIswJ939aAjKZ0VERVaLGs0YD4q41g&s" group-title="INDO NEWS", CNBC INDO 3
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1655917575_b384000_sleng.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="INDO NEWS",DETIK TV
-https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2026/02/07/717787cd70dc444fa99480495076ca41.smil/media_w2131979301_b1496496_13.ts
-#EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://i.pinimg.com/236x/e8/4f/d2/e84fd21cc11a24c57aa4f72d8e1936ef.jpg" group-title="INDO NEWS",CNBC INDO 4
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="WORLD NEWS",CNN
