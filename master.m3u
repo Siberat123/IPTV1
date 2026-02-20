@@ -10,6 +10,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indosiar.png?raw=true" group-title="INDO NASIONAL", INDOSIAR 3
 https://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
+#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 #EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="INDO NASIONAL",MNCTV
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV 1
@@ -37,6 +39,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="INDO NASIONAL",RCTI
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+#EXTINF:-1 tvg-ID="" tvg-name="|ID| ANTV" tvg-logo="" group-title="INDO NASIONAL",ANTV
+http://sans7.org:88/02021349372647/7416812501/694308
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDO NASIONAL",SCTV 1 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-id="--" group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png", SCTV 2
@@ -86,6 +90,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 #EXTINF:0 tvg-id="outdoor" group-title="INDO LOKAL",DENS FOOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/OUPGCWG.png" group-title="Music",Music Information Channel (720p)
+https://mic.siar.us/mic/live/mic.m3u8
 #EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg",MAGNA CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
@@ -290,13 +296,9 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 group-title="WORLD NEWS",ABC NEWS 2
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_1.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS",ABC NEWS AUSTRALIA
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg" group-title="WORLD NEWS",NBC NEWS
 https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",NBC NEWS NOW
-https://d1bl6tskrpq9ze.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_lgchannels-cdp-springserve/bf3fc12e-cc9f-4052-80a8-b7d50eca628d/3.m3u8?ads.xumo_channelId=99984003
-#EXTINF:0 tvg-country="AF;AU;ID" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="WORLD NEWS",BBC NEWS ASIA PACIFIC
+#EXTINF:0 tvg-country="AF;AU;ID" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="WORLD NEWS",BBC NEWS ASIA
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="WORLD NEWS",BBC NEWS EUROPE
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
@@ -306,12 +308,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
 #EXTINF:-1 channel-id="8db0f9f4abf6542ba95f97a545f98513" tvg-id="8db0f9f4abf6542ba95f97a545f98513" tvg-chno="142" tvg-name="CBC News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8db0f9f4abf6542ba95f97a545f98513/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731443569102_CBC-News-hosts_infohud-centered.png" group-title="WORLD NEWS",CBC NEWS
 https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8
-#EXTINF:-1 tvg-id="CNBCWorld.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CNBC_World_2025.svg/512px-CNBC_World_2025.svg.png" group-title="WORLD NEWS",CNBC WORLD
-https://fl1.moveonjoy.com/CNBC_World/index.m3u8
 #EXTINF:-1 channel-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-chno="120" tvg-name="LiveNOW from FOX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f9c0d48b540a55dcb98b04d2cc8abf25/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442636429_1688568583363_177281_LiveNow-Monochromatic_Banner_Logo_260x147_001.png" group-title="WORLD NEWS",LiveNOW FROM FOX NEWS
 https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", FOX NEWS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
 #EXTINF:-1 channel-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-chno="141" tvg-name="Euronews World" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dafd06b712a35fbe9935d4c04c2e8b53/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678135959373_euronews_english_260x147.png" group-title="WORLD NEWS",EURONEWS WORLD
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="WORLD NEWS",EURONEWS ENGLISH 1
@@ -322,19 +320,11 @@ https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD NEWS",CCTV+
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", FRANCE 24
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
-#EXTINF:-1 tvg-id="Sea Go" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS",BLOOMBERG ASIA
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cqd-JrliSDG0kvFFKk8IDV7UBJDgP9KDjg&s", ARIRANG TV
 #EXTVLCOPT:http-origin=https://tv.garden
 #EXTVLCOPT:http-referrer=https://tv.garden/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", NHK WORD
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS", CNA
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
 #EXTINF:-1 group-title="WORLD NEWS",CNA ORIGINAL
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="WORLD NEWS",CGTN 1
@@ -345,9 +335,7 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master720p.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="WORLD NEWS",RT NEWS 2
 https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="WORLD NEWS",DW NEWS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
-#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="WORLD NEWS",DW NEWS 1
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="WORLD NEWS",DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us@USA" tvg-logo="https://i.imgur.com/26uv1ww.png" group-title="WORLD NEWS",NTD TV
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
@@ -357,18 +345,12 @@ https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="WORLD NEWS",SCRIPPS NEWS
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist_4.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",AFRICANEWS
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/b94d4bd3-8f2e-4f2a-b74f-a2678e8881ac/5.m3u8?ads.vf=OXCCriJ8fFq
 #EXTINF:-1 group-title="WORLD NEWS",BEKTV NEWS
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chunklist_b3596000_slENG.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",BLACK NEWS CHANNEL
-https://blacknewschannel-xumo-us.amagi.tv/720p-cc/index.m3u8
 #EXTINF:-1 group-title="WORLD NEWS",CHEDDAR NEWS
 https://aegis-cloudfront-1.tubi.video/27ff1997-507a-41c4-8433-08875fe5f40f/primary/3.m3u8
 #EXTINF:-1 group-title="WORLD NEWS",CITYNEWS CALGARY
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-3MBPS.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",FREESPEECH TV
-https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/04.m3u8
 #EXTINF:-1 group-title="WORLD NEWS",NEWS 12
 https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/3.m3u8
 #EXTINF:-1 group-title="WORLD NEWS",SKY NEWS EXTRA
@@ -379,12 +361,6 @@ https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/chunklist_w983889417.m3u
 https://aegis-cloudfront-1.tubi.video/cb7f305d-049a-4feb-bc6e-028c43ad3c3e/master_4.m3u8
 #EXTINF:-1 group-title="WORLD NEWS",TVP WORLD
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",UN WEB TV
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_gb6tjmle/tl/main/st/0/t/H4tcL3wAr3d1RwgMHpoF8A/index-s32.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2diNnRqbWxlL3RsL21haW4vc3QvMC90L0g0dGNMM3dBcjNkMVJ3Z01IcG9GOEEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MDg4Njg5MH19fV19&Signature=lxgjS5XOXc0ddI2AjRmr6DuxrLUTXhy6FC8xYLYrWurXrIdGAzSMtE~TPU3jiH6CQdqzv1xE2vsKrzZCC3kJdO8KoMOAb6RO0divKqtKhYLsrqGb5LXFRgp3dExdZnvCB4pGBwwWAEiw41qYz164aO0W1Zqy9RI1Ys4x1LsY~s6ON-HS2TGdw9F3xScwo3P1Do4BimgyzZwgEk05QYNYYd0xNWtCdEuicFE-SO0okevfCFGz78L7FI4PZGziiXPRkI7I5C-HDLWfq1HEwPVsETjasCPeKjqDRHVqwbac-ar8oXX0jh3F0UAfF1s-kCxq2ArAZCeZhqUAVg4hezYaVA__&Key-Pair-Id=K31ANTJBLNVBEC
-#EXTINF:-1 group-title="WORLD NEWS",NEWSNET
-https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/chunklist.m3u8
-
-
 
 
 
