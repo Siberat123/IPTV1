@@ -90,8 +90,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 #EXTINF:0 tvg-id="outdoor" group-title="INDO LOKAL",DENS FOOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/OUPGCWG.png" group-title="Music",Music Information Channel (720p)
-https://mic.siar.us/mic/live/mic.m3u8
 #EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg",MAGNA CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
@@ -631,10 +629,88 @@ http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:5
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="WORLD SPORTS",SKY SPORT FOOTBALL
 https://7pal.short.gy/ssportsfb
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="WORLD SPORTS",SKY SPORT 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/dae380f0d060df927365c85b20f3b2f0.png" group-title="WORLD SPORTS",SKY SPORT 1
+http://013tv.com:8080/F13836/35b68aca/307979
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="WORLD SPORTS",SKY SPORT 1+
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky1.m3u8
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="WORLD SPORTS",SKY SPORT 8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3610fcefa8e58c4d9c27af91c71a7996.png" group-title="WORLD SPORTS",SKY SPORT 1 AUSTRIA
+http://013tv.com:8080/F13836/35b68aca/2130
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-10/8786dbe736e2fb808c0836d69f157250.png" group-title="WORLD SPORTS",SKY SPORT 1 AUSTRIA (VIP)
+http://013tv.com:8080/F13836/35b68aca/308105
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/f9dcc00968bab49b9a4dada86dfae8ac.png" group-title="WORLD SPORTS",SKY SPORT 2
+http://013tv.com:8080/F13836/35b68aca/307980
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/e0a22f15f02f61ad3addb8a6553b5dc1.png" group-title="WORLD SPORTS",SKY SPORT 3
+http://013tv.com:8080/F13836/35b68aca/307981
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/6adf0e054eb43785159b3e764ede6115.png" group-title="WORLD SPORTS",SKY SPORT 4
+http://013tv.com:8080/F13836/35b68aca/307982
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/defd8ac20c0c198ec2a3d1cea7015ac1.png" group-title="WORLD SPORTS",SKY SPORT 5
+http://013tv.com:8080/F13836/35b68aca/307983
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/9a79baaf68455a25ac9a444036a64745.png" group-title="WORLD SPORTS",SKY SPORT 6
+http://013tv.com:8080/F13836/35b68aca/307984
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/4e8019a9ed13a0be12fb823575c9d149.png" group-title="WORLD SPORTS",SKY SPORT 7
+http://013tv.com:8080/F13836/35b68aca/307985
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/477f2e213e97c0b4f9ce144ea01d5cda.png" group-title="WORLD SPORTS",SKY SPORT 8
+http://013tv.com:8080/F13836/35b68aca/307986
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="WORLD SPORTS",SKY SPORT 8+
 https://7pal.short.gy/skyspt8nz
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="WORLD SPORTS",SKY SPORT 9
+http://013tv.com:8080/F13836/35b68aca/307987
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3e22bab3e6cc787ceb5445d6c4fad694.png" group-title="WORLD SPORTS",ARENA SPORT 1
+http://013tv.com:8080/F13836/35b68aca/3601
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/8540b09c6c9b9e4fe035d27166426736.png" group-title="WORLD SPORTS",ARENA SPORT 2
+http://013tv.com:8080/F13836/35b68aca/3603
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/37f61d2b06d6d3ae0fd3d72f35ee378f.png" group-title="WORLD SPORTS",ARENA SPORT 3
+http://013tv.com:8080/F13836/35b68aca/3605
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ef9d0183b1ffd0b974331dcfe61fc406.png" group-title="WORLD SPORTS",ARENA SPORT 4
+http://013tv.com:8080/F13836/35b68aca/3607
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/c0c30bf1d801dfbe422d0f51a31304e0.png" group-title="WORLD SPORTS",ARENA SPORT 5
+http://013tv.com:8080/F13836/35b68aca/3608
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/39ce59ded26a6843304e3ca4404c597f.png" group-title="WORLD SPORTS",ARENA SPORT 6
+http://013tv.com:8080/F13836/35b68aca/10961
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/429269e424f48936c578adbffef473f6.png" group-title="WORLD SPORTS",ARENA SPORT 6+
+http://013tv.com:8080/F13836/35b68aca/145720
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-09/f1d578a11b2488c7507cbc93bd6db1f0.png" group-title="WORLD SPORTS",ARENA SPORT 7
+http://013tv.com:8080/F13836/35b68aca/304572
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/6339533e807ff0eab61698dfd1395192.png" group-title="WORLD SPORTS",ARENA SPORT 8
+http://013tv.com:8080/F13836/35b68aca/306058
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/ad45511ffbc847c4a97d0b1a4d5643b0.png" group-title="WORLD SPORTS",ARENA SPORT 9
+http://013tv.com:8080/F13836/35b68aca/304573
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/8d9ca9457428f300218cbaececaa3c67.jpg" group-title="WORLD SPORTS",ARENA SPORT 10
+http://013tv.com:8080/F13836/35b68aca/286740
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/67da0ff1699bec193a3d4264c0fdb302.png" group-title="WORLD SPORTS",MAX SPORT 1
+http://013tv.com:8080/F13836/35b68aca/299605
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="WORLD SPORTS",MAX SPORT 2
+http://013tv.com:8080/F13836/35b68aca/302271
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/5a85ec354802e6b85738a13c83d8fb3f.png" group-title="WORLD SPORTS",SPORT KLUB 1
+http://013tv.com:8080/F13836/35b68aca/3473
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/f03f8c517a5e79b9e8e927180496370d.png" group-title="WORLD SPORTS",SPORT KLUB 2
+http://013tv.com:8080/F13836/35b68aca/279841
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/3ee32511f85cad4408168d2700fb53d7.png" group-title="WORLD SPORTS",SPORT KLUB 3
+http://013tv.com:8080/F13836/35b68aca/279840
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/6dced90dd3378bb441466083f850e29b.jpg" group-title="WORLD SPORTS",SPORT KLUB 4
+http://013tv.com:8080/F13836/35b68aca/279839
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/753a33149eb926e7492903efb13367f5.jpg" group-title="WORLD SPORTS",SPORT KLUB 5
+http://013tv.com:8080/F13836/35b68aca/26662
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="WORLD SPORTS",SPORT KLUB 6
+http://013tv.com:8080/F13836/35b68aca/38987
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="WORLD SPORTS",SPORT KLUB 8
+http://013tv.com:8080/F13836/35b68aca/151911
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="WORLD SPORTS",SPORT KLUB 9
+http://013tv.com:8080/F13836/35b68aca/305952
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="WORLD SPORTS",SPORT KLUB 10
+http://013tv.com:8080/F13836/35b68aca/305955
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bc89e1ef81ba352752194ae6d02d3af5.png" group-title="WORLD SPORTS",SPORT KLUB FIGHT
+http://013tv.com:8080/F13836/35b68aca/67741
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="WORLD SPORTS",ADRIATIC SPORT 1
+http://013tv.com:8080/F13836/35b68aca/307588
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="WORLD SPORTS",ADRIATIC SPORT 2
+http://013tv.com:8080/F13836/35b68aca/307589
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="WORLD SPORTS",ADRIATIC SPORT 3
+http://013tv.com:8080/F13836/35b68aca/307590
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3902b1a334082146f28bbd26c2272a85.png" group-title="WORLD SPORTS",SPORTDIGITAL FSBL
+http://013tv.com:8080/F13836/35b68aca/3509
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="WORLD SPORTS",SPORTDIGITAL FSBL (VIP)
+http://013tv.com:8080/F13836/35b68aca/308125
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="WORLD SPORTS",ASTRO PREMIERE LEAGUE
 https://github.com/cattviptv2605/m3u8-world-/raw/main/astropremierleague.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pdX3T4f/bhsports1.png" group-title="WORLD SPORTS",BAHRAIN SPORTS 1
@@ -680,10 +756,24 @@ http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/721
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/83026
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tg4SkbW.jpg" group-title="WORLD SPORTS",PORTO CANAL
 http://supersonictv.live:8080/006779/439866/7681
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wadooke/olahraga/refs/heads/main/png" group-title="WORLD SPORTS", FOX SPORT 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wadooke/olahraga/refs/heads/main/png" group-title="WORLD SPORTS", FOX SPORTS 1
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/1846.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wadooke/olahraga/refs/heads/main/png" group-title="WORLD SPORTS", FOX SPORT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wadooke/olahraga/refs/heads/main/png" group-title="WORLD SPORTS", FOX SPORTS 2
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/1847.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="WORLD SPORTS",FOX SPORTS 501
+http://013tv.com:8080/F13836/35b68aca/279034
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="WORLD SPORTS",FOX SPORTS 502
+http://013tv.com:8080/F13836/35b68aca/81784
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="WORLD SPORTS",FOX SPORTS 503
+http://013tv.com:8080/F13836/35b68aca/280192
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="WORLD SPORTS",FOX SPORTS 504
+http://013tv.com:8080/F13836/35b68aca/280193
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="WORLD SPORTS",FOX SPORTS 505
+http://013tv.com:8080/F13836/35b68aca/144772
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title="WORLD SPORTS",FOX SPORTS 506
+http://013tv.com:8080/F13836/35b68aca/279033
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="WORLD SPORTS",FOX SPORTS 507
+http://013tv.com:8080/F13836/35b68aca/280194
 #EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="WORLD SPORTS",J SPORT 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="WORLD SPORTS",J SPORT 2
