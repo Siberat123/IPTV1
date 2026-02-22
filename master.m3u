@@ -3,6 +3,7 @@
 # Telegram: https://t.me/indexiptv
 # © 2025 Index IPTV - All Rights Reserved
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR 1
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-id="--" group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_Indosiar_2015.svg/800px-Logo_Indosiar_2015.svg.png", INDOSIAR 2
@@ -1610,3 +1611,4 @@ https://jmp2.uk/stvp-GBBC4300005AL
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us@East" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="KIDS FUN",Nick Jr. East
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+
