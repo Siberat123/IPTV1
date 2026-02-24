@@ -9,14 +9,26 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indosiar.png?raw=true" group-title="INDO NASIONAL", INDOSIAR 3
 https://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
-#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV
+#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV 1
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="INDO NASIONAL",MNCTV
+#EXTINF:-1 tvg-ID="" tvg-name="|ID| ANTV" tvg-logo="" group-title="INDO NASIONAL",ANTV 2
+http://sans7.org:88/02021349372647/7416812501/694308
+#EXTINF:-1 tvg-name="antv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="INDO NASIONAL",ANTV 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165072
+#EXTINF:-1 tvg-name="antv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="INDO NASIONAL",ANTV 4
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165072
+#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="INDO NASIONAL",MNCTV 1
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="INDO NASIONAL",1 MNCTV 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV 1
 https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV 2
 http://vipneeene.top:8080/live/VIP01155171629672980/bf7314c8358b/34331.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV 3
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="INDO NASIONAL",GTV 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rGrevBC.jpeg" group-title="INDO NASIONAL",TRANS 7 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
@@ -38,8 +50,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="INDO NASIONAL",RCTI
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
-#EXTINF:-1 tvg-ID="" tvg-name="|ID| ANTV" tvg-logo="" group-title="INDO NASIONAL",ANTV
-http://sans7.org:88/02021349372647/7416812501/694308
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDO NASIONAL",SCTV 1 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-id="--" group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png", SCTV 2
