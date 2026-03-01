@@ -67,8 +67,13 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="INDO NASIONAL",TVRI NASIONAL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
-#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="INDO NASIONAL",TVRI WORLD
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="" group-title="INDO NASIONAL",TVRI NASIONAL 3
+http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="INDO NASIONAL",TVRI WORLD 1
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="INDO NASIONAL",TVRI WORLD 2
+http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
+
 
 
 
@@ -287,6 +292,12 @@ http://sans7.org:88/02021349372647/7416812501/694323
 #EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/btv.png?raw=true" group-title="INDO NEWS",BTV
+https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8?app_type=web&userid=lite&chname=BTV
+#EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://dl.dropbox.com/s/2rp51aouwircr4f/images%20%281%29.jpeg", BN CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="WORLD NEWS",CNN
@@ -1856,17 +1867,23 @@ https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ziggosport3.m3u8
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ziggosport4.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Discovery Channel
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/DiscoveryChannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="DOCUMENTARY",Discovery Asia
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discoveryasia1.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="DOCUMENTARY",CGTN Documentary 1
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="DOCUMENTARY", CGTN Documentary 2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="|ID| ASIAN FOOD NETWORK" tvg-logo="" group-title="DOCUMENTARY",Asian Food Network
 http://sans7.org:88/02021349372647/7416812501/694309
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png" group-title="DOCUMENTARY",BBC Earth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0" group-title="DOCUMENTARY",BBC Earth
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/bbcearth.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg" group-title="DOCUMENTARY", BBC Lifestyle
+#EXTVLCOPT:http-referrer=https://github.com/
+http://flussictv.ddns.net:9091/BBC_Lifestyle/index.m3u8
 #EXTINF:-1 tvg-id="TravelXP4k.mv" tvg-name="Travel XP" tvg-logo="https://8upload.com/image/6857bb65966ba/travelxphilay.png" group-title="DOCUMENTARY",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC.mx"  tvg-logo="https://mimipipi22.github.io/logo/png/natgeo.png" group-title="DOCUMENTARY", Nat Geo
@@ -1897,6 +1914,9 @@ https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
 #EXTINF:-1 tvg-id="History.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="DOCUMENTARY",History 2
 https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="DOCUMENTARY", History 3
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/history.m3u8
 #EXTINF:-1 tvg-id="InWild.it@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Inwild.png" group-title="DOCUMENTARY",InWild
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="InWonder.nl@SD" tvg-logo="https://i.postimg.cc/xdgYN7Z5/inwonder.png" group-title="DOCUMENTARY",InWonder
@@ -1921,10 +1941,14 @@ https://fl1.moveonjoy.com/FYI/index.m3u8
 https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index.m3u8
 #EXTINF:-1 channel-id="479fe0d11f3f5132a3f36b617547da3b" tvg-id="479fe0d11f3f5132a3f36b617547da3b" tvg-chno="471" tvg-name="Love Nature English" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/479fe0d11f3f5132a3f36b617547da3b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1738776545554_LoveNature_logos_HUB_Centered.png" group-title="DOCUMENTARY",Love Nature
 https://jmp2.uk/rok-479fe0d11f3f5132a3f36b617547da3b.m3u8
-#EXTINF:-1 channel-id="f230a0c3f7ba5804b42d88f5d3c20002" tvg-id="f230a0c3f7ba5804b42d88f5d3c20002" tvg-chno="477" tvg-name="XPLORE" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f230a0c3f7ba5804b42d88f5d3c20002/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655156610060_XPLORE_logo_ROKU__hud-light_260x147.png" group-title="DOCUMENTARY",Xplore
+#EXTINF:-1 channel-id="f230a0c3f7ba5804b42d88f5d3c20002" tvg-id="f230a0c3f7ba5804b42d88f5d3c20002" tvg-chno="477" tvg-name="XPLORE" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f230a0c3f7ba5804b42d88f5d3c20002/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655156610060_XPLORE_logo_ROKU__hud-light_260x147.png" group-title="DOCUMENTARY",Xplore 1
 https://jmp2.uk/rok-f230a0c3f7ba5804b42d88f5d3c20002.m3u8
-#EXTINF:-1 channel-id="7b9a45d26315568a98a2b136972bde8d" tvg-id="7b9a45d26315568a98a2b136972bde8d" tvg-chno="478" tvg-name="WildEarth" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b9a45d26315568a98a2b136972bde8d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1666307358347_WildEarth_HUD_logo_260x147_Center_aligned.png" group-title="DOCUMENTARY",Wild Earth
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="DOCUMENTARY",Xplore 2
+https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 channel-id="7b9a45d26315568a98a2b136972bde8d" tvg-id="7b9a45d26315568a98a2b136972bde8d" tvg-chno="478" tvg-name="WildEarth" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b9a45d26315568a98a2b136972bde8d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1666307358347_WildEarth_HUD_logo_260x147_Center_aligned.png" group-title="DOCUMENTARY",Wild Earth 1
 https://jmp2.uk/rok-7b9a45d26315568a98a2b136972bde8d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="DOCUMENTARY",Wild Earth 2
+https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="aa16704e1ee052dea67cee1f79618754" tvg-id="aa16704e1ee052dea67cee1f79618754" tvg-chno="755" tvg-name="Alien Nation by DUST" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/aa16704e1ee052dea67cee1f79618754/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693585686439_AlienNation_HUD_260x147.png" group-title="DOCUMENTARY",Alien Nation
 https://jmp2.uk/rok-aa16704e1ee052dea67cee1f79618754.m3u8
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1517-LG-Logo-PNG-100x100_v1.png" group-title="DOCUMENTARY",Autentic Travel
