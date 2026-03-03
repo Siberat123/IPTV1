@@ -19,15 +19,13 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165072
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165072
 #EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="INDO NASIONAL",MNCTV 1
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="INDO NASIONAL",1 MNCTV 2
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="INDO NASIONAL",MNCTV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV 1
 https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV 2
 http://vipneeene.top:8080/live/VIP01155171629672980/bf7314c8358b/34331.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV 3
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="INDO NASIONAL",GTV 4
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="INDO NASIONAL",GTV 3
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rGrevBC.jpeg" group-title="INDO NASIONAL",TRANS 7 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -486,7 +484,14 @@ https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playl
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS 1",CBS SPORTS 1
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291880-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=38bc0031-c914-4d68-b55f-12d8ef870e44
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="WORLD SPORTS 1",CBS SPORTS 2
-https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="WORLD SPORTS 1",CBS Sports Network USA
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="WORLD SPORTS 1",CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+#EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr@SD" tvg-logo="https://i.imgur.com/2ZcUXbE.png" group-title="WORLD SPORTS 1",Radio Turrialba TV Sports
+https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="PersianaSports.fr@SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png" group-title="WORLD SPORTS 1",PERSIANA SPORTS 1
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-id="PersianaSports2.fr@HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png" group-title="WORLD SPORTS 1",PERSIANA SPORTS 2
@@ -1969,8 +1974,10 @@ https://a-cdn.klowdtv.com/live3/law_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="MOVIES & SHOWS",Mr. Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES & SHOWS",American Ninja Warrior
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES & SHOWS",American Ninja Warrior 1
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES & SHOWS",American Ninja Warrior 2
+https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="MOVIES & SHOWS",Just For Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="MOVIES & SHOWS",Deal or No Deal
