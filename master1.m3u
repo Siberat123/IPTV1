@@ -925,50 +925,75 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="WORLD SPORTS 2",HUB PREMIER 1
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="WORLD SPORTS 2",HUB PREMIER 1+
+https://7pal.short.gy/HPremier1
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="WORLD SPORTS 2",HUB PREMIER 2
 http://myxpanel.pro/live/randy1/randy1/288374.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png?w=272" group-title="WORLD SPORTS 2",HUB PREMIER 2+
+https://7pal.short.gy/HPremier2
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="WORLD SPORTS 2",HUB PREMIER 3
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148160
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" group-title="WORLD SPORTS 2",HUB PREMIER 3+
+https://7pal.short.gy/HPremier3
 #EXTINF:-1 tvg-logo="_https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="WORLD SPORTS 2",HUB PREMIER 4
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148161
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" group-title="WORLD SPORTS 2" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png?w=272",HUB PREMIER 4+
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314080&extension=ts&play_token=tlQaY2nd4P
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="WORLD SPORTS 2",HUB PREMIER 5
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148162
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="HUB PREMIER & HUB SPORTS",HUB PREMIER 7
+#EXTINF:-1 tvg-id="Hub.Premier.5.sg" group-title="WORLD SPORTS 2" tvg-logo="https://poster.starhubgo.com/Linear_channels2/225_1920x1080_HTV.png?w=272",HUB PREMIER 5+
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314081&extension=ts&play_token=oCrh7Xg3in
+#EXTINF:-1 tvg-id="Hub.Premier.6.sg" group-title="WORLD SPORTS 2" tvg-logo="https://poster.starhubgo.com/Linear_channels2/226_1920x1080_HTV.png?w=272",HUB PREMIER 6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314082&extension=ts&play_token=mbznWD9xYe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="WORLD SPORTS 2",HUB PREMIER 7
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148164
-
-
-#EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS 3",Bein Sports
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/BeinAsia1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fyogJWA.jpg" group-title="WORLD SPORTS 3",ESPN 1
+#EXTINF:-1 tvg-id="Hub.Premier.7.sg" group-title="WORLD SPORTS 2" tvg-logo="https://poster.starhubgo.com/Linear_channels2/227_1920x1080_HTV.png?w=272",HUB PREMIER 7+
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314083&extension=ts&play_token=CxgiuXGw0c
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="WORLD SPORTS 2" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",Hub Premier 8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&extension=ts&play_token=Suotild03T
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyogJWA.jpg" group-title="WORLD SPORTS 2",ESPN 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JofXHRI.jpg" group-title="WORLD SPORTS 3",ESPN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JofXHRI.jpg" group-title="WORLD SPORTS 2",ESPN 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ADc4YF5.jpg" group-title="WORLD SPORTS 3",ESPN 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ADc4YF5.jpg" group-title="WORLD SPORTS 2",ESPN 3
 http://46.151.196.223:14444/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oikIPP5.jpg" group-title="WORLD SPORTS 3",ESPN 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oikIPP5.jpg" group-title="WORLD SPORTS 2",ESPN 4
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="WORLD SPORTS 3",ESPN 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="WORLD SPORTS 2",ESPN 5
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="WORLD SPORTS 3",ESPN 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="WORLD SPORTS 2",ESPN 6
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
-
-
-#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="WORLD SPORTS 4", TSN 1
+#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="WORLD SPORTS 2", TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 https://7pal.short.gy/tsn1ca
-#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn2.png" group-title="WORLD SPORTS 4", TSN 2
+#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn2.png" group-title="WORLD SPORTS 2", TSN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 https://7pal.short.gy/tsn2ca
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pdX3T4f/bhsports1.png" group-title="WORLD SPORTS 4",BAHRAIN SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pdX3T4f/bhsports1.png" group-title="WORLD SPORTS 2",BAHRAIN SPORTS 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/K9QkP01/bhsports2.png" group-title="WORLD SPORTS 4",BAHRAIN SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/K9QkP01/bhsports2.png" group-title="WORLD SPORTS 2",BAHRAIN SPORTS 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS 4",SCTV 22
+#EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS 2",SCTV 22
 https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 501 FHD" tvg-id="FoxCricket.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/59gCbVd.png" group-title="WORLD SPORTS 4" radio="false",Fox Sports 501
+#EXTINF:-1 tvg-name="Fox Sports 501 FHD" tvg-id="FoxCricket.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/59gCbVd.png" group-title="WORLD SPORTS 2" radio="false",FOX SPORTS 501
 https://a1xs.vip/700001
-#EXTINF:-1 tvg-name="Fox Sports 502 FHD" tvg-id="FoxLeague.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/idKGREY.png" group-title="WORLD SPORTS 4" radio="false",Fox Sports 502
+#EXTINF:-1 tvg-name="Fox Sports 502 FHD" tvg-id="FoxLeague.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/idKGREY.png" group-title="WORLD SPORTS 2" radio="false",FOX SPORTS 502
 https://a1xs.vip/700002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/cctv5.png" group-title="WORLD SPORTS 2",CCTV5
+http://69.30.245.50/live/cctv5.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/cctv5%2B.png" group-title="WORLD SPORTS 2",CCTV5+
+http://69.30.246.194/live/cctv5p.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="WORLD SPORTS 4" tvg-logo="https://www.tvchinese.net/uploads/tv/fyzq.jpg",CCTV FOOTBALL
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="Champions.TV.1.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="WORLD SPORTS 2",CHAMPIONS TV 1
+http://202.169.224.202:8800/udp/239.9.1.9:1234
+
+
+
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="WORLD SPORTS 4",Sky Sport 1
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="WORLD SPORTS 4",Sky Sport 2
@@ -993,22 +1018,6 @@ https://7pal.short.gy/skyspt8nz
 https://7pal.short.gy/ssportspl
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="WORLD SPORTS 4",Sky Sports Main Event
 https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="WORLD SPORTS 4",Hub Premier 1
-https://7pal.short.gy/HPremier1
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png?w=272" group-title="WORLD SPORTS 4",Hub Premier 2
-https://7pal.short.gy/HPremier2
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" group-title="WORLD SPORTS 4",Hub Premier 3
-https://7pal.short.gy/HPremier3
-#EXTINF:-1 tvg-id="Hub.Premier.4.sg" group-title="WORLD SPORTS 4" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png?w=272",Hub Premier 4
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314080&extension=ts&play_token=tlQaY2nd4P
-#EXTINF:-1 tvg-id="Hub.Premier.5.sg" group-title="WORLD SPORTS 4" tvg-logo="https://poster.starhubgo.com/Linear_channels2/225_1920x1080_HTV.png?w=272",Hub Premier 5
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314081&extension=ts&play_token=oCrh7Xg3in
-#EXTINF:-1 tvg-id="Hub.Premier.6.sg" group-title="WORLD SPORTS 4" tvg-logo="https://poster.starhubgo.com/Linear_channels2/226_1920x1080_HTV.png?w=272",Hub Premier 6
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314082&extension=ts&play_token=mbznWD9xYe
-#EXTINF:-1 tvg-id="Hub.Premier.7.sg" group-title="WORLD SPORTS 4" tvg-logo="https://poster.starhubgo.com/Linear_channels2/227_1920x1080_HTV.png?w=272",Hub Premier 7
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314083&extension=ts&play_token=CxgiuXGw0c
-#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="WORLD SPORTS 4" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",Hub Premier 8
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&extension=ts&play_token=Suotild03T
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS 4",PSN 1
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS 4",PSN 2
@@ -1019,18 +1028,7 @@ https://cdn4.skygo.mn/live/disk1/SPSNational/HLSv3-FTA/SPSNational.m3u8
 https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS 4",PSN 5
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/cctv5.png" group-title="WORLD SPORTS 4",CCTV5
-http://69.30.245.50/live/cctv5.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/cctv5%2B.png" group-title="WORLD SPORTS 4",CCTV5+
-http://69.30.246.194/live/cctv5p.m3u8
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="WORLD SPORTS 4" tvg-logo="https://www.tvchinese.net/uploads/tv/fyzq.jpg",CCTV FOOTBALL
-http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Champions.TV.1.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="WORLD SPORTS 4",CHAMPIONS TV 1
-http://202.169.224.202:8800/udp/239.9.1.9:1234
+
 
 
 
