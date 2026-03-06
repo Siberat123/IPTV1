@@ -973,12 +973,12 @@ https://7pal.short.gy/tsn2ca
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/K9QkP01/bhsports2.png" group-title="WORLD SPORTS 2",BAHRAIN SPORTS 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS 2",SCTV 22
-https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 501 FHD" tvg-id="FoxCricket.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/59gCbVd.png" group-title="WORLD SPORTS 2" radio="false",FOX SPORTS 501
 https://a1xs.vip/700001
 #EXTINF:-1 tvg-name="Fox Sports 502 FHD" tvg-id="FoxLeague.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/idKGREY.png" group-title="WORLD SPORTS 2" radio="false",FOX SPORTS 502
 https://a1xs.vip/700002
+#EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS 2",SCTV 22
+https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/cctv5.png" group-title="WORLD SPORTS 2",CCTV5
 http://69.30.245.50/live/cctv5.m3u8
@@ -987,51 +987,38 @@ http://69.30.245.50/live/cctv5.m3u8
 http://69.30.246.194/live/cctv5p.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="WORLD SPORTS 4" tvg-logo="https://www.tvchinese.net/uploads/tv/fyzq.jpg",CCTV FOOTBALL
+#EXTINF:-1 group-title="WORLD SPORTS 2" tvg-logo="https://www.tvchinese.net/uploads/tv/fyzq.jpg",CCTV FOOTBALL
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="Champions.TV.1.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="WORLD SPORTS 2",CHAMPIONS TV 1
 http://202.169.224.202:8800/udp/239.9.1.9:1234
-
-
-
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="WORLD SPORTS 4",Sky Sport 1
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="WORLD SPORTS 2",SKY SPORT 1
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="WORLD SPORTS 4",Sky Sport 2
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="WORLD SPORTS 2",SKY SPORT 2
 https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="WORLD SPORTS 4",Sky Sport 3
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="WORLD SPORTS 4",Sky Sport 4
-https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="WORLD SPORTS 4",Sky Sport 5
-https://7pal.short.gy/skyspt5nz
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="WORLD SPORTS 4",Sky Sport 6
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="WORLD SPORTS 2",SKY SPORT 6
 https://7pal.short.gy/skyspt6nz
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="WORLD SPORTS 4",Sky Sport 7
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="WORLD SPORTS 2",SKY SPORT 7
 https://7pal.short.gy/skyspt7nz
-#EXTINF:-1 tvg-name="Sky Sports Football FHD" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="WORLD SPORTS 4" radio="false",SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-name="Sky Sports Football FHD" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="WORLD SPORTS 2" radio="false",SKY SPORTS FOOTBALL
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9289/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Premier League FHD" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="WORLD SPORTS 4" radio="false",SKY SPORTS EPL
+#EXTINF:-1 tvg-name="Sky Sports Premier League FHD" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="WORLD SPORTS 2" radio="false",SKY SPORTS EPL
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="WORLD SPORTS 4",Sky Sport Premier League
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="WORLD SPORTS 2",SKY SPORT PREMIER lEAGUE 1
 https://7pal.short.gy/skyspt8nz
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="WORLD SPORTS 4",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="WORLD SPORTS 2",SKY SPORT PREMIER lEAGUE 2
 https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="WORLD SPORTS 4",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="WORLD SPORTS 2",SKY SPORT MAIN EVENT
 https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS 4",PSN 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS 2",PSN 1
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS 4",PSN 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS 2",PSN 2
 https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS 4",PSN 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS 2",PSN 3
 https://cdn4.skygo.mn/live/disk1/SPSNational/HLSv3-FTA/SPSNational.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS 4",PSN 4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS 2",PSN 4
 https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS 4",PSN 5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS 2",PSN 5
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Discovery Channel
