@@ -35,7 +35,7 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDO NASIONAL",SCTV (dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/sctv.png?raw=true" group-title="INDO NASIONAL", SCTV (cdn)
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/sctv.png?raw=true" group-title="INDO NASIONAL", SCTV (cloudns)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDO NASIONAL",SCTV (dens)
@@ -48,11 +48,11 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="INDO NASIONAL",TVRI NASIONAL (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
-#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="" group-title="INDO NASIONAL",TVRI NASIONAL (cdn)
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="" group-title="INDO NASIONAL",TVRI NASIONAL (cloudns)
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="INDO NASIONAL",TVRI WORLD (tvri)
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="INDO NASIONAL",TVRI WORLD (cdn)
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="INDO NASIONAL",TVRI WORLD (cloudns)
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 
 
@@ -245,86 +245,88 @@ https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="WORLD NEWS",CNN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="WORLD NEWS",CNN (jmp2.uk)
 https://jmp2.uk/stvp-CHBD800001D0
-#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="WORLD NEWS",REUTERS
+#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="WORLD NEWS",REUTERS (rakuten-uk)
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="WORLD NEWS",ALJAZEERA
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="WORLD NEWS",ALJAZEERA (aljazeera)
 https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="WORLD NEWS",ABC NEWS
+#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="WORLD NEWS",ABC NEWS (abc)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",ABC NEWS LIVE
+#EXTINF:-1 group-title="WORLD NEWS",ABC NEWS LIVE (tubi)
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg" group-title="WORLD NEWS",NBC NEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg" group-title="WORLD NEWS",NBC NEWS (cloudfront)
 https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
-#EXTINF:-1 channel-id="6183f9f73a64394cf3c55690605af2a7" tvg-id="6183f9f73a64394cf3c55690605af2a7" tvg-chno="144" tvg-name="BBC News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6183f9f73a64394cf3c55690605af2a7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765822678156_ROKU_BBC_NEWS_LOGO_260x147_WHITE.png" group-title="WORLD NEWS",BBC NEWS
+#EXTINF:-1 channel-id="6183f9f73a64394cf3c55690605af2a7" tvg-id="6183f9f73a64394cf3c55690605af2a7" tvg-chno="144" tvg-name="BBC News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6183f9f73a64394cf3c55690605af2a7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765822678156_ROKU_BBC_NEWS_LOGO_260x147_WHITE.png" group-title="WORLD NEWS",BBC NEWS (jmp2.uk)
 https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="WORLD NEWS",CBS NEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="WORLD NEWS",CBS NEWS (cbsnews)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 channel-id="8db0f9f4abf6542ba95f97a545f98513" tvg-id="8db0f9f4abf6542ba95f97a545f98513" tvg-chno="142" tvg-name="CBC News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8db0f9f4abf6542ba95f97a545f98513/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731443569102_CBC-News-hosts_infohud-centered.png" group-title="WORLD NEWS",CBC NEWS
+#EXTINF:-1 channel-id="8db0f9f4abf6542ba95f97a545f98513" tvg-id="8db0f9f4abf6542ba95f97a545f98513" tvg-chno="142" tvg-name="CBC News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8db0f9f4abf6542ba95f97a545f98513/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731443569102_CBC-News-hosts_infohud-centered.png" group-title="WORLD NEWS",CBC NEWS (jmp2.uk)
 https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8
-#EXTINF:-1 channel-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-chno="120" tvg-name="LiveNOW from FOX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f9c0d48b540a55dcb98b04d2cc8abf25/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442636429_1688568583363_177281_LiveNow-Monochromatic_Banner_Logo_260x147_001.png" group-title="WORLD NEWS",LiveNOW FROM FOX NEWS
+#EXTINF:-1 channel-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-chno="120" tvg-name="LiveNOW from FOX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f9c0d48b540a55dcb98b04d2cc8abf25/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442636429_1688568583363_177281_LiveNow-Monochromatic_Banner_Logo_260x147_001.png" group-title="WORLD NEWS",LiveNOW FROM FOX NEWS (jmp2.uk)
 https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
-#EXTINF:-1 channel-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-chno="141" tvg-name="Euronews World" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dafd06b712a35fbe9935d4c04c2e8b53/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678135959373_euronews_english_260x147.png" group-title="WORLD NEWS",EURONEWS WORLD
+#EXTINF:-1 channel-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-chno="141" tvg-name="Euronews World" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dafd06b712a35fbe9935d4c04c2e8b53/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678135959373_euronews_english_260x147.png" group-title="WORLD NEWS",EURONEWS WORLD (jmp2.uk)
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="WORLD NEWS",EURONEWS ENGLISH
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png" group-title="WORLD NEWS",NEWSMAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png" group-title="WORLD NEWS",NEWSMAX (akamaized)
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 channel-id="28844a800a4e54909eec9695aa3762b2" tvg-id="28844a800a4e54909eec9695aa3762b2" tvg-chno="190" tvg-name="NEWSMAX2" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/28844a800a4e54909eec9695aa3762b2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1705586944532_N2_HUD_logo.png" group-title="WORLD NEWS",NEWSMAX2
+#EXTINF:-1 channel-id="28844a800a4e54909eec9695aa3762b2" tvg-id="28844a800a4e54909eec9695aa3762b2" tvg-chno="190" tvg-name="NEWSMAX2" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/28844a800a4e54909eec9695aa3762b2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1705586944532_N2_HUD_logo.png" group-title="WORLD NEWS",NEWSMAX2 (jmp2.uk)
 https://jmp2.uk/rok-28844a800a4e54909eec9695aa3762b2.m3u8
-#EXTINF:-1 channel-id="8bfd3a488b59590eb2fa5602c2120168" tvg-id="8bfd3a488b59590eb2fa5602c2120168" tvg-chno="175" tvg-name="The Hill" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8bfd3a488b59590eb2fa5602c2120168/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761580779479_TheHill_260x147_HUD.png" group-title="WORLD NEWS",THE HILL
+#EXTINF:-1 channel-id="8bfd3a488b59590eb2fa5602c2120168" tvg-id="8bfd3a488b59590eb2fa5602c2120168" tvg-chno="175" tvg-name="The Hill" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8bfd3a488b59590eb2fa5602c2120168/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761580779479_TheHill_260x147_HUD.png" group-title="WORLD NEWS",THE HILL (jmp2.uk)
 https://jmp2.uk/rok-8bfd3a488b59590eb2fa5602c2120168.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WORLD NEWS",CCTV+
+#EXTINF:-1 tvg-logo="" group-title="WORLD NEWS",CCTV+ (cctvplus)
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cqd-JrliSDG0kvFFKk8IDV7UBJDgP9KDjg&s", ARIRANG TV
+#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nhkworldjapan.png",NHK WORLD (indihometv)
+https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
+#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cqd-JrliSDG0kvFFKk8IDV7UBJDgP9KDjg&s", ARIRANG TV (akamaized)
 #EXTVLCOPT:http-origin=https://tv.garden
 #EXTVLCOPT:http-referrer=https://tv.garden/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",CNA ORIGINAL
+#EXTINF:-1 group-title="WORLD NEWS",CNA ORIGINAL (amagi.tv)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="WORLD NEWS",CGTN
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="WORLD NEWS",CGTN (rakuten)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="RT.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="WORLD NEWS",RT NEWS
+#EXTINF:-1 tvg-id="RT.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="WORLD NEWS",RT NEWS (rttv)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="WORLD NEWS",DW NEWS
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="WORLD NEWS",DW NEWS (akamaized)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 tvg-id="NTDTVEnglish.us@USA" tvg-logo="https://i.imgur.com/26uv1ww.png" group-title="WORLD NEWS",NTD TV
+#EXTINF:-1 tvg-id="NTDTVEnglish.us@USA" tvg-logo="https://i.imgur.com/26uv1ww.png" group-title="WORLD NEWS",NTD TV (rakuten)
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="WORLD NEWS",TRT WORLD
+#EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="WORLD NEWS",TRT WORLD (trt)
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",SCRIPPS NEWS
+#EXTINF:-1 group-title="WORLD NEWS",SCRIPPS NEWS (tubi)
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist_4.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",BEKTV NEWS
+#EXTINF:-1 group-title="WORLD NEWS",BEKTV NEWS (wowza)
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chunklist_b3596000_slENG.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",CHEDDAR NEWS
+#EXTINF:-1 group-title="WORLD NEWS",CHEDDAR NEWS (tubi)
 https://aegis-cloudfront-1.tubi.video/27ff1997-507a-41c4-8433-08875fe5f40f/primary/3.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",CITYNEWS CALGARY
+#EXTINF:-1 group-title="WORLD NEWS",CITYNEWS CALGARY (akamaized)
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-3MBPS.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",NEWS 12
+#EXTINF:-1 group-title="WORLD NEWS",NEWS 12 (tubi)
 https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/3.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",SKY NEWS EXTRA
+#EXTINF:-1 group-title="WORLD NEWS",SKY NEWS EXTRA (akamaized)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master_576p.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",TELESUR ENGLISH
+#EXTINF:-1 group-title="WORLD NEWS",TELESUR ENGLISH (telesur)
 https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/chunklist_w983889417.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",TODAY ALL DAY
+#EXTINF:-1 group-title="WORLD NEWS",TODAY ALL DAY (tubi)
 https://aegis-cloudfront-1.tubi.video/cb7f305d-049a-4feb-bc6e-028c43ad3c3e/master_4.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",TVP WORLD
+#EXTINF:-1 group-title="WORLD NEWS",TVP WORLD (antik)
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/671cfb22f8d0362ae01403b6e748f2e2" group-title="WORLD NEWS",WION
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/671cfb22f8d0362ae01403b6e748f2e2" group-title="WORLD NEWS",WION (cloudfront)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 channel-id="5321194d102d57e094d47d50949088b8" tvg-id="5321194d102d57e094d47d50949088b8" tvg-chno="167" tvg-name="USA Today" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5321194d102d57e094d47d50949088b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1653091591724_USATODAY_260x147_copy.png" group-title="WORLD NEWS",USA TODAY
+#EXTINF:-1 channel-id="5321194d102d57e094d47d50949088b8" tvg-id="5321194d102d57e094d47d50949088b8" tvg-chno="167" tvg-name="USA Today" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5321194d102d57e094d47d50949088b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1653091591724_USATODAY_260x147_copy.png" group-title="WORLD NEWS",USA TODAY (jmp2.uk)
 https://jmp2.uk/rok-5321194d102d57e094d47d50949088b8.m3u8
-#EXTINF:-1 channel-id="ee70e4ad68b55abb88e7b95b8940566a" tvg-id="ee70e4ad68b55abb88e7b95b8940566a" tvg-chno="192" tvg-name="TYT-Go" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ee70e4ad68b55abb88e7b95b8940566a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657585611417_TYTLogo_ForInfoHUD.png" group-title="WORLD NEWS",TYT-GO
+#EXTINF:-1 channel-id="ee70e4ad68b55abb88e7b95b8940566a" tvg-id="ee70e4ad68b55abb88e7b95b8940566a" tvg-chno="192" tvg-name="TYT-Go" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ee70e4ad68b55abb88e7b95b8940566a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657585611417_TYTLogo_ForInfoHUD.png" group-title="WORLD NEWS",TYT-GO (jmp2.uk)
 https://jmp2.uk/rok-ee70e4ad68b55abb88e7b95b8940566a.m3u8
-#EXTINF:-1 channel-id="e29e205ea1fb529f996ad862a2d6724e" tvg-id="e29e205ea1fb529f996ad862a2d6724e" tvg-chno="196" tvg-name="OAN Plus" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e29e205ea1fb529f996ad862a2d6724e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655144553363_OAN-Plus-hud_centered.png" group-title="WORLD NEWS",OAN PLUS
+#EXTINF:-1 channel-id="e29e205ea1fb529f996ad862a2d6724e" tvg-id="e29e205ea1fb529f996ad862a2d6724e" tvg-chno="196" tvg-name="OAN Plus" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e29e205ea1fb529f996ad862a2d6724e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655144553363_OAN-Plus-hud_centered.png" group-title="WORLD NEWS",OAN PLUS (jmp2.uk)
 https://jmp2.uk/rok-e29e205ea1fb529f996ad862a2d6724e.m3u8
-#EXTINF:-1 channel-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-chno="161" tvg-name="AccuWeather NOW" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f95c40a17cfe5b9fb1970192e378fb0c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655146991984_Roku_HUD.png" group-title="WORLD NEWS",ACCUWEATHER NOW
+#EXTINF:-1 channel-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-chno="161" tvg-name="AccuWeather NOW" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f95c40a17cfe5b9fb1970192e378fb0c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655146991984_Roku_HUD.png" group-title="WORLD NEWS",ACCUWEATHER NOW (jmp2.uk)
 https://jmp2.uk/rok-f95c40a17cfe5b9fb1970192e378fb0c.m3u8
-#EXTINF:-1 channel-id="a1e38b83ae2a56f09f4d2ee8ed206b35" tvg-id="a1e38b83ae2a56f09f4d2ee8ed206b35" tvg-chno="163" tvg-name="Weathernation" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a1e38b83ae2a56f09f4d2ee8ed206b35/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1670264331925_WN_Roku_EPG_centered.png" group-title="WORLD NEWS",WEATHERNATION
+#EXTINF:-1 channel-id="a1e38b83ae2a56f09f4d2ee8ed206b35" tvg-id="a1e38b83ae2a56f09f4d2ee8ed206b35" tvg-chno="163" tvg-name="Weathernation" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a1e38b83ae2a56f09f4d2ee8ed206b35/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1670264331925_WN_Roku_EPG_centered.png" group-title="WORLD NEWS",WEATHERNATION (jmp2.uk)
 https://jmp2.uk/rok-a1e38b83ae2a56f09f4d2ee8ed206b35.m3u8
-#EXTINF:-1 channel-id="0838d5ccb1d5564d98fb804ab314c85e" tvg-id="0838d5ccb1d5564d98fb804ab314c85e" tvg-chno="164" tvg-name="FOX Weather" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0838d5ccb1d5564d98fb804ab314c85e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442655370_1688568641141_FWX_HUD_1.png" group-title="WORLD NEWS",FOX WEATHER
+#EXTINF:-1 channel-id="0838d5ccb1d5564d98fb804ab314c85e" tvg-id="0838d5ccb1d5564d98fb804ab314c85e" tvg-chno="164" tvg-name="FOX Weather" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0838d5ccb1d5564d98fb804ab314c85e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442655370_1688568641141_FWX_HUD_1.png" group-title="WORLD NEWS",FOX WEATHER (jmp2.uk)
 https://jmp2.uk/rok-0838d5ccb1d5564d98fb804ab314c85e.m3u8
 
 
@@ -1245,7 +1247,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 #EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/myfamilychannel.png?raw=true" group-title="MOVIES & SHOWS",My Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
-#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/mycinemaeurope.jpg?raw=true" group-title="MOVIES & SHOWS",MY Cinema Europa
+#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/mycinemaeurope.jpg?raw=true" group-title="MOVIES & SHOWS",MY Cinema Europe
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
 https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
