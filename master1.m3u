@@ -1,299 +1,247 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indosiar.png?raw=true" group-title="INDO NASIONAL", INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indosiar.png?raw=true" group-title="INDO NASIONAL", INDOSIAR (khano)
 https://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
-#EXTINF:-1 tvg-name="antv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="INDO NASIONAL",ANTV
+#EXTINF:-1 tvg-name="antv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="INDO NASIONAL",ANTV (aflaxtv)
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165072
-#EXTINF:-1 tvg-name="antv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="INDO NASIONAL",ANTV
+#EXTINF:-1 tvg-name="antv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="INDO NASIONAL",ANTV (iptvtree)
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165072
-#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="INDO NASIONAL",MNCTV
+#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="INDO NASIONAL",MNCTV (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="INDO NASIONAL",MNCTV
+#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="INDO NASIONAL",MNCTV (aflaxtv)
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV (aflaxtv)
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
-#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDO NASIONAL",TRANS 7
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDO NASIONAL",TRANS 7 (detik)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rGrevBC.jpeg" group-title="INDO NASIONAL",TRANS 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rGrevBC.jpeg" group-title="INDO NASIONAL",TRANS 7 (detik)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 group-title="INDO NASIONAL",TRANSTV 1
-http://vipneeene.top:8080/live/VIP01155171629672980/bf7314c8358b/34324.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="INDO NASIONAL", TRANSTV 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
-#EXTVLCOPT:http-referrer="https://20.detik.com/"
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png",TRANS TV (detik)
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/transtv.png?raw=true" group-title="INDO NASIONAL",TRANSTV 3
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="INDO NASIONAL",TRANSTV 4
-https://filmovie.github.io/by/transtv.m3u8
-#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="INDO NASIONAL",MDTV 1
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="INDO NASIONAL",MDTV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
-#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="INDO NASIONAL",MDTV 2
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="INDO NASIONAL",MDTV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="INDO NASIONAL",RCTI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="INDO NASIONAL",RCTI (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDO NASIONAL",SCTV 1 
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDO NASIONAL",SCTV (dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:-1 tvg-id="--" group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png", SCTV 2
-https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/sctv.png?raw=true" group-title="INDO NASIONAL", SCTV 3
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/sctv.png?raw=true" group-title="INDO NASIONAL", SCTV (cdn)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDO NASIONAL",SCTV 4
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDO NASIONAL",SCTV (dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="INDO NASIONAL",TVRI NASIONAL 1
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="INDO NASIONAL",TVRI NASIONAL (tvri)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="INDO NASIONAL",TVRI NASIONAL 2
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="INDO NASIONAL",TVRI NASIONAL (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
-#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="" group-title="INDO NASIONAL",TVRI NASIONAL 3
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="" group-title="INDO NASIONAL",TVRI NASIONAL (cdn)
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
-#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="INDO NASIONAL",TVRI WORLD 1
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="INDO NASIONAL",TVRI WORLD (tvri)
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="INDO NASIONAL",TVRI WORLD 2
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="INDO NASIONAL",TVRI WORLD (cdn)
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="BiznetAdventure.id@SD" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="INDO LOKAL",BIZNET ADVENTURE
+#EXTINF:-1 tvg-id="BiznetAdventure.id@SD" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="INDO LOKAL",BIZNET ADVENTURE (biznet)
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BiznetKids.id@SD" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="INDO LOKAL",BIZNET KIDS
+#EXTINF:-1 tvg-id="BiznetKids.id@SD" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="INDO LOKAL",BIZNET KIDS (biznet)
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
-#EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="INDO LOKAL",BIZNET LIFESTYLE
+#EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="INDO LOKAL",BIZNET LIFESTYLE (biznet)
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/oxygentv.jpg?raw=true" group-title="INDO LOKAL",OXYGEN TV
+#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/oxygentv.jpg?raw=true" group-title="INDO LOKAL",OXYGEN TV (oxygen)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://oxygentv.id/
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y6yh0pV.jpeg" group-title="INDO LOKAL",MOJI TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y6yh0pV.jpeg" group-title="INDO LOKAL",MOJI TV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-#EXTINF:-1 tvg-id="RRINet.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/2560px-RRI_NET_2023.svg.png" group-title="INDO LOKAL",RRI NET
-https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
-#EXTINF:0 tvg-id="outdoor" group-title="INDO LOKAL",DENS LIFESTYLE
+
+#EXTINF:0 tvg-id="outdoor" group-title="INDO LOKAL",DENS LIFESTYLE (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
-#EXTINF:0 tvg-id="outdoor" group-title="INDO LOKAL",DENS KNOWLEDGE
+#EXTINF:0 tvg-id="outdoor" group-title="INDO LOKAL",DENS KNOWLEDGE (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-#EXTINF:0 tvg-id="outdoor" group-title="INDO LOKAL",DENS SHOWBIZ
+#EXTINF:0 tvg-id="outdoor" group-title="INDO LOKAL",DENS SHOWBIZ (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
-#EXTINF:0 tvg-id="outdoor" group-title="INDO LOKAL",DENS FOOD
+#EXTINF:0 tvg-id="outdoor" group-title="INDO LOKAL",DENS FOOD (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
-#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg",MAGNA CHANNEL
+#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg",MAGNA CHANNEL (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
-#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://dl.dropbox.com/s/2rp51aouwircr4f/images%20%281%29.jpeg", BN CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="INDO LOKAL",SINPO TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="INDO LOKAL",SINPO TV (indihometv)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19046type=drm
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/22/4e/f7/224ef7e43e8371e92c56ce599d09e45f.jpg" group-title="INDO LOKAL",ANTARA TV
-https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/242/437242-SNAPSHOT-l.png" group-title="INDO LOKAL", CELEBRITIES TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
-#EXTINF:-1 tvg-id="DAAITV.id@SD" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="INDO LOKAL",DAAI TV
+#EXTINF:-1 tvg-id="DAAITV.id@SD" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="INDO LOKAL",DAAI TV (daaiplus)
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/btv.png?raw=true" group-title="INDO LOKAL",BTV
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/btv.png?raw=true" group-title="INDO LOKAL",BTV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
-#EXTINF:-1 tvg-id="ElshintaTV.id@SD" tvg-logo="https://i.imgur.com/x5uoy2H.png" group-title="INDO LOKAL",ELSHINTA TV
+#EXTINF:-1 tvg-id="ElshintaTV.id@SD" tvg-logo="https://i.imgur.com/x5uoy2H.png" group-title="INDO LOKAL",ELSHINTA TV (juraganstreaming)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
-#EXTINF:-1 tvg-id="IndonesianaTV.id@SD" tvg-logo="https://i.imgur.com/192wiS1.png" http-referrer="https://indonesiana.tv/" group-title="INDO LOKAL",INDONESIANA.TV
+#EXTINF:-1 tvg-id="IndonesianaTV.id@SD" tvg-logo="https://i.imgur.com/192wiS1.png" http-referrer="https://indonesiana.tv/" group-title="INDO LOKAL",INDONESIANA.TV (tvstreamcast)
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
 https://tvstreamcast.com/indonesiana.m3u8
-#EXTINF:-1 tvg-id="InspiraTV.id@SD" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="INDO LOKAL",INSPIRA TV
+#EXTINF:-1 tvg-id="InspiraTV.id@SD" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="INDO LOKAL",INSPIRA TV (siar)
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/170/438170-SNAPSHOT-l.png" group-title="INDO LOKAL", JAK TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
-#EXTINF:-1 tvg-id="JekTV.id@SD" tvg-logo="https://i.imgur.com/wh75d1f.png" http-referrer="http://jektv.co.id/livestreaming/" group-title="INDO LOKAL",JEK TV
+#EXTINF:-1 tvg-id="JekTV.id@SD" tvg-logo="https://i.imgur.com/wh75d1f.png" http-referrer="http://jektv.co.id/livestreaming/" group-title="INDO LOKAL",JEK TV (jektv)
 #EXTVLCOPT:http-referrer=http://jektv.co.id/livestreaming/
 http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="JogjaIstimewaTV.id@SD" tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="INDO LOKAL",JOGJA ISTIMEWA TV
+#EXTINF:-1 tvg-id="JogjaIstimewaTV.id@SD" tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="INDO LOKAL",JOGJA ISTIMEWA TV (jitv)
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="INDO LOKAL",JTV
+#EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="INDO LOKAL",JTV (jtv)
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="KawanuaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" group-title="INDO LOKAL",KAWANUA TV
+#EXTINF:-1 tvg-id="KawanuaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" group-title="INDO LOKAL",KAWANUA TV (kawanuatv)
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RBTVJogja.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/31/RBTV_Jogjakarta.png" http-referrer="http://live.rbtvjogja.tv/" group-title="INDO LOKAL",RBTV JOGJA
+#EXTINF:-1 tvg-id="RBTVJogja.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/31/RBTV_Jogjakarta.png" http-referrer="http://live.rbtvjogja.tv/" group-title="INDO LOKAL",RBTV JOGJA (rbtvjogja)
 #EXTVLCOPT:http-referrer=http://live.rbtvjogja.tv/
 http://live.rbtvjogja.tv/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="INDO LOKAL", BALI TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/243/437243-SNAPSHOT-l.png" group-title="INDO LOKAL", HANACARAKA
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
-#EXTINF:-1 tvg-id="Food Travel" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/157/438157-SNAPSHOT-l.png" group-title="INDO LOKAL", FOOD TRAVEL
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/179/438179-SNAPSHOT-l.png" group-title="INDO LOKAL", BANDUNG TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000068/1024.m3u8
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cbn-web-assets.s3.ap-southeast-3.amazonaws.com/news_Ch_JOWO_98ce9cba9e.webp" group-title="INDO LOKAL" tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id",JOWO CHANNEL
-http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSVdhaMAbDI7t7HJv8iWxq3_ZvMcWQYQlsQ&usqp=CAU" group-title="INDO LOKAL",JITV
-http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/UGTV_Indonesia.png" group-title="INDO LOKAL",UGTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/UGTV_Indonesia.png" group-title="INDO LOKAL",UGTV (gunadarma)
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
-#EXTINF:-1 tvg-id="SaktiTV" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="INDO LOKAL",SAKTI TV
+#EXTINF:-1 tvg-id="SaktiTV" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="INDO LOKAL",SAKTI TV (siar)
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="INDO LOKAL",DUTA TV
+#EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="INDO LOKAL",DUTA TV (siar)
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/bantentv.png" group-title="INDO LOKAL",BANTEN TV
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/bantentv.png" group-title="INDO LOKAL",BANTEN TV (streamlock)
 https://5bf7b725107e5.streamlock.net:443/bantentv/bantentv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/bmstv.png" group-title="INDO LOKAL",BMSTV
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/bmstv.png" group-title="INDO LOKAL",BMSTV (streamlock)
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/rctv.png" group-title="INDO LOKAL",RCTV
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/rctv.png" group-title="INDO LOKAL",RCTV (siar)
 https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="TV9" tvg-logo="https://hometv.pw/logo/religi/tv9.png" group-title="INDO LOKAL",TV9 NUSANTARA
+#EXTINF:-1 tvg-name="TV9" tvg-logo="https://hometv.pw/logo/religi/tv9.png" group-title="INDO LOKAL",TV9 NUSANTARA (streamlock)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kkxK7FV/SMTV.png" group-title="INDO LOKAL",SMTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kkxK7FV/SMTV.png" group-title="INDO LOKAL",SMTV (siar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://e.siar.us/live/smtv.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",ALWAFA TARIM TV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",ALWAFA TARIM TV (siar)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",ASHIIL TV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",ASHIIL TV (juraganstreaming)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",ATAMBUA TV
-http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",BANJAR TV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",BANJAR TV (siar)
 https://banjartv.siar.us/banjartv/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",BUNGO TV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",BUNGO TV (streamlock)
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",CARUBAN TV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",CARUBAN TV (carubantv)
 https://stream.carubantv.id/hls/0/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",DAVIKA TV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",DAVIKA TV (streamlock)
 https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="INDO LOKAL",DHOHO TV
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="INDO LOKAL",DHOHO TV (siar)
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",JAMBI TV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",JAMBI TV (juraganstreaming)
 https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",PKTV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",PKTV (juraganstreaming)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",RADAR TV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",RADAR TV (siar)
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",RIAU TV
-http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" group-title="INDO LOKAL",RINJANI TV
+#EXTINF:0 tvg-country="ID" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" group-title="INDO LOKAL",RINJANI TV (rinjanitv)
 https://rinjanitv.cloud/hls/tvkabel.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",SALAM TV 
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",SALAM TV (siar)
 https://salamtv.siar.us/live/salamtv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",SALIRA TV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",SALIRA TV (salira)
 https://live.salira.tv/p/3870/hybrid/play.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",SAMPIT TV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",SAMPIT TV (siar)
 https://sampit-tv.siar.us/live/sampit-tv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",STARA TV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",STARA TV (staratv)
 https://stream.staratv.id/hls/0/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",SULTRA TV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",SULTRA TV (sultratv)
 http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",SURAU TV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",SURAU TV (siar)
 https://surautv.siar.us/live/surautv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="INDO LOKAL",TV MU
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="INDO LOKAL",TV MU (siar)
 https://e.siar.us/live/tvmu.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",TVKU
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",TVKU (tvku)
 https://tvku.tv/hlsstream/hls/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",TVR PARLEMEN
-http://103.18.181.69:1935/golive/livestream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",TIMOR TV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",TIMOR TV (timortv)
 http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="INDO LOKAL",WESAL TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="INDO LOKAL",MADU TV
+#EXTINF:-1 group-title="INDO LOKAL",MADU TV (siar)
 https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:-1 group-title="INDO LOKAL",TATV
+#EXTINF:-1 group-title="INDO LOKAL",TATV (siar)
 https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKSCtc1C/FIKOM.png" group-title="INDO LOKAL", FICOM TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKSCtc1C/FIKOM.png" group-title="INDO LOKAL", FICOM TV (siar)
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
-#EXTINF:-1 group-title="INDO LOKAL",JURNAL TV
-https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
 
 
   
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="INDO NEWS",KOMPAS TV 1
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="INDO NEWS",KOMPAS TV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="INDO NEWS",KOMPAS TV 2
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="INDO NEWS",KOMPAS TV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
-#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvone.png?raw=true" group-title="INDO NEWS",TVONE 1
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvone.png?raw=true" group-title="INDO NEWS",TV ONE (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
-#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1920px-TvOne_2023.svg.png", TVONE 2
+#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1920px-TvOne_2023.svg.png", TV ONE (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
-#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="INDO NEWS",METRO TV 1
+#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="INDO NEWS",METRO TV (medcom)
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" group-title="INDO NEWS",METRO TV 2
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" group-title="INDO NEWS",METRO TV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
-#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://www.visionplus.id/images/repository/375/437375-SNAPSHOT-l.png", INEWS 1
+#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://www.visionplus.id/images/repository/375/437375-SNAPSHOT-l.png", INEWS (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PRrzyHd.png" group-title="INDO NEWS",INEWS 2
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-#EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDO NEWS",GARUDA TV 1
+#EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/2560px-Logo_GarudaTV_Primer_Flat_2025.svg.png" group-title="INDO NEWS",GARUDA TV 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/2560px-Logo_GarudaTV_Primer_Flat_2025.svg.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
 #EXTVLCOPT:http-referrer=https://garuda.tv/
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-#EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="INDO NEWS",NUSANTARA TV 1
+#EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="INDO NEWS",NUSANTARA TV (siar)
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", NUSANTARA TV 2
+#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", NUSANTARA TV (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
-#EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/idtv.png?raw=true" group-title="INDO NEWS",BERITA SATU 1
+#EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/idtv.png?raw=true" group-title="INDO NEWS",BERITA SATU (dens)
 https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
-#EXTINF:-1 tvg-id="Berita Satu.id" tvg-name="Berita Satu.id" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="INDO NEWS", BERITA SATU 2
+#EXTINF:-1 tvg-id="Berita Satu.id" tvg-name="Berita Satu.id" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="INDO NEWS", BERITA SATU (dens)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a1/fe/9b/a1fe9bd646cdcb8fb42b012fa8169301.jpg" group-title="INDO NEWS"",BERITA SATU 3
-http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
-#EXTINF:-1 tvg-id="SindoNews.id" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", SINDONEWS
+#EXTINF:-1 tvg-id="SindoNews.id" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", SINDO NEWS (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6BYfiq2PIJR7wSvY-Dl_0DRHAYBZxepdWnvSgUxm7g&s=10" group-title="INDO NEWS", TRIBUN NEWS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6BYfiq2PIJR7wSvY-Dl_0DRHAYBZxepdWnvSgUxm7g&s=10" group-title="INDO NEWS", TRIBUN NEWS (cloudfront)
 https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO NEWS",JAWA POS TV
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO NEWS",JAWA POS TV (jawapostvsby)
 http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="INDO NEWS",CNN INDO 1
+#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="INDO NEWS",CNN INDONESIA (cnnindonesia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="|ID| CNN INDONESIA" tvg-logo="" group-title="INDO NEWS",CNN INDO 2
-http://sans7.org:88/02021349372647/7416812501/694324
-#EXTINF:-1 tvg-ID="" tvg-name="|ID| CNBC INDONESIA" tvg-logo="" group-title="INDO NEWS",CNBC INDO 1
-http://sans7.org:88/02021349372647/7416812501/694323
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkYJ6pIswJ939aAjKZ0VERVaLGs0YD4q41g&s" group-title="INDO NEWS", CNBC INDO 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkYJ6pIswJ939aAjKZ0VERVaLGs0YD4q41g&s" group-title="INDO NEWS", CNBC INDONESIA (cnbcindonesia)
 #EXTVLCOPT:http-origin=https://www.cnbcindonesia.com
 #EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/btv.png?raw=true" group-title="INDO NEWS",BTV
-https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8?app_type=web&userid=lite&chname=BTV
-#EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://dl.dropbox.com/s/2rp51aouwircr4f/images%20%281%29.jpeg", BN CHANNEL
+#EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://dl.dropbox.com/s/2rp51aouwircr4f/images%20%281%29.jpeg", BN CHANNEL (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" group-title="INDO NEWS",IDX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
-https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+#EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg",IDX CHANNEL (indihometv)
+https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
+#EXTINF:-1 tvg-id="RRINet.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/2560px-RRI_NET_2023.svg.png" group-title="INDO NEWS",RRI NET (rri)
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/22/4e/f7/224ef7e43e8371e92c56ce599d09e45f.jpg" group-title="INDO NEWS",ANTARA TV (indihometv)
+https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
 
 
@@ -462,32 +410,6 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148161
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148162
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="SPORTS 1",HUB PREMIER 7
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148164
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 1",ALWAN SPORT 1
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 1",ALWAN SPORT 2
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641619
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 1",ALWAN SPORT 3
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641620
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 1",ALWAN SPORT 4
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641621
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 1",ALWAN SPORT 5
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641622
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 1",ALWAN SPORT 6
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641623
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 1",ALWAN SPORT 7
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641611
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 1",ALWAN SPORT 8
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641612
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 1",ALWAN SPORT 9
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641613
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 1",ALWAN SPORT 10
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641614
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 1",ALWAN SPORT F1 
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641616
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 1",ALWAN UFC
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641615
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 1",ALWAN WWE
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641617
 #EXTINF:-1 tvg-id="465504" tvg-logo="https://i.imghippo.com/files/PKYK9834nDw.png" group-title="SPORTS 1", SPORTV 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
 #EXTINF:-1 tvg-id="465418" tvg-logo="https://i.imghippo.com/files/bnHW6108tBk.jpg" group-title="SPORTS 1", SPORTV 2
@@ -800,7 +722,14 @@ https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
 #EXTINF:-1 channel-id="63c6e37e636b7e0007ccb635" tvg-id="63c6e37e636b7e0007ccb635" tvg-chno="780" tvg-name="Pluto TV Fútbol" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png" group-title="SPORTS 3",Pluto TV Fútbol
 https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
-
+#EXTINF:-1 tvg-id="bein-sports-2724" group-title="SPORTS 3",Selcuk Sport
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dga1op10s1u3leo.450bb93555fef8.click/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-id="s-sport-2724" group-title="SPORTS 3", Selcuk Sport 2
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dga1op10s1u3leo.450bb93555fef8.click/live/selcukssport2/playlist.m3u8
 
 
 
@@ -1152,7 +1081,7 @@ https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discoveryasia1.
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="DOCUMENTARY",CGTN Documentary 1
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="DOCUMENTARY", CGTN Documentary 2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="|ID| ASIAN FOOD NETWORK" tvg-logo="" group-title="DOCUMENTARY",Asian Food Network
 http://sans7.org:88/02021349372647/7416812501/694309
 #EXTINF:-1 tvg-id="400000063" tvg-logo="https://canvas-lb.tubitv.com/opts/FgYXmM6oI193Bw==/630f09e9-a354-4d28-a952-2f5c75e09815/CHgQeDoFMS4xLjhAAQ==" group-title="DOCUMENTARY",BBC Earth
@@ -1294,10 +1223,22 @@ http://sans7.org:88/02021349372647/7416812501/694317
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Cinemax.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES & SHOWS",HBO
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBO.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="MOVIES & SHOWS",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="MOVIES & SHOWS",HBO Family
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOFamily.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES & SHOWS",HBO Hits
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOHits.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79nwv.png" group-title="MOVIES & SHOWS",HBO Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79IMN.png" group-title="MOVIES & SHOWS",HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mycinema.png?raw=true" group-title="MOVIES & SHOWS",My Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
