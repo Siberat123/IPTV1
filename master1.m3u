@@ -405,7 +405,12 @@ https://jmp2.uk/rok-0838d5ccb1d5564d98fb804ab314c85e.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="Champions.TV.1.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="SPORTS 1",CHAMPIONS TV 1 (UDP)
+http://202.169.224.202:8800/udp/239.9.1.9:1234
+#EXTINF:-1 tvg-id="Champions.TV.2.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="SPORTS 1",CHAMPIONS TV 2 (UDP)
+http://202.169.224.202:8800/udp/239.9.1.10:1234
+#EXTINF:-1 tvg-id="Champions.TV.3.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg" group-title="SPORTS 1",CHAMPIONS TV 3 (UDP)
+http://202.169.224.202:8800/udp/239.9.1.11:1234
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="SPORTS 1",BEIN SPORT 4 MAX (vipnorseman)
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/376
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="SPORTS 1",BEIN SPORT 5 MAX (vipnorseman)
@@ -1447,3 +1452,4 @@ https://jmp2.uk/stvp-GBBC4300005AL
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us@East" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="KIDS FUN",Nick Jr. East
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+
