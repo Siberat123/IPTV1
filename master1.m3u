@@ -1332,6 +1332,121 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Futbol.tj@SD" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="Sports" tvg-id="Futbol.tj@SD" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="SPORTS 8" ,Futbol (teleradiocom)
+https://live.teleradiocom.tj/8/3m.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 8" tvg-logo="" group-title="Football" ,Sharjah Sports (itworkscdn)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 8" tvg-logo="" group-title="Football" ,PRO Sport International (wns)
+https://proshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8",SKY SPORTS LA LIGA (190.14.10.19)
+http://190.14.10.19:16000/play/a09u/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8",TIGO SPORTS (45.5.119.4)
+http://45.5.119.43:4000/play/a02v/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8",TUDN (45.5.119.43)
+http://45.5.119.43:4000/play/a05q/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8", ESPN (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22000.m3u8
+#EXTINF:-1 group-title="SPORTS 8", ESPN (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22001.m3u8
+#EXTINF:-1 group-title="SPORTS 8",ESPN (205.235.6.29)
+http://205.235.6.29:8000/play/a0wk/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8", ESPN 2 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22003.m3u8
+#EXTINF:-1 group-title="SPORTS 8", ESPN 2 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22004.m3u8
+#EXTINF:-1 group-title="SPORTS 8",ESPN 2 (181.78.82.6)
+http://181.78.82.6:46090/play/a00i/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8",ESPN 3 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22008.m3u8
+#EXTINF:-1 group-title="SPORTS 8",ESPN 3 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22006.m3u8
+#EXTINF:-1 group-title="SPORTS 8", ESPN 3 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22007.m3u8
+#EXTINF:-1 group-title="SPORTS 8",ESPN 3 (181.78.82.6)
+http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:-1 group-title="SPORTS 8", ESPN 3 (190.14.10.19)
+http://190.14.10.19:16000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="SPORTS 8",ESPN 3 (190.60.32.178)
+http://190.60.32.178:8178/play/a015/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8", ESPN 4 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22009.m3u8
+#EXTINF:-1 group-title="SPORTS 8", ESPN 4 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22010.m3u8
+#EXTINF:-1 group-title="SPORTS 8",ESPN 4 (190.14.10.19)
+http://190.14.10.19:16000/play/a09t/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8", ESPN 5 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22012.m3u8
+#EXTINF:-1 group-title="SPORTS 8", ESPN 5 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.m3u8
+#EXTINF:-1 group-title="SPORTS 8",ESPN 5 (190.14.10.19)
+http://190.14.10.19:16000/play/a09e/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8", ESPN 6 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22015.m3u8
+#EXTINF:-1 group-title="SPORTS 8", ESPN 6 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.m3u8
+#EXTINF:-1 group-title="SPORTS 8",ESPN 6 (181.78.82.6)
+http://181.78.82.6:46090/play/a00w/index.m3u8
+#EXTINF:-1 group-title="SPORTS 8",ESPN 6 (190.14.10.19)
+http://190.14.10.19:16000/play/a07u/index.m3u8
+#EXTINF:-1 group-title="SPORTS 8",ESPN 6 (190.14.10.19)
+http://190.14.10.19:16000/play/a09s/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8",ESPN 7 (190.14.10.19)
+http://190.14.10.19:16000/play/a07u/index.m3u8
+#EXTINF:-1 group-title="SPORTS 8",ESPN 7 (205.235.6.29)
+http://205.235.6.29:8000/play/a0vu/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8",CLATO SPORTS (181.205.130.194)
+http://181.205.130.194:4000/play/a06o
+
+#EXTINF:-1 group-title="SPORTS 8", AYM SPORT (otteravision)
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Football" tvg-logo="" group-title="SPORTS 8" ,Russia Football 1 (cdntv)
+http://cdntv.online/low/9mlxywika2/55.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football" tvg-logo="" group-title="SPORTS 8" ,Russia Football 2 (cdntv)
+http://cdntv.online/low/9mlxywika2/56.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football" tvg-logo="" group-title="SPORTS 8" ,Russia Football 3 (cdntv)
+http://cdntv.online/low/9mlxywika2/57.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8",APEHA (cdntv)
+http://cdntv.online/low/9mlxywika2/47.m3u8
+#EXTINF:-1 group-title="SPORTS 8",APEHA (cdntv)
+http://cdntv.online/low/9mlxywika2/49.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8",MATY (cdntv)
+http://cdntv.online/low/9mlxywika2/48.m3u8
+#EXTINF:-1 group-title="SPORTS 8",MATY (cdntv)
+http://cdntv.online/low/9mlxywika2/59.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8",MATY NPEMBEP (cdntv)
+http://cdntv.online/low/9mlxywika2/52.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8",MATY! CTPAHA (cdntv)
+http://cdntv.online/low/9mlxywika2/54.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8",MATY! 1 (cdntv)
+http://cdntv.online/low/9mlxywika2/55.m3u8
+#EXTINF:-1 group-title="SPORTS 8",MATY! 2 (cdntv)
+http://cdntv.online/low/9mlxywika2/56.m3u8
+#EXTINF:-1 group-title="SPORTS 8",MATY! 3 (cdntv)
+http://cdntv.online/low/9mlxywika2/57.m3u8
+
+#EXTINF:-1 group-title="SPORTS 8",CTAPT (cdntv)
+http://cdntv.online/low/9mlxywika2/58.m3u8
+
+
 
 #EXTINF:-1 channel-id="8152fae2aebf5c228eee6470242174ec" tvg-id="8152fae2aebf5c228eee6470242174ec" tvg-chno="484" tvg-name="Dinos 24/7" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8152fae2aebf5c228eee6470242174ec/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734493190895_ROKU_DINOS_247_CHANNEL_HUD2_LOGO_260x147_CENTER.png" group-title="DOCUMENTARY",BBC Dinos 24/7
 https://jmp2.uk/rok-8152fae2aebf5c228eee6470242174ec.m3u8
