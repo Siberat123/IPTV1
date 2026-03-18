@@ -22,7 +22,6 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/antv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWHJDcAuDDvi2iL4EzF7XBdqLDOe0xeI_4rUKp2s9XTg&s=10" group-title="INDO NASIONAL", ANTV (103.66.62.83)
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://103.66.62.83:8000/play/a00r/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="INDO NASIONAL",MNCTV (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="INDO NASIONAL",MNCTV (aflaxtv)
@@ -80,67 +79,67 @@ http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="INDO NASIONAL",TVRI WORLD (cloudns)
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Sport (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI SPORT (tvri)
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Aceh (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI ACEH (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL", TVRI Bali (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL", TVRI BALI (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI BaBel (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI BABEL (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Bengkulu (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI BENGKULU (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Jakarta (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI JAKARTA(tvri)
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Gorontalo (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI GORONTALO (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Jambi (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI JAMBI (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Jawa Barat (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI JABAR (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Jawa Tengah (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI JATENG (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Jawa Timur (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI JATIM (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Kalimantan Barat (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI KALBAR (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Kalimantan Selatan (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI KALSEL (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Kalimantan Tengah (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI KALTENG (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Kalimantan Timur (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI KALTIM (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Lampung (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI LAMPUNG (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Maluku (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI MALUKU (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Sulawesi Utara (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI SULUT (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Sumatera Utara (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI SUMUT (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI NTB (tvri)
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI NTT
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI NTT (tvri)
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Papua (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI PAPUA (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Riau (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI RIAU(tvri)
 https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Sulawesi Barat (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Sulawesi Selatan (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI SULSEL (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Sulawesi Tengah (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI SULTENG (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Sulawesi Tenggara (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI SULTRA (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Sumatera Barat (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI SUMBAR (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Sumatera Selatan (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI SUMSEL (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Papua Barat (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI PABAR (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI Yogyakarta (tvri)
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="INDO NASIONAL",TVRI YOGYAKARTA (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
@@ -264,9 +263,6 @@ https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKSCtc1C/FIKOM.png" group-title="INDO LOKAL", FICOM TV (siar)
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
-
-
-  
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="INDO NEWS",KOMPAS TV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -530,7 +526,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCOzchAkDiIxwY9tbX-GXVS5UFx_lCeUeFTJ3_9iYG04syYmryQRY7XnhjXqEPIYF0rldOjyOJ3yBQgDkuRdjU3TtiFS8W_DyyvlkQHQ6pQvCTlLeRyBj2x5iVXZpywuiD2y5H7DeCiVdsgwSCUn_OWULmgMuK9-jp69aEYwxSTSsAWZczvcMcgg-epIkB/s700/CAZE%20TV.png" group-title="SPORTS 1",CAZE TV (cloudfront)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Sport_TV_2023.svg" group-title="SPORTS 1",SPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Sport_TV_2023.svg" group-title="SPORTS 1",SPORT 1 (live-tv)
 http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/866
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" group-title="SPORTS 1",HUB SPORTS 2 (4kgood)
 http://4kgood.org/live/4o48up5evz/r4fiast66u/280828.ts
