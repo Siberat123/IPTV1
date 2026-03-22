@@ -994,13 +994,13 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:iptv
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="ARAB SPORTS",KTV SPORT (mangomolo)
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b2500000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="SPORTS 4",KTV SPORT (mangomolo)
+#EXTINF:-1 group-title="ARAB SPORTS",KTV SPORT (mangomolo)
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS 4",  Arryadia HD1 (154.197.91.169)
+#EXTINF:-1 group-title="ARAB SPORTS",  Arryadia HD1 (154.197.91.169)
 http://154.197.91.169:8000/play/a0hu/index.m3u8
-#EXTINF:-1 group-title="SPORTS 4",  Arryadia HD2 (154.197.91.169)
+#EXTINF:-1 group-title="ARAB SPORTS",  Arryadia HD2 (154.197.91.169)
 http://154.197.91.169:8000/play/a0hv/index.m3u8
-#EXTINF:-1 group-title="SPORTS 4",  Arryadia HD3 (154.197.91.169)
+#EXTINF:-1 group-title="ARAB SPORTS",  Arryadia HD3 (154.197.91.169)
 http://154.197.91.169:8000/play/a0hw/index.m3u8
 
 
@@ -1055,12 +1055,21 @@ http://cdntv.online/low/9mlxywika2/778.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.ibb.co.com/Zc70tGN/blrs5.png" group-title="RUSSIAN SPORTS", Беларусь 5 🇧🇾 (beltelecom)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN SPORTS",Беларусь 5 🇧🇾 (beltelecom)
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIAN SPORTS", Setanta Sport 1  🇬🇪 (158.101.222)
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 group-title="RUSSIAN SPORTS", Setanta Sport 2  🇬🇪 (94.43.1.138)
 http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1 group-title="RUSSIAN SPORTS", Setenta Sport 2  🇷🇺 (cdntv)
 http://cdntv.online/low/9mlxywika2/1022.m3u8
+#EXTINF:-1 group-title="RUSSIAN SPORTS",MATY NPEMBEP (cdntv)
+http://cdntv.online/low/9mlxywika2/52.m3u8
+#EXTINF:-1 group-title="RUSSIAN SPORTS",CTAPT (cdntv)
+http://cdntv.online/low/9mlxywika2/58.m3u8
+#EXTINF:-1 group-title="RUSSIAN SPORTS", SPORT RU 🇷🇺 (astrakhan)
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+
 
 
 
@@ -1101,6 +1110,14 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
 
 
 
+
+
+
+
+
+
+
+
 #ESPN SPORTS
 #
 #EXTINF:-1 group-title="ESPN SPORTS",ESPN DEPORTES (thetvapp)
@@ -1111,8 +1128,18 @@ http://45.173.74.2:2010/play/a08a/index.m3u8
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9521
 #EXTINF:-1 group-title="ESPN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/15951
+#EXTINF:-1 group-title="ESPN SPORTS",ESPN 1 (205.235.6.29)
+http://205.235.6.29:8000/play/a0wk/index.m3u8
+#EXTINF:-1 group-title="ESPN SPORTS", ESPN 1 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22000.m3u8
+#EXTINF:-1 group-title="ESPN SPORTS", ESPN 1 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22001.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyogJWA.jpg" group-title="ESPN SPORTS",ESPN 1 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts
+#EXTINF:-1 group-title="ESPN SPORTS", ESPN 2 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22003.m3u8
+#EXTINF:-1 group-title="ESPN SPORTS", ESPN 2 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22004.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JofXHRI.jpg" group-title="ESPN SPORTS",ESPN 2 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
 #EXTINF:-1 group-title="ESPN SPORTS", ESPN 2 (181.205.130.194)
@@ -1123,20 +1150,44 @@ http://200.10.30.241:8000/play/a01r/index.m3u8
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47100
 #EXTINF:-1 group-title="ESPN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/15950
+#EXTINF:-1 group-title="ESPN SPORTS",ESPN 3 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22006.m3u8
+#EXTINF:-1 group-title="ESPN SPORTS", ESPN 3 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22007.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ADc4YF5.jpg" group-title="ESPN SPORTS",ESPN 3 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22008.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ADc4YF5.jpg" group-title="ESPN SPORTS",ESPN 3 (46.151.196.223)
 http://46.151.196.223:14444/
+#EXTINF:-1 group-title="ESPN SPORTS", ESPN 4 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22009.m3u8
+#EXTINF:-1 group-title="ESPN SPORTS", ESPN 4 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22010.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oikIPP5.jpg" group-title="ESPN SPORTS",ESPN 4 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="ESPN SPORTS",ESPN 5 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22012.ts
+#EXTINF:-1 group-title="ESPN SPORTS", ESPN 5 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="ESPN SPORTS",ESPN 5 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
 #EXTINF:-1 group-title="ESPN SPORTS", ESPN 5 (190.0.247.38)
 http://190.0.247.38:8000/play/a012
+#EXTINF:-1 group-title="ESPN SPORTS", ESPN 6 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22015.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="ESPN SPORTS",ESPN 6 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
+#EXTINF:-1 group-title="ESPN SPORTS",ESPN 7 (205.235.6.29)
+http://205.235.6.29:8000/play/a0vu/index.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1150,6 +1201,20 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 
 #SPORTS 1
 #
+#EXTINF:-1 group-title="SPORTS 1", Digi Sport 1 (dienalt)
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
+#EXTINF:-1 group-title="SPORTS 1", Digi Sport 2 (dienalt)
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2522/index.m3u8
+#EXTINF:-1 group-title="SPORTS 1", Digi Sport 3 (dienalt)
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
+#EXTINF:-1 group-title="SPORTS 1", Digi Sport 4 (dienalt)
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
+#EXTINF:-1 group-title="SPORTS 1", ZIGGO SPORT 1 (dienalt)
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8 
+#EXTINF:-1 group-title="SPORTS 1", ZIGGO SPORT 2 (dienalt)
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8 
+#EXTINF:-1 group-title="SPORTS 1", ZIGGO SPORT 3 (dienalt)
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="SPORTS 1",FIFA+ (wurl)
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="SPORTS 1",FIFA+ FRENCH (wurl)
@@ -1202,18 +1267,6 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMqHV0FSIG1QNzwxitkWybo2QdfpKwzYFP1NEr129M_bbN9Z0I-Bsg6ptP7uPhdbMCf3PyHPjlWMZKVguGavP33Lj6PcFmXHcat4yPf1Fq2kF7jJnjfBaNl5QFFtlPNc-Vj0uqj3C0uUpmFO5jnlENGsKrUn4MmkfPeV7i5eaIAWgc5JFm2LtLTz7ampY/s700/Laliga.png" group-title="SPORTS 1",NOW SPORTS 2 (fastopen)
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112206
-#EXTINF:-1 tvg-chno="405" tvg-id="Solocalcio.it.it" tvg-name="Sportitalia Solocalcio HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/405-sisolocalciohd.png" group-title="SPORTS 1",SOLO CALCIO (streamup)
-#EXTSIZE: Medium
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS 1",SOLO CALCIO (rakuten)
-https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
-#EXTINF:-1 channel-id="ITBC4700002CO" tvg-id="ITBC4700002CO" tvg-chno="4633" tvg-name="Solocalcio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="SPORTS 1",SOLO CALCIO (jmp2.uk)
-https://jmp2.uk/stvp-ITBC4700002CO
-#EXTINF:-1 group-title="SPORTS 1",SPORT ITALIA (rakuten)
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1280x720_2560800/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS 1", SPORT ITALIA (rakuten)
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 #EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="SPORTS 1",CBS SPORTS UCL (jmp2.uk)
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTINF:-1 channel-id="63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e" tvg-chno="2830" tvg-name="Golazo Network" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png" group-title="SPORTS 1",CBS SPORTS GOLAZO NETWORK (jmp2.uk)
@@ -1350,6 +1403,24 @@ http://185.132.134.159:80/sport6/index.m3u8
 http://77.137.40.221:8000/play/a00i
 #EXTINF:-1 group-title="SPORTS 1", SPORT 5 PLUS (77.137.40.221)
 http://77.137.40.221:8000/play/a001
+#EXTINF:-1 tvg-chno="405" tvg-id="Solocalcio.it.it" tvg-name="Sportitalia Solocalcio HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/405-sisolocalciohd.png" group-title="SPORTS 1",SOLO CALCIO (streamup)
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS 1",SOLO CALCIO (rakuten)
+https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
+#EXTINF:-1 channel-id="ITBC4700002CO" tvg-id="ITBC4700002CO" tvg-chno="4633" tvg-name="Solocalcio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="SPORTS 1",SOLO CALCIO (jmp2.uk)
+https://jmp2.uk/stvp-ITBC4700002CO
+#EXTINF:-1 group-title="SPORTS 1",SPORT ITALIA (rakuten)
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1280x720_2560800/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS 1", SPORT ITALIA (rakuten)
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcTIjSkorRBgt509pYmsW_weN-btMHJcjUDgma5qDN2WCtbmuTAglOw0mpHmotuUWWBDQf9lCwnmDytfNZ0uS1n-eFC3eDXfPlYp5jPyG4k0CH_Ed8K2ybHlsmzQILeci_ckDS0ggv5kyFjaI7AA4YH8gpkor3ZIiQ5V0f7q5D2Y1CniFSUR6mgqCA01c/s700/ElevenSports1.png" group-title="SPORTS 1",Eleven Sports 1 (dragon1977)
+http://dragon1977.com:80/047306b75f/b5a06cc482d6/814327
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzPMk_dIBGw6_kpKWd4DNS8yVqzGs0_4o3VQMTcECoTYuV4ZRN_c58M_j2MTNRtLliEpF9vULu-ozmXIqJ4YOMpSx4Z0U36x3hqICf3i_ryLhbEg6JpWlezq5XUAUZiqtxGNt1gO-CP4wS6-GQGHemfvlXkFgnBRT9moFASG7Na9Agm3QNNNoL9laPTUU/s700/ElevenSports2.png" group-title="SPORTS 1",Eleven Sports 2 (dragon1977)
+http://dragon1977.com:80/047306b75f/b5a06cc482d6/814326
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB_gSwB5JFGYA8s9p15e02nhFxTgq5hcf5dtRP0C81GxDYR6prHoiec36h4omIAEjrpyykfEYWCOOPrCYHbZxAY5J5xSj9nxMRfJBk7IRBRKEPoVo_7A69Ko25yCDxep2OeqhaJ8Tc6Kbdb_fQE9hTYzmGzqPcZRs9ONcUCUngRkGROaTnVYK8A-CqB40/s700/ElevenSports3.png" group-title="SPORTS 1",Eleven Sports 3 (dragon1977)
+http://dragon1977.com:80/047306b75f/b5a06cc482d6/814325
 
 
 
@@ -1364,6 +1435,8 @@ http://77.137.40.221:8000/play/a001
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCOzchAkDiIxwY9tbX-GXVS5UFx_lCeUeFTJ3_9iYG04syYmryQRY7XnhjXqEPIYF0rldOjyOJ3yBQgDkuRdjU3TtiFS8W_DyyvlkQHQ6pQvCTlLeRyBj2x5iVXZpywuiD2y5H7DeCiVdsgwSCUn_OWULmgMuK9-jp69aEYwxSTSsAWZczvcMcgg-epIkB/s700/CAZE%20TV.png" group-title="SPORTS 2",CAZE TV (cloudfront)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 2",PRO Sport International (wns)
+https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="SPORTS 2", TDM Desporto (cdn6.163189)
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 group-title="SPORTS 2", 4 Football (trxad)
@@ -1449,6 +1522,35 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/id/en/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/HfR4NXyg/tvnsp.png" group-title="SPORTS 2", TVN SPORTS (jmp2.uk)
 https://jmp2.uk/stvp-KRBC800015MH
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd5e-lHVx4jy5e-so8cUt2B1cU7NqlLKnYnpnM6JWr9xrDee_1zp4qIIQ-6gGBrv1WVvtoSkhPKWOTl4Y5DwzyI-Dlax1JT1uDCF8h01lO9TnCaznmFVK9c6PRSQkfsMIBfQ89xdZ90xjh5oWeya5VwOBI1P7itfikuewcnqTdjbpGHPscbqaQpAH-oI8/s700/SonyTen1.png",Sony Ten 1 (cloudcdn)
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3YGLmKhWHf9cpMxITA-6KGiBvsT3nzNo8rc7JWH1ia8Os-5hytkC5VfF3_LSTFQ8Iy0oXC3SOEVN6Xl-RE-Qoygj71Oer8U7iuK_zuiSh_K4CA0TpjNY-5uVH8yiXWoIyCDhZd9mjkZ0XMOA_Y9ok7OnRvo8Qxw74WatBbzTONeTIUQ9dwgwVHEkv-Y/s700/SonyTen2.png",Sony Ten 2 (cloudcdn)
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYuWYk5OYozWSy5ZRTvuQ9aCRW_mcWeVQcT9xU4jW27u1Ls_NGwnAIdGSFA04-e8zOHN50eHz6UbNFD5f1Ca_x1xX696TKUF9etpMiWNheF8c3RSWe_gxrEXtYMKzwPo5ByxZL-MERSS9kjuSAHY0-AcOa1NhuDQKFRVZsn_6M_K70p9IjmAvJ2oCJE6w/s700/SonyTen3.png",Sony Ten 3 (cloudcdn)
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2k3pwFZqxfYCVGXPeZYq-Y5I_Fg-e6rTR7spOc8UpiUd-qrqCpLXRLpiwE6ixOFcrS3Y-8GvhNNq_RPAb17iX9pGaT369Uv2mEYKrZvqiDd8oXKZSz7gabhQ4CvKZ1O5GZ50hUsAMK7z-C1VQGq_43QPm8EN9BK77OwFhkTP08wS8wIYWqhMV0DNnyRo/s700/SonyTen4.png",Sony Ten 4 (cloudcdn)
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 group-title="SPORTS 2", KAZAJISTAN SPORT 🇰🇿 (qazcdn)
+https://qazaqstantv-stream.qazcdn.com:443/qazaqstantv/qazaqstantv/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 group-title="SPORTS 2", KAZAJISTAN SPORT 🇰🇿 (qazcdn)
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS 2", DSPORTS 1 (200.59.188.3)
+http://200.59.188.3:8000/play/a0xe
+#EXTINF:-1 group-title="SPORTS 2", DSPORTS 1 (190.117.20.37)
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="SPORTS 2", NOVA SPORT 1 dienalt)
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2555/index.m3u8
+#EXTINF:-1 group-title="SPORTS 2",CANAL+ SPORT (dienalt)
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
+#EXTINF:-1 group-title="SPORTS 2", SPORTYTV 🇨🇿 (antik)
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1 group-title="SPORTS 2", X SPORT 🇷🇺 (prosto)
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 group-title="SPORTS 2",HT SPOR 🇹🇷 (ercdn)
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+
+
+
 
 
 
@@ -1606,195 +1708,3 @@ https://d18pj8s9gbivdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 #EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://i.pinimg.com/236x/04/c6/8e/04c68ebdcd9ce841fefe05f8c49bfb58.jpg" ,STIX 2 (vermantiagaming)
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcTIjSkorRBgt509pYmsW_weN-btMHJcjUDgma5qDN2WCtbmuTAglOw0mpHmotuUWWBDQf9lCwnmDytfNZ0uS1n-eFC3eDXfPlYp5jPyG4k0CH_Ed8K2ybHlsmzQILeci_ckDS0ggv5kyFjaI7AA4YH8gpkor3ZIiQ5V0f7q5D2Y1CniFSUR6mgqCA01c/s700/ElevenSports1.png" group-title="SPORTS 7",Eleven Sports 1
-http://dragon1977.com:80/047306b75f/b5a06cc482d6/814327
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzPMk_dIBGw6_kpKWd4DNS8yVqzGs0_4o3VQMTcECoTYuV4ZRN_c58M_j2MTNRtLliEpF9vULu-ozmXIqJ4YOMpSx4Z0U36x3hqICf3i_ryLhbEg6JpWlezq5XUAUZiqtxGNt1gO-CP4wS6-GQGHemfvlXkFgnBRT9moFASG7Na9Agm3QNNNoL9laPTUU/s700/ElevenSports2.png" group-title="SPORTS 7",Eleven Sports 2
-http://dragon1977.com:80/047306b75f/b5a06cc482d6/814326
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB_gSwB5JFGYA8s9p15e02nhFxTgq5hcf5dtRP0C81GxDYR6prHoiec36h4omIAEjrpyykfEYWCOOPrCYHbZxAY5J5xSj9nxMRfJBk7IRBRKEPoVo_7A69Ko25yCDxep2OeqhaJ8Tc6Kbdb_fQE9hTYzmGzqPcZRs9ONcUCUngRkGROaTnVYK8A-CqB40/s700/ElevenSports3.png" group-title="SPORTS 7",Eleven Sports 3
-http://dragon1977.com:80/047306b75f/b5a06cc482d6/814325
-#EXTINF:-1 group-title="SPORTS 7" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd5e-lHVx4jy5e-so8cUt2B1cU7NqlLKnYnpnM6JWr9xrDee_1zp4qIIQ-6gGBrv1WVvtoSkhPKWOTl4Y5DwzyI-Dlax1JT1uDCF8h01lO9TnCaznmFVK9c6PRSQkfsMIBfQ89xdZ90xjh5oWeya5VwOBI1P7itfikuewcnqTdjbpGHPscbqaQpAH-oI8/s700/SonyTen1.png",Sony Ten 1
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 group-title="SPORTS 7" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3YGLmKhWHf9cpMxITA-6KGiBvsT3nzNo8rc7JWH1ia8Os-5hytkC5VfF3_LSTFQ8Iy0oXC3SOEVN6Xl-RE-Qoygj71Oer8U7iuK_zuiSh_K4CA0TpjNY-5uVH8yiXWoIyCDhZd9mjkZ0XMOA_Y9ok7OnRvo8Qxw74WatBbzTONeTIUQ9dwgwVHEkv-Y/s700/SonyTen2.png",Sony Ten 2
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 group-title="SPORTS 7" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYuWYk5OYozWSy5ZRTvuQ9aCRW_mcWeVQcT9xU4jW27u1Ls_NGwnAIdGSFA04-e8zOHN50eHz6UbNFD5f1Ca_x1xX696TKUF9etpMiWNheF8c3RSWe_gxrEXtYMKzwPo5ByxZL-MERSS9kjuSAHY0-AcOa1NhuDQKFRVZsn_6M_K70p9IjmAvJ2oCJE6w/s700/SonyTen3.png",Sony Ten 3
-http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 group-title="SPORTS 7" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2k3pwFZqxfYCVGXPeZYq-Y5I_Fg-e6rTR7spOc8UpiUd-qrqCpLXRLpiwE6ixOFcrS3Y-8GvhNNq_RPAb17iX9pGaT369Uv2mEYKrZvqiDd8oXKZSz7gabhQ4CvKZ1O5GZ50hUsAMK7z-C1VQGq_43QPm8EN9BK77OwFhkTP08wS8wIYWqhMV0DNnyRo/s700/SonyTen4.png",Sony Ten 4
-http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_Jbhrhdk0wRkisyYBmcU7TvfYv0TaL1Ck0Jo0cMRYpO2CcmPLumk8-YHwBIqOSw2DDnvgNQbU8VJ2T_hFx2ww9luEWigfnClmJDk2irQsosjLwFBpKm5zpXosuRXp2OdBC_dePMHiawZW8RSDYLKN2Qeny0WCNbWYjecPfVjgu8hYMg9UQ5Nv0aYuM9g/s700/ESPN1.png" group-title="SPORTS 7",ESPN 1
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvM3ifD92fb_qJdBy9-nk3eWeU62Lnql6_cdZ3Hfht1ezPfmZYoN46qSFzfm80OnNdRBL2ZJfoCeuZexnnq3suU7TKTarsbx63tQ841_zqOYCrB8zqEGW-JDE1soAhAT6AwDOghaY-oLFJrJkMoebdnCWoRKYjohbnIQODjmCZIiAErdCEOQ7JngZfCxw/s700/ESPN2.png" group-title="SPORTS 7",ESPN 2
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcg0g2qDb9hAmaizFC-o8kN9Ga-XRpuoVRXNsnEEyJmAYRlrrLHfQODAabGw0iCC_uXPeOl9pbBa8JPZDaU4kx8BvlJwXEwAPsKKjpzYllSQaOKZ7VrqLZwiuAEB3SsNRTaBDvmxqttMe-2qbkx9y36bgYJf_GQHCiZO1PFKR-jV8r2JdEXED3RFsGKsU/s700/ESPN3.png" group-title="SPORTS 7",ESPN 3
-http://46.151.196.223:14444/
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiutt4QvScOLcl5UNytYyNcEEBgOKCvld49o2r5eEdq3lFi-oBzaCYLc__lPAgdV2UB1i2SQxK2JUnlNYt_CCNP3CYGhk85TjpzlbZXvSCFnGbw322zFzBB-BuZFa75Qk1jE0BfnDOQZRPmorCXZJDoRBeqrmKd774qJq-UgnlhcjuEDFAssL9ywQhpOXA/s700/ESPN4.png" group-title="SPORTS 7",ESPN 4
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyxemXn3WY1xRMvFQkIpXzUwDiBd0lj9WgidJcK_RBOJ04XXCuxxxE8drr9daAWDCXMEKO3Ju7VjJ_nmHekwYUDMSekwUgmziB3GNRUNfu9O9aD4OdBUi_o_Nbnik7XwutCD_HmJmcsJGvhtBIfj8QPr6sWAOaYaegpYXkxaIyElyxlkk7thbtkWf8CY/s700/ESPN5.png" group-title="SPORTS 7",ESPN 5
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibbB00DgesUeV2rkFDgiNxyXztv4syqMO2Kg7oJ_cbmHnCD5-bcGtjUxfadmsqERWlzKhJV3Ttq6fzsCyywQ8WoN6XmqMKO7Bh1F3DvFzQVR2mf6HalNR2vWt__dmzdX0tSsiCJIXnD1D-sjfM_tUNclfgtlVkQrG58JUN4AhGJ0M51uZX18abpfQwfec/s700/CTV1.png" group-title="SPORTS 7",Champions TV 1
-http://202.169.224.202:8800/udp/239.9.1.9:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3FUcGlFxJixFYWTlaL5CvvNBp9AVVshk-lzhI42sc_GQ2ya3puhb0H6I6f5NBr90jhJNLs49dSiUyte50mSFAPra0fH5DBbneTUxPv9Mqm2xTiHLzt8HpO3Xx48vqUWF1corPfr9dLH3_S409PePbcNU6YOWQweypR5ZPhqDa3q-7AMAQV3px9P4ZiNE/s700/CTV2.png" group-title="SPORTS 7",Champions TV 2
-http://202.169.224.202:8800/udp/239.9.1.10:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_TN6dWqed83tAYA9tq8MouZhpqkZK0hM_4EhWSKZ2_srQMYTIMqy1mDdJO5U-gg5UB87I1_Cxxpxl2ugNeBrmPdR9YXgpAukoIhDXDUHPBbOLciSTilAqMsobW4eiPOVyDhaHC2VJUIEbEDb5HPWty2xLLN2KdnFtDnZknYzGbmqWr2HtGpWh7AGwpWE/s700/CTV3.png" group-title="SPORTS 7",Champions TV 3
-http://202.169.224.202:8800/udp/239.9.1.11:1234
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiZvICaZpnzpcua5ptBuFn8oJ2HRv_fw18YLDTCESsiIP8mfTegU2qMC7ZuWvF1jkM2np0Dj0-MoK8faARs-DmzO0wAVtYBW5E1VE7GRbGEzUpBVMx69jVaQYC_UajuUzn5Wsy9tlF2urPLY7FUkJ50g2hcdtoba6JGfcl57fsV0iAfWsA6xz67EJAqbY/s700/ArenaSports1.png" group-title="SPORTS 7",Arena Sport 1
-http://31.43.191.125:8080/chile/123456789/2991
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzdlKn1FiDcsW9V4Vs4wFDj9odjDTc1O5_pAAywMITmGONdyXzsK2XE0xOEpRlRxrlt0OcO-IlO53T63_uZe79W6hOasE66uf284iQ4swY5M3hOGhfJ6QnPYxUcUJDqfvd4SRfVkBTIMC9eWS-epZAIar16-kY9OiVD0m7zybdL1uIoczL948pjhyphenhyphenIlNs/s700/ArenaSports2.png" group-title="SPORTS 7",Arena Sport 2
-http://31.43.191.125:8080/chile/123456789/2992
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOdgLScxQiJuBp2FL1pfBn7tABW1V2yuxtgLewiwPKE2smB2FuibFMq9Bspcj7SJxaMnV5ygXYndAGgwdc_alSw_vTiuUs4L6i39kpVgM5d0w877ZWAOY6KsHY5OMoGvLyy8DY9kojmcU0FlCC-gkRpcg6DO_sa4D5LPb7i4lAz83kT3nRumJ8Z6ebfwo/s700/ArenaSports3.png" group-title="SPORTS 7",Arena Sport 3
-http://31.43.191.125:8080/chile/123456789/2993
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT_sZfRQjg9kxodcr9eltVjyR9JKihA3QAwvzd1m8tH1BDYCl5YwtzrKtS42YcqqU3NcCl7NPoMsH5Fvt_hZh7M-D5jNDg-jqdavcAXsiW09sU6zLIIjVG26Yyww5j0FXsFjgAN_v4RsAX2Vkt7rSYlQxTRorsaYUOWw8F77kFr7Qtb7h2mNoDrLvhduw/s700/ArenaSports4.png" group-title="SPORTS 7",Arena Sport 4
-http://31.43.191.125:8080/chile/123456789/2994
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYCUIPfIlWlEJfp4Xik9pytlBw7owa58bUpn3O24IY3mmdbilDM8AarJnlsLl1kqg7-ccEWeMG4LLLBYci0N8EDksrqbGyGyBECrGI-YSIBbM7npVfCEo6da-i70WAgr_B1fmvLCoDd4Rloftso8qjW1iUzH812iirtfW8zKfHGAweycPCVBI27aoyCXY/s700/ArenaSports5.png" group-title="SPORTS 7",Arena Sport 5
-http://31.43.191.125:8080/chile/123456789/2995
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC65asL_2cuUOSRrVjLbGM1PCRmqCzlo3obJK3PfCihjy9ZfCIU_7JeP19VpwGsZzWHt39f6EOwDIcJit_WXL-FDuiT-dxxmHCqgwyBm7rxj58CpPxJNgOsDJW2YPEqRRMCRzs4AJbi1Ly23pENL0FWGdJ3rpSvPw_J6EKH9xInHLC6sD8ChtH0m0xTVI/s700/CazeTV.png" group-title="SPORTS 7",Caze TV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 group-title="SPORTS 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIFDKd8xeeDEsyVz-Q1tm5j6qWft7Flc-JLF5PeGeajnF9VIlyc4_dgIOD1sDqhcyxKsR0LmggCLtvyT4eUBwS4NNxccLsw5l6qBoH7k9FLDemo1IfhxJmOoGKiuCPuMY6zJ2peQOdvBVaxrQV4dzP5CyzRYCY6-N8FwxgrmBD0977ucJM800OQH4sfB4/s700/BeinSportsXtra.jpg",BEIN Sports Xtra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 8",PRO Sport International (wns)
-https://proshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="SPORTS 8",CLATO SPORTS (181.205.130.194)
-http://181.205.130.194:4000/play/a06o
-#EXTINF:-1 group-title="SPORTS 8", AYM SPORT (otteravision)
-https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
-#EXTINF:-1 group-title="SPORTS 8",MATY NPEMBEP (cdntv)
-http://cdntv.online/low/9mlxywika2/52.m3u8
-#EXTINF:-1 group-title="SPORTS 8",CTAPT (cdntv)
-http://cdntv.online/low/9mlxywika2/58.m3u8
-#EXTINF:-1 group-title="SPORTS 8", ESPN 1 (sinalprivado)
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22000.m3u8
-#EXTINF:-1 group-title="SPORTS 8", ESPN 1 (sinalprivado)
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22001.m3u8
-#EXTINF:-1 group-title="SPORTS 8",ESPN 1 (205.235.6.29)
-http://205.235.6.29:8000/play/a0wk/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", ESPN 2 (sinalprivado)
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22003.m3u8
-#EXTINF:-1 group-title="SPORTS 8", ESPN 2 (sinalprivado)
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22004.m3u8
-#EXTINF:-1 group-title="SPORTS 8",ESPN 3 (sinalprivado)
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22006.m3u8
-#EXTINF:-1 group-title="SPORTS 8", ESPN 3 (sinalprivado)
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22007.m3u8
-#EXTINF:-1 group-title="SPORTS 8", ESPN 4 (sinalprivado)
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22009.m3u8
-#EXTINF:-1 group-title="SPORTS 8", ESPN 4 (sinalprivado)
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22010.m3u8
-#EXTINF:-1 group-title="SPORTS 8", ESPN 5 (sinalprivado)
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.m3u8
-#EXTINF:-1 group-title="SPORTS 8", ESPN 6 (sinalprivado)
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22015.m3u8
-#EXTINF:-1 group-title="SPORTS 8",ESPN 7 (205.235.6.29)
-http://205.235.6.29:8000/play/a0vu/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", DAZN 1 🇩🇪 (kusnadipepenk)
-https://kusnadipepenk.github.io/ntn/ele1.m3u8
-#EXTINF:-1 group-title="SPORTS 8", DAZN 2 🇩🇪 (kusnadipepenk)
-https://kusnadipepenk.github.io/ntn/ele2.m3u8
-#EXTINF:-1 group-title="SPORTS 8", DAZN 3 🇩🇪 (kusnadipepenk)
-https://kusnadipepenk.github.io/ntn/ele3.m3u8
-#EXTINF:-1 group-title="SPORTS 8", DAZN 1 🇵🇹 (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", DAZN 1 🇵🇹 (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", DAZN 2 🇵🇹 (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", DAZN 3 🇵🇹 (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", DAZN 4 🇵🇹 (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", DAZN 5 🇵🇹 (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", ARENA SPORT 1 (kusnadipepenk)
-https://kusnadipepenk.github.io/ntn/arns1.m3u8
-#EXTINF:-1 group-title="SPORTS 8", ARENA SPORT 2 (kusnadipepenk)
-https://kusnadipepenk.github.io/ntn/arns2.m3u8
-#EXTINF:-1 group-title="SPORTS 8", ARENA SPORT 3 (kusnadipepenk)
-https://kusnadipepenk.github.io/ntn/arns3.m3u8
-#EXTINF:-1 group-title="SPORTS 8", ARENA SPORT 4 (kusnadipepenk)
-https://kusnadipepenk.github.io/ntn/arns4.m3u8
-#EXTINF:-1 group-title="SPORTS 8", KAZAJISTAN SPORT 🇰🇿 (qazcdn)
-https://qazaqstantv-stream.qazcdn.com:443/qazaqstantv/qazaqstantv/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 group-title="SPORTS 8", KAZAJISTAN SPORT 🇰🇿 (qazcdn)
-https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS 8", Digi Sport 1 🇷🇴 (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", Digi Sport 2 🇷🇴 (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2522/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", Digi Sport 3 🇷🇴 (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", Digi Sport 4 🇷🇴 (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", DSPORTS 1 🇦🇷 (200.59.188.3)
-http://200.59.188.3:8000/play/a0xe
-#EXTINF:-1 group-title="SPORTS 8", DSPORTS 1 🇦🇷 (190.117.20.37)
-http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", Матч! 🇷🇺 (videoline)
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS 8", Матч! 🇷🇺 (32tech0steam0dp01)
-https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
-#EXTINF:-1 group-title="SPORTS 8", ZIGGO SPORT LIVE 🇳🇱 (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8 
-#EXTINF:-1 group-title="SPORTS 8", ZIGGO SPORT 2 HD 🇳🇱 (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8 
-#EXTINF:-1 group-title="SPORTS 8", ZIGGO SPORT 3 HD 🇳🇱 (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", NOVA SPORT 1 🇨🇿 (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2555/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8",NOVA SPORT 5 🇨🇿 (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", ESPN 2 🇦🇷 (181.205.130.194)
-http://181.205.130.194:4000/play/a07i
-#EXTINF:-1 group-title="SPORTS 8", TELEFE 🇦🇷 (200.115.120.1)
-http://200.115.120.1:8000/play/ca016/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", SKY SPORT LA LIGA 🇲🇽 (190.92.10.66)
-http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", BELARUS 5 🇧🇾 (beltelecom)
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS 8", SPORTYTV 🇨🇿 (antik)
-https://dash2.antik.sk/live/sporty_tv/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", SPORT RU 🇷🇺 (astrakhan)
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="SPORTS 8", X SPORT 🇷🇺 (prosto)
-http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:-1 group-title="SPORTS 8",HT SPOR 🇹🇷 (ercdn)
-https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
-#EXTINF:-1 group-title="SPORTS 8", SoloCalcioᴴᴰ 🇮🇹 (bit.ly)
-https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
-#EXTINF:-1 group-title="SPORTS 8", SPORT ITALIA 🇮🇹 (amagi.tv)
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
