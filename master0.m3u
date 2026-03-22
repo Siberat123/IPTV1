@@ -165,8 +165,6 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
-
-
 #INDO LOKAL
 #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y6yh0pV.jpeg" group-title="INDO LOKAL",MOJI TV (dens)
@@ -315,9 +313,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=l
 http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 
 
-
-
-
 #INDO NEWS
 #
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="INDO NEWS",KOMPAS TV (dens)
@@ -391,8 +386,6 @@ https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/hvideo-1
 https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/hvideo-1280x720.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDO NEWS",MBG TV (convergen)
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/chunklist_w845323564_b1944100_sleng.m3u8
-
-
 
 
 #WORLD NEWS
@@ -480,9 +473,6 @@ https://jmp2.uk/rok-f95c40a17cfe5b9fb1970192e378fb0c.m3u8
 https://jmp2.uk/rok-a1e38b83ae2a56f09f4d2ee8ed206b35.m3u8
 #EXTINF:-1 channel-id="0838d5ccb1d5564d98fb804ab314c85e" tvg-id="0838d5ccb1d5564d98fb804ab314c85e" tvg-chno="164" tvg-name="FOX Weather" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0838d5ccb1d5564d98fb804ab314c85e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442655370_1688568641141_FWX_HUD_1.png" group-title="WORLD NEWS",FOX WEATHER (jmp2.uk)
 https://jmp2.uk/rok-0838d5ccb1d5564d98fb804ab314c85e.m3u8
-
-
-
 
 
 #DOCUMENTARY
@@ -613,8 +603,6 @@ https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8
 #EXTINF:-1 channel-id="447d63b6da208bb796b69f0383c474a1" tvg-id="447d63b6da208bb796b69f0383c474a1" tvg-chno="950" tvg-name="Danger TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="DOCUMENTARY",Danger TV
 #EXTINF:-1 tvg-id="PersianaTravel.fr@SD" group-title="DOCUMENTARY",Persiana Travel
 https://ptravelhls.persiana.live/hls/stream.m3u8
-
-
 
 
 #MOVIES & SHOWS
@@ -773,8 +761,6 @@ https://jmp2.uk/rok-f99fa811e587e924c1aeebfe3d7f575f.m3u8
 https://jmp2.uk/rok-11c7c3660c6b6f18a21838fd404a7a1d.m3u8
 
 
-
-
 #KIDS FUN
 #
 #EXTINF:-1 channel-id="77761dc1928357d6809a2032fc2e17b8" tvg-id="77761dc1928357d6809a2032fc2e17b8" tvg-chno="404" tvg-name="The LEGO Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/77761dc1928357d6809a2032fc2e17b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657671397295_LEGO_260x147.png" group-title="KIDS FUN",The LEGO Channel
@@ -833,8 +819,6 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 
 
-
-
 #BEIN SPORTS
 #
 #EXTINF: -1 tvg-id="1" tvg-name="beIN Sports 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORTS",BEIN SPORTS 1 (4kgood)
@@ -859,7 +843,6 @@ http://4kgood.org/8344281117826792/7mv6wkb8m8gwimx4frkr/8
 http://4kgood.org/8344281117826792/7mv6wkb8m8gwimx4frkr/9
 #EXTINF: -1 tvg-id="10" tvg-name="beIN Sports 9 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORTS",BEIN SPORTS 9 (4kgood)
 http://4kgood.org/8344281117826792/7mv6wkb8m8gwimx4frkr/10
-
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="BEIN SPORTS",BEIN SPORTS 4 MAX (vipnorseman)
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/376
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="BEIN SPORTS",BEIN SPORTS 5 MAX (vipnorseman)
@@ -874,7 +857,6 @@ http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/380
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/381
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="BEIN SPORTS",BEIN SPORTS 10 MAX (vipnorseman)
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/382
-
 #EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORT 1  🇶🇦 (77.137.40.221)
 http://77.137.40.221:8000/play/a01e
 #EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORT 2  🇶🇦 (77.137.40.221)
@@ -887,7 +869,6 @@ http://77.137.40.221:8000/play/a01i
 http://77.137.40.221:8000/play/a01j
 #EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORT 6  🇶🇦 (77.137.40.221)
 http://77.137.40.221:8000/play/a01k
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFK26ym.jpg" group-title="BEIN SPORTS",BEIN SPORTS XTRA n (amagi.tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -897,13 +878,10 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://jmp2.uk/rok-909b135136a1567eaf3f65fb64988323.m3u8
 #EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.png" group-title="BEIN SPORTS" , BEIN SPORTS XTRA n (amagi.tv)
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QgMN6gm.jpg" group-title="BEIN SPORTS",BEIN SPORTS XTRA (amagi.tv)
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="bc932f13c31e542db6e3e6247e7131bc" tvg-id="bc932f13c31e542db6e3e6247e7131bc" tvg-chno="255" tvg-name="BEIN SPORT Xtra" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bc932f13c31e542db6e3e6247e7131bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652896913644_beIN-SPORTS-XTRA_LOGO_ROKU_HUD_260x147%255B1%255D.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA (jmp2.uk)
 https://jmp2.uk/rok-bc932f13c31e542db6e3e6247e7131bc.m3u8
-
-
 #EXTINF: -1 tvg-id="117124" tvg-name="beIN Sports XTRA 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA 1 (4kgood)
 http://4kgood.org/8344281117826792/7mv6wkb8m8gwimx4frkr/117124
 #EXTINF: -1 tvg-id="117129" tvg-name="beIN Sports XTRA 2 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA 2 (4kgood)
@@ -912,12 +890,6 @@ http://4kgood.org/8344281117826792/7mv6wkb8m8gwimx4frkr/117129
 http://4kgood.org/8344281117826792/7mv6wkb8m8gwimx4frkr/3
 #EXTINF: -1 tvg-id="1572902" tvg-name="beIN Sports XTRA 4 HD" tvg-logo="https://i.postimg.cc/4xyXKPZ1/IMG-3534.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA 4 (4kgood)
 http://4kgood.org/8344281117826792/7mv6wkb8m8gwimx4frkr/1572902
-
-
-
-
-
-
 
 
 #HUB SPORTS
@@ -960,8 +932,6 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314083&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&extension=ts&play_token=Suotild03T
 
 
-
-
 #ARAB SPORTS
 #
 #EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-logo="https://i.ibb.co.com/YpQ86Qk/kass1.png" group-title="ARAB SPORTS", AL-KASS 1 (alkassdigital)
@@ -1002,10 +972,6 @@ http://154.197.91.169:8000/play/a0hu/index.m3u8
 http://154.197.91.169:8000/play/a0hv/index.m3u8
 #EXTINF:-1 group-title="ARAB SPORTS",  Arryadia HD3 (154.197.91.169)
 http://154.197.91.169:8000/play/a0hw/index.m3u8
-
-
-
-
 
 
 #RUSSIAN SPORTS
@@ -1071,12 +1037,6 @@ http://cdntv.online/low/9mlxywika2/58.m3u8
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
 
-
-
-
-
-
-
 #DAZN SPORTS
 #
 #EXTINF:-1 channel-id="647f07e74cfc2c0008a2e557" tvg-id="647f07e74cfc2c0008a2e557" tvg-chno="708" tvg-name="DAZN TV" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png" group-title="DAZN SPORTS",DAZN TV (jmp2.uk)
@@ -1104,18 +1064,6 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48446
 #EXTINF:-1 group-title="DAZN SPORTS", DAZN 5 dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #ESPN SPORTS
@@ -1178,25 +1126,6 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22015.m3u8
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTINF:-1 group-title="ESPN SPORTS",ESPN 7 (205.235.6.29)
 http://205.235.6.29:8000/play/a0vu/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #SPORTS 1
@@ -1423,12 +1352,6 @@ http://dragon1977.com:80/047306b75f/b5a06cc482d6/814326
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/814325
 
 
-
-
-
-
-
-
 #SPORTS 2
 #
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QFNLqBkW/cazetv.png" group-title="SPORTS 2", CAZE TV (cloudfront)
@@ -1548,12 +1471,6 @@ https://dash2.antik.sk/live/sporty_tv/index.m3u8
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1 group-title="SPORTS 2",HT SPOR 🇹🇷 (ercdn)
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
-
-
-
-
-
-
 
 
 #SPORTS 3
