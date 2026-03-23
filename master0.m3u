@@ -763,30 +763,26 @@ https://jmp2.uk/rok-11c7c3660c6b6f18a21838fd404a7a1d.m3u8
 
 #KIDS FUN
 #
-#EXTINF:-1 channel-id="77761dc1928357d6809a2032fc2e17b8" tvg-id="77761dc1928357d6809a2032fc2e17b8" tvg-chno="404" tvg-name="The LEGO Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/77761dc1928357d6809a2032fc2e17b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657671397295_LEGO_260x147.png" group-title="KIDS FUN",The LEGO Channel
-https://jmp2.uk/rok-77761dc1928357d6809a2032fc2e17b8.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS FUN",CARTOON NETWORK
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/CartoonNetwork.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_mentaritv.png" group-title="KIDS FUN",Mentari TV
+#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_mentaritv.png" group-title="KIDS FUN",Mentari TV (103.66.62.83)
 http://103.66.62.83:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="|ID| HOREE!" tvg-logo="" group-title="KIDS FUN",HOREE!
-http://sans7.org:88/02021349372647/7416812501/694344
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="KIDS FUN",RTV
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="KIDS FUN",RTV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="KIDS FUN",RTV 1
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="KIDS FUN", RTV 2
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="KIDS FUN", RTV (dens)
 https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="KIDS FUN",RTV 3
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="KIDS FUN",RTV (rtv)
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="KIDS FUN",RTV (cloudns)
 http://cdn.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="KIDS FUN",DISNEY
+#EXTINF:-1 channel-id="77761dc1928357d6809a2032fc2e17b8" tvg-id="77761dc1928357d6809a2032fc2e17b8" tvg-chno="404" tvg-name="The LEGO Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/77761dc1928357d6809a2032fc2e17b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657671397295_LEGO_260x147.png" group-title="KIDS FUN",The LEGO Channel (jmp2.uk)
+https://jmp2.uk/rok-77761dc1928357d6809a2032fc2e17b8.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="KIDS FUN",DISNEY (moveonjoy)
 https://fl1.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="KIDS FUN",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="KIDS FUN",Disney Channel (moveonjoy)
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="KIDS FUN",Disney Jr.
+#EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="KIDS FUN",Disney Jr (151.80.18.177)
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
-#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mykidz.png?raw=true" group-title="KIDS FUN",My Kidz
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mykidz.png?raw=true" group-title="KIDS FUN",My Kidz (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="KIDS FUN", ANIMAX
@@ -1084,6 +1080,10 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22000.m3u8
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22001.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyogJWA.jpg" group-title="ESPN SPORTS",ESPN 1 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts
+#EXTINF:-1 group-title="ESPN SPORTS",ESPN 1 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83385
+#EXTINF:-1 group-title="ESPN SPORTS",ESPN 2 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83383
 #EXTINF:-1 group-title="ESPN SPORTS", ESPN 2 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22003.m3u8
 #EXTINF:-1 group-title="ESPN SPORTS", ESPN 2 (sinalprivado)
@@ -1106,6 +1106,10 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22007.m3u8
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22008.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ADc4YF5.jpg" group-title="ESPN SPORTS",ESPN 3 (46.151.196.223)
 http://46.151.196.223:14444/
+#EXTINF:-1 group-title="ESPN SPORTS",ESPN 3 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83384
+#EXTINF:-1 group-title="ESPN SPORTS",ESPN 4 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83388
 #EXTINF:-1 group-title="ESPN SPORTS", ESPN 4 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22009.m3u8
 #EXTINF:-1 group-title="ESPN SPORTS", ESPN 4 (sinalprivado)
@@ -1120,6 +1124,10 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.m3u8
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
 #EXTINF:-1 group-title="ESPN SPORTS", ESPN 5 (190.0.247.38)
 http://190.0.247.38:8000/play/a012
+#EXTINF:-1 group-title="ESPN SPORTS",ESPN 5 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83389
+#EXTINF:-1 group-title="ESPN SPORTS",ESPN 6 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83382
 #EXTINF:-1 group-title="ESPN SPORTS", ESPN 6 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22015.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="ESPN SPORTS",ESPN 6 (sinalprivado)
@@ -1130,12 +1138,6 @@ http://205.235.6.29:8000/play/a0vu/index.m3u8
 
 #SPORTS 1
 #
-#EXTINF:-1 tvg-id="Champions.TV.1.id"tvg-name=""tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg"group-title="SPORTS 1",CHAMPIONS TV 1 (UDP)
-http://202.169.224.202:8800/udp/239.9.1.9:1234
-#EXTINF:-1 tvg-id="Champions.TV.2.id"tvg-name=""tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg"group-title="SPORTS 1",CHAMPIONS TV 2 (UDP)
-http://202.169.224.202:8800/udp/239.9.1.10:1234
-#EXTINF:-1 tvg-id="Champions.TV.3.id"tvg-name=""tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg"group-title="SPORTS 1",CHAMPIONS TV 3 (UDP)
-http://202.169.224.202:8800/udp/239.9.1.11:1234
 #EXTINF:-1 group-title="SPORTS 1", Digi Sport 1 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
 #EXTINF:-1 group-title="SPORTS 1", Digi Sport 2 (dienalt)
@@ -1260,6 +1262,12 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/48497
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48498
 #EXTINF:-1 group-title="SPORTS 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png", Sport TV 4 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48499
+#EXTINF:-1 group-title="SPORTS 4",Spor TV 1 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83416
+#EXTINF:-1 group-title="SPORTS 4",Spor TV 2 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83414
+#EXTINF:-1 group-title="SPORTS 4",Spor TV 3 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83816
 #EXTINF:-1 group-title="SPORTS 1", MAX SPORT 1 (77.46.130.252)
 http://77.46.130.252:99/maxsport1
 #EXTINF:-1 group-title="SPORTS 1", MAX SPORT 2 (77.46.130.252)
@@ -1356,6 +1364,20 @@ http://dragon1977.com:80/047306b75f/b5a06cc482d6/814327
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/814326
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB_gSwB5JFGYA8s9p15e02nhFxTgq5hcf5dtRP0C81GxDYR6prHoiec36h4omIAEjrpyykfEYWCOOPrCYHbZxAY5J5xSj9nxMRfJBk7IRBRKEPoVo_7A69Ko25yCDxep2OeqhaJ8Tc6Kbdb_fQE9hTYzmGzqPcZRs9ONcUCUngRkGROaTnVYK8A-CqB40/s700/ElevenSports3.png" group-title="SPORTS 1",Eleven Sports 3 (dragon1977)
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/814325
+#EXTINF:-1 group-title="SPORTS 1",Premiere 1 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83405
+#EXTINF:-1 group-title="SPORTS 1",Premiere 2 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83406
+#EXTINF:-1 group-title="SPORTS 1",Premiere 3 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83407
+#EXTINF:-1 group-title="SPORTS 1",Premiere 4 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83408
+#EXTINF:-1 group-title="SPORTS 1",Premiere 5 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83409
+#EXTINF:-1 group-title="SPORTS 1",Premiere 6 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83410
+#EXTINF:-1 group-title="SPORTS 1",Premiere 7 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83411
 
 
 #SPORTS 2
@@ -1631,41 +1653,3 @@ https://d18pj8s9gbivdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 #EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://i.pinimg.com/236x/04/c6/8e/04c68ebdcd9ce841fefe05f8c49bfb58.jpg" ,STIX 2 (vermantiagaming)
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
-
-
-#SPORTS 4
-#
-#EXTINF:-1 group-title="SPORTS 4",ESPN 1 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83385
-#EXTINF:-1 group-title="SPORTS 4",ESPN 2 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83383
-#EXTINF:-1 group-title="SPORTS 4",ESPN 3 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83384
-#EXTINF:-1 group-title="SPORTS 4",ESPN 4 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83388
-#EXTINF:-1 group-title="SPORTS 4",ESPN 5 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83389
-#EXTINF:-1 group-title="SPORTS 4",ESPN 6 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83382
-
-#EXTINF:-1 group-title="SPORTS 4",Premiere 1 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83405
-#EXTINF:-1 group-title="SPORTS 4",Premiere 2 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83406
-#EXTINF:-1 group-title="SPORTS 4",Premiere 3 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83407
-#EXTINF:-1 group-title="SPORTS 4",Premiere 4 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83408
-#EXTINF:-1 group-title="SPORTS 4",Premiere 5 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83409
-#EXTINF:-1 group-title="SPORTS 4",Premiere 6 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83410
-#EXTINF:-1 group-title="SPORTS 4",Premiere 7 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83411
-
-#EXTINF:-1 group-title="SPORTS 4",SporTV 1 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83416
-#EXTINF:-1 group-title="SPORTS 4",SporTV 2 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83414
-#EXTINF:-1 group-title="SPORTS 4",SporTV 3 (magixx99)
-http://magixx99.com:80/41782245166/jho98765jho/83816
