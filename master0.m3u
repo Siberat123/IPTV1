@@ -50,8 +50,8 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="INDO NASIONAL",TRANS 7 (bianet)
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162502
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png" group-title="INDO NASIONAL",TRANS TV (detik)
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="INDO NASIONAL",TRANS TV (detik)
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png" group-title="INDO NASIONAL",TRANS TV (detik)
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png" group-title="INDO NASIONAL",TRANS TV (bianet)
@@ -340,6 +340,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTINF:-1 tvg-logo="https://garuda.tv/wp-content/uploads/2023/09/Untitled-design-9.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="INDO NEWS",NUSANTARA TV (dens)
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="INDO NEWS",NUSANTARA TV (siar)
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", NUSANTARA TV (indihometv)
@@ -1386,6 +1388,16 @@ http://magixx99.com:80/41782245166/jho98765jho/83411
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCOzchAkDiIxwY9tbX-GXVS5UFx_lCeUeFTJ3_9iYG04syYmryQRY7XnhjXqEPIYF0rldOjyOJ3yBQgDkuRdjU3TtiFS8W_DyyvlkQHQ6pQvCTlLeRyBj2x5iVXZpywuiD2y5H7DeCiVdsgwSCUn_OWULmgMuK9-jp69aEYwxSTSsAWZczvcMcgg-epIkB/s700/CAZE%20TV.png" group-title="SPORTS 2",CAZE TV (cloudfront)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 channel-id="DEAJ0500429A" tvg-id="DEAJ0500429A" tvg-chno="4611" tvg-name="Sportdigital Free" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500429A_20250527T015726SQUARE.png" group-title="SPORTS 2",SPORTDIGITAL (jmp2.uk)
+https://jmp2.uk/stvp-DEAJ0500429A
+#EXTINF:-1 group-title="SPORTS 2",SPORTDIGITAL (jmp2.uk)
+https://jmp2.uk/stvp-ATAJ0500433A
+#EXTINF:-1 channel-id="DEBD260000692" tvg-id="DEBD260000692" tvg-chno="4641" tvg-name="Scooore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD260000692_20250107T024407SQUARE.png" group-title="SPORTS 2",SPORTDIGITAL SCOOORE (jmp2.uk)
+https://jmp2.uk/stvp-DEBD260000692
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE: SPORTDIGITAL1+" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/sportdigitalPlus1.png" group-title="SPORTS 2",SPORTDIGITAL1+ (sonymax)
+http://sonymax.org:8080/live/wNSvGOtvtx/H7FLHWMLY3/30357.m3u8
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE: SPORTDIGITAL FUSSBALL" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sportdigital_fb.png" group-title="SPORTS 2",SPORTDIGITAL FUSSBALL (sonymax)
+http://sonymax.org:8080/live/wNSvGOtvtx/H7FLHWMLY3/235605.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS 2",PRO Sport International (wns)
 https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="SPORTS 2", TDM Desporto (cdn6.163189)
@@ -1398,10 +1410,6 @@ http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/866
 https://jmp2.uk/rok-35633f08c98857cb9e85c91eae17c0d5.m3u8
 #EXTINF:-1 channel-id="66461eb33d173b000805ecd3" tvg-id="66461eb33d173b000805ecd3" tvg-chno="223" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/66461eb33d173b000805ecd3/colorLogoPNG_1769414804838.png" group-title="SPORTS 2",DFB PPLAY TV (jmp2.uk)
 https://jmp2.uk/plu-66461eb33d173b000805ecd3.m3u8
-#EXTINF:-1 channel-id="DEAJ0500429A" tvg-id="DEAJ0500429A" tvg-chno="4611" tvg-name="Sportdigital Free" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500429A_20250527T015726SQUARE.png" group-title="SPORTS 2",SPORTDIGITAL (jmp2.uk)
-https://jmp2.uk/stvp-DEAJ0500429A
-#EXTINF:-1 channel-id="DEBD260000692" tvg-id="DEBD260000692" tvg-chno="4641" tvg-name="Scooore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD260000692_20250107T024407SQUARE.png" group-title="SPORTS 2",SPORTDIGITAL SCOOORE (jmp2.uk)
-https://jmp2.uk/stvp-DEBD260000692
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" ,ASTRO ARENA 2 (cutsiffa)
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astaren2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="SPORTS 2", REAL MADRID TV (akamaized)
@@ -1420,8 +1428,7 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS 2", ARENA SPORT 2 (88.212.15.19)
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS 2", Sportdigital (jmp2.uk)
-https://jmp2.uk/stvp-ATAJ0500433A
+
 #EXTINF:-1 group-title="SPORTS 2", Eurosport 1 (trxad)
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294038&extension=ts&play_token=NrLWS0P6US
 #EXTINF:-1 group-title="SPORTS 2", Eurosport 2 (trxad)
