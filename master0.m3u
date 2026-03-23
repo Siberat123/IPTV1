@@ -1635,68 +1635,37 @@ https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 
 #SPORTS 4
 #
-#EXTINF:-1 group-title="SPORTS 4",SKY SPORT 1 nz (195.128.27.141)
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=579826&extension=m3u8
-#EXTINF:-1 group-title="SPORTS 4",SKY SPORT 2 nz (195.128.27.141)
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=579825&extension=m3u8
-#EXTINF:-1 group-title="SPORTS 4",SKY SPORT 3 nz (195.128.27.141)
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=579824&extension=m3u8
-#EXTINF:-1 group-title="SPORTS 4",SKY SPORT 4 nz (195.128.27.141)
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=579823&extension=m3u8
-#EXTINF:-1 group-title="SPORTS 4",SKY SPORT 5 nz (195.128.27.141)
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=579822&extension=m3u8
-#EXTINF:-1 group-title="SPORTS 4",SKY SPORT 6 nz (195.128.27.141)
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=579821&extension=m3u8
-#EXTINF:-1 group-title="SPORTS 4",SKY SPORT 7 nz (195.128.27.141)
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=579820&extension=m3u8
-#EXTINF:-1 group-title="SPORTS 4",SKY SPORT 8 nz (195.128.27.141)
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=579819&extension=m3u8
+#EXTINF:-1 group-title="SPORTS 4",ESPN 1 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83385
+#EXTINF:-1 group-title="SPORTS 4",ESPN 2 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83383
+#EXTINF:-1 group-title="SPORTS 4",ESPN 3 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83384
+#EXTINF:-1 group-title="SPORTS 4",ESPN 4 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83388
+#EXTINF:-1 group-title="SPORTS 4",ESPN 5 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83389
+#EXTINF:-1 group-title="SPORTS 4",ESPN 6 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83382
 
+#EXTINF:-1 group-title="SPORTS 4",Premiere 1 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83405
+#EXTINF:-1 group-title="SPORTS 4",Premiere 2 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83406
+#EXTINF:-1 group-title="SPORTS 4",Premiere 3 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83407
+#EXTINF:-1 group-title="SPORTS 4",Premiere 4 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83408
+#EXTINF:-1 group-title="SPORTS 4",Premiere 5 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83409
+#EXTINF:-1 group-title="SPORTS 4",Premiere 6 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83410
+#EXTINF:-1 group-title="SPORTS 4",Premiere 7 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83411
 
-#EXTINF:-1 group-title="SPORTS 4",TSN 1 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/17181.m3u8
-#EXTINF:-1 group-title="SPORTS 4",TSN 2 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/17180.m3u8
-#EXTINF:-1 group-title="SPORTS 4",TSN 3 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/17179.m3u8
-#EXTINF:-1 group-title="SPORTS 4",TSN 4 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/17178.m3u8
-#EXTINF:-1 group-title="SPORTS 4",TSN 5 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/17177.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS 4",NOW SPORT 1 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
-#EXTINF:-1 group-title="SPORTS 4",NOW SPORT 2 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
-#EXTINF:-1 group-title="SPORTS 4",NOW SPORT 3 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112205.m3u8
-#EXTINF:-1 group-title="SPORTS 4",NOW SPORT 4 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112204.m3u8
-#EXTINF:-1 group-title="SPORTS 4",NOW SPORT 5 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112203.m3u8
-#EXTINF:-1 group-title="SPORTS 4",NOW SPORT 6 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112202.m3u8
-#EXTINF:-1 group-title="SPORTS 4",NOW SPORT 7 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
-
-#EXTINF:-1 group-title="SPORTS 4",HUB PREMIER 1 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112231.m3u8
-#EXTINF:-1 group-title="SPORTS 4",HUB PREMIER 2 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112229.m3u8
-#EXTINF:-1 group-title="SPORTS 4",HUB PREMIER 3 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112228.m3u8
-#EXTINF:-1 group-title="SPORTS 4",HUB PREMIER 4 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112227.m3u8
-#EXTINF:-1 group-title="SPORTS 4",HUB PREMIER 5 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112226.m3u8
-#EXTINF:-1 group-title="SPORTS 4",HUB PREMIER 6 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112225.m3u8
-#EXTINF:-1 group-title="SPORTS 4",HUB PREMIER 7 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112224.m3u8
-#EXTINF:-1 group-title="SPORTS 4",HUB PREMIER 8 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112223.m3u8
-#EXTINF:-1 group-title="SPORTS 4",HUB PREMIER 9 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112222.m3u8
-#EXTINF:-1 group-title="SPORTS 4",HUB PREMIER 10 (fastopen)
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112221.m3u8
+#EXTINF:-1 group-title="SPORTS 4",SporTV 1 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83416
+#EXTINF:-1 group-title="SPORTS 4",SporTV 2 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83414
+#EXTINF:-1 group-title="SPORTS 4",SporTV 3 (magixx99)
+http://magixx99.com:80/41782245166/jho98765jho/83816
