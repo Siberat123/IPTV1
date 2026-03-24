@@ -161,6 +161,23 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="CCTV SUKABUMI",CICURUG
+https://cctv-dishub.sukabumikab.go.id/hls/cicurug/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CCTV SUKABUMI",CICURUG
+https://cctv-dishub.sukabumikab.go.id/hls/cicurug/stream.m3u8?t=1774367856572
+#EXTINF:-1 tvg-logo="" group-title="CCTV SUKABUMI",EXIT TOL PARKUD
+https://cctv-dishub.sukabumikab.go.id/hls/exittol/stream.m3u8?t=1774367856496
+#EXTINF:-1 tvg-logo="" group-title="CCTV SUKABUMI",PARKUD
+https://cctv-dishub.sukabumikab.go.id/hls/parungkuda/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CCTV SUKABUMI",PASAR CIBADAK
+https://cctv-dishub.sukabumikab.go.id/hls/pasarcibadak/stream.m3u8?t=1774367856510
+#EXTINF:-1 tvg-logo="" group-title="CCTV SUKABUMI",MASJID CIBADAK
+https://cctv-dishub.sukabumikab.go.id/hls/masjidcibadak/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CCTV SUKABUMI",MASJID CIBADAK
+https://cctv-dishub.sukabumikab.go.id/hls/masjidcibadak/stream.m3u8?t=1774367856522
+
+
+
 #INDO LOKAL
 #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y6yh0pV.jpeg" group-title="INDO LOKAL",MOJI TV (dens)
@@ -1280,7 +1297,7 @@ https://restream-live.realiptv.to/53420573/53717218/2185
 https://restream-live.realiptv.to/53420573/53717218/2184
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",Sky Sports Main Event (tvmate)
 http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/35243
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",Sky Sports Main Event (x)
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",Sky Sports Main Event (tvmate)
 http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/137720
 #EXTINF:-1 group-title="SKY SPORTS",Sky Sports La Liga (190.92.10.66)
 http://190.92.10.66:4000/play/a001/index.m3u8
@@ -1446,7 +1463,7 @@ https://restream-live.realiptv.to/53420573/53717218/844
 http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167744
 #EXTINF:-1 group-title="SPORTS 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",Sport TV 4 (kstv)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48499
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="PORTS 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",Sport TV 4 (kstv)
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="SPORTS 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",Sport TV 4 (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/48499
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="SPORTS 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",Sport TV 4 (realiptv)
 https://restream-live.realiptv.to/53420573/53717218/843
