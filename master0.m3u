@@ -50,10 +50,6 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="INDO NASIONAL",TRANS 7 (bianet)
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162502
-#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="INDO NASIONAL",TRANS TV (detik)
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png" group-title="INDO NASIONAL",TRANS TV (detik)
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png" group-title="INDO NASIONAL",TRANS TV (bianet)
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162503
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="INDO NASIONAL",MDTV (dens)
@@ -62,7 +58,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="INDO NASIONAL",MDTV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png" group-title="INDO NASIONAL",MDTV (wahyu1ptv)
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="INDO NASIONAL",MDTV (wahyu1ptv)
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="INDO NASIONAL",RCTI (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
@@ -186,16 +182,16 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://oxygentv.id/
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
-#EXTINF:0 tvg-id="outdoor" group-title="INDO LOKAL",DENS LIFESTYLE (dens)
+#EXTINF:0 tvg-id="outdoor" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="INDO LOKAL",DENS LIFESTYLE (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
-#EXTINF:0 tvg-id="outdoor" group-title="INDO LOKAL",DENS KNOWLEDGE (dens)
+#EXTINF:0 tvg-id="outdoor" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg" group-title="INDO LOKAL",DENS KNOWLEDGE (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-#EXTINF:0 tvg-id="outdoor" group-title="INDO LOKAL",DENS SHOWBIZ (dens)
+#EXTINF:0 tvg-id="outdoor" tvg-logo="https://pic.dens.tv/tv_183x174/1591343514_square.jpg" group-title="INDO LOKAL",DENS SHOWBIZ (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
-#EXTINF:0 tvg-id="outdoor" group-title="INDO LOKAL",DENS FOOD (dens)
+#EXTINF:0 tvg-id="outdoor" tvg-logo="https://pic.dens.tv/tv_183x174/Dens_Food_Channel_(Trial)_1.jpg" group-title="INDO LOKAL",DENS FOOD (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -288,7 +284,17 @@ https://live.salira.tv/p/3870/hybrid/play.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",SAMPIT TV (siar)
 https://sampit-tv.siar.us/live/sampit-tv.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",STARA TV (staratv)
-https://stream.staratv.id/hls/0/stream.m3u8?checkedby:iptvcat.com
+https://stream.staratv.id/hls/0/stream.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",STARA TV BANDUNG (staratv)
+https://bandung.staratv.id/hls/0/stream.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",STARA TV CIANJUR (staratv)
+https://cianjur.staratv.id/hls/0/stream.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",STARA TV JAKARTA (staratv)
+https://jakarta.staratv.id/hls/0/stream.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",STARA TV MALANG (staratv)
+https://malang.staratv.id/hls/0/stream.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",STARA TV PARAHYANGAN (staratv)
+https://parahyangan.staratv.id/hls/0/stream.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",SULTRA TV (sultratv)
 http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO LOKAL",SURAU TV (siar)
@@ -309,8 +315,10 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
-#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzeVlMxH27YZItvBD98dwfC7qhE6RHj-Qpr_BpuwAAiGfcwhIqlFCnTpin3bWNn_ZoqmtQO7ghJ8z0a1RUhj82uGMa5Ib5-UulLhyv1h91HzPbU7QFDrEkrHuZZI3upkSeaOowfPBPG7aXgoNnZcSaG1e7_3uv0DwNS1Gb8Ae4_NOq0aqG4b953EhXe9S9/s700/MIC%20TV.png", MIC TV (cloudns)
-http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
+#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzeVlMxH27YZItvBD98dwfC7qhE6RHj-Qpr_BpuwAAiGfcwhIqlFCnTpin3bWNn_ZoqmtQO7ghJ8z0a1RUhj82uGMa5Ib5-UulLhyv1h91HzPbU7QFDrEkrHuZZI3upkSeaOowfPBPG7aXgoNnZcSaG1e7_3uv0DwNS1Gb8Ae4_NOq0aqG4b953EhXe9S9/s700/MIC%20TV.png", MIC TV (siar)
+https://mic.siar.us/mic/live/mic_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO LOKAL",SELAPARANG TV (siar)
+https://selaparangtv.siar.us/live/selaparangtv.m3u8
 
 
 #INDO NEWS
@@ -336,10 +344,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/2560px-Logo_GarudaTV_Primer_Flat_2025.svg.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
-#EXTVLCOPT:http-referrer=https://garuda.tv/
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTINF:-1 tvg-logo="https://garuda.tv/wp-content/uploads/2023/09/Untitled-design-9.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="INDO NEWS",NUSANTARA TV (dens)
 https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="INDO NEWS",NUSANTARA TV (siar)
@@ -475,6 +482,8 @@ https://jmp2.uk/rok-f95c40a17cfe5b9fb1970192e378fb0c.m3u8
 https://jmp2.uk/rok-a1e38b83ae2a56f09f4d2ee8ed206b35.m3u8
 #EXTINF:-1 channel-id="0838d5ccb1d5564d98fb804ab314c85e" tvg-id="0838d5ccb1d5564d98fb804ab314c85e" tvg-chno="164" tvg-name="FOX Weather" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0838d5ccb1d5564d98fb804ab314c85e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442655370_1688568641141_FWX_HUD_1.png" group-title="WORLD NEWS",FOX WEATHER (jmp2.uk)
 https://jmp2.uk/rok-0838d5ccb1d5564d98fb804ab314c85e.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WORLD NEWS",BAHRAIN INTERNATIONAL (streamlock)
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w76993686_b2487000.m3u8
 
 
 #DOCUMENTARY
@@ -605,6 +614,10 @@ https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8
 #EXTINF:-1 channel-id="447d63b6da208bb796b69f0383c474a1" tvg-id="447d63b6da208bb796b69f0383c474a1" tvg-chno="950" tvg-name="Danger TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="DOCUMENTARY",Danger TV
 #EXTINF:-1 tvg-id="PersianaTravel.fr@SD" group-title="DOCUMENTARY",Persiana Travel
 https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOCUMENTARY", We Do TV Big Stories
+https://amg00735-amg00735c19-denstv-apac-7624.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedobigstories-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fbe35810d86ef3b40140c07d41fa83439fd401e987dc5e8347d373a3459f9bf1dfd546848caf599a03eb307b3f4818a2847097f407c4b0ff6a368c612934773f819890f15e2c877a192c929bccbb75ed61a6e343ba6733ab12a515fc5ae26aba1998ef4fada8c9b3282b02a5d44b5e29a1e8a5b7a15b59de73e9ae9bba1919a2e306747a9321b25028379ee9ce1a90fc199fa02696a07b1839cde333f1e98980e0be994f9231f5cbfd8e38515a7101038b60f8ec07bc2ecd6897dd1a252e262ec4a152d496e64d396672dcee34b71f16ada9ece9ba3537c7742600a80ab55c017cde0b6f73eb3efc94281ef94c64be3239eb4a0a834df2ab29fbb3e6bf6a51d7d7d23099058b8e03c7cb58d507564c118ce23e56534d7ec99c08675c42d656dbc3d8e8610803f5ca97bcaa3e39172928411884f0e24f8e9ccc5b6c7cae682770642f04820bc46ce0155b0c139370b9cf0d7a91744647839c3b534e51cca6dbe280c6da36d215b6f4fa293f060314d75b0c206feca29449f84a2014136689096557a4175f7fb0e9a38f98907ef19e71a43c6e1111ab9a7b7a0842635c088e9e6cdb5bdfc971d3f9c35fbe89e7767e8c3f9e5b62f4b5db69f6ff84b52665f791501c6985d61a9f0747a11ed03f91c275aada3f6e2735445cdb9e51c26db7b5e9af875e28d72d2a5aa8119292e7bcd86345ee90385c596b74240f99f2b16ec2bef477097a96d14f199ee2993283435f322d53dfc071367d2b736efe1f551ac28aca80acd81711800ea637a10172f3d8550bc61e404afa6ca303cd17813af9fcc76da8a889cee6d7c1276c1f6d0a56a0355a5ad73cf9800be0e24832bfc9c3d2d360937af526fbaa826eb56cee9be74e999993a8af2c57460c03b581d6ea04d7b93d40b950d259624dcfddaaa733bb92972f4cc771acc50b67a53b3e7acca8f00b816b9bee2b25ea82260881247c91aeaf684c8817a626336ff882d43d6c819059e138f1ffc00642880709f7070f31de1bd4b3ff383fafec69433b8b2c08837088cda32c7a7abc9d6b206a404c2200df44533bf77c0d811fa1eff6be782aed50da5bdfdeab112af1c1f55f5dae9f1835e943fe5ec4bf2d4c43/104/1920x1080_5288800/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOCUMENTARY", Awe Doc
+https://a-cdn.klowdtv.com/live1/awe_720p/chunks.m3u8
 
 
 #MOVIES & SHOWS
@@ -761,6 +774,10 @@ https://jmp2.uk/rok-ed1ad60fa9a05f34bf5d4e8b09460d6b.m3u8
 https://jmp2.uk/rok-f99fa811e587e924c1aeebfe3d7f575f.m3u8
 #EXTINF:-1 channel-id="11c7c3660c6b6f18a21838fd404a7a1d" tvg-id="11c7c3660c6b6f18a21838fd404a7a1d" tvg-chno="748" tvg-name="Stargate" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/11c7c3660c6b6f18a21838fd404a7a1d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749756384598_Stargate_HUDLogo_Centered_260x147.png" group-title="MOVIES & SHOWS",Stargate
 https://jmp2.uk/rok-11c7c3660c6b6f18a21838fd404a7a1d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES & SHOWS", We Do TV Movies
+https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedomoviesasia-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fee15f42df39a0b90140c07d40fa83439fd401e987dc5e8347d373a3459f9bf1dfd546848cb9599106f224365623709cf215f9a366b7ca8a56379d7c2d7b44298cc986ed712c944e555dfbe6b9d10f9328db9a1a91723ead019b56b96af601c008b7f171a2b8b5db4e444bcaae375a26b0f59f88ee3b37b163c6f885b711758c84721223f264cd1f7156fa9ec71990b172fcd31889b97d2062aefb269f94b6f188dae871982ccefaaef657214a6d1070e137c7a169d53de022dfa47b285a4c7bb98345c1f4b23459594680814acd031e8481f9e9ba0d34da701a28810abe600663dc246d41bf4193f8356ffb4060e10e34f8656fee289fad3ef9d5bc8f6300a0cccb7fa52d85d80bc2e63dba79334b078ce73e53373d17bfd5671d2046d051ebc1cfde621b0cd1ad8194b25037092d125c18b4eeee669e9dd43b1817cc21500a002b14990ac26cd114760c27df1bc0b81b71840b1c7794cd5a5a5f6284cdc3e8edb1f143b071c1cac06341513a64ad23774104b68d8a49ed05110e1039870b7451cf6f3024d192cdf58bbd348ef608ad3c72065cc6ff19520c5c67117af1fe53d05af28122ba94c44fc9e1992f1ff356c406008eefcf65fc9feaad263497ba4726749ed71a9f0747a11ed03f91c275aada3f6e2735445cdb9e51c26db7b5e9af875e28d72d2a5aa8119292e7bcd86345ee90385c596b74240f99f2b16ec2bef477097a96d14f199ee2993283435f322d53dfc071367d2b736efe1f551ac28aca80acd81711800ea637a10172f3d8550bc61e404afa6ca303cd17813af9fcc76da8a889cee6d7c1276c1f6d0a56a0355a5ad73cf9800be0e24832bfc9c3d2d360937af526fbaa826eb56cee9be74e999993a8af2c57460c03b581d6ea04d7b93d40b950d259624dcfddaaa733bb92972f4cc771acc50b67a53b3e7acca8f00b816b9bee2b25ea82260881247c91aeaf684c8817a626336ff882d43d6c819059e138f1ffc00642880709f7070f31de1bd4b3ff383fafec69433b8b2c08837088cda32c7a7abc9d6b206a404c2200df44533bf77c0d811fa1eff6be782aed50df57dfde922e2af1c1c419357f56aaaa12b529e2fde11a9db4/158/1280x720_3329040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES & SHOWS",Cinelife
+https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/ts-us-e2-n2/playlist/magnoliaA-cinelife-oando/cb543d1e786c668f84c83c65cef341a2f94d1fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c545677a864c30d00c1db0cb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7256db80148c7a2c82b3dc623b6d2700cd0401b0b03df2a9b01f1cc769a2b6024b933d51b18616c9851ceed6c95b974ad56bf015cb93ed828546879bc536a05fe0645c0b7224cad44bbca32ede765e6d43fe580c04777ce8a79cf04b2f8f463133929dea8c15349753eb5fe54124b201e22fce50d828c281c090eb3e7fa04d923999ddb0eb459f30319aaab15912ae6ffaedc3dc787d8be2154289a807c30f242299f1c715cb965bc6f66ba9bd6708209bd1649599a08ce6b4cd1bc97e8af4d9d51c131836224bc67cb28a61de1ed87a83c7076e091e13e3c90384cef276044f63cac052dd181ef9fc8e80d401728a431348e76ddc145438987a3c32b278acc3723dda744aa83a3ff25430c071fdbe2de7ae94b0556cfb8d91309205889404d6e40da0694e3b53e6886c35227f7cddfd7303370ba476e5ded9f4790e4280dac2fcc95f3d47091f5d028ee886257bef1381bcbaa7fea892cabc8faffa42c5abfc210cb13f/5/1280x720_2657019/index.m3u8
 
 
 #KIDS FUN
@@ -1264,11 +1281,11 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/48497
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48498
 #EXTINF:-1 group-title="SPORTS 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png", Sport TV 4 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48499
-#EXTINF:-1 group-title="SPORTS 4",Spor TV 1 (magixx99)
+#EXTINF:-1 group-title="SPORTS 1",Spor TV 1 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83416
-#EXTINF:-1 group-title="SPORTS 4",Spor TV 2 (magixx99)
+#EXTINF:-1 group-title="SPORTS 1",Spor TV 2 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83414
-#EXTINF:-1 group-title="SPORTS 4",Spor TV 3 (magixx99)
+#EXTINF:-1 group-title="SPORTS 1",Spor TV 3 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83816
 #EXTINF:-1 group-title="SPORTS 1", MAX SPORT 1 (77.46.130.252)
 http://77.46.130.252:99/maxsport1
