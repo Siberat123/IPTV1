@@ -343,7 +343,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/2560px-Logo_GarudaTV_Primer_Flat_2025.svg.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTINF:-1 tvg-logo="https://garuda.tv/wp-content/uploads/2023/09/Untitled-design-9.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
 https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
@@ -361,11 +361,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 #EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/idtv.png?raw=true" group-title="INDO NEWS",BERITA SATU (secureswiftcontent)
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/hvideo-1920x1080.m3u8
-#EXTINF:-1 tvg-id="SindoNews.id" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", SINDO NEWS (indihometv)
+#EXTINF:-1 tvg-id="SindoNews.id" group-title="INDO NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM3r29Im1w5OxNClmm5Vn9Oxj0Ep5Dpxm2bg&s", SINDO NEWS (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6BYfiq2PIJR7wSvY-Dl_0DRHAYBZxepdWnvSgUxm7g&s=10" group-title="INDO NEWS", TRIBUN NEWS (cloudfront)
 https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="INDO NEWS",JAWA POS TV (jawapostvsby)
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="INDO NEWS",JAWA POS TV (jawapostvsby)
 http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="INDO NEWS",CNN INDONESIA (cnnindonesia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -389,11 +389,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/22/4e/f7/224ef7e43e8371e92c56ce599d09e45f.jpg" group-title="INDO NEWS",ANTARA TV (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
-#EXTINF:-1 tvg-logo="" group-title="INDO NEWS",JAKARTA GLOBE (secureswiftcontent)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest/scale-to-width-down/300?cb=20191019135004" group-title="INDO NEWS",JAKARTA GLOBE (secureswiftcontent)
 https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/hvideo-1920x1080.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDO NEWS",JAKARTA GLOBE (secureswiftcontent)
-https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/hvideo-1280x720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDO NEWS",MBG TV (convergen)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest/scale-to-width-down/300?cb=20191019135004" group-title="INDO NEWS",JAKARTA GLOBE (secureswiftcontent)
+https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/hvideo-1280x720.m3u8?https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/haudio-eng.m3u8
+#EXTINF:-1 tvg-logo="https://file.fin.co.id/uploads/fin-news/images/2026/02/25/viral-kemunculan-mbg-tv-wakil-kepala-bgn-beri-dukungan-151853-600x420.webp" group-title="INDO NEWS",MBG TV (convergen)
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/chunklist_w845323564_b1944100_sleng.m3u8
 
 
