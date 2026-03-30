@@ -12,7 +12,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (s.id)
 https://s.id/Shareext_liga1_m3u8
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://logos.fandom.com/wiki/Indosiar/Logo_Variations?file=Kartu_Telepon_Indosiar.png" group-title="INDO NASIONAL",INDOSIAR (bianet)
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://logos.fandom.com/wiki/Indosiar/Logo_Variations?file=Kartu_Telepon_Indosiar.png" group-title="INDO NASIONAL",INDOSIAR (bianet)
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (warningfm)
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
