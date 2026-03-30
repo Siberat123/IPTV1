@@ -12,7 +12,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (s.id)
 https://s.id/Shareext_liga1_m3u8
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (bianet)
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://logos.fandom.com/wiki/Indosiar/Logo_Variations?file=Kartu_Telepon_Indosiar.png" group-title="INDO NASIONAL",INDOSIAR (bianet)
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (warningfm)
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
@@ -21,10 +21,10 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (king-4k)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDO NASIONAL",INDOSIAR (103.66.62.83)
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://logos.fandom.com/wiki/Indosiar/Logo_Variations?file=Kartu_Telepon_Indosiar.png" group-title="INDO NASIONAL",INDOSIAR (103.66.62.83)
 http://103.66.62.83:8000/play/a00o/index.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/kOuIjcBlgd7Dd-WQaDXb_GfUxmU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg" group-title="INDO NASIONAL", ANTV (hdmania3)
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://logos.fandom.com/wiki/Antv?file=Antv_logo_%282017%29.svg" group-title="INDO NASIONAL", ANTV (hdmania3)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
