@@ -225,75 +225,100 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #EXTINF:-1 tvg-id="SaktiTV" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="INDO LOKAL",SAKTI TV (siar)
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Logo_duta_tv.jpg/revision/latest?cb=20211219125844" group-title="INDO LOKAL",DUTA TV (siar)
+#EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/11/Logo_Duta_TV.png?_=20250209050330" group-title="INDO LOKAL",DUTA TV (siar)
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logobantentv.png/960px-Logobantentv.png" group-title="INDO LOKAL",BANTEN TV (streamlock)
 https://5bf7b725107e5.streamlock.net:443/bantentv/bantentv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",BMSTV (streamlock)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/8/86/BMSTVPurwokerto.png/revision/latest?cb=20250308142604" group-title="INDO LOKAL",BMSTV (streamlock)
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",RCTV (siar)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/6/61/RCTV_Cirebon_%282012%29.png/revision/latest?cb=20210524135124" group-title="INDO LOKAL",RCTV (siar)
 https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="TV9" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",TV9 NUSANTARA (streamlock)
+#EXTINF:-1 tvg-name="TV9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV9NUSANTARA1.png/revision/latest?cb=20220525022727" group-title="INDO LOKAL",TV9 NUSANTARA (streamlock)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kkxK7FV/SMTV.png" group-title="INDO LOKAL",SMTV (siar)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" group-title="INDO LOKAL",SMTV (siar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://e.siar.us/live/smtv.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",ALWAFA TARIM TV (siar)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://alwafatarim.tv/assets/images/logo.png" group-title="INDO LOKAL",ALWAFA TARIM TV (siar)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",ASHIIL TV (juraganstreaming)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/98/Logo_Ashiil_TV.png/960px-Logo_Ashiil_TV.png?_=20240303032239" group-title="INDO LOKAL",ASHIIL TV (juraganstreaming)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",BANJAR TV (siar)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo-banjar_tv.jpg" group-title="INDO LOKAL",BANJAR TV (siar)
 https://banjartv.siar.us/banjartv/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",BUNGO TV (streamlock)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Bungo_TV.png/revision/latest?cb=20181006153656" group-title="INDO LOKAL",BUNGO TV (streamlock)
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",CARUBAN TV (carubantv)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/CM_Photogrid_1730606563630.png/revision/latest?cb=20241103040314" group-title="INDO LOKAL",CARUBAN TV (carubantv)
 https://stream.carubantv.id/hls/0/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",DAVIKA TV (streamlock)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png" group-title="INDO LOKAL",DAVIKA TV (streamlock)
 https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="INDO LOKAL",DHOHO TV (siar)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/DhohoTVlogo.png" group-title="INDO LOKAL",DHOHO TV (siar)
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",JAMBI TV (juraganstreaming)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Jambi_TV_2008.png/revision/latest?cb=20181001034153" group-title="INDO LOKAL",JAMBI TV (juraganstreaming)
 https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",PKTV (juraganstreaming)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/PKTV_New_Logo_2020.png" group-title="INDO LOKAL",PKTV (juraganstreaming)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",RADAR TV (siar)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="INDO LOKAL",RADAR TV (siar)
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" group-title="INDO LOKAL",RINJANI TV (rinjanitv)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://youtv.id/data/channel/rinjanitv_20241031090044.png" group-title="INDO LOKAL",RINJANI TV (rinjanitv)
 https://rinjanitv.cloud/hls/tvkabel.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",SALAM TV (siar)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Salamtv.png/960px-Salamtv.png" group-title="INDO LOKAL",SALAM TV (siar)
 https://salamtv.siar.us/live/salamtv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",SALIRA TV (salira)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="INDO LOKAL",SALIRA TV (salira)
 https://live.salira.tv/p/3870/hybrid/play.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",SAMPIT TV (siar)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3f/Logo_Sampit_TV.png" group-title="INDO LOKAL",SAMPIT TV (siar)
 https://sampit-tv.siar.us/live/sampit-tv.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",SULTRA TV (sultratv)
+#EXTINF:0 tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/TV_Sultra.png/revision/latest?cb=20181005160300" group-title="INDO LOKAL",SULTRA TV (sultratv)
 http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",SURAU TV (siar)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Surau-TV_Clear.png" group-title="INDO LOKAL",SURAU TV (siar)
 https://surautv.siar.us/live/surautv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="INDO LOKAL",TV MU (siar)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/TvMu.png/960px-TvMu.png" group-title="INDO LOKAL",TV MU (siar)
 https://e.siar.us/live/tvmu.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",TVKU (tvku)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png" group-title="INDO LOKAL",TVKU (tvku)
 https://tvku.tv/hlsstream/hls/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",TIMOR TV (timortv)
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png" group-title="INDO LOKAL",TIMOR TV (timortv)
 http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",MADU TV (siar)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png" group-title="INDO LOKAL",MADU TV (siar)
 https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",TATV (siar)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/TATV_logo.svg/1920px-TATV_logo.svg.png" group-title="INDO LOKAL",TATV (siar)
 https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKSCtc1C/FIKOM.png" group-title="INDO LOKAL", FICOM TV (siar)
+
+#EXTINF:-1 tvg-logo="https://scontent.fcgk18-2.fna.fbcdn.net/v/t39.30808-1/458981123_1938687073267476_7161794940278705363_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=e99d92&_nc_ohc=Z3lQTofx7s0Q7kNvwH_Db3E&_nc_oc=AdpUbnU3z4n3Y5Dd-9otb7HDRKTev_YnEAVSVFV_9lXL9O8EY2WHhFgSkPUd4BnBhDA&_nc_zt=24&_nc_ht=scontent.fcgk18-2.fna&_nc_gid=DDQKYMuK7vyRHNC5YYvkfw&_nc_ss=7a389&oh=00_AfxRI2kkEKUChW2r_yHbS51dHl5P_bklgM5TA3iROol5vQ&oe=69D1C213" group-title="INDO LOKAL", FICOM TV (siar)
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5D0jkqDuOlSu-Dh-5B8s4Nc22EhRfBl5raXETjm4aep0ONdFG03uNXkmRwDu2yGPR5TjJ9NGUuplGo1KPBMKJINnBlcC-a0kFQpoF3SOnLmrhkTfbLYKMeuW50xe691Pt3dZdYt1QJBvJk67HSj4X_pwN2cjyviL0sw2rng1I4rN0ug1Gmfq6-vLIV_f/s700/JOWO%20CANNEL.png" group-title="INDO LOKAL",JOWO CHANNEL (dens)
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="INDO LOKAL",JOWO CHANNEL (dens)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
-#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzeVlMxH27YZItvBD98dwfC7qhE6RHj-Qpr_BpuwAAiGfcwhIqlFCnTpin3bWNn_ZoqmtQO7ghJ8z0a1RUhj82uGMa5Ib5-UulLhyv1h91HzPbU7QFDrEkrHuZZI3upkSeaOowfPBPG7aXgoNnZcSaG1e7_3uv0DwNS1Gb8Ae4_NOq0aqG4b953EhXe9S9/s700/MIC%20TV.png", MIC TV (siar)
+
+#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png", MIC TV (siar)
 https://mic.siar.us/mic/live/mic_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",SELAPARANG TV (siar)
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_Salingsapa_TV.png" group-title="INDO LOKAL",SELAPARANG TV (siar)
 https://selaparangtv.siar.us/live/selaparangtv.m3u8
 
 
