@@ -104,14 +104,14 @@ http://103.66.62.83:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_mentaritv.png" group-title="INDO LOKAL",MENTARI TV (103.66.62.83)
 http://103.66.62.83:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="INDO LOKAL",RTV (dens)
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/1920px-Rajawali_Televisi.svg.png" group-title="INDO LOKAL",RTV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="INDO LOKAL", RTV (dens)
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/1920px-Rajawali_Televisi.svg.png" group-title="INDO LOKAL", RTV (dens)
 https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="INDO LOKAL",RTV (rtv)
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/1920px-Rajawali_Televisi.svg.png" group-title="INDO LOKAL",RTV (rtv)
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="INDO LOKAL",RTV (cloudns)
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/1920px-Rajawali_Televisi.svg.png" group-title="INDO LOKAL",RTV (cloudns)
 http://cdn.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y6yh0pV.jpeg" group-title="INDO LOKAL",MOJI (dens)
