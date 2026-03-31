@@ -6,7 +6,7 @@
 
 #INDO NASIONAL
 #
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Kartu_Telepon_Indosiar.png/revision/latest/scale-to-width-down/1000?cb=20250225062032" group-title="INDO NASIONAL",INDOSIAR (dens)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL", INDOSIAR (khano)
 https://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
@@ -119,7 +119,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548" group-title="INDO LOKAL",MOJI (dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 group-title="INDO LOKAL" tvg-logo=https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548",MOJI (wahyu1ptv)
+#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548",MOJI (wahyu1ptv)
 https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 #EXTINF:-1 tvg-id="MOJI.id" tvg-name="" group-title="INDO LOKAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548",MOJI (202.169.224.202)
 http://202.169.224.202:8800/udp/239.9.1.32:1234
@@ -135,39 +135,39 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
 #EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="INDO LOKAL",BIZNET LIFESTYLE (biznet)
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/oxygentv.jpg?raw=true" group-title="INDO LOKAL",OXYGEN TV (oxygen)
+#EXTINF:-1 tvg-logo="https://www.oxygen.id/public/assets/logo_oxygen.png" group-title="INDO LOKAL",OXYGEN TV (oxygen)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://oxygentv.id/
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
-#EXTINF:0 tvg-id="outdoor" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="INDO LOKAL",DENS LIFESTYLE (dens)
+#EXTINF:0 tvg-id="outdoor" tvg-logo="https://www.dens.tv/images/default/logo-white.png" group-title="INDO LOKAL",DENS LIFESTYLE (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
-#EXTINF:0 tvg-id="outdoor" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg" group-title="INDO LOKAL",DENS KNOWLEDGE (dens)
+#EXTINF:0 tvg-id="outdoor" tvg-logo="https://www.dens.tv/images/default/logo-white.png" group-title="INDO LOKAL",DENS KNOWLEDGE (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-#EXTINF:0 tvg-id="outdoor" tvg-logo="https://pic.dens.tv/tv_183x174/1591343514_square.jpg" group-title="INDO LOKAL",DENS SHOWBIZ (dens)
+#EXTINF:0 tvg-id="outdoor" tvg-logo="https://www.dens.tv/images/default/logo-white.png" group-title="INDO LOKAL",DENS SHOWBIZ (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
-#EXTINF:0 tvg-id="outdoor" tvg-logo="https://pic.dens.tv/tv_183x174/Dens_Food_Channel_(Trial)_1.jpg" group-title="INDO LOKAL",DENS FOOD (dens)
+#EXTINF:0 tvg-id="outdoor" tvg-logo="https://www.dens.tv/images/default/logo-white.png" group-title="INDO LOKAL",DENS FOOD (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfvPzWNOz8S8LW7Pbc2A6KS6KX8NFcFEcEbwM0-GYgsue6WX20suR9y88DEGHGlw7pDUp8BwnR-XrGDtCvKFHIBMo0h8R5Tw9TzMIpLALXuS0FoHCKRB4R-QLDQqKSN7et5Om_UHgOq3vOlswqRGfhuVWzK6R8YbTVFz7aWIcZLrIg4f0qzIL94utpAWxj/s700/DENS%20PLAY.png" group-title="INDO LOKAL",DENS PLAY (dens)
+#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://www.dens.tv/images/default/logo-white.png" group-title="INDO LOKAL",DENS PLAY (dens)
 https://op-group1-densxvisionhd-1.dens.tv/h/h225/index.m3u8
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",STARA TV (staratv)
+#EXTINF:0 tvg-country="ID" tvg-logo="https://bandung.staratv.id/logo" group-title="INDO LOKAL",STARA TV (staratv)
 https://stream.staratv.id/hls/0/stream.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",STARA TV BANDUNG (staratv)
+#EXTINF:0 tvg-country="ID" tvg-logo="https://bandung.staratv.id/logo" group-title="INDO LOKAL",STARA TV BANDUNG (staratv)
 https://bandung.staratv.id/hls/0/stream.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",STARA TV CIANJUR (staratv)
+#EXTINF:0 tvg-country="ID" tvg-logo="https://bandung.staratv.id/logo" group-title="INDO LOKAL",STARA TV CIANJUR (staratv)
 https://cianjur.staratv.id/hls/0/stream.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",STARA TV JAKARTA (staratv)
+#EXTINF:0 tvg-country="ID" tvg-logo="https://bandung.staratv.id/logo" group-title="INDO LOKAL",STARA TV JAKARTA (staratv)
 https://jakarta.staratv.id/hls/0/stream.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",STARA TV MALANG (staratv)
+#EXTINF:0 tvg-country="ID" tvg-logo="https://bandung.staratv.id/logo" group-title="INDO LOKAL",STARA TV MALANG (staratv)
 https://malang.staratv.id/hls/0/stream.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://play-lh.googleusercontent.com/KA0bG9o6vgVWxFAMLu3kv7IbulVT3MwocNfDVUXQhbwVHKlFpa11CrdQUNI57gpIxUg=w240-h480" group-title="INDO LOKAL",STARA TV PARAHYANGAN (staratv)
+#EXTINF:0 tvg-country="ID" tvg-logo="https://bandung.staratv.id/logo" group-title="INDO LOKAL",STARA TV PARAHYANGAN (staratv)
 https://parahyangan.staratv.id/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidRdFLcCOJNkXdy8G5BVyULYxzGjz__yF6SLkkbnnlPQnuZ2dmaEkwrnT8l7saPMKMnnRkBPffww7HvuSk2GRI6jj7YL6D29XXfXaPpSqOKj9YvzyivYCLy-4lOHJiflKo9qsn_XZ-mKj8__fMC0rY05zm1SFV1jpsXhdwbNx9vw2yFJldFdw3xHYI9p4Q/s700/CINEMA%20WORLD.png" group-title="INDO LOKAL",CREMA TV (dens)
@@ -298,12 +298,12 @@ https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/TvOne_2011.svg/revision/latest?cb=20181207020506" group-title="INDO NEWS",TV ONE (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
-#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1920px-TvOne_2023.svg.png", TV ONE (indihometv)
+#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/TvOne_2011.svg/revision/latest?cb=20181207020506", TV ONE (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (medcom)
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" group-title="INDO NEWS",METRO TV (dens)
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 
@@ -316,7 +316,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Logo_GarudaTV_3D_Putih_Silver_Merah.svg/revision/latest?cb=20240508101325" group-title="INDO NEWS",GARUDA TV (hgmtv)
 https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
 
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="INDO NEWS",NUSANTARA TV (dens)
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Nusantara_TV_Symbol.svg/revision/latest?cb=20240509104942" group-title="INDO NEWS",NUSANTARA TV (dens)
 https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Nusantara_TV_Symbol.svg/revision/latest?cb=20240509104942" group-title="INDO NEWS",NUSANTARA TV (siar)
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
