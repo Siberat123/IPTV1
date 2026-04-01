@@ -422,19 +422,19 @@ https://stream.convergen.co/mbg_stream/smil:mbStream.smil/chunklist_w845323564_b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="WORLD NEWS",CNN (jmp2.uk)
 https://jmp2.uk/stvp-CHBD800001D0
 
-#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="WORLD NEWS",REUTERS (rakuten-uk)
+#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Reuters_2008_vertical.svg/revision/latest?cb=20240525053744" group-title="WORLD NEWS",REUTERS (rakuten-uk)
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="WORLD NEWS",ALJAZEERA (aljazeera)
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Al_Jazeera_English_2020_II.svg/revision/latest?cb=20230116010336" group-title="WORLD NEWS",ALJAZEERA (aljazeera)
 https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/671cfb22f8d0362ae01403b6e748f2e2" group-title="WORLD NEWS",WION (cloudfront)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/WION_TV_logo.jpg/revision/latest?cb=20200109055936" group-title="WORLD NEWS",WION (cloudfront)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="WORLD NEWS",ABC NEWS (abc)
+#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/ABC_News_Now_2007.png/revision/latest?cb=20110427213603" group-title="WORLD NEWS",ABC NEWS (abc)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
-#EXTINF:-1 group-title="WORLD NEWS",ABC NEWS LIVE (tubi)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/ABC_News_Now_2007.png/revision/latest?cb=20110427213603" group-title="WORLD NEWS",ABC NEWS LIVE (tubi)
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_1.m3u8
 
 #EXTINF:-1 channel-id="6183f9f73a64394cf3c55690605af2a7" tvg-id="6183f9f73a64394cf3c55690605af2a7" tvg-chno="144" tvg-name="BBC News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6183f9f73a64394cf3c55690605af2a7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765822678156_ROKU_BBC_NEWS_LOGO_260x147_WHITE.png" group-title="WORLD NEWS",BBC NEWS (jmp2.uk)
@@ -449,12 +449,12 @@ https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8
 #EXTINF:-1 channel-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-chno="120" tvg-name="LiveNOW from FOX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f9c0d48b540a55dcb98b04d2cc8abf25/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442636429_1688568583363_177281_LiveNow-Monochromatic_Banner_Logo_260x147_001.png" group-title="WORLD NEWS",LiveNOW FROM FOX NEWS (jmp2.uk)
 https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="WORLD NEWS",EURONEWS ENGLISH (antik)
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest?cb=20230821202814" group-title="WORLD NEWS",EURONEWS ENGLISH (antik)
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png" group-title="WORLD NEWS",NEWSMAX (akamaized)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Newsmax_logo.png/revision/latest?cb=20250408031111" group-title="WORLD NEWS",NEWSMAX (akamaized)
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="WORLD NEWS",CCTV+ (cctvplus)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/CCTV%2B.png/revision/latest?cb=20230204235555" group-title="WORLD NEWS",CCTV+ (cctvplus)
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nhkworldjapan.png",NHK WORLD (indihometv)
@@ -2109,25 +2109,7 @@ http://cord-cutter.net:8080/bn80NG/909467/100043
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="SPORTS 4",DAZN 1
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19028.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="SPORTS 4",DAZN 2
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19029.ts
-#EXTINF:-1 tvg-id="27" tvg-name="DAZN 3" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="SPORTS 4",DAZN 3
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19030.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MAX 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="SPORTS 4",MAX 01
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19033.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="SPORTS 4",MAX 02
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19034.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX 03" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="SPORTS 4",MAX 03
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19035.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX 04" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="SPORTS 4",MAX 04
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19036.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX 05" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="SPORTS 4",MAX 05
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19037.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX 06" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="SPORTS 4",MAX 06
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19038.ts
 
 #EXTINF:-1 tvg-id="296" tvg-name="SportyNet 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportynet.png" group-title="SPORTS 4",SportyNet
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19024.ts
