@@ -460,7 +460,7 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/NHK_World.svg",NHK WORLD (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Arirang_TV_Old.jpg/revision/latest?cb=20190507080818", ARIRANG TV (akamaized)
+#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png", ARIRANG TV (akamaized)
 #EXTVLCOPT:http-origin=https://tv.garden
 #EXTVLCOPT:http-referrer=https://tv.garden/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -526,22 +526,22 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="DOCUMENTARY",RT Documentary (rttv)
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhBonGjUCzL-ZOHd-HPGhw4mL9kMMVZfkbMLt3sP41Sa5fTp_hWRiUXg0qm9kJU3HG9QQiTPPAyFCrU23DQEhvjns4YczJMVQ8dHKCE2CLlulSpdQe11KnE2nSwdodznJw40E44N2RQmqIRHAS_lrAGgxVgTki7z4M2EpR1DWvLdOYQ4-IlwC24JASKYd0/s700/NAT%20GEO%20WILD.png",Nat Geo Wild (84.17.50.102)
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest?cb=20170426190523",Nat Geo Wild (84.17.50.102)
 http://84.17.50.102/natgeowild/index.m3u8
 
 #EXTINF:-1 tvg-id="TerraMaterWILD.de@English" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png" group-title="DOCUMENTARY",Terra Mater Wild (amagi.tv)
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Discovery Channel (supersonictv)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Discovery_Channel_1995.svg/revision/latest?cb=20240827222541" group-title="DOCUMENTARY",Discovery Channel (supersonictv)
 http://supersonictv.live:8080/611366/682256/22074
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Smithsonian Channel (supersonictv)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Smithsonian_Channel_HD.svg/revision/latest?cb=20240717234918" group-title="DOCUMENTARY",Smithsonian Channel (supersonictv)
 http://supersonictv.live:8080/611366/682256/22148
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Animal Planet (supersonictv)
+#EXTINF:-1 tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white-1024x602.png" group-title="DOCUMENTARY",Animal Planet (supersonictv)
 http://supersonictv.live:8080/611366/682256/22046
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Outdoor Channel (supersonictv)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/The_Outdoor_Channel_old.png/revision/latest?cb=20170212183642" group-title="DOCUMENTARY",Outdoor Channel (supersonictv)
 http://supersonictv.live:8080/611366/682256/22131
 
 #EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://i.imgur.com/0UMmG41.png" group-title="DOCUMENTARY",Outside TV (amagi.tv)
@@ -550,10 +550,10 @@ https://outsidetv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelXP4k.mv" tvg-name="Travel XP" tvg-logo="https://8upload.com/image/6857bb65966ba/travelxphilay.png" group-title="DOCUMENTARY",Travel XP (wurl.tv)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7a0871d0-1a45-430c-b513-3bba8a9cf820" tvg-logo="https://s3.aynaott.com/storage/6ccc7357c3d8d35770732126dd819596" group-title="DOCUMENTARY",Travel TV (sofast)
+#EXTINF:-1 tvg-id="7a0871d0-1a45-430c-b513-3bba8a9cf820" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Travelxp_4K.svg/revision/latest?cb=20200102202008" group-title="DOCUMENTARY",Travel TV (sofast)
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="Go2Travel.us@SD" tvg-logo="https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png" group-title="DOCUMENTARY",Go 2 Travel (wns.live)
+#EXTINF:-1 tvg-id="Go2Travel.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL8n254oWbDJ7IitpvP04TtQiT5d4IbSgWfA&s" group-title="DOCUMENTARY",Go 2 Travel (wns.live)
 https://go2thls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1517-LG-Logo-PNG-100x100_v1.png" group-title="DOCUMENTARY",Autentic Travel (amazonaws)
@@ -565,10 +565,10 @@ https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="InWild.it@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Inwild.png" group-title="DOCUMENTARY",InWild (amagi.tv)
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="InWonder.nl@SD" tvg-logo="https://i.postimg.cc/xdgYN7Z5/inwonder.png" group-title="DOCUMENTARY",InWonder (amagi.tv)
+#EXTINF:-1 tvg-id="InWonder.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/6e2afeeb-8f24-42ed-a6ed-8e2819e1a446/-/preview/2000x2000/-/resize/1200/InWonder_portrait-white.png" group-title="DOCUMENTARY",InWonder (amagi.tv)
 https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="insight.au" tvg-name="Insight" tvg-logo="https://i.imgur.com/9ETu8DD.png" group-title="DOCUMENTARY", InSight (amagi.tv)
+#EXTINF:-1 tvg-id="insight.au" tvg-name="Insight" tvg-logo="https://cdn.uc.assets.prezly.com/c80c6b08-95cc-4faa-ac9b-e8599fc0fe34/-/preview/1000x1000/-/resize/1200/InsightTV_portrait-plain-blue.png" group-title="DOCUMENTARY",InSight (amagi.tv)
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="NatureTime.es@SD" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="DOCUMENTARY",Nature Time (amagi.tv)
@@ -619,13 +619,13 @@ https://jmp2.uk/rok-e3a9171a7b9155ca89ba9f7f3e1a6bde.m3u8
 #EXTINF:-1 channel-id="23cf98a043e9d1336c958e6b707f81dc" tvg-id="23cf98a043e9d1336c958e6b707f81dc" tvg-chno="949" tvg-name="Curiosity Explora" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/23cf98a043e9d1336c958e6b707f81dc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1760568679689_Curiosity-Explora_260_147px.png" group-title="DOCUMENTARY",Curiosity Explora (jmp2.uk)
 https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8
 
-#EXTINF:-1 tvg-id="PersianaTravel.fr@SD" group-title="DOCUMENTARY",Persiana Travel (persiana)
+#EXTINF:-1 tvg-logo="https://persianatravel.com/wp-content/uploads/2016/04/persiana-travel-logo-white.png" tvg-id="PersianaTravel.fr@SD" group-title="DOCUMENTARY",Persiana Travel (persiana)
 https://ptravelhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOCUMENTARY", We Do TV Big Stories (amagi.tv)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-wedo-big-stories.png" group-title="DOCUMENTARY", We Do TV Big Stories (amagi.tv)
 https://amg00735-amg00735c19-denstv-apac-7624.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedobigstories-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fbe35810d86ef3b40140c07d41fa83439fd401e987dc5e8347d373a3459f9bf1dfd546848caf599a03eb307b3f4818a2847097f407c4b0ff6a368c612934773f819890f15e2c877a192c929bccbb75ed61a6e343ba6733ab12a515fc5ae26aba1998ef4fada8c9b3282b02a5d44b5e29a1e8a5b7a15b59de73e9ae9bba1919a2e306747a9321b25028379ee9ce1a90fc199fa02696a07b1839cde333f1e98980e0be994f9231f5cbfd8e38515a7101038b60f8ec07bc2ecd6897dd1a252e262ec4a152d496e64d396672dcee34b71f16ada9ece9ba3537c7742600a80ab55c017cde0b6f73eb3efc94281ef94c64be3239eb4a0a834df2ab29fbb3e6bf6a51d7d7d23099058b8e03c7cb58d507564c118ce23e56534d7ec99c08675c42d656dbc3d8e8610803f5ca97bcaa3e39172928411884f0e24f8e9ccc5b6c7cae682770642f04820bc46ce0155b0c139370b9cf0d7a91744647839c3b534e51cca6dbe280c6da36d215b6f4fa293f060314d75b0c206feca29449f84a2014136689096557a4175f7fb0e9a38f98907ef19e71a43c6e1111ab9a7b7a0842635c088e9e6cdb5bdfc971d3f9c35fbe89e7767e8c3f9e5b62f4b5db69f6ff84b52665f791501c6985d61a9f0747a11ed03f91c275aada3f6e2735445cdb9e51c26db7b5e9af875e28d72d2a5aa8119292e7bcd86345ee90385c596b74240f99f2b16ec2bef477097a96d14f199ee2993283435f322d53dfc071367d2b736efe1f551ac28aca80acd81711800ea637a10172f3d8550bc61e404afa6ca303cd17813af9fcc76da8a889cee6d7c1276c1f6d0a56a0355a5ad73cf9800be0e24832bfc9c3d2d360937af526fbaa826eb56cee9be74e999993a8af2c57460c03b581d6ea04d7b93d40b950d259624dcfddaaa733bb92972f4cc771acc50b67a53b3e7acca8f00b816b9bee2b25ea82260881247c91aeaf684c8817a626336ff882d43d6c819059e138f1ffc00642880709f7070f31de1bd4b3ff383fafec69433b8b2c08837088cda32c7a7abc9d6b206a404c2200df44533bf77c0d811fa1eff6be782aed50da5bdfdeab112af1c1f55f5dae9f1835e943fe5ec4bf2d4c43/104/1920x1080_5288800/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOCUMENTARY", Awe Doc (klowdtv)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/AWE_Logo_%28platinum%29.jpg/960px-AWE_Logo_%28platinum%29.jpg?_=20170517224022" group-title="DOCUMENTARY", Awe Doc (klowdtv)
 https://a-cdn.klowdtv.com/live1/awe_720p/chunks.m3u8
 
 
