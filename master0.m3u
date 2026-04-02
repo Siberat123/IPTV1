@@ -428,10 +428,10 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Al_Jazeera_English_2020_II.svg/revision/latest?cb=20230116010336" group-title="WORLD NEWS",ALJAZEERA (aljazeera)
 https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/WION_TV_logo.jpg/revision/latest?cb=20200109055936" group-title="WORLD NEWS",WION (cloudfront)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/120px-WION_news_Logo.svg.png" group-title="WORLD NEWS",WION (cloudfront)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/ABC_News_Now_2007.png/revision/latest?cb=20110427213603" group-title="WORLD NEWS",ABC NEWS (abc)
+#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/ABC_News_-_Logo_1978-1999.svg/revision/latest?cb=20170504120624" group-title="WORLD NEWS",ABC NEWS (abc)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/ABC_News_Now_2007.png/revision/latest?cb=20110427213603" group-title="WORLD NEWS",ABC NEWS LIVE (tubi)
@@ -457,43 +457,43 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/CCTV%2B.png/revision/latest?cb=20230204235555" group-title="WORLD NEWS",CCTV+ (cctvplus)
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nhkworldjapan.png",NHK WORLD (indihometv)
+#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/NHK_World.svg",NHK WORLD (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cqd-JrliSDG0kvFFKk8IDV7UBJDgP9KDjg&s", ARIRANG TV (akamaized)
+#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Arirang_TV_Old.jpg/revision/latest?cb=20190507080818", ARIRANG TV (akamaized)
 #EXTVLCOPT:http-origin=https://tv.garden
 #EXTVLCOPT:http-referrer=https://tv.garden/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="WORLD NEWS",CNA (cloudfront)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest?cb=20230219122811" group-title="WORLD NEWS",CNA (cloudfront)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 group-title="WORLD NEWS",CNA ORIGINAL (amagi.tv)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/CnaT98.png/revision/latest?cb=20231124031113" group-title="WORLD NEWS",CNA ORIGINAL (amagi.tv)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="WORLD NEWS",CGTN (rakuten)
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/CGTN_%28China_Global_Television_Network%29.svg/revision/latest?cb=20210816144604" group-title="WORLD NEWS",CGTN (rakuten)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="RT.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="WORLD NEWS",RT NEWS (rttv)
+#EXTINF:-1 tvg-id="RT.ru@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/RT%D0%94.svg/revision/latest?cb=20200104222246" group-title="WORLD NEWS",RT NEWS (rttv)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="WORLD NEWS",DW NEWS (akamaized)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
-#EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="WORLD NEWS",TRT WORLD (trt)
+#EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/TRT_World_logo.svg/revision/latest?cb=20211029170858" group-title="WORLD NEWS",TRT WORLD (trt)
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 group-title="WORLD NEWS",SCRIPPS NEWS (tubi)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Scripps_News_2023.svg/revision/latest?cb=20230104215636" group-title="WORLD NEWS",SCRIPPS NEWS (tubi)
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist_4.m3u8
 
-#EXTINF:-1 group-title="WORLD NEWS",CHEDDAR NEWS (tubi)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Cheddar_2019.png" group-title="WORLD NEWS",CHEDDAR NEWS (tubi)
 https://aegis-cloudfront-1.tubi.video/27ff1997-507a-41c4-8433-08875fe5f40f/primary/3.m3u8
 
-#EXTINF:-1 group-title="WORLD NEWS",TELESUR ENGLISH (telesur)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logotipo_de_Telesur_%282011-2014%29.png" group-title="WORLD NEWS",TELESUR ENGLISH (telesur)
 https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/chunklist_w983889417.m3u8
 
-#EXTINF:-1 group-title="WORLD NEWS",TVP WORLD (antik)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/TVP_World_%282021%29.svg/revision/latest?cb=20211118172957" group-title="WORLD NEWS",TVP WORLD (antik)
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 
 #EXTINF:-1 channel-id="5321194d102d57e094d47d50949088b8" tvg-id="5321194d102d57e094d47d50949088b8" tvg-chno="167" tvg-name="USA Today" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5321194d102d57e094d47d50949088b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1653091591724_USATODAY_260x147_copy.png" group-title="WORLD NEWS",USA TODAY (jmp2.uk)
@@ -502,10 +502,10 @@ https://jmp2.uk/rok-5321194d102d57e094d47d50949088b8.m3u8
 #EXTINF:-1 channel-id="e29e205ea1fb529f996ad862a2d6724e" tvg-id="e29e205ea1fb529f996ad862a2d6724e" tvg-chno="196" tvg-name="OAN Plus" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e29e205ea1fb529f996ad862a2d6724e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655144553363_OAN-Plus-hud_centered.png" group-title="WORLD NEWS",OAN PLUS (jmp2.uk)
 https://jmp2.uk/rok-e29e205ea1fb529f996ad862a2d6724e.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="WORLD NEWS",BAHRAIN INTERNATIONAL (streamlock)
+#EXTINF:-1 tvg-logo="https://una-oic.org/wp-content/uploads/2025/01/Bahrain.jpg" group-title="WORLD NEWS",BAHRAIN INTERNATIONAL (streamlock)
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w76993686_b2487000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="WORLD NEWS",NEWS WORLD (amagi.tv)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Newsworld_International_2001.png/revision/latest?cb=20221231222347" group-title="WORLD NEWS",NEWS WORLD (amagi.tv)
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01076-lightning-newsworld-rakutenus/cb543d1e786c668f84c83c65cef341a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7251db80148b61299bce8c37683f03409a5e5afba358b1ebe25b13de64a8b91c55977d11e79f43c8821da689d2089d5e8e23a4149d9af4da8218d6d2f31c93748a98cd5c581fb0a43bfae053b2d5946c2a95705a297437c790e335caa1e43d277debf6cac505b5739cca4d0907461e9e4a5416e0f2cbd37d17c5f6307981ff082d18b7cd5a2e0da1eea198ef3409700791adc4d2697595fa153712873d986a1c319ef9c40397833ba2f672d5fa394678f7984bcdc9e9c3f7e6d903dc04dad7f89d0a474c480d16c908f1cd23887f9d3083e6270c700104a1935ec1c6fe5b336940cfc07ddc0114b4dec4d28b5d759a2e4b14b820ea5a036dde3d2329b67ab7c96a1efc4c60b23c33ff57229302ade85e9289efa5576bfb8ebd019509c8ba05d5fa07d31d1f5110bcff291f080c4ad9e06202276a8122c0d6d9ea630610e6959bae2032ceedfeb9340c559563df3647d92fbc03e6f8afb058/60/1920x1080_4716800/index.m3u8
 
 
