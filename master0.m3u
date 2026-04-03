@@ -532,17 +532,18 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklis
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Newsworld_International_2001.png/revision/latest?cb=20221231222347" group-title="WORLD NEWS",NEWS WORLD (amagi.tv)
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01076-lightning-newsworld-rakutenus/cb543d1e786c668f84c83c65cef341a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7251db80148b61299bce8c37683f03409a5e5afba358b1ebe25b13de64a8b91c55977d11e79f43c8821da689d2089d5e8e23a4149d9af4da8218d6d2f31c93748a98cd5c581fb0a43bfae053b2d5946c2a95705a297437c790e335caa1e43d277debf6cac505b5739cca4d0907461e9e4a5416e0f2cbd37d17c5f6307981ff082d18b7cd5a2e0da1eea198ef3409700791adc4d2697595fa153712873d986a1c319ef9c40397833ba2f672d5fa394678f7984bcdc9e9c3f7e6d903dc04dad7f89d0a474c480d16c908f1cd23887f9d3083e6270c700104a1935ec1c6fe5b336940cfc07ddc0114b4dec4d28b5d759a2e4b14b820ea5a036dde3d2329b67ab7c96a1efc4c60b23c33ff57229302ade85e9289efa5576bfb8ebd019509c8ba05d5fa07d31d1f5110bcff291f080c4ad9e06202276a8122c0d6d9ea630610e6959bae2032ceedfeb9340c559563df3647d92fbc03e6f8afb058/60/1920x1080_4716800/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png" group-title="WORLD NEWS",AFRICA NEWS (mediatailor)
-https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/d77fdb5c-74c5-4441-80ac-4cd6dc0d8d5e/5.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Bloomberg_Television_2007.svg/revision/latest?cb=20240721234146" group-title="WORLD NEWS",BLOOMBERG ORIGINAL (wurl)
-https://e96a7526.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/d7a22ff9-665f-4df4-95bd-b3367bac6bec/1.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/GBNews.svg/revision/latest?cb=20210421163251" group-title="WORLD NEWS",GB NEWS (amagi.tv)
 https://amg01076-lightningintern-gbnewsse-samsungse-q7qjc.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-gbnewsse-samsungse/cb543d1e786c668f84c83c65cef341a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7251db80148b61299bce8c37683f03409a5e5afba358b1ebe20f42d16ef3e44855977b47b69f43c8821da68887099c5e8527f614cbc3a589d71581d3f31c93748a98cd5c581fb0a43bfae053b2d5946c2a95705a297437c790e335caa1e43d277debf6cac505b5739cca4d0907461e9e4a5416e0f2cbd37d17c5f6307981ff082d18b7cd5a2e0da1eea198ef3409700791adc4d2697595fa153712873d986a1c319ef9c40397833ba2f672d5fa394678f7984bcdc9e9c3f7e6d903dc04dad7f89d0a474c480d16c908f1cd23887f9d3083e6270c700104a1935ec1c6fe5b336940cfc07ddc0114b4dec4d28b5d759a2e4b14b820ea5a036dde3d2329b67ab7c96a1efc4c60b23c33ff57229302ade85e9289efa5576bfb8ebd019509c8ba05d5fa07d31d1f5110bcff291f080c4ad9e06202276a8122c0d6d9ea630610e6959eaa2032c3f4e9b934e3a93075b293311a3cb29ea394cc3df8/34/1920x1080_4716800/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="WORLD NEWS",FRANCE24 (antik)
 https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bloomberg_Television_logo_white.svg/330px-Bloomberg_Television_logo_white.svg.png?_=20250216214549" group-title="WORLD NEWS",BLOOMBERG TV (fastly)
+https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-2/Source-EUTVqvs-10000-1-sknn1p-BP-HD-4-KZVY3t6YToC2_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/E-NTD_logo2.jpg?_=20220521180758" group-title="WORLD NEWS",NTD NEWS (amagi.tv)
+https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/cb543d1e786c668f84c83c65cef341a2f94d1fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c575677a864c30d00c1db0cb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7254db80148c79218bb3dc60306d2700cd0401b0b03df2a9b01f1cc769a2b6024b933d51e28747c1d519efd5c959ca45806bf015cb93ed82db158b9b9332af50b3660d5c2079ca824bbca32ede765e6d43fe580c04777ce8a79cf04b2f8f463133929dea8c15349753eb5fe54124b201e22fce50d828c281c090eb3e7fa04d923999ddb0eb459f30319aaab15912ae6ffaedc3dc787d8be2154289a807c30f242299f1c715cb965bc6f66ba9bd6708209bd1649599a08ce6b4cd1bca7e8af4d9d51c131836224bc67cb28a61de1ed87a83c7076e091e13e3c90384cef276044f63cac052dd181ef9fc8e80d401728a431348e76ddc1454389a7a3c32b27ba1ca723dd87f4aa83a3ff25430c071fdbe2de7ae94b0556cfb8d91309205889404d6e40da0694e3b53e5886c35227f7cddfd7303370ba476e5ded9f4790e4280dac2fcc95f3d47091f5d028ee88525c86ea1b9a1c76f35474c41c1dc65ccaa17dd2db9a93bf2cf/53/1280x720_3329040/index.m3u8
+
 
 
 
@@ -664,6 +665,33 @@ https://amg00735-amg00735c19-denstv-apac-7624.playouts.now.amagi.tv/ts-eu-w1-n2/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/AWE_Logo_%28platinum%29.jpg/960px-AWE_Logo_%28platinum%29.jpg?_=20170517224022" group-title="DOCUMENTARY", Awe Doc (klowdtv)
 https://a-cdn.klowdtv.com/live1/awe_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d9/Wonder_TV_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/268?cb=20231124135730" group-title="DOCUMENTARY",Wonder (amagi.tv)
+https://wonder-samsung-uk.amagi.tv/720p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHbeK9UkJX4wVWQ1pnemqVUADzsiPsK4zjCw&s" group-title="DOCUMENTARY",Timeline (amagi.tv)
+https://lds-timeline-rakuten.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/WAAR_TV_HD.png/960px-WAAR_TV_HD.png" group-title="DOCUMENTARY",World War TV (amagi.tv)
+https://aenetworks-worldwartv-rakuten.amagi.tv/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51RhexlSf3L._AC_SY300_SX300_QL70_ML2_.jpg" group-title="DOCUMENTARY",The Wicked Tuna (amagi.tv)
+https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sales.wildtv.ca/hubfs/WildTV%20Media%20Centre%20Packages/WaterTV%20Logo/Water_BLUE-WHITE-XL.png" group-title="DOCUMENTARY",Water Bear (amagi.tv)
+https://waterbear-waterbear-rakuten.amagi.tv/playlist1080_p.m3u8
+
+#EXTINF:-1 tvg-logo="https://sales.wildtv.ca/hubfs/WildTV%20Media%20Centre%20Packages/WildTV+Logos/WTV+%20White%20Logo.png" group-title="DOCUMENTARY",Real Wild (amagi.tv)
+https://lds-realwild-rakuten.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/9/9b/Mythbusters_Metal_logo_sign.jpg?_=20231206162444" group-title="DOCUMENTARY",Mythbuster (amagi.tv)
+https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png" group-title="DOCUMENTARY",Curiosity Now (amagi.tv)
+https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/cb543d1e786c668f84c83c65cef341a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7251db80148b61299bce8c37683f03409a5e5afba358b1ebe20c14de6df3b21955977b40e19f43c8821da6d1d25bcc5e8327f9109891f08ada12d3d2f31c93748a98cd5c581fb0a43bfae053b2d5946c2a95705a297437c790e335caa1e43d277debf6cac505b5739cca4d0907461e9e4a5416e0f2cbd37d17c5f6307981ff082d18b7cd5a2e0da1eea198ef3409700791adc4d2697595fa153712873d986a1c319ef9c40397833ba2f672d5fa394678f7984bcdc9e9c3f7e6d903dc04dad7f89d0a474c480d16c908f1cd23887f9d3083e6270c700104a1935ec1c6fe5b336940cfc07ddc0114b4dec4d28b5d759a2e4b14b820ea5a036dde3d2329b67ab7c96a1efc4c60b23c33ff57229302ade85e9289efa5576bfb8ebd019509c8ba05d5fa07d31d1f5110bcff291f080c4ad9e06202276a8122c0d6d9ea630610e69594ac2032b3c1e8b9341695950d0f5bb9d5b89aaf877b1fd610/92/1920x1080_6046040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3D51rni3as7r5C5yNVLs2BpMysnFQ7bBZ3Q&s" group-title="DOCUMENTARY",Mystery (amagi.tv)
+https://aenetworks-mysterytv-rakuten.amagi.tv/1080p-vtt/index.m3u8
 
 
 
@@ -813,6 +841,19 @@ https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/ts-eu-w1-n2/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES & SHOWS",Cinelife (amagi.tv)
 https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/ts-us-e2-n2/playlist/magnoliaA-cinelife-oando/cb543d1e786c668f84c83c65cef341a2f94d1fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c545677a864c30d00c1db0cb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7256db80148c7a2c82b3dc623b6d2700cd0401b0b03df2a9b01f1cc769a2b6024b933d51b18616c9851ceed6c95b974ad56bf015cb93ed828546879bc536a05fe0645c0b7224cad44bbca32ede765e6d43fe580c04777ce8a79cf04b2f8f463133929dea8c15349753eb5fe54124b201e22fce50d828c281c090eb3e7fa04d923999ddb0eb459f30319aaab15912ae6ffaedc3dc787d8be2154289a807c30f242299f1c715cb965bc6f66ba9bd6708209bd1649599a08ce6b4cd1bc97e8af4d9d51c131836224bc67cb28a61de1ed87a83c7076e091e13e3c90384cef276044f63cac052dd181ef9fc8e80d401728a431348e76ddc145438987a3c32b278acc3723dda744aa83a3ff25430c071fdbe2de7ae94b0556cfb8d91309205889404d6e40da0694e3b53e6886c35227f7cddfd7303370ba476e5ded9f4790e4280dac2fcc95f3d47091f5d028ee886257bef1381bcbaa7fea892cabc8faffa42c5abfc210cb13f/5/1280x720_2657019/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/fd/Hells_kitchen_logo.png/250px-Hells_kitchen_logo.png" group-title="MOVIES & SHOWS",Hells Kitchen (amagi.tv)
+https://itv-hellskitchen-rakuten.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/MovieSphere_transparent_logo.png/revision/latest?cb=20250815035707" group-title="MOVIES & SHOWS",MOVIESPHERE (amagi.tv)
+https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zee_One_Logo_2017.svg/960px-Zee_One_Logo_2017.svg.png?_=20211127145148" group-title="MOVIES & SHOWS",ZEE ONE (wurl)
+https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist_4300k_20260310T141440.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn1KBq7HYjdDnMYmJr_HYjVlfkAv1ZHUBJpg&s" group-title="MOVIES & SHOWS",AMG MOVIE (streamhoster)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+
 
 
 
