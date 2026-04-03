@@ -607,6 +607,12 @@ https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="insight.au" tvg-name="Insight" tvg-logo="https://cdn.uc.assets.prezly.com/c80c6b08-95cc-4faa-ac9b-e8599fc0fe34/-/preview/1000x1000/-/resize/1200/InsightTV_portrait-plain-blue.png" group-title="DOCUMENTARY",InSight (amagi.tv)
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8 
 
+#EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/-/preview/2000x2000/-/resize/1200/INTRAVEL_PortraitColor.png" group-title="DOCUMENTARY",Intravel (amagi.tv)
+https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/28ebc4a6-cfda-4bb1-9b9c-14e2c3da67a8/-/preview/2000x2000/-/resize/1200/InTrouble_portraitOrange.png" group-title="DOCUMENTARY",Introuble (amagi.tv)
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist1080-p.m3u8
+
 #EXTINF:-1 tvg-id="NatureTime.es@SD" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="DOCUMENTARY",Nature Time (amagi.tv)
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 
@@ -693,7 +699,8 @@ https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.t
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3D51rni3as7r5C5yNVLs2BpMysnFQ7bBZ3Q&s" group-title="DOCUMENTARY",Mystery (amagi.tv)
 https://aenetworks-mysterytv-rakuten.amagi.tv/1080p-vtt/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71-UfIp57g-1CyCLgvRkIHIUsLDzr88I-OA&s" group-title="DOCUMENTARY",Misteries Xplored (cloudfront)
+https://dwqz6akge0ila.cloudfront.net/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/V00000001/0/HLS/playlist_3000k_20260309T145009.m3u8
 
 
 
@@ -711,6 +718,12 @@ https://jmp2.uk/rok-eec9d131b4095083a23c485d804c8b2d.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Wipeout.jpg/revision/latest?cb=20120406004738" group-title="MOVIES & SHOWS",Wipeout Extra (amagi.tv)
 https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/cb543d1e786c668f84c83c65cef341a2f94d1fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c575677a864c30d00c1db0cb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7254db80148c79218bb3dc60306d2700cd0401b0b03df2a9b01f1cc769a2b6024b933d51b4d645cbd71bb8d2c959cc108e6bf015cb93ed828644d19b9736fb05b7605901242e9bd34bbca32ede765e6d43fe580c04777ce8a79cf04b2f8f463133929dea8c15349753eb5fe54124b201e22fce50d828c281c090eb3e7fa04d923999ddb0eb459f30319aaab15912ae6ffaedc3dc787d8be2154289a807c30f242299f1c715cb965bc6f66ba9bd6708209bd1649599a08ce6b4cd1bca7e8af4d9d51c131836224bc67cb28a61de1ed87a83c7076e091e13e3c90384cef276044f63cac052dd181ef9fc8e80d401728a431348e76ddc1454389a7a3c32b27ba1ca723dd87f4aa83a3ff25430c071fdbe2de7ae94b0556cfb8d91309205889404d6e40da0694e3b53e5886c35227f7cddfd7303370ba476e5ded9f4790e4280dac2fcc95f3d47091f5d028ee88421c3da2048db8707fd4099100d8c68c49cb016f4e31048c618c6/184/1920x1080_6046040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/960px-America%27s_Got_Talent_2015_logo.png" group-title="MOVIES & SHOWS",American Got Talent (cloudfront)
+https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png?_=20231028030137" group-title="MOVIES & SHOWS",Entertainment Tonight (cbsivideo)
+https://enterbcef94b.airspace-cdn.cbsivideo.com/master_7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/battlebots/images/e/e6/Site-logo.png/revision/latest?cb=20220630190201" group-title="MOVIES & SHOWS",Battle Bots (mechplus-1-dk)
 https://mechtvltd-mechplus-1-dk.samsung.wurl.tv/3000.m3u8
@@ -853,6 +866,15 @@ https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/720
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn1KBq7HYjdDnMYmJr_HYjVlfkAv1ZHUBJpg&s" group-title="MOVIES & SHOWS",AMG MOVIE (streamhoster)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/e/8/3/e8348bc6a66aa74da3f32eb274422564_icon.png?w=128" group-title="MOVIES & SHOWS",Asian Crush (frequency)
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="MOVIES & SHOWS",My Time Movie (amagi.tv)
+https://mytime-tcl.amagi.tv/1080p-en-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.theaudiodb.com/images/media/artist/logo/svsrxw1522418415.png" group-title="MOVIES & SHOWS",The Archive (frequency)
+https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist_1920x1080.m3u8
 
 
 
@@ -2191,6 +2213,8 @@ http://cord-cutter.net:8080/bn80NG/909467/100043
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Goal_TV.svg/revision/latest?cb=20260212222251" group-title="SPORTS 4",GOAL TV (sofast)
+https://streams2.sofast.tv/sofast/goaltv/goaltv_3500k.m3u8
 
 #EXTINF:-1 tvg-id="296" tvg-name="SportyNet 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportynet.png" group-title="SPORTS 4",SportyNet
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19024.ts
