@@ -1101,6 +1101,11 @@ https://jmp2.uk/rok-bc932f13c31e542db6e3e6247e7131bc.m3u8
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" group-title="HUB SPORTS",HUB SPORTS 2 (4kgood)
 http://4kgood.org/live/4o48up5evz/r4fiast66u/280828.ts
 
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="HUB SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png",HUB PREMIER 1 (greenslime)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" group-title="HUB SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-2.png",HUB PREMIER 2 (greenslime)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
+
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="HUB SPORTS",HUB PREMIER 1 (dhoomtv)
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="HUB SPORTS",HUB PREMIER 3 (dhoomtv)
@@ -1305,14 +1310,20 @@ https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-com
 #EXTINF:-1 group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (Diablo)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/161922
 
-#EXTINF:-1 group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (KSTV)
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48443
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (KSTV)
+http://kstv.us:8080/Freshcobar23/83261331891/48443
 #EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (KSTV)
 http://kstv.us:8080/Freshcobar23/83261331891/48444
-#EXTINF:-1 group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png",DAZN 3 (KSTV)
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png",DAZN 3 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48445
-#EXTINF:-1 group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png",DAZN 4 (KSTV)
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png",DAZN 3 (KSTV)
+http://kstv.us:8080/Freshcobar23/83261331891/48445
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png",DAZN 4 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48446
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png",DAZN 4 (KSTV)
+http://kstv.us:8080/Freshcobar23/83261331891/48446
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png" group-title="DAZN SPORTS",DAZN 1 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
@@ -1330,11 +1341,17 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (realiptv)
 https://restream-live.realiptv.to/53420573/53717218/925
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (realiptv)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/925
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (realiptv)
 https://restream-live.realiptv.to/53420573/53717218/926
 #EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (realiptv)
 https://restream-live.realiptv.to/53420573/53717218/924
 #EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (realiptv)
 https://restream-live.realiptv.to/53420573/53717218/923
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (realiptv)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/924
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (realiptv)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/923
 #EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png",DAZN 3 (realiptv)
 https://restream-live.realiptv.to/53420573/53717218/921
 #EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png",DAZN 4 (realiptv)
@@ -1342,8 +1359,14 @@ https://restream-live.realiptv.to/53420573/53717218/920
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (tvmate)
 http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/35264
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (tvmate)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/35264
 #EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png",DAZN 3 (tvmate)
 http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167748
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png",DAZN 3 (tvmate)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167748
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png",DAZN 4 (tvmate)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167749
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412" group-title="DAZN SPORTS",DAZN 1 (supersonictv)
 http://supersonictv.live:8080/Allen123/Allen123/7627
@@ -1355,6 +1378,18 @@ http://supersonictv.live:8080/006779/439866/7634
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png?_=20231024145649" group-title="DAZN SPORTS",DAZN 3 (1tv41)
 http://1tv41.icu:8080/live/43761449506/smallwood/167748.ts
 
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (cbilant)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31954/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (cbilant)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2532/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (cbilant)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31955/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png",DAZN 3 (cbilant)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7062/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png",DAZN 3 (cbilant)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31956/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png",DAZN 4 (cbilant)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31957/index.m3u8
 
 
 
@@ -1712,12 +1747,16 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
 #EXTINF:-1 tvg-id="465416" tvg-logo="https://i.imghippo.com/files/WU1252hQk.jpg" group-title="SPORTS 1", SPOR TV 3 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
 
-#EXTINF:-1 group-title="SPORTS 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif",NOW SPORTS 1 (fastopen)
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
 #EXTINF:-1  group-title="SPORTS 1" tvg-name="Now Sports PL 1 FHD" tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://pixvid.org/images/2025/01/21/NowS1.png"  radio="false",NOW SPORTS 1 (a1xs)
 https://a1xs.vip/1100001
+#EXTINF:-1 group-title="SPORTS 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif",NOW SPORTS 1 (fastopen)
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMqHV0FSIG1QNzwxitkWybo2QdfpKwzYFP1NEr129M_bbN9Z0I-Bsg6ptP7uPhdbMCf3PyHPjlWMZKVguGavP33Lj6PcFmXHcat4yPf1Fq2kF7jJnjfBaNl5QFFtlPNc-Vj0uqj3C0uUpmFO5jnlENGsKrUn4MmkfPeV7i5eaIAWgc5JFm2LtLTz7ampY/s700/Laliga.png" group-title="SPORTS 1",NOW SPORTS 2 (fastopen)
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112206
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" group-title="SPORTS 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-1.png",NOW SPORTS 1 (greenslime)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" group-title="SPORTS 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-2.png",NOW SPORTS 2 (greenslime)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
 
 #EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="SPORTS 1",CBS SPORTS UCL (jmp2.uk)
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
