@@ -1592,6 +1592,19 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22015.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="ESPN SPORTS",ESPN 6 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 
+#EXTINF:-1 tvg-name="ESPN1 (alternativo) HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN SPORTS",ESPN 1 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22001.ts
+#EXTINF:-1 tvg-name="- ESPN2 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN SPORTS",ESPN 2 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22004.ts
+#EXTINF:-1 tvg-name="- ESPN3 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN SPORTS",ESPN 3 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22007.ts
+#EXTINF:-1 tvg-name="- ESPN4 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN SPORTS",ESPN 4 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22010.ts
+#EXTINF:-1 tvg-name="- ESPN5 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN SPORTS",ESPN 5 (sinalprivado) 
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.ts
+#EXTINF:-1 tvg-name="- ESPN6 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN SPORTS",ESPN 6 (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
+
 #EXTINF:-1 group-title="ESPN SPORTS",ESPN 1 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83385
 #EXTINF:-1 group-title="ESPN SPORTS",ESPN 2 (magixx99)
@@ -1604,6 +1617,16 @@ http://magixx99.com:80/41782245166/jho98765jho/83388
 http://magixx99.com:80/41782245166/jho98765jho/83389
 #EXTINF:-1 group-title="ESPN SPORTS",ESPN 6 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83382
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN SPORTS",ESPN 1 (dragon1977)
+http://dragon1977.com:80/047306b75f/b5a06cc482d6/891520
+#EXTINF:-1 tvg-logo="" group-title="ESPN SPORTS",ESPN 2 (dragon1977)
+http://dragon1977.com:80/047306b75f/b5a06cc482d6/891519
+#EXTINF:-1 tvg-logo="" group-title="ESPN SPORTS",ESPN 3 (dragon1977)
+http://dragon1977.com:80/047306b75f/b5a06cc482d6/891518
+#EXTINF:-1 tvg-logo="" group-title="ESPN SPORTS",ESPN 4 (dragon1977)
+http://dragon1977.com:80/047306b75f/b5a06cc482d6/891517
+
 
 #EXTINF:-1 group-title="ESPN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png",ESPN (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2865
@@ -2809,76 +2832,3 @@ https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Carib RUSH Sports (D)" tvg-logo="" group-title="SPORTS 3",RUSH Sports (cord-cutter)
 http://cord-cutter.net:8080/bn80NG/909467/100043
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 4",Alwan Sport 1
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 4",Alwan Sport 2
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641619
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 4",Alwan Sport 3
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641620
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 4",Alwan Sport 4
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641621
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 4",Alwan Sport 5
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641622
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 4",Alwan Sport 6
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641623
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 4",Alwan Sport 7
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641611
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 4",Alwan Sport 8
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641612
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 4",Alwan Sport 9
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641613
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 4",Alwan Sport 10
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641614
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641617
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Goal_TV.svg/revision/latest?cb=20260212222251" group-title="SPORTS 4",GOAL TV (sofast)
-https://streams2.sofast.tv/sofast/goaltv/goaltv_3500k.m3u8
-
-#EXTINF:-1 tvg-id="296" tvg-name="SportyNet 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportynet.png" group-title="SPORTS 4",SportyNet
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19024.ts
-
-
-#EXTINF:-1 tvg-id="PREMIERE CLUBES (alternativo) HD³" tvg-name="PREMIERE CLUBES (alternativo) HD³" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="SPORTS 4",PREMIERE CLUBES (alternativo) HD³
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20001.ts
-
-#EXTINF:-1 tvg-id="SPORTV alternativo HD³" tvg-name="SPORTV alternativo HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="SPORTS 4",SPORTV alternativo HD³
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21001.ts
-#EXTINF:-1 tvg-id="SPORTV 2 alternativo HD³" tvg-name="SPORTV 2 alternativo HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="SPORTS 4",SPORTV 2 alternativo HD³
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21004.ts
-#EXTINF:-1 tvg-id="SPORTV 3 alternativo HD³" tvg-name="SPORTV 3 alternativo HD³" tvg-logo="https://prostore.app/logos/sportv.png" group-title="SPORTS 4",SPORTV 3 alternativo HD³
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21007.ts
-
-#EXTINF:-1 tvg-id="ESPN1 (alternativo) HD³" tvg-name="ESPN1 (alternativo) HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="SPORTS 4",- ESPN1 (alternativo) HD³
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22001.ts
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="SPORTS 4",- ESPN2 alternativo HD³
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22004.ts
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN3 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="SPORTS 4",- ESPN3 alternativo HD³
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22007.ts
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN4 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="SPORTS 4",- ESPN4 alternativo HD³
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22010.ts
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN5 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="SPORTS 4",- ESPN5 alternativo HD³
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.ts
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="SPORTS 4",- ESPN6 alternativo HD³
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 4",ESPN 1 NL
-http://dragon1977.com:80/047306b75f/b5a06cc482d6/891520
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 4",ESPN 2 NL
-http://dragon1977.com:80/047306b75f/b5a06cc482d6/891519
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 4",ESPN 3 NL
-http://dragon1977.com:80/047306b75f/b5a06cc482d6/891518
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 4",ESPN 4 NL
-http://dragon1977.com:80/047306b75f/b5a06cc482d6/891517
-
-
