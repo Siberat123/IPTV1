@@ -722,6 +722,12 @@ https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/99/Infamous_Logo.PNG?_=20100310142932" group-title="DOCUMENTARY",Famous Infamous (tubi)
 https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist_1920x1080.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTARY",History & Warfare (cloudfront)
+https://dym0m3hpk8pit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-twag9lr2sgbxc/History_and_Warfare_CA.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY",Evolution Earth (cloudfront)
+https://d3em2dvvzq3oj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-23j2wegjm8ftd/Evolution_Earth.m3u8
+
 
 
 
@@ -915,6 +921,26 @@ https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/1080p
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="MOVIES & SHOWS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/15905
+
+#EXTINF:-1 group-title="MOVIES & SHOWS",Miramax (frequency)
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SHOWS",Sony Movies (klowdtv)
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SHOWS",Sony One Action Hits (amazonaws)
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SHOWS",Sony One Hits (amazonaws)
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SHOWS",Sony One Thriller (amazonaws)
+https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SHOWS",Sony One Comedy (amazonaws)
+https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SHOWS",Popflix (amazonaws)
+https://75bced9559e343058577aeae94f36a8c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-gb_Popflix/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=4279&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=5a4cef4a-2ffe-46f6-b0e8-a11d03596d8a&ads.user_type=visitor&ads.wurl_channel=1068
+
+#EXTINF:-1 group-title="MOVIES & SHOWS",24 Hour Movies (cloudfront)
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.islive=1&ads.streamtype=live
 
 
 
@@ -2258,13 +2284,13 @@ https://a1xs.vip/700007
 
 #SPORTS 0
 #
-#EXTINF:-1 group-title="SPORTS 0",DIGI SPORT 1 (dienalt)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/DIGI_Sport_1.svg/960px-DIGI_Sport_1.svg.png?_=20250202193551" group-title="SPORTS 0",DIGI SPORT 1 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
-#EXTINF:-1 group-title="SPORTS 0",DIGI SPORT 2 (dienalt)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DIGI_Sport_2.svg/960px-DIGI_Sport_2.svg.png?_=20250202193551" group-title="SPORTS 0",DIGI SPORT 2 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2522/index.m3u8
-#EXTINF:-1 group-title="SPORTS 0",DIGI SPORT 3 (dienalt)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/DIGI_Sport_3.svg/960px-DIGI_Sport_3.svg.png?_=20250202193551" group-title="SPORTS 0",DIGI SPORT 3 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
-#EXTINF:-1 group-title="SPORTS 0",DIGI SPORT 4 (dienalt)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DIGI_Sport_4.svg/960px-DIGI_Sport_4.svg.png?_=20250202193554" group-title="SPORTS 0",DIGI SPORT 4 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="SPORTS 0" tvg-name="" tvg-id="ElevenSports1.pl",ELEVEN SPORTS 1 (ssarao4k)
@@ -2285,29 +2311,21 @@ http://dragon1977.com:80/047306b75f/b5a06cc482d6/814325
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="SPORTS 0",ELEVEN SPORTS 4 (dragon1977)
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/814324
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="SPORTS 0",ZIGGO SPORT 1 (dienalt)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ziggo_Sport_logo_2026.svg/960px-Ziggo_Sport_logo_2026.svg.png?_=20260112161306" group-title="SPORTS 0",ZIGGO SPORT 1 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",ZIGGO SPORT 2 (dienalt)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ziggo_Sport_logo_2026.svg/960px-Ziggo_Sport_logo_2026.svg.png?_=20260112161306" group-title="SPORTS 0",ZIGGO SPORT 2 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",ZIGGO SPORT 3 (dienalt)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ziggo_Sport_logo_2026.svg/960px-Ziggo_Sport_logo_2026.svg.png?_=20260112161306" group-title="SPORTS 0",ZIGGO SPORT 3 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://i.imgur.com/8mnQvB5.png"  radio="false",ZIGGO SPORT 1 (a1xs)
-https://a1xs.vip/140001
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://i.imgur.com/8mnQvB5.png"  radio="false",ZIGGO SPORT 2 (a1xs)
-https://a1xs.vip/140002
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://i.imgur.com/8mnQvB5.png"  radio="false",ZIGGO SPORT 3 (a1xs)
-https://a1xs.vip/140003
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://i.imgur.com/8mnQvB5.png"  radio="false",ZIGGO SPORT 4 (a1xs)
-https://a1xs.vip/140004
-#EXTINF:-1 tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png" group-title="SPORTS 0",ZIGGO SPORT 1 (assarao4k)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ziggo_Sport.svg/960px-Ziggo_Sport.svg.png?_=20250204051411" group-title="SPORTS 0",ZIGGO SPORT 1 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537597&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png" group-title="SPORTS 0",ZIGGO SPORT 2 (assarao4k)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ziggo_Sport.svg/960px-Ziggo_Sport.svg.png?_=20250204051411" group-title="SPORTS 0",ZIGGO SPORT 2 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537596&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png" group-title="SPORTS 0",ZIGGO SPORT 3 (assarao4k)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ziggo_Sport.svg/960px-Ziggo_Sport.svg.png?_=20250204051411" group-title="SPORTS 0",ZIGGO SPORT 3 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537595&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png" group-title="SPORTS 0",ZIGGO SPORT 4 (assarao4k)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ziggo_Sport.svg/960px-Ziggo_Sport.svg.png?_=20250204051411" group-title="SPORTS 0",ZIGGO SPORT 4 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537594&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png" group-title="SPORTS 0",ZIGGO SPORT 5 (assarao4k)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ziggo_Sport.svg/960px-Ziggo_Sport.svg.png?_=20250204051411" group-title="SPORTS 0",ZIGGO SPORT 5 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537593&extension=ts
 #EXTINF:-1 tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png" group-title="SPORTS 0",ZIGGO SPORT 6 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537592&extension=ts
