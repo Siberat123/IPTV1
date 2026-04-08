@@ -722,10 +722,10 @@ https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/99/Infamous_Logo.PNG?_=20100310142932" group-title="DOCUMENTARY",Famous Infamous (tubi)
 https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist_1920x1080.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY",History & Warfare (cloudfront)
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41E6152D-2E5D-47B1-B910-6C069D7FDCD1/3-1x1.png/900" group-title="DOCUMENTARY",History & Warfare (cloudfront)
 https://dym0m3hpk8pit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-twag9lr2sgbxc/History_and_Warfare_CA.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY",Evolution Earth (cloudfront)
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/928b42d9-842a-3327-b565-005312b9ea62/LOGO_TITLE_WIDE?language=en-GB&proposition=NOWOTT&version=f735018e-829e-3c6a-8cb6-1a0db9aa64e6" group-title="DOCUMENTARY",Evolution Earth (cloudfront)
 https://d3em2dvvzq3oj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-23j2wegjm8ftd/Evolution_Earth.m3u8
 
 
@@ -791,11 +791,11 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/HBOfamilyLA2021.svg/revision/latest?cb=20220505142501" group-title="MOVIES & SHOWS",HBO Family (Bluestraveller13)
+#EXTINF:-1 tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/f/f4/HBO_1996-200x_3.png/revision/latest/scale-to-width-down/1000?cb=20241018095720" group-title="MOVIES & SHOWS",HBO Family (Bluestraveller13)
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOFamily.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES & SHOWS",HBO Hits (Bluestraveller13)
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOHits.m3u8
-#EXTINF:-1 tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/f/f4/HBO_1996-200x_3.png/revision/latest/scale-to-width-down/1000?cb=20241018095720" group-title="MOVIES & SHOWS",HBO Hits (indihometv)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/HBO_1996-200x_3.png/revision/latest/scale-to-width-down/1000?cb=20241018095720" group-title="MOVIES & SHOWS",HBO Hits (indihometv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
@@ -922,24 +922,24 @@ https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/1080p
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="MOVIES & SHOWS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/15905
 
-#EXTINF:-1 group-title="MOVIES & SHOWS",Miramax (frequency)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Miramax.svg/960px-Miramax.svg.png?_=20221029144826" group-title="MOVIES & SHOWS",Miramax (frequency)
 https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SHOWS",Sony Movies (klowdtv)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sony_Movies_Logo.png/960px-Sony_Movies_Logo.png?_=20240926210157" group-title="MOVIES & SHOWS",Sony Movies (klowdtv)
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES & SHOWS",Sony One Action Hits (amazonaws)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sony_Movies_Logo.png/960px-Sony_Movies_Logo.png?_=20240926210157" group-title="MOVIES & SHOWS",Sony One Action Hits (amazonaws)
 https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES & SHOWS",Sony One Hits (amazonaws)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sony_Movies_Logo.png/960px-Sony_Movies_Logo.png?_=20240926210157" group-title="MOVIES & SHOWS",Sony One Hits (amazonaws)
 https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES & SHOWS",Sony One Thriller (amazonaws)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sony_Movies_Logo.png/960px-Sony_Movies_Logo.png?_=20240926210157" group-title="MOVIES & SHOWS",Sony One Thriller (amazonaws)
 https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES & SHOWS",Sony One Comedy (amazonaws)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sony_Movies_Logo.png/960px-Sony_Movies_Logo.png?_=20240926210157" group-title="MOVIES & SHOWS",Sony One Comedy (amazonaws)
 https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SHOWS",Popflix (amazonaws)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pdvideo/images/3/34/PFX.jpg/revision/latest?cb=20120927174451" group-title="MOVIES & SHOWS",Popflix (amazonaws)
 https://75bced9559e343058577aeae94f36a8c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-gb_Popflix/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=4279&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=5a4cef4a-2ffe-46f6-b0e8-a11d03596d8a&ads.user_type=visitor&ads.wurl_channel=1068
 
-#EXTINF:-1 group-title="MOVIES & SHOWS",24 Hour Movies (cloudfront)
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/movies-24-logo.png" group-title="MOVIES & SHOWS",24 Hour Movies (cloudfront)
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.islive=1&ads.streamtype=live
 
 
@@ -1105,59 +1105,6 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/659428
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png",BEIN SPORTS 1 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6123/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="BEIN SPORTS",BEIN SPORTS 1 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bsx1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="BEIN SPORTS",BEIN SPORTS 2 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bsx2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="BEIN SPORTS",BEIN SPORTS 1 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bsev1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="BEIN SPORTS",BEIN SPORTS 2 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bsev2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="BEIN SPORTS",BEIN SPORTS 1 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bseng1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="BEIN SPORTS",BEIN SPORTS 2 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bseng2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="BEIN SPORTS",BEIN SPORTS 1 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="BEIN SPORTS",BEIN SPORTS 2 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="BEIN SPORTS",BEIN SPORTS 3 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs3.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="BEIN SPORTS",BEIN SPORTS 4 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs4.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="BEIN SPORTS",BEIN SPORTS 5 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs5.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="BEIN SPORTS",BEIN SPORTS 6 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs6.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="BEIN SPORTS",BEIN SPORTS 7 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs7.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="BEIN SPORTS",BEIN SPORTS 8 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs8.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="BEIN SPORTS",BEIN SPORTS 9 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs9.m3u8
-
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORTS 1 (hydratv)
-http://hydratv.pro/live/Mah2/432266432/415747.ts
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORTS 2 (hydratv)
-http://hydratv.pro/live/Mah2/432266432/415746.ts
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORTS 3 (hydratv)
-http://hydratv.pro/live/Mah2/432266432/415745.ts
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORTS 4 (hydratv)
-http://hydratv.pro/live/Mah2/432266432/406820.ts
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORTS 5 (hydratv)
-http://hydratv.pro/live/Mah2/432266432/415743.ts
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORTS 6 (hydratv)
-http://hydratv.pro/live/Mah2/432266432/415742.ts
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORTS 7 (hydratv)
-http://hydratv.pro/live/Mah2/432266432/415741.ts
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORTS 8 (hydratv)
-http://hydratv.pro/live/Mah2/432266432/415740.ts
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORTS 9 (hydratv)
-http://hydratv.pro/live/Mah2/432266432/415739.ts
-
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="BEIN SPORTS",BEIN SPORTS 4 MAX (vipnorseman)
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/376
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="BEIN SPORTS",BEIN SPORTS 5 MAX (vipnorseman)
@@ -1241,11 +1188,6 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314082&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314083&extension=ts&play_token=CxgiuXGw0c
 #EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",HUB PREMIER 8 (light-ott)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&extension=ts&play_token=Suotild03T
-
-#EXTINF:-1  group-title="HUB SPORTS" tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png"  radio="false",HUB PREMIER 1 (a1xs)
-https://a1xs.vip/1100041
-#EXTINF:-1  group-title="HUB SPORTS" tvg-name="Hub Premier 4 FHD" tvg-id="Hub.Premier.4.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png?w=272" radio="false",Hub Premier 4 (a1xs)
-https://a1xs.vip/1100044
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="HUB SPORTS",HUB PREMIER 2 (myxpanel)
 http://myxpanel.pro/live/randy1/randy1/288374.m3u8
@@ -1383,36 +1325,36 @@ http://cdntv.online/low/9mlxywika2/56.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Coat_of_Arms_of_the_Russian_Federation_2.svg/250px-Coat_of_Arms_of_the_Russian_Federation_2.svg.png" group-title="RUSSIAN SPORTS",ФУТБOЛ 3 (cdntv)
 http://cdntv.online/low/9mlxywika2/57.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="RUSSIAN SPORTS",Setanta Sport 1 (158.101.222)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804042515" group-title="RUSSIAN SPORTS",Setanta Sport 1 (158.101.222)
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/setanta-sports-1.png",Setanta Sports 1 (cbilant)
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Setanta_Sports_1_2021_UA.svg/revision/latest?cb=20220714215422",Setanta Sports 1 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6541/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/setanta-sports-1.png",Setanta Sports 1 (cbilant)
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Setanta_Sports_1_2021_UA.svg/revision/latest?cb=20220714215422",Setanta Sports 1 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6543/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/setanta-sports-1.png",Setanta Sports 1 (cbilant)
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Setanta_Sports_1_2021_UA.svg/revision/latest?cb=20220714215422",Setanta Sports 1 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/15183/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/setanta-sports-1.png",Setanta Sports 1 (cbilant)
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/6/6e/Setanta_Sports_1_2021_UA.svg/revision/latest?cb=20220714215422",Setanta Sports 1 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/20065/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/setanta-sports-1.png",Setanta Sports 1 (cbilant)
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Setanta_Sports_1_2021_UA.svg/revision/latest?cb=20220714215422",Setanta Sports 1 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31755/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/setanta-sports-1.png",Setanta Sports 1 (cbilant)
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Setanta_Sports_1_2021_UA.svg/revision/latest?cb=20220714215422",Setanta Sports 1 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/271/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/setanta-sports-1.png",Setanta Sports 1 (cbilant)
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Setanta_Sports_1_2021_UA.svg/revision/latest?cb=20220714215422",Setanta Sports 1 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/272/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/setanta-sports-1.png",Setanta Sports 1 (cbilant)
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/6/6e/Setanta_Sports_1_2021_UA.svg/revision/latest?cb=20220714215422",Setanta Sports 1 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/5069/index.m3u8
 
-#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/setanta-sports-2.png",Setanta Sports 2 (cbilant)
+#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Setanta_Sports_2_2021_UA.svg/revision/latest?cb=20230805211826",Setanta Sports 2 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6542/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/setanta-sports-2.png",Setanta Sports 2 (cbilant)
+#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Setanta_Sports_2_2021_UA.svg/revision/latest?cb=20230805211826",Setanta Sports 2 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6544/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/setanta-sports-2.png",Setanta Sports 2 (cbilant)
+#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="RUSSIAN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Setanta_Sports_2_2021_UA.svg/revision/latest?cb=20230805211826",Setanta Sports 2 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/270/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="RUSSIAN SPORTS",Setanta Sport 2 (94.43.1.138)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Setanta_Sports_2_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804053337" group-title="RUSSIAN SPORTS",Setanta Sport 2 (94.43.1.138)
 http://94.43.1.138:8081/setanta2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="RUSSIAN SPORTS",Setenta Sport 2 (cdntv)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Setanta_Sports_2_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804053337" group-title="RUSSIAN SPORTS",Setenta Sport 2 (cdntv)
 http://cdntv.online/low/9mlxywika2/1022.m3u8
 
 
@@ -1421,75 +1363,75 @@ http://cdntv.online/low/9mlxywika2/1022.m3u8
 
 #DAZN SPORTS
 #
-#EXTINF:-1 channel-id="647f07e74cfc2c0008a2e557" tvg-id="647f07e74cfc2c0008a2e557" tvg-chno="708" tvg-name="DAZN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png?_=20231023234745" group-title="DAZN SPORTS",DAZN TV (jmp2.uk)
+#EXTINF:-1 channel-id="647f07e74cfc2c0008a2e557" tvg-id="647f07e74cfc2c0008a2e557" tvg-chno="708" tvg-name="DAZN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Daznchannellogo.png?_=20210827121139" group-title="DAZN SPORTS",DAZN TV (jmp2.uk)
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 
-#EXTINF:-1 channel-id="b6a492b04d7d534fa0e9e69380382d02" tvg-id="b6a492b04d7d534fa0e9e69380382d02" tvg-chno="242" tvg-name="DAZN Ringside" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b6a492b04d7d534fa0e9e69380382d02/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694819506729_DAZN_TV_Ringside_Channel_HUD_Logo.png" group-title="DAZN SPORTS",DAZN RINGSIDE (jmp2.uk)
+#EXTINF:-1 channel-id="b6a492b04d7d534fa0e9e69380382d02" tvg-id="b6a492b04d7d534fa0e9e69380382d02" tvg-chno="242" tvg-name="DAZN Ringside" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Daznchannellogo.png?_=20210827121139" group-title="DAZN SPORTS",DAZN RINGSIDE (jmp2.uk)
 https://jmp2.uk/rok-b6a492b04d7d534fa0e9e69380382d02.m3u8
 
-#EXTINF:-1 tvg-id="DAZN COMBAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png?_=20231023234745" group-title="DAZN SPORTS" ,DAZN COMBAT (amagi.tv)
+#EXTINF:-1 tvg-id="DAZN COMBAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Daznchannellogo.png?_=20210827121139" group-title="DAZN SPORTS",DAZN COMBAT (amagi.tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
 https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
 
-#EXTINF:-1 group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (Diablo)
+#EXTINF:-1 group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412",DAZN 1 (Diablo)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/161922
 
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (KSTV)
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412",DAZN 1 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48443
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (KSTV)
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412",DAZN 1 (KSTV)
 http://kstv.us:8080/Freshcobar23/83261331891/48443
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (KSTV)
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png?_=20231024145535",DAZN 2 (KSTV)
 http://kstv.us:8080/Freshcobar23/83261331891/48444
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png",DAZN 3 (KSTV)
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png?_=20231024145649",DAZN 3 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48445
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png",DAZN 3 (KSTV)
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png?_=20231024145649",DAZN 3 (KSTV)
 http://kstv.us:8080/Freshcobar23/83261331891/48445
-#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png",DAZN 4 (KSTV)
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png?_=20231024150500",DAZN 4 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48446
-#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png",DAZN 4 (KSTV)
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png?_=20231024150500",DAZN 4 (KSTV)
 http://kstv.us:8080/Freshcobar23/83261331891/48446
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png" group-title="DAZN SPORTS",DAZN 1 (dienalt)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412" group-title="DAZN SPORTS",DAZN 1 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png" group-title="DAZN SPORTS",DAZN 1 (dienalt)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412" group-title="DAZN SPORTS",DAZN 1 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png" group-title="DAZN SPORTS",DAZN 2 (dienalt)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png?_=20231024145535" group-title="DAZN SPORTS",DAZN 2 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png" group-title="DAZN SPORTS",DAZN 3 (dienalt)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png?_=20231024145649" group-title="DAZN SPORTS",DAZN 3 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png" group-title="DAZN SPORTS",DAZN 4 (dienalt)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png?_=20231024150500" group-title="DAZN SPORTS",DAZN 4 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png?_=20170601155620" group-title="DAZN SPORTS",DAZN 5 (dienalt)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/DAZN_5.png?_=20231024150556" group-title="DAZN SPORTS",DAZN 5 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
 
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (realiptv)
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412",DAZN 1 (realiptv)
 https://restream-live.realiptv.to/53420573/53717218/925
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (realiptv)
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412",DAZN 1 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/925
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (realiptv)
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412",DAZN 1 (realiptv)
 https://restream-live.realiptv.to/53420573/53717218/926
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (realiptv)
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png?_=20231024145535",DAZN 2 (realiptv)
 https://restream-live.realiptv.to/53420573/53717218/924
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (realiptv)
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png?_=20231024145535",DAZN 2 (realiptv)
 https://restream-live.realiptv.to/53420573/53717218/923
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (realiptv)
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png?_=20231024145535",DAZN 2 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/924
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (realiptv)
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png?_=20231024145535",DAZN 2 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/923
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png",DAZN 3 (realiptv)
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png?_=20231024145649",DAZN 3 (realiptv)
 https://restream-live.realiptv.to/53420573/53717218/921
-#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png",DAZN 4 (realiptv)
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png?_=20231024150500",DAZN 4 (realiptv)
 https://restream-live.realiptv.to/53420573/53717218/920
 
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (tvmate)
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412",DAZN 1 (tvmate)
 http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/35264
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (tvmate)
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412",DAZN 1 (tvmate)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/35264
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png",DAZN 3 (tvmate)
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png?_=20231024145649",DAZN 3 (tvmate)
 http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167748
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png",DAZN 3 (tvmate)
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png?_=20231024145649",DAZN 3 (tvmate)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167748
-#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png",DAZN 4 (tvmate)
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png?_=20231024150500",DAZN 4 (tvmate)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167749
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412" group-title="DAZN SPORTS",DAZN 1 (supersonictv)
@@ -1502,29 +1444,18 @@ http://supersonictv.live:8080/006779/439866/7634
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png?_=20231024145649" group-title="DAZN SPORTS",DAZN 3 (1tv41)
 http://1tv41.icu:8080/live/43761449506/smallwood/167748.ts
 
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (cbilant)
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412",DAZN 1 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31954/index.m3u8
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (cbilant)
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png?_=20231024145535",DAZN 2 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2532/index.m3u8
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (cbilant)
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png?_=20231024145535",DAZN 2 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31955/index.m3u8
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png",DAZN 3 (cbilant)
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png?_=20231024145649",DAZN 3 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7062/index.m3u8
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png",DAZN 3 (cbilant)
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png?_=20231024145649",DAZN 3 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31956/index.m3u8
-#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png",DAZN 4 (cbilant)
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png?_=20231024150500",DAZN 4 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31957/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="DAZN SPORTS",DAZN 1 (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="DAZN SPORTS",DAZN 2 (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="DAZN SPORTS",DAZN 3 (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev3.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="DAZN SPORTS",DAZN 4 (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev4.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="DAZN SPORTS",DAZN 5 (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
 
 
 
@@ -1703,20 +1634,9 @@ https://7pal.short.gy/skyspt2nz
 https://7pal.short.gy/skyspt6nz
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="SKY SPORTS",Sky Sport 7 (7pal)
 https://7pal.short.gy/skyspt7nz
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="SKY SPORTS",Sky Sport 1 (a1xs)
-https://a1xs.vip/700031
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="SKY Sport 2 NZ" tvg-logo="https://i.ibb.co/Gvn46BMS/SSNZ2.png" group-title="SKY SPORTS",Sky Sport 2 (a1xs)
-https://a1xs.vip/700032
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-name="SKY Sport 4 NZ" tvg-logo="https://i.ibb.co/qY3cr3zG/SSNZ4.png" group-title="SKY SPORTS",Sky Sport 4 (a1xs)
-https://a1xs.vip/700034
-#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-name="SKY Sport 5 NZ" tvg-logo="https://i.ibb.co/WNhhmNN3/SSNZ5.png" group-title="SKY SPORTS",Sky Sport 5 (a1xs)
-https://a1xs.vip/700035
 
 #EXTINF:-1 tvg-name="Sky Sports Football FHD" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="SKY SPORTS" radio="false",Sky Sports Football (otttv)
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9289/index.m3u8
-
-#EXTINF:-1  group-title="SKY SPORTS" tvg-name="Sky Sports Football FHD" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png"  radio="false",Sky Sports Football (a1xs)
-https://a1xs.vip/2000003
 
 #EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png",Sky Sports Football (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/47866
@@ -1748,9 +1668,6 @@ http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Premier%20League.png?raw=true" group-title="SKY SPORTS" tvg-name="" tvg-id="SkySportsPremierLeague.uk",Sky Sports Premier League (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527637&extension=ts
-
-#EXTINF:-1  group-title="SKY SPORTS" tvg-name="Sky Sports Premier League FHD" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png"  radio="false",Sky Sports Premier League (a1xs)
-https://a1xs.vip/2000002
 
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",Sky Sport Premier League (kstv)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47871
@@ -1808,8 +1725,6 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/16563.ts
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",Sky Sports Main Event (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SKY SPORTS",Sky Sports Main Event (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",Sky Sports Main Event (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/9308/index.m3u8
@@ -1821,9 +1736,6 @@ http://190.92.10.66:4000/play/a001/index.m3u8
 
 #EXTINF:-1 group-title="SKY SPORTS",Sky Sports La Liga (181.78.109.48)
 http://181.78.109.48:9998/play/a06r/index.m3u8
-
-#EXTINF:-1  group-title="SKY SPORTS" tvg-name="Sky Sport Bundesliga FHD" tvg-id="Sky.Sport.Bundesliga.de" tvg-logo="https://i.imgur.com/EhInbSW.png"  radio="false",Sky Sports Bundesliga (a1xs)
-https://a1xs.vip/120002
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Sky_Sport_Bundesliga_2020.svg/1024px-Sky_Sport_Bundesliga_2020.svg.png" group-title="SKY SPORTS" tvg-name="" tvg-id="SkySportBundesliga.de",Sky Sports Bundesliga (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=485855&extension=ts
@@ -1841,15 +1753,6 @@ http://kstv.us:8080/Freshcobar23/83261331891/47863
 https://restream-live.realiptv.to/53420573/53717218/2193
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png",Sky Sports Plus (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2193
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SKY SPORTS",Sky Sports F1 (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SKY SPORTS",Sky Sports Motogp (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyplus.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SKY SPORTS",SKY SPORTS (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skymix.m3u8
 
 
 
@@ -1965,13 +1868,6 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527613&exten
 #EXTINF:-1 tvg-name="UK| TNT Sport 4" tvg-logo="https://logo.m3uassets.com/tntsports4.png" group-title="TNT SPORTS" tvg-name="" tvg-id="tntsports4.uk",TNT SPORTS 4 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527611&extension=ts
 
-#EXTINF:-1 group-title="TNT SPORTS" tvg-name="TNT Sports 2 FHD" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://i.imgur.com/YtGYRIB.png"  radio="false",TNT SPORTS 2 (a1xs)
-https://a1xs.vip/2000022
-#EXTINF:-1 group-title="TNT SPORTS" tvg-name="TNT Sports 3 FHD" tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://i.imgur.com/z1d9M65.png"  radio="false",TNT SPORTS 3 (a1xs)
-https://a1xs.vip/2000023
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/TNTS4.png" group-title="TNT SPORTS",TNT SPORTS 4 (a1xs)
-https://a1xs.vip/2000024
-
 
 
 
@@ -2081,21 +1977,6 @@ http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2529/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png",SPORT TV 5 (cbilant)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31946/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORT TV",SPORT TV 1 (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORT TV",SPORT TV 2 (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORT TV",SPORT TV 3 (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv3.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORT TV",SPORT TV 4 (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv4.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORT TV",SPORT TV 5 (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv5.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORT TV",SPORT TV 6 (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv6.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORT TV",SPORT TV 7 (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv7.m3u8
-
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",SPORT TV 4 (cord-cutter)
 http://cord-cutter.net:8080/bn80NG/909467/167745
 
@@ -2184,17 +2065,6 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/3143
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="TSN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3142
 
-#EXTINF:-1  group-title="TSN SPORTS" tvg-name="TSN1" tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/xF3cHNd.png"  radio="false",TSN 1 (a1xs)
-https://a1xs.vip/6000001
-#EXTINF:-1  group-title="TSN SPORTS" tvg-name="TSN2" tvg-id="TSN2.ca" tvg-logo="https://i.imgur.com/iTSoxQW.png"  radio="false",TSN 2 (a1xs)
-https://a1xs.vip/6000002
-#EXTINF:-1  group-title="TSN SPORTS" tvg-name="TSN3" tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/dPMY5Kc.png"  radio="false",TSN 3 (a1xs)
-https://a1xs.vip/6000003
-#EXTINF:-1  group-title="TSN SPORTS" tvg-name="TSN4" tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/9EInDNq.png"  radio="false",TSN 4 (a1xs)
-https://a1xs.vip/6000004
-#EXTINF:-1  group-title="TSN SPORTS" tvg-name="TSN5" tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/houBcHX.png"  radio="false",TSN 5 (a1xs)
-https://a1xs.vip/6000005
-
 #EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="TSN SPORTS", TSN 1 (7pal)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 https://7pal.short.gy/tsn1ca
@@ -2262,21 +2132,6 @@ https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 https://jmp2.uk/stvp-US2700001QY
 #EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="FOX SPORTS",FOX SPORTS 1 (jmp2.uk)
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
-
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/59gCbVd.png" group-title="FOX SPORTS" radio="false",FOX SPORTS 501 (a1xs)
-https://a1xs.vip/700001
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/idKGREY.png" group-title="FOX SPORTS" radio="false",FOX SPORTS 502 (a1xs)
-https://a1xs.vip/700002
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://i.imgur.com/5PUsSnn.png",FOX SPORTS 503 (a1xs)
-https://a1xs.vip/700003
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://i.imgur.com/aEoU7gf.png",FOX SPORTS 504 (a1xs)
-https://a1xs.vip/700004
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://i.imgur.com/angJkah.png",FOX SPORTS 505 (a1xs)
-https://a1xs.vip/700005
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://i.imgur.com/eA1hiR0.png",FOX SPORTS 506 (a1xs)
-https://a1xs.vip/700006
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://i.imgur.com/kGm7Ts1.png",FOX SPORTS 507 (a1xs)
-https://a1xs.vip/700007
 
 
 
@@ -2361,32 +2216,6 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS 0",SPORT 2 (185.98.211.8)
 http://185.98.211.8:81/sport2/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORTS 0",ASTRO ARENA (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astaren.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORTS 0",ASTRO ARENA 2 (github)
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astaren2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORTS 0",ASTRO PREMIER LEAGUE (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORTS 0",ASTRO PREMIER LEAGUE 2 (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORTS 0",ASTRO FOOTBALL (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORTS 0",ASTRO SPORTS PLUS (github)
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="SPORTS 0",ALWAN SPORT 1 (hydratv)
-http://hydratv.pro/live/Mah2/432266432/575344.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="SPORTS 0",ALWAN SPORT 2 (hydratv)
-http://hydratv.pro/live/Mah2/432266432/575343.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="SPORTS 0",ALWAN SPORT 3 (hydratv)
-http://hydratv.pro/live/Mah2/432266432/575342.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="SPORTS 0",ALWAN SPORT 4 (hydratv)
-http://hydratv.pro/live/Mah2/432266432/575341.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="SPORTS 0",ALWAN SPORT 5 (hydratv)
-http://hydratv.pro/live/Mah2/432266432/575340.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="SPORTS 0",ALWAN SPORT 6 (hydratv)
-http://hydratv.pro/live/Mah2/432266432/575339.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 0",ALWAN SPORT 1 (atlan2025)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 0",ALWAN SPORT 2 (atlan2025)
@@ -2408,8 +2237,6 @@ http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641613
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS 0",ALWAN SPORT 10 (atlan2025)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641614
 
-#EXTINF:-1  group-title="SPORTS 0" tvg-logo="https://pixvid.org/images/2025/01/21/NowS1.png"  radio="false",NOW SPORTS 1 (a1xs)
-https://a1xs.vip/1100001
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif",NOW SPORTS 1 (fastopen)
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMqHV0FSIG1QNzwxitkWybo2QdfpKwzYFP1NEr129M_bbN9Z0I-Bsg6ptP7uPhdbMCf3PyHPjlWMZKVguGavP33Lj6PcFmXHcat4yPf1Fq2kF7jJnjfBaNl5QFFtlPNc-Vj0uqj3C0uUpmFO5jnlENGsKrUn4MmkfPeV7i5eaIAWgc5JFm2LtLTz7ampY/s700/Laliga.png" group-title="SPORTS 0",NOW SPORTS 2 (fastopen)
@@ -2504,28 +2331,26 @@ http://185.132.134.159:80/sport6/index.m3u8
 #EXTINF:-1 group-title="SPORTS 0",5 SPORT (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PGUHlW.png" group-title="SPORTS 0",PREMIER SPORTS 1 (a1xs)
-https://a1xs.vip/8000021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PGUHlW.png" group-title="SPORTS 0",PREMIER SPORTS 1 (7pal)
 https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PGUHlW.png" group-title="SPORTS 0",PREMIER SPORTS 2 (7pal)
 https://7pal.short.gy/prsport2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="SPORTS 0",PREMIER 1 (sinalprivado)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="SPORTS 0",PREMIERE 1 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20001.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="SPORTS 0",PREMIER 1 (magixx99)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="SPORTS 0",PREMIERE 1 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83405
-#EXTINF:-1 group-title="SPORTS 0",PREMIER 2 (magixx99)
+#EXTINF:-1 group-title="SPORTS 0",PREMIERE 2 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83406
-#EXTINF:-1 group-title="SPORTS 0",PREMIER 3 (magixx99)
+#EXTINF:-1 group-title="SPORTS 0",PREMIERE 3 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83407
-#EXTINF:-1 group-title="SPORTS 0",PREMIER 4 (magixx99)
+#EXTINF:-1 group-title="SPORTS 0",PREMIERE 4 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83408
-#EXTINF:-1 group-title="SPORTS 0",PREMIER 5 (magixx99)
+#EXTINF:-1 group-title="SPORTS 0",PREMIERE 5 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83409
-#EXTINF:-1 group-title="SPORTS 0",PREMIER 6 (magixx99)
+#EXTINF:-1 group-title="SPORTS 0",PREMIERE 6 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83410
-#EXTINF:-1 group-title="SPORTS 0",PREMIER 7 (magixx99)
+#EXTINF:-1 group-title="SPORTS 0",PREMIERE 7 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83411
 
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="SPORTS 0",FIFA+ (wurl)
