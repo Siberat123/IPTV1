@@ -2260,40 +2260,38 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/63a327f073bbfd0ed01684d8/63a327f073bbfde7f7168a29_BTV%20Sports%20Logo.svg" group-title="SPORTS 0",BAHRAIN SPORTS 2 (streamlock)
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/CBS_Sports_HQ_2021_%28Stacked%29.svg/revision/latest?cb=20210629162058" group-title="SPORTS 0",CBS SPORTS HQ (jmp2.uk)
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/CBS_Sports_%282021%3B_stacked_blue%29.svg/revision/latest?cb=20250825142213" group-title="SPORTS 0",CBS SPORTS UCL (jmp2.uk)
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Golazo_Network_logo.png/revision/latest?cb=20230502042859" group-title="SPORTS 0",CBS SPORTS GOLAZO (jmp2.uk)
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+
 
 
 
 
 #SPORTS X
 #
-#EXTINF:-1 tvg-name="Cowboy tv" group-title="SPORTS X",COWBOY TV (distrotv)
+#EXTINF:-1 tvg-name="Cowboy tv" logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Cowboy_Channel_2026.png/revision/latest?cb=20260203184131" group-title="SPORTS X",COWBOY TV (distrotv)
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QFNLqBkW/cazetv.png" group-title="SPORTS X", CAZE TV (cloudfront)
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a8acbb211512425.67243dd8959cb.png" group-title="SPORTS X",CAZE TV (cloudfront)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCOzchAkDiIxwY9tbX-GXVS5UFx_lCeUeFTJ3_9iYG04syYmryQRY7XnhjXqEPIYF0rldOjyOJ3yBQgDkuRdjU3TtiFS8W_DyyvlkQHQ6pQvCTlLeRyBj2x5iVXZpywuiD2y5H7DeCiVdsgwSCUn_OWULmgMuK9-jp69aEYwxSTSsAWZczvcMcgg-epIkB/s700/CAZE%20TV.png" group-title="SPORTS X",CAZE TV (cloudfront)
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a8acbb211512425.67243dd8959cb.png" group-title="SPORTS X",CAZE TV (cloudfront)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 channel-id="5e9f2c05172a0f0007db4786" tvg-id="5e9f2c05172a0f0007db4786" tvg-chno="2780" tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG_1731837352945.png" group-title="SPORTS X",CBS SPORTS HQ (jmp2.uk)
-https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
-
-#EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="SPORTS X",CBS SPORTS UCL (jmp2.uk)
-https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
-
-#EXTINF:-1 channel-id="63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e" tvg-chno="2830" tvg-name="Golazo Network" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png" group-title="SPORTS X",CBS SPORTS GOLAZO (jmp2.uk)
-https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS X",PRO SPORT INTERNATIONAL (wns)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/PROSPORT_1996.png/960px-PROSPORT_1996.png?_=20220506160819" group-title="SPORTS X",PRO SPORT INTERNATIONAL (wns)
 https://proshls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="SPORTS X",TDM DESPORTO (cdn6.163189)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TDMSport.png/revision/latest?cb=20220124190357" group-title="SPORTS X",TDM DESPORTO (cdn6.163189)
 http://cdn6.163189.xyz/163189/amty
 
-#EXTINF:-1 tvg-id="Soccer Channel.id" tvg-logo="https://i.ibb.co.com/thFkNxM/soccerch.png" group-title="SPORTS X", SOCCER CHANNEL (visionplus)
+#EXTINF:-1 tvg-id="Soccer Channel.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SoccerChannel2020.png/revision/latest?cb=20220810085741" group-title="SPORTS X",SOCCER CHANNEL (visionplus)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
 
-#EXTINF:-1 tvg-id="Sportstars 2.id" tvg-logo="https://i.ibb.co.com/fHyGqxZ/sportstars2.png" group-title="SPORTS X", SPORTSTARS 2 (visionplus)
+#EXTINF:-1 tvg-id="Sportstars 2.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Sportstars_2_2023.png/revision/latest?cb=20230702035603" group-title="SPORTS X",SPORTSTARS 2 (visionplus)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://live-channel1-cdn.visionplus.id/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
 
@@ -2302,9 +2300,9 @@ https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV22.png" group-title="SPORTS X",SCTV22 (vtvprime04)
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 
-#EXTINF:-1 group-title="SPORTS X", IDMANTV (yodacdn)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C4%B0dman_TV_%282019%29.png/960px-%C4%B0dman_TV_%282019%29.png" group-title="SPORTS X",IDMANTV (yodacdn)
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS X", IDMANTV (yodacdn)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C4%B0dman_TV_%282019%29.png/960px-%C4%B0dman_TV_%282019%29.png" group-title="SPORTS X",IDMANTV (yodacdn)
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b2231548857bf0a078bb6387e8830040aa18cee-1ee342667d60c2ac2e8f0c594cf33331-1753218237000000-1753207437000
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Goal_TV.svg/revision/latest?cb=20260212222251" group-title="SPORTS X",Goal TV (sofast)
@@ -2336,25 +2334,25 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/82241
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="SPORTS X" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tudn.png",TUDN (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/4640
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/405-sisolocalciohd.png" group-title="SPORTS X",SOLO CALCIO (streamup)
+#EXTINF:-1 tvg-logo="https://solosecure.tech/wp-content/uploads/2023/11/SOLO-LOGO-PNG.png" group-title="SPORTS X",SOLO CALCIO (streamup)
 https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS X",SOLO CALCIO (rakuten)
+#EXTINF:-1 tvg-logo="https://solosecure.tech/wp-content/uploads/2023/11/SOLO-LOGO-PNG.png" group-title="SPORTS X",SOLO CALCIO (rakuten)
 https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="SPORTS X",SOLO CALCIO (jmp2.uk)
+#EXTINF:-1 tvg-logo="https://solosecure.tech/wp-content/uploads/2023/11/SOLO-LOGO-PNG.png" group-title="SPORTS X",SOLO CALCIO (jmp2.uk)
 https://jmp2.uk/stvp-ITBC4700002CO
 
-#EXTINF:-1 group-title="SPORTS X",SPORT ITALIA (rakuten)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Sportitalia_logo.svg/revision/latest?cb=20100602084122" group-title="SPORTS X",SPORT ITALIA (rakuten)
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1280x720_2560800/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS X", SPORT ITALIA (rakuten)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Sportitalia_logo.svg/revision/latest?cb=20100602084122" group-title="SPORTS X",SPORT ITALIA (rakuten)
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 
 #EXTINF:-1 channel-id="66461eb33d173b000805ecd3" tvg-id="66461eb33d173b000805ecd3" tvg-chno="223" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/66461eb33d173b000805ecd3/colorLogoPNG_1769414804838.png" group-title="SPORTS X",DFB PLAY TV (jmp2.uk)
 https://jmp2.uk/plu-66461eb33d173b000805ecd3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="SPORTS X",LA lIGA INSIDE (cloudfront)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/960px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="SPORTS X",LA lIGA INSIDE (cloudfront)
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
 
-#EXTINF:-1 tvg-id="GolClassics.es@SD" tvg-logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75" group-title="SPORTS X",GOL CLASSICS (cloudfront)
+#EXTINF:-1 tvg-id="GolClassics.es@SD" tvg-logo="https://images.seeklogo.com/logo-png/3/1/classic-logo-png_seeklogo-31195.png" group-title="SPORTS X",GOL CLASSICS (cloudfront)
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 
 #EXTINF:-1 group-title="SPORTS X",NOVA SPORT (dienalt)
