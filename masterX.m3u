@@ -2057,29 +2057,29 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776175&exte
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/MonoMax.png",MONOMAX 2 (195.128.27.141)
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776176&extension=m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",ART SPORT 1 (169.150.223)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4jcpre1657031942.png" group-title="SPORTS 0",ART SPORT 1 (169.150.223)
 http://169.150.223.25/ArtSport1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwbqic1657031982.png" group-title="SPORTS 0",ART SPORT 2 (169.150.223)
 http://169.150.223.25/ArtSport2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",ART SPORT 3 (169.150.223)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n5n1sd1657031998.png" group-title="SPORTS 0",ART SPORT 3 (169.150.223)
 http://169.150.223.25/ArtSport3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",ART SPORT 4 (169.150.223)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-4-logo.png" group-title="SPORTS 0",ART SPORT 4 (169.150.223)
 http://169.150.223.25/ArtSport4/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",ART SPORT 5 (169.150.223)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-5-logo.png" group-title="SPORTS 0",ART SPORT 5 (169.150.223)
 http://169.150.223.25/ArtSport5/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",ART SPORT 6 (169.150.223)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-6-logo.png" group-title="SPORTS 0",ART SPORT 6 (169.150.223)
 http://169.150.223.25/ArtSport6/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",ART SPORT1 (79.127.207)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4jcpre1657031942.png" group-title="SPORTS 0",ART SPORT 1 (79.127.207)
 http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",ART SPORT 2 (79.127.207)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwbqic1657031982.png" group-title="SPORTS 0",ART SPORT 2 (79.127.207)
 http://79.127.207.193:80/ArtSport2/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",ART SPORT 3 (79.127.207)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n5n1sd1657031998.png" group-title="SPORTS 0",ART SPORT 3 (79.127.207)
 http://79.127.207.193:80/ArtSport3/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",ART SPORT 4 (79.127.207)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-4-logo.png" group-title="SPORTS 0",ART SPORT 4 (79.127.207)
 http://79.127.207.193:80/ArtSport4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",ART SPORT 5 (79.127.207)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-5-logo.png" group-title="SPORTS 0",ART SPORT 5 (79.127.207)
 http://79.127.207.193:80/ArtSport5/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",ART SPORT 6 (79.127.207)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-6-logo.png" group-title="SPORTS 0",ART SPORT 6 (79.127.207)
 http://79.127.207.193:80/ArtSport6/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS 0",V SPORT 1 (trxad)
@@ -2533,7 +2533,7 @@ https://jmp2.uk/plu-6320d80a66666000086712d7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XoohwUr.jpg" group-title="SPORTS X",OMAN SPORTS (mgmlcdn)
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Kuwait_Sport_TV_2012_logo.jpg/revision/latest?cb=20251114155832" group-title="",KTV SPORT PLUS (mangomolo)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Kuwait_Sport_TV_2012_logo.jpg/revision/latest?cb=20251114155832" group-title="SPORTS X",KTV SPORT PLUS (mangomolo)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Kuwait_Sport_TV_2021_logo.jpg/revision/latest?cb=20251114155853" group-title="SPORTS X",KTV SPORT (mangomolo)
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b2500000_t64NzIwcA==.m3u8
