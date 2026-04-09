@@ -1927,6 +1927,56 @@ http://cord-cutter.net:8080/bn80NG/909467/167745
 
 #SPORTS 0
 #
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 1 (169.150.223)
+http://169.150.223.25/ArtSport1HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 2 (169.150.223)
+http://169.150.223.25/ArtSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 3 (169.150.223)
+http://169.150.223.25/ArtSport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 4 (169.150.223)
+http://169.150.223.25/ArtSport4/index.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 5 (169.150.223)
+http://169.150.223.25/ArtSport5/index.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 6 (169.150.223)
+http://169.150.223.25/ArtSport6/index.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 1 (79.127.207)
+http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 2 (79.127.207)
+http://79.127.207.193:80/ArtSport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 3 (79.127.207)
+http://79.127.207.193:80/ArtSport3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 4 (79.127.207)
+http://79.127.207.193:80/ArtSport4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 5 (79.127.207)
+http://79.127.207.193:80/ArtSport5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 6 (79.127.207)
+http://79.127.207.193:80/ArtSport6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssjl1j1627494247.png" group-title="SPORTS 0",YES SPORT 1 (77.137.40.221)
+http://77.137.40.221:8000/play/a016
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/27uvm51627494269.png" group-title="SPORTS 0",YES SPORT 2 (77.137.40.221)
+http://77.137.40.221:8000/play/a019
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/irxvmy1627494303.png" group-title="SPORTS 0",YES SPORT 3 (77.137.40.221)
+http://77.137.40.221:8000/play/a01a
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png" group-title="SPORTS 0",YES SPORT 5 (77.137.40.221)
+http://77.137.40.221:8000/play/a00i
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vrqrqx1446172472.png" group-title="SPORTS 0",YES SPORT 5 PLUS (77.137.40.221)
+http://77.137.40.221:8000/play/a001
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/27uvm51627494269.png" group-title="SPORTS 0",YES SPORT 2 (185.132.134.159)
+http://185.132.134.159:80/sport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/irxvmy1627494303.png" group-title="SPORTS 0",YES SPORT 3 (185.132.134.159)
+http://185.132.134.159:80/sport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/km8o4f1627494329.png" group-title="SPORTS 0",YES SPORT 4 (185.132.134.159)
+http://185.132.134.159:80/sport4/index.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png" group-title="SPORTS 0",YES SPORT 5 (185.132.134.159)
+http://185.132.134.159:80/sport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png" group-title="SPORTS 0",YES SPORT 5 (185.132.134.159)
+http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uvpyps1446212972.png" group-title="SPORTS 0",YES SPORT 6 (185.132.134.159)
+http://185.132.134.159:80/sport6/index.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png" group-title="SPORTS 0",YES SPORT 5 (dienalt)
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/DIGI_Sport_1.svg/960px-DIGI_Sport_1.svg.png?_=20250202193551" group-title="SPORTS 0",DIGI SPORT 1 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DIGI_Sport_2.svg/960px-DIGI_Sport_2.svg.png?_=20250202193551" group-title="SPORTS 0",DIGI SPORT 2 (dienalt)
@@ -2057,126 +2107,58 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776175&exte
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/MonoMax.png",MONOMAX 2 (195.128.27.141)
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776176&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4jcpre1657031942.png" group-title="SPORTS 0",ART SPORT 1 (169.150.223)
-http://169.150.223.25/ArtSport1HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwbqic1657031982.png" group-title="SPORTS 0",ART SPORT 2 (169.150.223)
-http://169.150.223.25/ArtSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n5n1sd1657031998.png" group-title="SPORTS 0",ART SPORT 3 (169.150.223)
-http://169.150.223.25/ArtSport3/index.m3u8
-#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-4-logo.png" group-title="SPORTS 0",ART SPORT 4 (169.150.223)
-http://169.150.223.25/ArtSport4/index.m3u8
-#EXTINF:-1 tvg-logo="https://artmotion.net/wp-content/uploads/2023/04/tv-logo-me-ngjyra-10.svg" group-title="SPORTS 0",ART SPORT 5 (169.150.223)
-http://169.150.223.25/ArtSport5/index.m3u8
-#EXTINF:-1 tvg-logo="https://artmotion.net/wp-content/uploads/2023/04/tv-logo-me-ngjyra-11.svg" group-title="SPORTS 0",ART SPORT 6 (169.150.223)
-http://169.150.223.25/ArtSport6/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4jcpre1657031942.png" group-title="SPORTS 0",ART SPORT 1 (79.127.207)
-http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwbqic1657031982.png" group-title="SPORTS 0",ART SPORT 2 (79.127.207)
-http://79.127.207.193:80/ArtSport2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n5n1sd1657031998.png" group-title="SPORTS 0",ART SPORT 3 (79.127.207)
-http://79.127.207.193:80/ArtSport3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-4-logo.png" group-title="SPORTS 0",ART SPORT 4 (79.127.207)
-http://79.127.207.193:80/ArtSport4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://artmotion.net/wp-content/uploads/2023/04/tv-logo-me-ngjyra-10.svg" group-title="SPORTS 0",ART SPORT 5 (79.127.207)
-http://79.127.207.193:80/ArtSport5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://artmotion.net/wp-content/uploads/2023/04/tv-logo-me-ngjyra-11.svg" group-title="SPORTS 0",ART SPORT 6 (79.127.207)
-http://79.127.207.193:80/ArtSport6/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 0",V SPORT 1 (trxad)
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=1109060&extension=ts&play_token=01Q35J9eex
-#EXTINF:-1 group-title="SPORTS 0",V SPORT 2 (trxad)
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294045&extension=ts&play_token=IePOQAQFek
-#EXTINF:-1 group-title="SPORTS 0",V SPORT 3 (trxad)
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294039&extension=ts&play_token=mhow2fBWnl
-#EXTINF:-1 group-title="SPORTS 0",V SPORT 4 (trxad)
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294042&extension=ts&play_token=kJl61veKrg
-#EXTINF:-1 group-title="SPORTS 0",V SPORT EXTRA (trxad)
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294058&extension=ts&play_token=XLhm4jy6Q6
-#EXTINF:-1 group-title="SPORTS 0",V SPORT FOOTBALL (trxad)
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294068&extension=ts&play_token=X7FgSJ9YKe
-
-#EXTINF:-1 group-title="SPORTS 0",1 SPORT (77.137.40.221)
-http://77.137.40.221:8000/play/a016
-#EXTINF:-1 group-title="SPORTS 0",2 SPORT (77.137.40.221)
-http://77.137.40.221:8000/play/a019
-#EXTINF:-1 group-title="SPORTS 0",3 SPORT (77.137.40.221)
-http://77.137.40.221:8000/play/a01a
-#EXTINF:-1 group-title="SPORTS 0",5 SPORT (77.137.40.221)
-http://77.137.40.221:8000/play/a00i
-#EXTINF:-1 group-title="SPORTS 0",5 SPORT PLUS (77.137.40.221)
-http://77.137.40.221:8000/play/a001
-#EXTINF:-1 group-title="SPORTS 0",2 SPORT (185.132.134.159)
-http://185.132.134.159:80/sport2/index.m3u8
-#EXTINF:-1 group-title="SPORTS 0",3 SPORT (185.132.134.159)
-http://185.132.134.159:80/sport3/index.m3u8
-#EXTINF:-1 group-title="SPORTS 0",4 SPORT (185.132.134.159)
-http://185.132.134.159:80/sport4/index.m3u8
-#EXTINF:-1 group-title="SPORTS 0",5 SPORT (185.132.134.159)
-http://185.132.134.159:80/sport1/index.m3u8
-#EXTINF:-1 group-title="SPORTS 0",5 SPORT (185.132.134.159)
-http://185.132.134.159:80/sport5/index.m3u8
-#EXTINF:-1 group-title="SPORTS 0",6 SPORT (185.132.134.159)
-http://185.132.134.159:80/sport6/index.m3u8
-#EXTINF:-1 group-title="SPORTS 0",5 SPORT (dienalt)
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PGUHlW.png" group-title="SPORTS 0",PREMIER SPORTS 1 (7pal)
-https://7pal.short.gy/prsport1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PGUHlW.png" group-title="SPORTS 0",PREMIER SPORTS 2 (7pal)
-https://7pal.short.gy/prsport2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="SPORTS 0",PREMIERE 1 (sinalprivado)
+#EXTINF:-1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png" group-title="SPORTS 0",PREMIERE 1 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20001.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="SPORTS 0",PREMIERE 1 (magixx99)
+#EXTINF:-1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png" group-title="SPORTS 0",PREMIERE 1 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83405
-#EXTINF:-1 group-title="SPORTS 0",PREMIERE 2 (magixx99)
+#EXTINF:-1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png" group-title="SPORTS 0",PREMIERE 2 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83406
-#EXTINF:-1 group-title="SPORTS 0",PREMIERE 3 (magixx99)
+#EXTINF:-1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png" group-title="SPORTS 0",PREMIERE 3 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83407
-#EXTINF:-1 group-title="SPORTS 0",PREMIERE 4 (magixx99)
+#EXTINF:-1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png" group-title="SPORTS 0",PREMIERE 4 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83408
-#EXTINF:-1 group-title="SPORTS 0",PREMIERE 5 (magixx99)
+#EXTINF:-1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png" group-title="SPORTS 0",PREMIERE 5 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83409
-#EXTINF:-1 group-title="SPORTS 0",PREMIERE 6 (magixx99)
+#EXTINF:-1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png" group-title="SPORTS 0",PREMIERE 6 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83410
-#EXTINF:-1 group-title="SPORTS 0",PREMIERE 7 (magixx99)
+#EXTINF:-1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png" group-title="SPORTS 0",PREMIERE 7 (magixx99)
 http://magixx99.com:80/41782245166/jho98765jho/83411
 
-#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="SPORTS 0",FIFA+ (wurl)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png?_=20250929101818" group-title="SPORTS 0",FIFA+ (wurl)
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="SPORTS 0",FIFA+ FRENCH (wurl)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png?_=20250929101818" group-title="SPORTS 0",FIFA+ FRENCH (wurl)
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="SPORTS 0",FIFA+ GERMAN (wurl)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png?_=20250929101818" group-title="SPORTS 0",FIFA+ GERMAN (wurl)
 https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="SPORTS 0",FIFA+ HISPANIC AMERICA (wurl)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png?_=20250929101818" group-title="SPORTS 0",FIFA+ HISPANIC AMERICA (wurl)
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="SPORTS 0",FIFA+ ITALY (wurl)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png?_=20250929101818" group-title="SPORTS 0",FIFA+ ITALY (wurl)
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="SPORTS 0",FIFA+ PORTUGAL (wurl)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png?_=20250929101818" group-title="SPORTS 0",FIFA+ PORTUGAL (wurl)
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="SPORTS 0",FIFA+ SPAIN (wurl)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png?_=20250929101818" group-title="SPORTS 0",FIFA+ SPAIN (wurl)
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="SPORTS 0",FIFA+ UNITED STATES (wurl)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png?_=20250929101818" group-title="SPORTS 0",FIFA+ UNITED STATES (wurl)
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-one.png",SPORTNET ONE (kstv)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/15930
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-360.png",SPORTNET 360 (kstv)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/40618
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png",SPORTNET WORLDS (kstv)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png",SPORTNET WORLD (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/15936
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png",SPORTNET WORLDS (greenslime)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png",SPORTNET WORLD (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/21239.ts
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png",SPORTNET WORLDS (tvmate)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png",SPORTNET WORLD (tvmate)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/75675
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png",SPORTNET WORLDS (realiptv)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png",SPORTNET WORLD (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/88060
 
-#EXTINF:-1 group-title="SPORTS 0",CANAL+ SPORT (dienalt)
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png" group-title="SPORTS 0",CANAL+ SPORT (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png" group-title="SPORTS 0",CANAL+ SPORT (vipnorseman)
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/371
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="SPORTS 0" tvg-name="" tvg-id="CANAL+FOOT.fr",CANAL+ SPORT (assarao4k)
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png"  group-title="SPORTS 0" tvg-id="CANAL+FOOT.fr",CANAL+ SPORT (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=599983&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="SPORTS 0" tvg-name="" tvg-id="CANAL+FOOT.fr",CANAL+ FOOT (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=394814&extension=ts
@@ -2201,85 +2183,81 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170877&exten
 #EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 10 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="SPORTS 0",CANAL+ 10 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170876&extension=ts
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500429A_20250527T015726SQUARE.png" group-title="SPORTS 0",SPORT DIGITAL (jmp2.uk)
+#EXTINF:-1 tvg-logo="https://www.dslweb.de/public/resources/images/logos/logo-sportdigital.png" group-title="SPORTS 0",SPORTDIGITAL (jmp2.uk)
 https://jmp2.uk/stvp-DEAJ0500429A
-#EXTINF:-1 group-title="SPORTS 0",SPORT DIGITAL (jmp2.uk)
+#EXTINF:-1 tvg-logo="https://www.dslweb.de/public/resources/images/logos/logo-sportdigital.png" group-title="SPORTS 0",SPORTDIGITAL (jmp2.uk)
 https://jmp2.uk/stvp-ATAJ0500433A
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD260000692_20250107T024407SQUARE.png" group-title="SPORTS 0",SPORT DIGITAL SCOOORE (jmp2.uk)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Scooore.svg/revision/latest?cb=20241114233910" group-title="SPORTS 0",SPORTDIGITAL SCOOORE (jmp2.uk)
 https://jmp2.uk/stvp-DEBD260000692
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/sportdigitalPlus1.png" group-title="SPORTS 0",SPORTDIGITAL1+ (sonymax)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Sportdigital1%2B.svg/revision/latest/scale-to-width-down/1000?cb=20250101134054" group-title="SPORTS 0",SPORTDIGITAL1+ (sonymax)
 http://sonymax.org:8080/live/wNSvGOtvtx/H7FLHWMLY3/30357.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sportdigital_fb.png" group-title="SPORTS 0",SPORTDIGITAL FUSSBALL (sonymax)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Sportdigital_Fu%C3%9Fball.svg/revision/latest?cb=20240715194146" group-title="SPORTS 0",SPORTDIGITAL FUSSBALL (sonymax)
 http://sonymax.org:8080/live/wNSvGOtvtx/H7FLHWMLY3/235605.m3u8
 
-#EXTINF:-1 group-title="SPORTS 0", ARENA SPORT 1 (88.212.15.19)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Arena_Sport_1_SK_2024.svg/revision/latest?cb=20250325134608" group-title="SPORTS 0", ARENA SPORT 1 (88.212.15.19)
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS 0", ARENA SPORT 2 (88.212.15.19)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Arena_Sport_2_SK_2024.svg/revision/latest?cb=20250325134935" group-title="SPORTS 0", ARENA SPORT 2 (88.212.15.19)
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS 0",EUROSPORT 1 (trxad)
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294038&extension=ts&play_token=NrLWS0P6US
-#EXTINF:-1 group-title="SPORTS 0",EUROSPORT 2 (trxad)
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294036&extension=ts&play_token=BjAOctlP2o
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1.png",EUROSPORT 1 (Diablo)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eurosport_1_Logo_2015.png/960px-Eurosport_1_Logo_2015.png",EUROSPORT 1 (Diablo)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/161908
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png",EUROSPORT 2 (Diablo)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png",EUROSPORT 2 (Diablo)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8181
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1.png",EUROSPORT 1 (KSTV)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eurosport_1_Logo_2015.png/960px-Eurosport_1_Logo_2015.png",EUROSPORT 1 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48449
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png",EUROSPORT 2 (KSTV)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png",EUROSPORT 2 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48450
 
-#EXTINF:-1 group-title="SPORTS 0" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd5e-lHVx4jy5e-so8cUt2B1cU7NqlLKnYnpnM6JWr9xrDee_1zp4qIIQ-6gGBrv1WVvtoSkhPKWOTl4Y5DwzyI-Dlax1JT1uDCF8h01lO9TnCaznmFVK9c6PRSQkfsMIBfQ89xdZ90xjh5oWeya5VwOBI1P7itfikuewcnqTdjbpGHPscbqaQpAH-oI8/s700/SonyTen1.png",SONY TEN 1 (cloudcdn)
+#EXTINF:-1 group-title="SPORTS 0" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646",SONY TEN 1 (cloudcdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 group-title="SPORTS 0" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3YGLmKhWHf9cpMxITA-6KGiBvsT3nzNo8rc7JWH1ia8Os-5hytkC5VfF3_LSTFQ8Iy0oXC3SOEVN6Xl-RE-Qoygj71Oer8U7iuK_zuiSh_K4CA0TpjNY-5uVH8yiXWoIyCDhZd9mjkZ0XMOA_Y9ok7OnRvo8Qxw74WatBbzTONeTIUQ9dwgwVHEkv-Y/s700/SonyTen2.png",SONY TEN 2 (cloudcdn)
+#EXTINF:-1 group-title="SPORTS 0" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500",SONY TEN 2 (cloudcdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 group-title="SPORTS 0" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYuWYk5OYozWSy5ZRTvuQ9aCRW_mcWeVQcT9xU4jW27u1Ls_NGwnAIdGSFA04-e8zOHN50eHz6UbNFD5f1Ca_x1xX696TKUF9etpMiWNheF8c3RSWe_gxrEXtYMKzwPo5ByxZL-MERSS9kjuSAHY0-AcOa1NhuDQKFRVZsn_6M_K70p9IjmAvJ2oCJE6w/s700/SonyTen3.png",SONY TEN 3 (cloudcdn)
+#EXTINF:-1 group-title="SPORTS 0" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest?cb=20221025085433",SONY TEN 3 (cloudcdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 group-title="SPORTS 0" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2k3pwFZqxfYCVGXPeZYq-Y5I_Fg-e6rTR7spOc8UpiUd-qrqCpLXRLpiwE6ixOFcrS3Y-8GvhNNq_RPAb17iX9pGaT369Uv2mEYKrZvqiDd8oXKZSz7gabhQ4CvKZ1O5GZ50hUsAMK7z-C1VQGq_43QPm8EN9BK77OwFhkTP08wS8wIYWqhMV0DNnyRo/s700/SonyTen4.png",SONY TEN 4 (cloudcdn)
+#EXTINF:-1 group-title="SPORTS 0" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest?cb=20221025090401",SONY TEN 4 (cloudcdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1D:53:3F
 
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://i.pinimg.com/236x/04/c6/8e/04c68ebdcd9ce841fefe05f8c49bfb58.jpg",STIX (akamaized)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://www.liveagones.gr/wp-content/uploads/2018/03/pame-stoixima-logo.png",STIX 1 (akamaized)
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://i.pinimg.com/236x/04/c6/8e/04c68ebdcd9ce841fefe05f8c49bfb58.jpg",STIX 2 (vermantiagaming)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://www.liveagones.gr/wp-content/uploads/2018/03/pame-stoixima-logo.png",STIX 2 (vermantiagaming)
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS 0",SELCUK SPORT 1 (450bb93555fef8)
+#EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/idWTYz9EJg/w/239/h/76/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" group-title="SPORTS 0",SELCUK SPORT 1 (450bb93555fef8)
 https://dga1op10s1u3leo.450bb93555fef8.click/live/selcukbeinsports2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS 0",SELCUK SPORT 2 (450bb93555fef8)
+#EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/idWTYz9EJg/w/239/h/76/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" group-title="SPORTS 0",SELCUK SPORT 2 (450bb93555fef8)
 https://dga1op10s1u3leo.450bb93555fef8.click/live/selcukssport2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-logo="https://i.ibb.co.com/YpQ86Qk/kass1.png" group-title="SPORTS 0",AL-KASS 1 (alkassdigital)
+#EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-logo="https://www.alkass.net/assets/images/logo.png" group-title="SPORTS 0",ALKASS DIGITAL 1 (alkassdigital)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-#EXTINF:-1 tvg-id="2023 Alkass 2.qa" tvg-logo="https://i.ibb.co.com/m9WKtjB/kass2.png" group-title="SPORTS 0",AL-KASS 2 (alkassdigital)
+#EXTINF:-1 tvg-id="2023 Alkass 2.qa" tvg-logo="https://www.alkass.net/assets/images/logo.png" group-title="SPORTS 0",ALKASS DIGITAL 2 (alkassdigital)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-#EXTINF:-1 tvg-id="2023 Alkass 3.qa" tvg-logo="https://i.ibb.co.com/tw6nR1k/kass3.png" group-title="SPORTS 0",AL-KASS 3 (alkassdigital)
+#EXTINF:-1 tvg-id="2023 Alkass 3.qa" tvg-logo="https://www.alkass.net/assets/images/logo.png" group-title="SPORTS 0",ALKASS DIGITAL 3 (alkassdigital)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
-#EXTINF:-1 tvg-id="2023 Alkass 4.qa" tvg-logo="https://i.ibb.co.com/b2TpfKx/kass4.png" group-title="SPORTS 0",AL-KASS 4 (alkassdigital)
+#EXTINF:-1 tvg-id="2023 Alkass 4.qa" tvg-logo="https://www.alkass.net/assets/images/logo.png" group-title="SPORTS 0",ALKASS DIGITAL 4 (alkassdigital)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
-#EXTINF:-1 tvg-id="2023 Alkass 5.qa" tvg-logo="https://i.ibb.co.com/k57XRqD/kass5.png" group-title="SPORTS 0",AL-KASS 5 (alkassdigital)
+#EXTINF:-1 tvg-id="2023 Alkass 5.qa" tvg-logo="https://www.alkass.net/assets/images/logo.png" group-title="SPORTS 0",ALKASS DIGITAL 5 (alkassdigital)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
-#EXTINF:-1 tvg-id="2023 Alkass 6.qa" tvg-logo="https://i.ibb.co.com/qdbZgVN/kass6.png" group-title="SPORTS 0",AL-KASS 6 (alkassdigital)
+#EXTINF:-1 tvg-id="2023 Alkass 6.qa" tvg-logo="https://www.alkass.net/assets/images/logo.png" group-title="SPORTS 0",ALKASS DIGITAL 6 (alkassdigital)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassSeven.qa@SD" tvg-logo="https://i.imgur.com/3eyHP3S.png" group-title="SPORTS 0",AL-KASS 7 (alkassdigital)
+#EXTINF:-1 tvg-id="AlkassSeven.qa@SD" tvg-logo="https://www.alkass.net/assets/images/logo.png" group-title="SPORTS 0",ALKASS DIGITAL 7 (alkassdigital)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassSHOOF.qa@SD" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="SPORTS 0",AL-KASS SHOOF (alkassdigital)
+#EXTINF:-1 tvg-id="AlkassSHOOF.qa@SD" tvg-logo="https://www.alkass.net/assets/images/logo.png" group-title="SPORTS 0",ALKASS SHOOF (alkassdigital)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
-#EXTINF:-1 tvg-id="AlkassSHOOF2.qa@SD" tvg-logo="https://shoof.alkass.net/assets/images/shoof2.png" group-title="SPORTS 0",AL-KASS SHOOF 2 (alkassdigital)
+#EXTINF:-1 tvg-id="AlkassSHOOF2.qa@SD" tvg-logo="https://www.alkass.net/assets/images/logo.png" group-title="SPORTS 0",ALKASS SHOOF 2 (alkassdigital)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pdX3T4f/bhsports1.png" group-title="SPORTS 0",BAHRAIN SPORTS 1 (streamlock)
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/63a327f073bbfd0ed01684d8/63a327f073bbfde7f7168a29_BTV%20Sports%20Logo.svg" group-title="SPORTS 0",BAHRAIN SPORTS 1 (streamlock)
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/K9QkP01/bhsports2.png" group-title="SPORTS 0",BAHRAIN SPORTS 2 (streamlock)
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/63a327f073bbfd0ed01684d8/63a327f073bbfde7f7168a29_BTV%20Sports%20Logo.svg" group-title="SPORTS 0",BAHRAIN SPORTS 2 (streamlock)
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
 
