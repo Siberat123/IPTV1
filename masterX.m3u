@@ -2019,6 +2019,14 @@ http://185.132.134.159:80/sport6/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png" group-title="SPORTS 0",YES SPORT 5 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/DIGI_Sport_1.svg/960px-DIGI_Sport_1.svg.png?_=20250202193551" group-title="SPORTS 0",DIGI SPORT 1 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/3174
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/DIGI_Sport_1.svg/960px-DIGI_Sport_1.svg.png?_=20250202193551" group-title="SPORTS 0",DIGI SPORT 2 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/3175
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/DIGI_Sport_3.svg/960px-DIGI_Sport_3.svg.png?_=20250202193551" group-title="SPORTS 0",DIGI SPORT 3 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/3176
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DIGI_Sport_4.svg/960px-DIGI_Sport_4.svg.png?_=20250202193554" group-title="SPORTS 0",DIGI SPORT 4 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/3177
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/DIGI_Sport_1.svg/960px-DIGI_Sport_1.svg.png?_=20250202193551" group-title="SPORTS 0",DIGI SPORT 1 (dienalt)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DIGI_Sport_2.svg/960px-DIGI_Sport_2.svg.png?_=20250202193551" group-title="SPORTS 0",DIGI SPORT 2 (dienalt)
@@ -2307,11 +2315,25 @@ http://185.160.192.64:80/mangin15/85784/212480
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SPORTS 0",ONTIME SPORT MAX (185.160.192.64)
 http://185.160.192.64:80/mangin15/85784/212478
 
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-1-al.png",SUPERSPORT 1 (93.93.113.95)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SPORTS 0",SUPER SPORT NEWS (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/129254
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-1-al.png" group-title="SPORTS 0",SUPER SPORT 1 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/129242
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-2-al.png" group-title="SPORTS 0",SUPER SPORT 2 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/129244
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-3-al.png" group-title="SPORTS 0",SUPER SPORT 3 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/129246
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-4-al.png" group-title="SPORTS 0",SUPER SPORT 4 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/129248
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-5-al.png" group-title="SPORTS 0",SUPER SPORT 5 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/129250
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-6-al.png" group-title="SPORTS 0",SUPER SPORT 6 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/129252
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-1-al.png",SUPER SPORT 1 (93.93.113.95)
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-2-al.png",SUPERSPORT 2 (93.93.113.95)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-2-al.png",SUPER SPORT 2 (93.93.113.95)
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-3-al.png",SUPERSPORT 3 (93.93.113.95)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-3-al.png",SUPER SPORT 3 (93.93.113.95)
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-1-th.png" group-title="SPORTS 0",TRUE SPORTS 1 (119.59.118.168)
@@ -2371,6 +2393,22 @@ https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Golazo_Network_logo.png/revision/latest?cb=20230502042859" group-title="SPORTS 0",CBS SPORTS GOLAZO (jmp2.uk)
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SPORTS 0",TRING SPORT 1 (live-tv)
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/866
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SPORTS 0",TRING SPORT 1 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/129299
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SPORTS 0",TRING SPORT 2 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/129302
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SPORTS 0",TRING SPORT 3 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/129303
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS 0",TIVIBUR SPOR 1 (supersonictv)
+http://supersonictv.live:8080/Norman123/Norman123/86299
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS 0",TIVIBUR SPOR 2 (supersonictv)
+http://supersonictv.live:8080/Norman123/Norman123/86300
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS 0",TIVIBUR SPOR 3 (supersonictv)
+http://supersonictv.live:8080/Norman123/Norman123/86301
 
 
 
@@ -2470,9 +2508,6 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS X",4 FOOTBALL (trxad)
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=ts&play_token=dKKpb8gzTG
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Sport_TV_2023.svg" group-title="SPORTS X",SPORT 1 (live-tv)
-http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/866
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/35633f08c98857cb9e85c91eae17c0d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749856192932_LoMejorDeLigaMX_HUD_ChannelLogo_260x147px.png" group-title="SPORTS X",VIX LO MEJOR DE LIGA MX (jmp2.uk)
 https://jmp2.uk/rok-35633f08c98857cb9e85c91eae17c0d5.m3u8
@@ -2653,3 +2688,12 @@ http://rey-premium.ddns.net:80/DPVEduardoEspa/Espa020828/417198.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS X",RAI SPORT (supersonictv)
 http://supersonictv.live:8080/Norman123/Norman123/83429
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SPORTS X",RTSH SPORT (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/129214
+
+#EXTINF:-1 tvg-id="" tvg-name="[TR] NBA TV" tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS X",NBA TV (supersonictv)
+http://supersonictv.live:8080/Norman123/Norman123/86294
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS X",A SPOR HD (supersonictv)
+http://supersonictv.live:8080/Norman123/Norman123/86297
