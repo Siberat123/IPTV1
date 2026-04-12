@@ -1178,6 +1178,19 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="bc932f13c31e542db6e3e6247e7131bc" tvg-id="bc932f13c31e542db6e3e6247e7131bc" tvg-chno="255" tvg-name="BEIN SPORT Xtra" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bc932f13c31e542db6e3e6247e7131bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652896913644_beIN-SPORTS-XTRA_LOGO_ROKU_HUD_260x147%255B1%255D.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA (jmp2.uk)
 https://jmp2.uk/rok-bc932f13c31e542db6e3e6247e7131bc.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",BEIN SPORTS 1 (corestream)
+https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",BEIN SPORTS 2 (corestream)
+https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",BEIN SPORTS 3 (corestream)
+https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",BEIN SPORTS 4 (corestream)
+https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",BEIN SPORTS 5 (corestream)
+https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="",BEIN SPORTS (corestream)
+https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+
 
 
 
@@ -1335,6 +1348,9 @@ http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/270/index.m3u8
 http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Setanta_Sports_2_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804053337" group-title="RUSSIAN SPORTS",Setenta Sport 2 (cdntv)
 http://cdntv.online/low/9mlxywika2/1022.m3u8
+
+#EXTINF:-1 group-title="RUSSIAN SPORTS" tvg-logo="https://static.tildacdn.com/tild3865-3933-4432-b538-303233663935/_-__-_.svg",Окко Спорт (online24)
+http://ua.online24.pm/play/7337/350B326FB34F4B8/video.m3u8
 
 
 
@@ -1969,29 +1985,29 @@ http://cord-cutter.net:8080/bn80NG/909467/167745
 
 #SPORTS 0
 #
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 1 (169.150.223)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-1-logo.png" group-title="SPORTS 0",ART SPORT 1 (169.150.223)
 http://169.150.223.25/ArtSport1HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 2 (169.150.223)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-2-logo.png" group-title="SPORTS 0",ART SPORT 2 (169.150.223)
 http://169.150.223.25/ArtSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 3 (169.150.223)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-3-logo.png" group-title="SPORTS 0",ART SPORT 3 (169.150.223)
 http://169.150.223.25/ArtSport3/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 4 (169.150.223)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-4-logo.png" group-title="SPORTS 0",ART SPORT 4 (169.150.223)
 http://169.150.223.25/ArtSport4/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 5 (169.150.223)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-5-logo.png" group-title="SPORTS 0",ART SPORT 5 (169.150.223)
 http://169.150.223.25/ArtSport5/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 6 (169.150.223)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-6-logo.png" group-title="SPORTS 0",ART SPORT 6 (169.150.223)
 http://169.150.223.25/ArtSport6/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 1 (79.127.207)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-1-logo.png" group-title="SPORTS 0",ART SPORT 1 (79.127.207)
 http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 2 (79.127.207)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-2-logo.png" group-title="SPORTS 0",ART SPORT 2 (79.127.207)
 http://79.127.207.193:80/ArtSport2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 3 (79.127.207)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-3-logo.png" group-title="SPORTS 0",ART SPORT 3 (79.127.207)
 http://79.127.207.193:80/ArtSport3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 4 (79.127.207)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-4-logo.png" group-title="SPORTS 0",ART SPORT 4 (79.127.207)
 http://79.127.207.193:80/ArtSport4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 5 (79.127.207)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-5-logo.png" group-title="SPORTS 0",ART SPORT 5 (79.127.207)
 http://79.127.207.193:80/ArtSport5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/afedlc1638044241.png" group-title="SPORTS 0",ART SPORT 6 (79.127.207)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-6-logo.png" group-title="SPORTS 0",ART SPORT 6 (79.127.207)
 http://79.127.207.193:80/ArtSport6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssjl1j1627494247.png" group-title="SPORTS 0",YES SPORT 1 (77.137.40.221)
@@ -2257,6 +2273,17 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170877&exten
 #EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Live 10 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="SPORTS 0",CANAL+ 10 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170876&extension=ts
 
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0",CANAL SPORT 1 (bouygues)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/232526.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0",CANAL SPORT 2 (bouygues)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/232527.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0",CANAL SPORT 3 (bouygues)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/232528.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0,CANAL SPORT 4 (bouygues)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/232529.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0",CANAL SPORT 5 (bouygues)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/232530.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dslweb.de/public/resources/images/logos/logo-sportdigital.png" group-title="SPORTS 0",SPORTDIGITAL (jmp2.uk)
 https://jmp2.uk/stvp-DEAJ0500429A
 #EXTINF:-1 tvg-logo="https://www.dslweb.de/public/resources/images/logos/logo-sportdigital.png" group-title="SPORTS 0",SPORTDIGITAL (jmp2.uk)
@@ -2272,6 +2299,35 @@ http://sonymax.org:8080/live/wNSvGOtvtx/H7FLHWMLY3/235605.m3u8
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Arena_Sport_2_SK_2024.svg/revision/latest?cb=20250325134935" group-title="SPORTS 0", ARENA SPORT 2 (88.212.15.19)
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="392303" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/Arena-Sport-1-logo.png",ARENA SPORT 1 (cdn)
+http://cdn.tv-rds.workers.dev/ArenaSport1HR.m3u8
+#EXTINF:-1 tvg-id="392305" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/Arena-Sport-2-logo.png",ARENA SPORT 2 (cdn)
+http://cdn.tv-rds.workers.dev/ArenaSport2HR.m3u8
+#EXTINF:-1 tvg-id="392317" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ArenaSport-logo-3.png",ARENA SPORT 3 (cdn)
+http://cdn.tv-rds.workers.dev/ArenaSport3HR.m3u8
+#EXTINF:-1 tvg-id="392311" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ArenaSport-logo-4.png",ARENA SPORT 4 (cdn)
+http://cdn.tv-rds.workers.dev/ArenaSport4HR.m3u8
+#EXTINF:-1 tvg-id="392298" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ArenaSport-5-logo.png",ARENA SPORT 5 (cdn)
+http://cdn.tv-rds.workers.dev/ArenaSport5HR.m3u8
+#EXTINF:-1 tvg-id="403427" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ArenaSport-6-logo.png",ARENA SPORT 6 (cdn)
+http://cdn.tv-rds.workers.dev/ArenaSport6HR.m3u8
+#EXTINF:-1 tvg-id="410641" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ArenaSport-7-logo.png",ARENA SPORT 7 (cdn)
+http://cdn.tv-rds.workers.dev/ArenaSport7HR.m3u8
+#EXTINF:-1 tvg-id="410632" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ArenaSport-8-logo.png",ARENA SPORT 8 (cdn)
+http://cdn.tv-rds.workers.dev/ArenaSport8HR.m3u8
+
+#EXTINF:-1 tvg-id="381850" group-title="SPORTS 0" tvg-logo="https://i.pinimg.com/236x/a9/66/16/a96616c81d4cba4dd1e73c65a24ba77d.jpg",ARENA SPORT 1 (feniks)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
+#EXTINF:-1 tvg-id="381848" group-title="SPORTS 0" tvg-logo="https://i.pinimg.com/236x/87/e8/43/87e84386035aa3112e506fb9e9175071.jpg",ARENA SPORT 2 (feniks)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20478
+#EXTINF:-1 tvg-id="381849" group-title="SPORTS 0" tvg-logo="https://i.pinimg.com/236x/c9/61/3a/c9613a85c849ca7626f0907e54bf82cc.jpg",ARENA SPORT 3 (feniks)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
+#EXTINF:-1 tvg-id="381853" group-title="SPORTS 0" tvg-logo="https://i.pinimg.com/236x/77/8c/2e/778c2e668f2c6f8345fbf96ef02adb90.jpg",ARENA SPORT 4 (feniks)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
+#EXTINF:-1 tvg-id="381854" group-title="SPORTS 0" tvg-logo="https://i.pinimg.com/236x/5e/6f/86/5e6f86c463c84f9b1aa868ef60ed5e0f.jpg",ARENA SPORT 5 (feniks)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1181
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS 0",EUROSPORT 1 (supersonictv)
 http://supersonictv.live:8080/Norman123/Norman123/86292
@@ -2305,6 +2361,10 @@ https://dga1op10s1u3leo.450bb93555fef8.click/live/selcukbeinsports2/playlist.m3u
 #EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/idWTYz9EJg/w/239/h/76/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" group-title="SPORTS 0",SELCUK SPORT 2 (450bb93555fef8)
 https://dga1op10s1u3leo.450bb93555fef8.click/live/selcukssport2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0",STARZPLAY SPORTS (bouygues)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/202147.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0",STARZPLAY SPORTS (bouygues)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/202146.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SPORTS 0",STARZPLAY SPORTS 2 (185.160.192.64)
 http://185.160.192.64:80/mangin15/85784/178240
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SPORTS 0",STARZPLAY SPORTS 3 (185.160.192.64)
@@ -2353,6 +2413,20 @@ http://119.59.118.168/live/ch14/irannahee/index.m3u8
 http://rey-premium.ddns.net:80/DPVEduardoEspa/Espa020828/13767.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" group-title="SPORTS 0",WIN SPORTS+ (rey-premium)
 http://rey-premium.ddns.net:80/DPVEduardoEspa/Espa020828/13769.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS 0",PRIMA SPORT 1 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/3178
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS 0",PRIMA SPORT 2 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/3179
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS 0",PRIMA SPORT 3 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/3180
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SPORTS 0",DIEMA SPORT 1 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/3336
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SPORTS 0",DIEMA SPORT 2 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/3337
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SPORTS 0",DIEMA SPORT 3 (31.43.191.125)
+http://31.43.191.125:8080/chile/123456789/97136
 
 #EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-logo="https://www.alkass.net/assets/images/logo.png" group-title="SPORTS 0",ALKASS DIGITAL 1 (alkassdigital)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -2409,6 +2483,15 @@ http://supersonictv.live:8080/Norman123/Norman123/86299
 http://supersonictv.live:8080/Norman123/Norman123/86300
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS 0",TIVIBUR SPOR 3 (supersonictv)
 http://supersonictv.live:8080/Norman123/Norman123/86301
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0",LIBYA SPORT 1 (bouygues)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238218.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0",LIBYA SPORT 1 (bouygues)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238219.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0",LIBYA SPORT 2 (bouygues)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238220.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0",LIBYA SPORT 2 (bouygues)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238221.m3u8
 
 
 
@@ -2697,3 +2780,13 @@ http://supersonictv.live:8080/Norman123/Norman123/86294
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS X",A SPOR HD (supersonictv)
 http://supersonictv.live:8080/Norman123/Norman123/86297
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS X",KSA SPORT 2 (bouygues)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/68818.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" tvg-id="VarzeshTV.ir@SD" group-title="SPORTS X",VARZESH TV (telewebion)
+https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS X" tvg-logo="https://img.platform.wurl.dev/channel/2198/lg/ae6736/LG-Logo-PNG-100x100_v1.png",112 SCRIPPS SPORTS (wurlewscripps)
+https://wurlewscripps.global.transmit.live/hls/699df66287f734395f248b2b/v1/e_w_scripps_scrippssports_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=2198&wurl_name=ScrippsSportsNetwork&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
