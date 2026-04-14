@@ -1258,6 +1258,23 @@ http://supersonictv.live:8080/Norman123/Norman123/83539
 http://supersonictv.live:8080/006779/439866/7634
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="DAZN SPORTS",DAZN 5 (supersonictv)
 http://supersonictv.live:8080/Norman123/Norman123/7635
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DAZN SPORTS",DAZN 6 (supersonictv)
+http://supersonictv.live:8080/Norman123/Norman123/7637
+
+#EXTINF:-1 group-title="DAZN SPORTS",DAZN 1 (dyndns)
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#EXTINF:-1 group-title="DAZN SPORTS",DAZN 2 (dyndns)
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
+#EXTINF:-1 group-title="DAZN SPORTS",DAZN 3 (dyndns)
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
+#EXTINF:-1 group-title="DAZN SPORTS",DAZN 4 (dyndns)
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
+#EXTINF:-1 group-title="DAZN SPORTS",DAZN 5 (dyndns)
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="DAZN SPORTS" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 2 (cdn)
+http://cdn.tv-rds.workers.dev/DAZN2DE.m3u8
+
 
 
 
@@ -1275,6 +1292,19 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/44042.ts
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2578
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" group-title="ESPN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-deportes.png",ESPN DEPORTES (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3811
+
+#EXTINF:-1 tvg-id="447026" group-title="ESPN SPORTS",ESPN (fazoeli)
+https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8
+#EXTINF:-1 tvg-id="447031" group-title="ESPN SPORTS",ESPN 2 (fazoeli)
+https://canaiss.fazoeli.co.za/fontes/smart/espn2.m3u8
+#EXTINF:-1 tvg-id="523329" group-title="ESPN SPORTS",ESPN 3 (fazoeli)
+https://canaiss.fazoeli.co.za/fontes/smart/espn3.m3u8
+#EXTINF:-1 tvg-id="523357" group-title="ESPN SPORTS",ESPN 4 (fazoeli)
+https://canaiss.fazoeli.co.za/fontes/smart/espn4.m3u8
+#EXTINF:-1 tvg-id="418724" group-title="ESPN SPORTS",ESPN 5 (fazoeli)
+https://canaiss.fazoeli.co.za/fontes/smart/espn5.m3u8
+#EXTINF:-1 tvg-id="417391" group-title="ESPN SPORTS",ESPN 6 (fazoeli)
+https://canaiss.fazoeli.co.za/fontes/smart/espn6.m3u8
 
 #EXTINF:-1 group-title="ESPN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927",ESPN (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/15951
@@ -1650,13 +1680,13 @@ http://185.132.134.159:80/sport5/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uvpyps1446212972.png" group-title="SPORTS 0",YES SPORT 6 (185.132.134.159)
 http://185.132.134.159:80/sport6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="SPORTS 0" tvg-name="" tvg-id="ElevenSports1.pl",ELEVEN SPORTS 1 (ssarao4k)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="SPORTS 0" tvg-name="" tvg-id="ElevenSports1.pl",ELEVEN SPORTS 1 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512429&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="SPORTS 0" tvg-name="" tvg-id="ElevenSports2.pl",ELEVEN SPORTS 2 (ssarao4k)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="SPORTS 0" tvg-name="" tvg-id="ElevenSports2.pl",ELEVEN SPORTS 2 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512428&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="SPORTS 0" tvg-name="" tvg-id="ElevenSports3.pl",ELEVEN SPORTS 3 (ssarao4k) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="SPORTS 0" tvg-name="" tvg-id="ElevenSports3.pl",ELEVEN SPORTS 3 (assarao4k) 
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512427&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="SPORTS 0" tvg-name="" tvg-id="ElevenSports4.pl",ELEVEN SPORTS 4 (ssarao4k) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="SPORTS 0" tvg-name="" tvg-id="ElevenSports4.pl",ELEVEN SPORTS 4 (assarao4k) 
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512426&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="SPORTS 0",ELEVEN SPORTS 1 (dragon1977)
@@ -1667,6 +1697,22 @@ http://dragon1977.com:80/047306b75f/b5a06cc482d6/814326
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/814325
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="SPORTS 0",ELEVEN SPORTS 4 (dragon1977)
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/814324
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0",ELEVEN SPORTS  1 (bocian)
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105525
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0",ELEVEN SPORTS  2 (bocian)
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105526
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0",ELEVEN SPORTS  3 (bocian)
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105527
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0",ELEVEN SPORTS  4 (bocian)
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105528
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ElevenSports2-logo.png",ELEVEN SPORTS 2 (cdn)
+http://cdn.tv-rds.workers.dev/ElevenSports2PL.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ElevenSports3-logo.png",ELEVEN SPORTS 3 (cdn)
+http://cdn.tv-rds.workers.dev/ElevenSports3PL.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ElevenSports4-logo.png",ELEVEN SPORTS 4 (cdn)
+http://cdn.tv-rds.workers.dev/ElevenSports4PL.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ziggo_Sport.svg/960px-Ziggo_Sport.svg.png?_=20250204051411" group-title="SPORTS 0",ZIGGO SPORT 1 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537597&extension=ts
@@ -1763,6 +1809,8 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/88060
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png" group-title="SPORTS 0",CANAL+ SPORT (vipnorseman)
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/371
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/Canal+Foot-logo.png",CANAL+ FOOT (cdn)
+http://cdn.tv-rds.workers.dev/FootPlusFR.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png"  group-title="SPORTS 0" tvg-id="CANAL+FOOT.fr",CANAL+ SPORT (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=599983&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png"  group-title="SPORTS 0" tvg-name="" tvg-id="CANAL+FOOT.fr",CANAL+ FOOT (assarao4k)
@@ -1954,6 +2002,27 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238220.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS 0",LIBYA SPORT 2 (bouygues)
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238221.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/CosmoteSport-Highlights-logo.png",COSMOTE SPORT (cdn)
+http://cdn.tv-rds.workers.dev/CosmoteSportHG.m3u8
+#EXTINF:-1 tvg-id="476569" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/CosmoteSport1-logo.png",COSMOTE SPORT 1 (cdn) 
+http://cdn.tv-rds.workers.dev/CosmoteSport1.m3u8
+#EXTINF:-1 tvg-id="476571" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/CosmoteSport2-logo.png",COSMOTE SPORT 2 (cdn)
+http://cdn.tv-rds.workers.dev/CosmoteSport2.m3u8
+#EXTINF:-1 tvg-id="476563" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/CosmoteSport3-logo.png",COSMOTE SPORT 3 (cdn)
+http://cdn.tv-rds.workers.dev/CosmoteSport3.m3u8
+#EXTINF:-1 tvg-id="476565" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/CosmoteSport4-logo.png",COSMOTE SPORT 4 (cdn)
+http://cdn.tv-rds.workers.dev/CosmoteSport4.m3u8
+#EXTINF:-1 tvg-id="476557" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/CosmoteSport5-logo.png",COSMOTE SPORT 5 (cdn)
+http://cdn.tv-rds.workers.dev/CosmoteSport5.m3u8
+#EXTINF:-1 tvg-id="476555" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/CosmoteSport6-logo.png",COSMOTE SPORT 6 (cdn)
+http://cdn.tv-rds.workers.dev/CosmoteSport6.m3u8
+#EXTINF:-1 tvg-id="476553" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/CosmoteSport7-logo.png",COSMOTE SPORT 7 (cdn)
+http://cdn.tv-rds.workers.dev/CosmoteSport7.m3u8
+#EXTINF:-1 tvg-id="476559" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/CosmoteSport8-logo.png",COSMOTE SPORT 8 (cdn)
+http://cdn.tv-rds.workers.dev/CosmoteSport8.m3u8
+#EXTINF:-1 tvg-id="476562" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/CosmoteSport9-logo.png",COSMOTE SPORT 9 (cdn)
+http://cdn.tv-rds.workers.dev/CosmoteSport9.m3u8
+
 
 
 
@@ -1965,8 +2034,9 @@ https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg1
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a8acbb211512425.67243dd8959cb.png" group-title="SPORTS X",CAZE TV (cloudfront)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a8acbb211512425.67243dd8959cb.png" group-title="SPORTS X",CAZE TV (cloudfront)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 group-title="SPORTS X" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVycPrqcSQ74386GOn1z8JGgOC-9Pg5mvSGw&s",DIGI SPORT 1 (bekaks)
+http://cmskos.bekaks.net:777/live/valard_klient2/PhcWLtKTuc/2466.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png" group-title="SPORTS X",PREMIERE 1 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20001.ts
