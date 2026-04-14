@@ -1242,7 +1242,7 @@ https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id="Football.ru@SD" tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="RUSSIAN SPORTS",Футбол (31.148.48.15)
 http://31.148.48.15/Futbol_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804042515" group-title="RUSSIAN SPORTS",SETANTA SPORT 1 (158.101.222)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804042515" group-title="RUSSIAN SPORTS",SETANTA SPORT 1 (158.101.222.193)
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Setanta_Sports_2_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804053337" group-title="RUSSIAN SPORTS",SETANTA SPORT 2 (94.43.1.138)
@@ -2053,6 +2053,26 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238220.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS 0",LIBYA SPORT 2 (bouygues)
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238221.m3u8
 
+#EXTINF:-1 tvg-id="803.astro" group-title="SPORTS 0" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",ASTRO ARENA BOLA (perfecttv)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=bola1
+#EXTINF:-1 tvg-id="815.astro" group-title="SPORTS 0" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png",ASTRO BADMINTON (perfecttv)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=badminton
+
+#EXTINF:-1 tvg-id="ElevenSports1.pl" group-title="SPORTS 0" tvg-logo="https://i.imgur.com/AOu4FXH.png",ELEVEN 1 PL Play+ (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512429&extension=ts
+#EXTINF:-1 tvg-id="ElevenSports2.pl" group-title="SPORTS 0" tvg-logo="https://i.imgur.com/bTIRgqG.png",ELEVEN 2 PL Play+ (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512428&extension=ts
+#EXTINF:-1 tvg-id="ElevenSports3.pl" group-title="SPORTS 0" tvg-logo="https://i.imgur.com/bWjGol4.png",ELEVEN 3 PL Play+ (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512427&extension=ts
+#EXTINF:-1 tvg-id="ElevenSports4.pl" group-title="SPORTS 0" tvg-logo="https://i.imgur.com/SEKXaAW.png",ELEVEN 4 PL Play+ (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512426&extension=ts
+
 
 
 
@@ -2354,4 +2374,11 @@ https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS X" tvg-logo="https://img.platform.wurl.dev/channel/2198/lg/ae6736/LG-Logo-PNG-100x100_v1.png",112 SCRIPPS SPORTS (wurlewscripps)
 https://wurlewscripps.global.transmit.live/hls/699df66287f734395f248b2b/v1/e_w_scripps_scrippssports_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=2198&wurl_name=ScrippsSportsNetwork&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-id="523330" group-title="SPORTS X",BAND SPORTS (fazoeli)
+https://canaiss.fazoeli.co.za/fontes/smart/bandsports.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS HD" group-title="Thể Thao" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandsports.png",Band Sports FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19000.ts
+#EXTINF:-1 tvg-id="BAND SPORTS HD" group-title="SPORTS X" tvg-logo="https://i.imgur.com/LSZ5VKi.png",BAND SPORTS (fazoeli)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19001.ts
 
