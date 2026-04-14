@@ -1082,50 +1082,10 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
 #EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",BEIN SPORTS 5 (corestream)
 https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
 
-#EXTINF:-1 tvg-id="532981" group-title="BEIN SPORTS",BEIN SPORTS 1 (tiny-firefly)
-#EXTVLCOPT:http-referrer=https://www.atomsportv496.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://tiny-firefly-ba72.amsansak.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
-#EXTINF:-1 tvg-id="532982" group-title="BEIN SPORTS",BEIN SPORTS 2 (tiny-firefly)
-#EXTVLCOPT:http-referrer=https://www.atomsportv496.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://tiny-firefly-ba72.amsansak.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
-#EXTINF:-1 tvg-id="532983" group-title="BEIN SPORTS",BEIN SPORTS 3 (tiny-firefly)
-#EXTVLCOPT:http-referrer=https://www.atomsportv496.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://tiny-firefly-ba72.amsansak.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
-
 #EXTINF:-1 tvg-id="532982" group-title="BEIN SPORTS",BEIN SPORTS 2 (Rochdi@starshare)
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652311.ts
 #EXTINF:-1 tvg-id="532983" group-title="BEIN SPORTS",BEIN SPORTS 3 (Rochdi@starshare)
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652312.ts
-
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",BEIN SPORTS 1 ULTRA (vibertv)
-http://ps.vibertv.cyou:2086/viber_tv/bein1ps.m3u8
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",BEIN SPORTS 2 ULTRA (vibertv)
-http://ps.vibertv.cyou:2086/viber_tv/bein2ps.m3u8
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",BEIN SPORTS 3 ULTRA (vibertv)
-http://ps.vibertv.cyou:2086/viber_tv/bein3ps.m3u8
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",BEIN SPORTS 4 ULTRA (vibertv)
-http://ps.vibertv.cyou:2086/viber_tv/bein4ps.m3u8
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",BEIN SPORTS 5 ULTRA (vibertv)
-http://ps.vibertv.cyou:2086/viber_tv/bein5ps.m3u8
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",BEIN SPORTS 6 ULTRA (vibertv)
-http://ps.vibertv.cyou:2086/viber_tv/bein6ps.m3u8
-
-#EXTINF:-1 tvg-id="532982" group-title="BEIN SPORTS" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5",BEIN SPORTS 2 (sportook)
-http://sportook.online/BEIN-S2/video.m3u8
-#EXTINF:-1 tvg-id="532983" group-title="BEIN SPORTS" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5",BEIN SPORTS 3 (sportook)
-http://sportook.online/BEIN-S3/video.m3u8
-#EXTINF:-1 tvg-id="532977" group-title="BEIN SPORTS" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5",BEIN SPORTS 4 (sportook)
-http://sportook.online/BEIN-S4/video.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS",BEIN SPORTS ASIA 1 (wahyu1ptv)
-https://wahyu1ptv.pages.dev/AstroBein1.m3u8
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS",BEIN SPORTS ASIA 2 (wahyu1ptv)
-https://wahyu1ptv.pages.dev/AstroBein2.m3u8
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS",BEIN SPORTS ASIA 3 (wahyu1ptv)
-https://wahyu1ptv.pages.dev/AstroBein3.m3u8
 
 
 
@@ -1619,81 +1579,22 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/60021.ts
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png",SPORT TV 5 (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/60022.ts
 
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png",SPORT TV 1 (tvmate)
-http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167742
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png",SPORT TV 1 (tvmate)
-http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167742
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png",SPORT TV 2 (tvmate)
-http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167743
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png",SPORT TV 3 (tvmate)
-http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167744
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png",SPORT TV 3 (tvmate)
-http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167744
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",SPORT TV 4 (tvmate)
-http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167745
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",SPORT TV 4 (tvmate)
-http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167745
-
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png",SPORT TV 1 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/848
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png",SPORT TV 1 (realiptv)
-https://restream-live.realiptv.to/53420573/53717218/849
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png",SPORT TV 1 (realiptv)
-https://restream-live.realiptv.to/53420573/53717218/848
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png",SPORT TV 2 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/847
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png",SPORT TV 2 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/846
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png",SPORT TV 2 (realiptv)
-https://restream-live.realiptv.to/53420573/53717218/847
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png",SPORT TV 2 (realiptv)
-https://restream-live.realiptv.to/53420573/53717218/846
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png",SPORT TV 3 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/845
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png",SPORT TV 3 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/844
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png",SPORT TV 3 (realiptv)
-https://restream-live.realiptv.to/53420573/53717218/845
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png",SPORT TV 3 (realiptv)
-https://restream-live.realiptv.to/53420573/53717218/844
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",SPORT TV 4 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/843
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",SPORT TV 4 (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/842
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",SPORT TV 4 (realiptv)
-https://restream-live.realiptv.to/53420573/53717218/843
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",SPORT TV 4 (realiptv)
-https://restream-live.realiptv.to/53420573/53717218/842
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png",SPORT TV 5 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/840
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png",SPORT TV 5 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/839
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png",SPORT TV 5 (realiptv)
-https://restream-live.realiptv.to/53420573/53717218/840
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png",SPORT TV 5 (realiptv)
-https://restream-live.realiptv.to/53420573/53717218/839
-
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png",SPORT TV 1 (cbilant)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2525/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png",SPORT TV 1 (cbilant)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31942/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png",SPORT TV 2 (cbilant)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2526/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png",SPORT TV 2 (cbilant)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31943/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png",SPORT TV 3 (cbilant)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2527/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png",SPORT TV 3 (cbilant)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31944/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",SPORT TV 4 (cbilant)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31945/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png",SPORT TV 5 (cbilant)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2529/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png",SPORT TV 5 (cbilant)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31946/index.m3u8
-
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",SPORT TV 4 (cord-cutter)
-http://cord-cutter.net:8080/bn80NG/909467/167745
 
 
 
@@ -2053,26 +1954,6 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238220.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS 0",LIBYA SPORT 2 (bouygues)
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238221.m3u8
 
-#EXTINF:-1 tvg-id="803.astro" group-title="SPORTS 0" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",ASTRO ARENA BOLA (perfecttv)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=bola1
-#EXTINF:-1 tvg-id="815.astro" group-title="SPORTS 0" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png",ASTRO BADMINTON (perfecttv)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=badminton
-
-#EXTINF:-1 tvg-id="ElevenSports1.pl" group-title="SPORTS 0" tvg-logo="https://i.imgur.com/AOu4FXH.png",ELEVEN 1 PL Play+ (assarao4k)
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512429&extension=ts
-#EXTINF:-1 tvg-id="ElevenSports2.pl" group-title="SPORTS 0" tvg-logo="https://i.imgur.com/bTIRgqG.png",ELEVEN 2 PL Play+ (assarao4k)
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512428&extension=ts
-#EXTINF:-1 tvg-id="ElevenSports3.pl" group-title="SPORTS 0" tvg-logo="https://i.imgur.com/bWjGol4.png",ELEVEN 3 PL Play+ (assarao4k)
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512427&extension=ts
-#EXTINF:-1 tvg-id="ElevenSports4.pl" group-title="SPORTS 0" tvg-logo="https://i.imgur.com/SEKXaAW.png",ELEVEN 4 PL Play+ (assarao4k)
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512426&extension=ts
-
 
 
 
@@ -2375,10 +2256,10 @@ https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS X" tvg-logo="https://img.platform.wurl.dev/channel/2198/lg/ae6736/LG-Logo-PNG-100x100_v1.png",112 SCRIPPS SPORTS (wurlewscripps)
 https://wurlewscripps.global.transmit.live/hls/699df66287f734395f248b2b/v1/e_w_scripps_scrippssports_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=2198&wurl_name=ScrippsSportsNetwork&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
+#EXTINF:-1 tvg-id="BAND SPORTS HD" group-title="SPORTS X" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandsports.png",BAND SPORTS (sinalprivado)
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19000.ts
 #EXTINF:-1 tvg-id="523330" group-title="SPORTS X",BAND SPORTS (fazoeli)
 https://canaiss.fazoeli.co.za/fontes/smart/bandsports.m3u8
-#EXTINF:-1 tvg-id="BAND SPORTS HD" group-title="Thể Thao" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandsports.png",Band Sports FHD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19000.ts
 #EXTINF:-1 tvg-id="BAND SPORTS HD" group-title="SPORTS X" tvg-logo="https://i.imgur.com/LSZ5VKi.png",BAND SPORTS (fazoeli)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19001.ts
 
