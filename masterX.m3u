@@ -55,11 +55,16 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162502
 #EXTINF:-1 tvg-name="Trans7 TV" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Melayu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (freetv)
 https://stream1.freetv.fun/ab66bf82a5a06d04175f770c7afa9c943c77876a610f0f17ec0c523aa3f7d6e1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541124&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (bianet)
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162503
 #EXTINF:-1 tvg-name="Trans TV" tvg-id="11695" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (freetv)
 https://stream1.freetv.fun/bf7b1bb662d77cbbbdd0c365361fe88755f757aab44a5dc2c9a42a810f8938ce.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541123&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/1920px-MDTV_logo.svg.png" group-title="INDO NASIONAL",MDTV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -492,8 +497,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 
-#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/SINDOTV.svg/revision/latest?cb=20150420140734", INEWS (indihometv)
+#EXTINF:-1 tvg-id="--" group-title="INDO NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/SINDOTV.svg/revision/latest?cb=20150420140734",INEWS (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/SINDOTV.svg/revision/latest?cb=20150420140734",INEWS (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541166&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:-1 tvg-id="SindoNews.id" group-title="INDO NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/SINDOTV.svg/revision/latest?cb=20150420140734", SINDO NEWS (indihometv)
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
@@ -1077,6 +1085,17 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652311.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png?_=20181019220150" group-title="BEIN SPORTS",BEIN SPORTS 3 (Rochdi@starshare)
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652312.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607" group-title="BEIN SPORTS",BEIN SPORTS 1 (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541205&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903" group-title="BEIN SPORTS",BEIN SPORTS 2 (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541204&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/BeIN_Sports_3_2017_Square.png/revision/latest?cb=20251213113914" group-title="BEIN SPORTS",BEIN SPORTS 3 (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541203&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg/revision/latest?cb=20200107204039" group-title="BEIN SPORTS",BEIN SPORTS 4 (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541202&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BS5.svg/revision/latest?cb=20200107204133" group-title="BEIN SPORTS",BEIN SPORTS 5 (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541201&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA n (amagi.tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1979,15 +1998,6 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/48449
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png",EUROSPORT 2 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48450
 
-#EXTINF:-1 group-title="SPORTS 0" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646",SONY TEN 1 (cloudcdn)
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 group-title="SPORTS 0" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500",SONY TEN 2 (cloudcdn)
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 group-title="SPORTS 0" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest?cb=20221025085433",SONY TEN 3 (cloudcdn)
-http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 group-title="SPORTS 0" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest?cb=20221025090401",SONY TEN 4 (cloudcdn)
-http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1D:53:3F
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-1-al.png" group-title="SPORTS 0",SUPER SPORT 1 (31.43.191.125)
 http://31.43.191.125:8080/chile/123456789/129242
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-2-al.png" group-title="SPORTS 0",SUPER SPORT 2 (31.43.191.125)
@@ -2141,6 +2151,21 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C244/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",SPOTV (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541129&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",SPOTV2 (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541128&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",SPORTSTARS (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541113&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",SPORTSTARS 2 (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541112&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-id="Sportstars 2.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Sportstars_2_2023.png/revision/latest?cb=20230702035603" group-title="SPORTS X",SPORTSTARS 2 (vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://live-channel1-cdn.visionplus.id/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",SPORTSTARS 4 (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541110&extension=ts&play_token=J4RzsLFWgA
+
 
 
 
@@ -2173,10 +2198,8 @@ https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer Channel.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SoccerChannel2020.png/revision/latest?cb=20220810085741" group-title="SPORTS X",SOCCER CHANNEL (visionplus)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
-
-#EXTINF:-1 tvg-id="Sportstars 2.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Sportstars_2_2023.png/revision/latest?cb=20230702035603" group-title="SPORTS X",SPORTSTARS 2 (visionplus)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://live-channel1-cdn.visionplus.id/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS X",SOCCER CHANNEL (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541132&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV22.png" group-title="SPORTS X",SCTV22 (vtvprime03)
 https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
@@ -2401,300 +2424,3 @@ https://eclutch-live.akamaized.net/GameToonHD/master_0.m3u8
 
 #EXTINF:-1 group-title="SPORTS X" tvg-logo="https://i.imgur.com/TW0hapZ.png",NUDGE SPORTS (comclark) 
 https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",FRANCE 24 (E)
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541179&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",GALAXY
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541178&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",GALAXY PREMIUM
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541177&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",CELESTIAL CLASSIC MOVIES
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541196&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",Global Trekker
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541176&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",HISTORY
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541172&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",HITS
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541171&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",HITS MOVIES
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541170&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",HITS NOW
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1856370&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",AXN
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541210&extension=ts&play_token=J4RzsLFWgA
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",ANIMAX
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541213&extension=ts&play_token=J4RzsLFWgA
-
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",Hunan TV
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541169&extension=ts&play_token=J4RzsLFWgA
-
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",CRIME+INVESTIGATION
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541189&extension=ts&play_token=J4RzsLFWgA
-
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",DREAMWORK
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541185&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",DW
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541184&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",CGTN
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541193&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",CGTN DOCUMENTARY
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541192&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",FIGHT SPORTS
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541181&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",FOOD TRAVEL
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541180&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",imc
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541167&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",iNews
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541166&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",Jiangsu TV
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541164&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",KIDS TV
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541162&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",KIX
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541161&extension=ts&play_token=J4RzsLFWgA
-
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",Lifetime
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541158&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",loVe NaTuRe
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541157&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",MUSIC TV
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541151&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",muslim TV
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541150&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",thrill
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541125&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",TRANS 7
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541124&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",TRANSTV
-#EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541123&extension=ts&play_token=J4RzsLFWgA
-
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",CBeebies
-#EXTGRP:Kartun hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541197&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",IDX CHANNEL
-#EXTGRP:Berita hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541168&extension=ts&play_token=J4RzsLFWgA
-
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",Al JAZEERA English
-#EXTGRP:Berita hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541215&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",ABC AUSTRALIA
-#EXTGRP:Berita hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541217&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",Bloomberg
-#EXTGRP:Berita hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541200&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",BBC NEWS
-#EXTGRP:Berita hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541206&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",cna
-#EXTGRP:Berita hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541191&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",TRTWORLD
-#EXTGRP:Berita hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541122&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",TVRI
-#EXTGRP:Informasi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541115&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",DAAI TV
-#EXTGRP: Informasi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541188&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",celebrities TV
-#EXTGRP:Informasi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541195&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",TV5 MONDE
-#EXTGRP: Informasi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541119&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",FOOD TRAVEL
-#EXTGRP:Informasi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541180&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",ent
-#EXTGRP:Informasi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541183&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",SPOTV
-#EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541129&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",SPOTV2
-#EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541128&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",SOCCER CHANNEL
-#EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541132&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",beIN SPORTS 5
-#EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541201&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",beIN SPORTS 4
-#EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541202&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",beIN SPORTS 3
-#EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541203&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",beIN SPORTS 2
-#EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541204&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",beIN SPORTS 1
-#EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541205&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",sportstars 4
-#EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541110&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",sportstars 2
-#EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541112&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",sportstars
-#EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541113&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",tvMu
-#EXTGRP:Religi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541120&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",TV9
-#EXTGRP:Religi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541121&extension=ts&play_token=J4RzsLFWgA
-
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",hanacaraka TV
-#EXTGRP:Lokal hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541173&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",CCM
-#EXTGRP: Film hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541196&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",CELESTIAL MOVIES
-#EXTGRP: Film hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541194&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",CINEEDGE
-#EXTGRP: Film hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541190&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",superrix
-#EXTGRP: Film hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541126&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",STUDIO UNIVERSAL
-#EXTGRP: Film hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541127&extension=ts&play_token=J4RzsLFWgA
-
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",drama CHANNEL
-#EXTGRP:Film hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541186&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",BuddyStar
-#EXTGRP:Film hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541198&extension=ts&play_token=J4RzsLFWgA
-
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",Anhui TV
-#EXTGRP:China hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541214&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",Jiansu TV
-#EXTGRP:China hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541164&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="" group-title="ASAL AJA",BBC EARTH
-#EXTGRP:Pengetahuan hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541207&extension=ts&play_token=J4RzsLFWgA
