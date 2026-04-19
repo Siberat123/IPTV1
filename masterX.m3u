@@ -2017,6 +2017,19 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-3-al.png",SUPER SPORT 3 (93.93.113.95)
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
 
+#EXTINF:-1 tvg-id="SuperSport.1.al" tvg-name="Super Sport 1 AL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-1-al.png?raw=true" group-title="SPORTS 0",Super Sport 1 (93.93.113.95)
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+#EXTINF:-1 tvg-id="SuperSport.2.al" tvg-name="Super Sport 2 AL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-2-al.png?raw=true" group-title="SPORTS 0",Super Sport 2 (93.93.113.95)
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+#EXTINF:-1 tvg-id="SuperSport.3.al" tvg-name="Super Sport 3 AL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-3-al.png?raw=true" group-title="SPORTS 0",Super Sport 3 (93.93.113.95)
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
+#EXTINF:-1 tvg-id="SuperSport.4.al" tvg-name="Super Sport 4 AL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-4-al.png?raw=true" group-title="SPORTS 0",Super Sport 4 (fit)
+http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262763
+#EXTINF:-1 tvg-id="SuperSport.5.al" tvg-name="Super Sport 5 AL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-5-al.png?raw=true" group-title="SPORTS 0",Super Sport 5 (fit)
+http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262764
+#EXTINF:-1 tvg-id="SuperSport.6.al" tvg-name="Super Sport 6 AL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-6-al.png?raw=true" group-title="SPORTS 0",Super Sport 6 (fit)
+http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262765
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgjJ63Lx/Dise-o-sin-t-tulo-2.png" group-title="SPORTS 0",WIN SPORTS (rey-premium)
 http://rey-premium.ddns.net:80/DPVEduardoEspa/Espa020828/13767.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" group-title="SPORTS 0",WIN SPORTS+ (rey-premium)
@@ -2089,6 +2102,25 @@ http://cdn.tv-rds.workers.dev/CosmoteSport7.m3u8
 http://cdn.tv-rds.workers.dev/CosmoteSport8.m3u8
 #EXTINF:-1 tvg-id="476562" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/CosmoteSport9-logo.png",COSMOTE SPORT 9 (cdn)
 http://cdn.tv-rds.workers.dev/CosmoteSport9.m3u8
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-name="Cosmote Sport 1 GR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="SPORTS 0",Cosmote Sport 1 (iptv-premium-ott)
+http://iptv-premium-ott.com:8789/BSM73928/OSF19372/442535
+#EXTINF:-1 tvg-id="COSMOTE.Sport.2.HD.gr" tvg-name="Cosmote Sport 2 GR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-2-gr.png?raw=true" group-title="SPORTS 0",Cosmote Sport 2 (iptv-premium-ott)
+http://iptv-premium-ott.com:8789/BSM73928/OSF19372/442534
+#EXTINF:-1 tvg-id="COSMOTE.Sport.3.HD.gr" tvg-name="Cosmote Sport 3 GR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-3-gr.png?raw=true" group-title="SPORTS 0",Cosmote Sport 3 (edemist)
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31581/index.m3u8
+#EXTINF:-1 tvg-id="COSMOTE.Sport.4.HD.gr" tvg-name="Cosmote Sport 4 GR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-4-gr.png?raw=true" group-title="SPORTS 0",Cosmote Sport 4 (edemist)
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31582/index.m3u8
+#EXTINF:-1 tvg-id="COSMOTE.Sport.5.HD.gr" tvg-name="Cosmote Sport 5 GR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-5-gr.png?raw=true" group-title="SPORTS 0",Cosmote Sport 5 (edemist)
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31583/index.m3u8
+#EXTINF:-1 tvg-id="COSMOTE.Sport.6.HD.gr" tvg-name="Cosmote Sport 6 GR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-6-gr.png?raw=true" group-title="SPORTS 0",Cosmote Sport 6 (edemist)
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31584/index.m3u8
+#EXTINF:-1 tvg-id="COSMOTE.Sport.7.HD.gr" tvg-name="Cosmote Sport 7 GR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-7-gr.png?raw=true" group-title="SPORTS 0",Cosmote Sport 7 (edemist)
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31585/index.m3u8
+#EXTINF:-1 tvg-id="COSMOTE.Sport.8.HD.gr" tvg-name="Cosmote Sport 8 GR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-8-gr.png?raw=true" group-title="SPORTS 0",Cosmote Sport 8 (edemist)
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31586/index.m3u8
+#EXTINF:-1 tvg-id="COSMOTE.Sport.9.HD.gr" tvg-name="Cosmote Sport 9 GR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-9-gr.png?raw=true" group-title="SPORTS 0",Cosmote Sport 9 (edemist)
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31587/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/TV2Sport1-logo.png",TV 2 SPORT 1 (cdn)
 http://cdn.tv-rds.workers.dev/TV2Sport1.m3u8
