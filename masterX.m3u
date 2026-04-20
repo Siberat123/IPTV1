@@ -671,18 +671,6 @@ http://84.17.50.102/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="TerraMaterWILD.de@English" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png" group-title="DOCUMENTARY",Terra Mater Wild (amagi.tv)
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Discovery_Channel_1995.svg/revision/latest?cb=20240827222541" group-title="DOCUMENTARY",Discovery Channel (supersonictv)
-http://supersonictv.live:8080/611366/682256/22074
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Smithsonian_Channel_HD.svg/revision/latest?cb=20240717234918" group-title="DOCUMENTARY",Smithsonian Channel (supersonictv)
-http://supersonictv.live:8080/611366/682256/22148
-
-#EXTINF:-1 tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white-1024x602.png" group-title="DOCUMENTARY",Animal Planet (supersonictv)
-http://supersonictv.live:8080/611366/682256/22046
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/The_Outdoor_Channel_old.png/revision/latest?cb=20170212183642" group-title="DOCUMENTARY",Outdoor Channel (supersonictv)
-http://supersonictv.live:8080/611366/682256/22131
-
 #EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://i.imgur.com/0UMmG41.png" group-title="DOCUMENTARY",Outside TV (amagi.tv)
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
 
@@ -1056,18 +1044,6 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png",BEIN SPORTS 2 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659428
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png?_=20181019220148" group-title="BEIN SPORTS",BEIN SPORTS 1 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/86262
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png?_=20181019220150" group-title="BEIN SPORTS",BEIN SPORTS 3 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/86264
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png?_=20181019220152" group-title="BEIN SPORTS",BEIN SPORTS 4 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/86265 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="BEIN SPORTS",BEIN SPORTS MAX 1 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/86266
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="BEIN SPORTS",BEIN SPORTS MAX 2 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/86267
-
 #EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png?_=20181019220148",BEIN SPORTS 1 (corestream)
 https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 #EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png?_=20181019220148",BEIN SPORTS 2 (corestream)
@@ -1104,8 +1080,6 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541201&exte
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 channel-id="909b135136a1567eaf3f65fb64988323" tvg-id="909b135136a1567eaf3f65fb64988323" tvg-chno="930" tvg-name="beIN SPORTS Xtra en Español" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA n (jmp2.uk)
 https://jmp2.uk/rok-909b135136a1567eaf3f65fb64988323.m3u8
-#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="BEIN SPORTS" , BEIN SPORTS XTRA n (amagi.tv)
-https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bc932f13c31e542db6e3e6247e7131bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652896913644_beIN-SPORTS-XTRA_LOGO_ROKU_HUD_260x147%255B1%255D.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA (amagi.tv)
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
@@ -1125,21 +1099,6 @@ http://4kgood.org/live/4o48up5evz/r4fiast66u/280828.ts
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" group-title="HUB SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-2.png",HUB PREMIER 2 (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="HUB SPORTS",HUB PREMIER 1 (dhoomtv)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="HUB SPORTS",HUB PREMIER 3 (dhoomtv)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148160
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="HUB SPORTS",HUB PREMIER 4 (dhoomtv)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148161
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XhX3oUI.png" group-title="HUB SPORTS",HUB PREMIER 5 (dhoomtv)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148162
-#EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png" group-title="HUB SPORTS",HUB PREMIER 6 (dhoomtv)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148163
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="HUB SPORTS",HUB PREMIER 7 (dhoomtv)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148164
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/stYijJ1.png" group-title="HUB SPORTS",HUB PREMIER 8 (dhoomtv)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148165
 
 #EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png",HUB PREMIER 1 (Lunar)
 http://lunar.pm:8080/Mrdon/4782314540/110288
@@ -1272,28 +1231,6 @@ http://kstv.us:8080/Freshcobar23/83261331891/48444
 http://kstv.us:8080/Freshcobar23/83261331891/48445
 #EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png?_=20231024150500",DAZN 4 (KSTV)
 http://kstv.us:8080/Freshcobar23/83261331891/48446
-
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412",DAZN 1 (tvmate)
-http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/35264
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412" group-title="DAZN SPORTS",DAZN 1 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/7627
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png?_=20231024145535" group-title="DAZN SPORTS",DAZN 2 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/7629
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png?_=20231024145649" group-title="DAZN SPORTS",DAZN 3 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/7631
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png?_=20231024145649" group-title="DAZN SPORTS",DAZN 3 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/83538
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png?_=20231024150500" group-title="DAZN SPORTS",DAZN 4 (supersonictv)
-http://supersonictv.live:8080/006779/439866/7632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png?_=20231024150500" group-title="DAZN SPORTS",DAZN 4 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/83539
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/DAZN_5.png?_=20231024150556" group-title="DAZN SPORTS",DAZN 5 (supersonictv)
-http://supersonictv.live:8080/006779/439866/7634
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/DAZN_5.png?_=20231024150556" group-title="DAZN SPORTS",DAZN 5 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/7635
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/DAZN_6.png" group-title="DAZN SPORTS",DAZN 6 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/7637
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?_=20231024145412" group-title="DAZN SPORTS",DAZN 1 (dyndns)
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
@@ -1478,45 +1415,38 @@ http://205.235.6.29:8000/play/a0vu/index.m3u8
 
 #SKY SPORTS
 #
-#EXTINF:-1 tvg-name="Sky Sports Football FHD" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="SKY SPORTS" radio="false",Sky Sports Football (otttv)
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9289/index.m3u8
-
 #EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png",Sky Sports Football (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/47866
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",Sky Sports Premier League (kstv)
+http://kstv.us:8080/Freshcobar23/83261331891/47871
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",Sky Sport Premier League (kstv)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47871
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",Sky Sports Main Event (kstv)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47868
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",Sky Sports Main Event (kstv)
+http://kstv.us:8080/Freshcobar23/83261331891/47868
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png",Sky Sports Plus (kstv)
+http://kstv.us:8080/Freshcobar23/83261331891/47863
 
 #EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2188
 #EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/30822
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",Sky Sports Premier League (realiptv)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2182
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",Sky Sports Premier League (realiptv)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2181
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png",Sky Sports Plus (realiptv)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2193
 
 #EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/58923.ts
 #EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/48551.ts
-
-#EXTINF:-1 tvg-name="Sky Sports Premier League FHD" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="SKY SPORTS" radio="false",Sky Sports Premier (otttv)
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
-
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",Sky Sport Premier League (kstv)
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47871
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",Sky Sports Premier League (kstv)
-http://kstv.us:8080/Freshcobar23/83261331891/47871
-
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",Sky Sports Premier League (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2182
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",Sky Sports Premier League (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2181
-
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",Sky Sports Premier League (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/16559.ts
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",Sky Sports Premier League (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/58924.ts
-
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",Sky Sports Main Event (kstv)
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47868
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",Sky Sports Main Event (kstv)
-http://kstv.us:8080/Freshcobar23/83261331891/47868
-
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",Sky Sports Main Event (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",Sky Sports Main Event (greenslime)
@@ -1524,20 +1454,16 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/16563.ts
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",Sky Sports Main Event (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts
 
-#EXTINF:-1 group-title="SKY SPORTS",Sky Sports La Liga (190.92.10.66)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_LaLiga_II.svg/revision/latest?cb=20231120144248" group-title="SKY SPORTS",Sky Sports La Liga (190.92.10.66)
 http://190.92.10.66:4000/play/a001/index.m3u8
 
-#EXTINF:-1 group-title="SKY SPORTS",Sky Sports La Liga (181.78.109.48)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_LaLiga_II.svg/revision/latest?cb=20231120144248" group-title="SKY SPORTS",Sky Sports La Liga (181.78.109.48)
 http://181.78.109.48:9998/play/a06r/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Sky_Sport_Bundesliga_2020.svg/1024px-Sky_Sport_Bundesliga_2020.svg.png" group-title="SKY SPORTS" tvg-name="" tvg-id="SkySportBundesliga.de",Sky Sports Bundesliga (assarao4k)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Sky_Sport_Bundesliga_2020.svg/revision/latest?cb=20201029130111" group-title="SKY SPORTS" tvg-name="" tvg-id="SkySportBundesliga.de",Sky Sports Bundesliga (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=485855&extension=ts
 
-#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png",Sky Sports Plus (kstv)
-http://kstv.us:8080/Freshcobar23/83261331891/47863
 
-#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png",Sky Sports Plus (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2193
 
 
 
@@ -1646,20 +1572,11 @@ http://kstv.us:8080/Freshcobar23/83261331891/47853
 
 #SPORT TV
 #
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SPORT TV",SPORT TV 1 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/7705
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SPORT TV",SPORT TV 2 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/7707
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SPORT TV",SPORT TV 3 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/7709
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SPORT TV",SPORT TV 4 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/7711
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SPORT TV",SPORT TV 5 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/7714
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png" group-title="SPORT TV",SPORT TV (canal-pro)
 http://canal-pro.xyz:8080/978280496tv3/951r8ui/27203
 
+#EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg" group-title="SPORT TV",SPORT TV+ (kstv)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/48501
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png",SPORT TV 1 (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/48496
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png",SPORT TV 1 (kstv)
@@ -1751,6 +1668,15 @@ http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128994
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128995
 #EXTINF:-1 group-title="ZIGGO SPORT",ZIGGO SPORT 6 (vipnorseman)
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128996
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="ZIGGO SPORT",ZIGGO SPORT (xemzi)
+https://xemzi.short.gy/140001
+#EXTINF:-1 tvg-logo="http://spott4k.online:8080/images/logopedia/NL_ZIGGO_SPORT_2_302080.png" group-title="ZIGGO SPORT",ZIGGO SPORT 2 (iptv-premium-ott)
+http://iptv-premium-ott.com:8789/BSM73928/OSF19372/239449
+#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-logo="http://spott4k.online:8080/images/logopedia/NL_ZIGGO_SPORT_3_302082.png" group-title="ZIGGO SPORT",ZIGGO SPORT 3 (xemzi)
+https://xemzi.short.gy/140003
+#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-logo="http://spott4k.online:8080/images/logopedia/NL_ZIGGO_SPORT_4_302083.png" group-title="ZIGGO SPORT",ZIGGO SPORT 4 (xemzi)
+https://xemzi.short.gy/140004
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ziggo_Sport.svg/960px-Ziggo_Sport.svg.png?_=20250204051411" group-title="ZIGGO SPORT",ZIGGO SPORT 1 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537597&extension=ts
@@ -1988,11 +1914,6 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
 #EXTINF:-1 tvg-id="381854" group-title="SPORTS 0" tvg-logo="https://i.pinimg.com/236x/5e/6f/86/5e6f86c463c84f9b1aa868ef60ed5e0f.jpg",ARENA SPORT 5 (feniks)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1181
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS 0",EUROSPORT 1 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/86292
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS 0",EUROSPORT 2 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/86293
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eurosport_1_Logo_2015.png/960px-Eurosport_1_Logo_2015.png",EUROSPORT 1 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48449
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png",EUROSPORT 2 (KSTV)
@@ -2074,13 +1995,6 @@ https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Golazo_Network_logo.png/revision/latest?cb=20230502042859" group-title="SPORTS 0",CBS SPORTS GOLAZO (jmp2.uk)
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS 0",TIVIBUR SPOR 1 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/86299
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS 0",TIVIBUR SPOR 2 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/86300
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SPORTS 0",TIVIBUR SPOR 3 (supersonictv)
-http://supersonictv.live:8080/Norman123/Norman123/86301
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/CosmoteSport-Highlights-logo.png",COSMOTE SPORT (cdn)
 http://cdn.tv-rds.workers.dev/CosmoteSportHG.m3u8
@@ -2407,11 +2321,6 @@ http://46.151.196.243:80/play/LMrv_fYorITF9qmDeTZKomdUckVZvM0MOlJf-L75NjE
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SPORTS X",STRONGMAN CHAMPION LEAGUE (amazonaws)	
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="SPORTS X",WWE NETWORK (tvmate)
-http://tvmate.icu:8080/69NpyV/884735/11645
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vsL9qN2/Boi-wwe.jpg" group-title="SPORTS X",WWE NETWORK (Supersonictv)
-http://Supersonictv.live:8080/live/006779/439866/22185.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS X",FANCODE SPORT (cloudcdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=78845&uid=15301&deviceMac=00:1A:79:1D:53:3F
