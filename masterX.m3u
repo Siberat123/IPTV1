@@ -1008,14 +1008,14 @@ https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png?_=20240407181723" group-title="BEIN SPORTS",BEIN SPORTS (fastream)
 http://fastream.xyz:8080/977605802tv/2k0mdjk34/33360
 
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png",BEIN SPORTS 1 (kstv)
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png?_=20181019220148",BEIN SPORTS 1 (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/12554
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png",BEIN SPORTS 2 (kstv)
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png?_=20181019220148",BEIN SPORTS 2 (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/12553
 
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png",BEIN SPORTS 1 (realiptv)
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png?_=20181019220148",BEIN SPORTS 1 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png",BEIN SPORTS 2 (realiptv)
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png?_=20181019220148",BEIN SPORTS 2 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659428
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png?_=20181019220148" group-title="BEIN SPORTS",BEIN SPORTS 1 (Rochdi@starshare)
@@ -1025,15 +1025,15 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652311.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png?_=20181019220150" group-title="BEIN SPORTS",BEIN SPORTS 3 (Rochdi@starshare)
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652312.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607" group-title="BEIN SPORTS",BEIN SPORTS 1 (vision+)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png?_=20181019220148" group-title="BEIN SPORTS",BEIN SPORTS 1 (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541205&extension=ts&play_token=J4RzsLFWgA
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903" group-title="BEIN SPORTS",BEIN SPORTS 2 (vision+)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png?_=20181019220148" group-title="BEIN SPORTS",BEIN SPORTS 2 (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541204&extension=ts&play_token=J4RzsLFWgA
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/BeIN_Sports_3_2017_Square.png/revision/latest?cb=20251213113914" group-title="BEIN SPORTS",BEIN SPORTS 3 (vision+)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png?_=20181019220150" group-title="BEIN SPORTS",BEIN SPORTS 3 (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541203&extension=ts&play_token=J4RzsLFWgA
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg/revision/latest?cb=20200107204039" group-title="BEIN SPORTS",BEIN SPORTS 4 (vision+)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png?_=20181019220152" group-title="BEIN SPORTS",BEIN SPORTS 4 (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541202&extension=ts&play_token=J4RzsLFWgA
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BS5.svg/revision/latest?cb=20200107204133" group-title="BEIN SPORTS",BEIN SPORTS 5 (vision+)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png?_=20181019220152" group-title="BEIN SPORTS",BEIN SPORTS 5 (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541201&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA n (amagi.tv)
@@ -1087,7 +1087,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314083&
 #EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",HUB PREMIER 8 (light-ott)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&extension=ts&play_token=Suotild03T
 
-#EXTINF:-1 tvg-id="492903" group-title="HUB SPORTS",HUB PREMIER 1 (iill)
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="HUB SPORTS",HUB PREMIER 1 (iill)
 https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="HUB SPORTS",HUB PREMIER 2 (myxpanel)
@@ -1105,8 +1105,6 @@ http://tv.tuva.ru/machtv/index.m3u8
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="RUSSIAN SPORTS",Матч! (matchtv)
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="RUSSIAN SPORTS",Матч! (cdntv)
-http://cdntv.online/low/9mlxywika2/48.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="RUSSIAN SPORTS",Матч! (185.46.48.18)
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="RUSSIAN SPORTS",Матч! (5.188.221.43)
@@ -1114,42 +1112,23 @@ http://5.188.221.43:8080/play/match
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="RUSSIAN SPORTS",Матч! (95.47.155.244)
 http://95.47.155.244:8001/play/a003
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="RUSSIAN SPORTS",МАТЧ! ФУТБOЛ 1 (cdntv)
-http://cdntv.online/low/9mlxywika2/55.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="RUSSIAN SPORTS",МАТЧ! ФУТБOЛ 1(193.25.8.59)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/960px-MatchTV_Logo.svg.png" group-title="RUSSIAN SPORTS",МАТЧ! ФУТБOЛ 1(193.25.8.59)
 http://193.25.8.59:8000/fut
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="RUSSIAN SPORTS",МАТЧ! ФУТБOЛ 1 (188.191.160.238)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/960px-MatchTV_Logo.svg.png" group-title="RUSSIAN SPORTS",МАТЧ! ФУТБOЛ 1 (188.191.160.238)
 http://188.191.160.238:7780/udp/239.195.3.16:1234
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="RUSSIAN SPORTS",МАТЧ! ФУТБOЛ 2 (cdntv)
-http://cdntv.online/low/9mlxywika2/56.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="RUSSIAN SPORTS",МАТЧ! ФУТБOЛ 2(188.191.160)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/960px-MatchTV_Logo.svg.png" group-title="RUSSIAN SPORTS",МАТЧ! ФУТБOЛ 2(188.191.160)
 http://188.191.160.238:7780/udp/239.195.3.17:1234
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="RUSSIAN SPORTS",МАТЧ! ФУТБOЛ 3 (185.57.68.33)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/960px-MatchTV_Logo.svg.png" group-title="RUSSIAN SPORTS",МАТЧ! ФУТБOЛ 3 (185.57.68.33)
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="RUSSIAN SPORTS",Матч! Футбол 3 (185.57.68.33)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/960px-MatchTV_Logo.svg.png" group-title="RUSSIAN SPORTS",Матч! Футбол 3 (185.57.68.33)
 http://185.57.68.33:8091/110/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="RUSSIAN SPORTS",МАТЧ! ФУТБOЛ 3 (188.191.160.238)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/960px-MatchTV_Logo.svg.png" group-title="RUSSIAN SPORTS",МАТЧ! ФУТБOЛ 3 (188.191.160.238)
 http://188.191.160.238:7780/udp/239.195.3.18:1234
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Coat_of_Arms_of_the_Russian_Federation_2.svg/250px-Coat_of_Arms_of_the_Russian_Federation_2.svg.png" group-title="RUSSIAN SPORTS",ФУТБOЛ 1 (cdntv)
-http://cdntv.online/low/9mlxywika2/55.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Coat_of_Arms_of_the_Russian_Federation_2.svg/250px-Coat_of_Arms_of_the_Russian_Federation_2.svg.png" group-title="RUSSIAN SPORTS",ФУТБOЛ 2 (cdntv)
-http://cdntv.online/low/9mlxywika2/56.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Coat_of_Arms_of_the_Russian_Federation_2.svg/250px-Coat_of_Arms_of_the_Russian_Federation_2.svg.png" group-title="RUSSIAN SPORTS",ФУТБOЛ 3 (cdntv)
-http://cdntv.online/low/9mlxywika2/57.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="RUSSIAN SPORTS",MATY NPEMBEP (cdntv)
-http://cdntv.online/low/9mlxywika2/52.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="RUSSIAN SPORTS",CTAPT (cdntv)
-http://cdntv.online/low/9mlxywika2/58.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Zc70tGN/blrs5.png" group-title="RUSSIAN SPORTS",Беларусь 5 (cdntv)
-http://cdntv.online/low/9mlxywika2/778.m3u8
-#EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.ibb.co.com/Zc70tGN/blrs5.png" group-title="RUSSIAN SPORTS",Беларусь 5 (beltelecom)
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/960px-Belarus_5_logo.svg.png?_=20221112184354" group-title="RUSSIAN SPORTS",Беларусь 5 (beltelecom)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Zc70tGN/blrs5.png" group-title="RUSSIAN SPORTS",Беларусь 5 (beltelecom)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/960px-Belarus_5_logo.svg.png?_=20221112184354" group-title="RUSSIAN SPORTS",Беларусь 5 (beltelecom)
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Futbol.tj@SD" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="RUSSIAN SPORTS",Futbol (teleradiocom)
@@ -1160,12 +1139,8 @@ http://31.148.48.15/Futbol_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804042515" group-title="RUSSIAN SPORTS",SETANTA SPORT 1 (158.101.222.193)
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Setanta_Sports_2_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804053337" group-title="RUSSIAN SPORTS",SETANTA SPORT 2 (94.43.1.138)
 http://94.43.1.138:8081/setanta2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Setanta_Sports_2_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804053337" group-title="RUSSIAN SPORTS",SETANTA SPORT 2 (cdntv)
-http://cdntv.online/low/9mlxywika2/1022.m3u8
 
 #EXTINF:-1 group-title="RUSSIAN SPORTS" tvg-logo="https://static.tildacdn.com/tild3865-3933-4432-b538-303233663935/_-__-_.svg",Окко Спорт (online24)
 http://ua.online24.pm/play/7337/350B326FB34F4B8/video.m3u8
@@ -1225,17 +1200,17 @@ http://lunar.pm:8080/2055735047/PtuUrexwIC/122343
 #EXTINF:-1 group-title="ESPN SPORTS" tvg-logo="https://iili.io/qopagTu.png",ESPN 3 (lunar)
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122344
 
-#EXTINF:-1 tvg-id="447026" group-title="ESPN SPORTS",ESPN (fazoeli)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" group-title="ESPN SPORTS",ESPN (fazoeli)
 https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8
-#EXTINF:-1 tvg-id="447031" group-title="ESPN SPORTS",ESPN 2 (fazoeli)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png?_=20160127215859" group-title="ESPN SPORTS",ESPN 2 (fazoeli)
 https://canaiss.fazoeli.co.za/fontes/smart/espn2.m3u8
-#EXTINF:-1 tvg-id="523329" group-title="ESPN SPORTS",ESPN 3 (fazoeli)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/500px-ESPN3_logo.svg.png?_=20220919203215" group-title="ESPN SPORTS",ESPN 3 (fazoeli)
 https://canaiss.fazoeli.co.za/fontes/smart/espn3.m3u8
-#EXTINF:-1 tvg-id="523357" group-title="ESPN SPORTS",ESPN 4 (fazoeli)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png?_=20220126204156" group-title="ESPN SPORTS",ESPN 4 (fazoeli)
 https://canaiss.fazoeli.co.za/fontes/smart/espn4.m3u8
-#EXTINF:-1 tvg-id="418724" group-title="ESPN SPORTS",ESPN 5 (fazoeli)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png?_=20240213032017" group-title="ESPN SPORTS",ESPN 5 (fazoeli)
 https://canaiss.fazoeli.co.za/fontes/smart/espn5.m3u8
-#EXTINF:-1 tvg-id="417391" group-title="ESPN SPORTS",ESPN 6 (fazoeli)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png?_=20240213032350" group-title="ESPN SPORTS",ESPN 6 (fazoeli)
 https://canaiss.fazoeli.co.za/fontes/smart/espn6.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" group-title="ESPN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-deportes.png",ESPN DEPORTES (KSTV)
@@ -1273,9 +1248,9 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22003.m3u8
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22004.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png?_=20160127215859" group-title="ESPN SPORTS",ESPN 2 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
-#EXTINF:-1 tvg-id="ESPN 2" group-title="ESPN SPORTS" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn2.png",ESPN 2 (sinalprivado)
+#EXTINF:-1 tvg-id="ESPN 2" group-title="ESPN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png?_=20160127215859",ESPN 2 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22003.ts
-#EXTINF:-1 tvg-id="ESPN 3" group-title="ESPN SPORTS" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn3.png",ESPN 3 (sinalprivado)
+#EXTINF:-1 tvg-id="ESPN 3" group-title="ESPN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/500px-ESPN3_logo.svg.png?_=20220919203215",ESPN 3 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22006.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/500px-ESPN3_logo.svg.png?_=20220919203215" group-title="ESPN SPORTS",ESPN 3 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22007.ts
@@ -1285,7 +1260,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22006.m3u8
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22007.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/500px-ESPN3_logo.svg.png?_=20220919203215" group-title="ESPN SPORTS",ESPN 3 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22008.ts
-#EXTINF:-1 tvg-id="ESPN 4" group-title="ESPN SPORTS" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn4.png",ESPN 4 (sinalprivado)
+#EXTINF:-1 tvg-id="ESPN 4" group-title="ESPN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png?_=20220126204156",ESPN 4 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22009.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png?_=20220126204156" group-title="ESPN SPORTS",ESPN 4 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22010.ts
@@ -1303,7 +1278,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22012.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png?_=20240213032017" group-title="ESPN SPORTS",ESPN 5 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
-#EXTINF:-1 tvg-id="ESPN 6" group-title="ESPN SPORTS" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn6.png",ESPN 6 (sinalprivado)
+#EXTINF:-1 tvg-id="ESPN 6" group-title="ESPN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png?_=20240213032350",ESPN 6 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22015.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png?_=20240213032350" group-title="ESPN SPORTS",ESPN 6 (sinalprivado)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
@@ -1430,8 +1405,6 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=485855&extens
 
 
 
-
-
 #TNT SPORTS
 #
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMmydQdY/descarga-2.png" group-title="TNT SPORTS",TNT SPORTS PREMIUM (rey-premium)
@@ -1439,94 +1412,85 @@ http://rey-premium.ddns.net:80/DPVEduardoEspa/Espa020828/417206.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMmydQdY/descarga-2.png" group-title="TNT SPORTS",TNT SPORTS PREMIUM (rey-premium)
 http://rey-premium.ddns.net:80/DPVEduardoEspa/Espa020828/417204.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPTaIzOT5TNq7LGoE1rT1NhrLOfnwnWYSXJygex5OIQ&s=10" group-title="TNT SPORTS",TNT SPORTS 1 (iill)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/TNT_Sports_1_Stacked_White.svg/revision/latest?cb=20260225232928" group-title="TNT SPORTS",TNT SPORTS 1 (iill)
 https://hls.iill.top/api/TNT-Sports-1/index.m3u8
 
-#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://iili.io/qopndRp.png",TNT SPORTS PREMIUM (lunar)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://i.postimg.cc/wMmydQdY/descarga-2.png",TNT SPORTS PREMIUM (lunar)
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122394
-#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPTaIzOT5TNq7LGoE1rT1NhrLOfnwnWYSXJygex5OIQ&s=10",TNT SPORTS 1 (lunar)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/TNT_Sports_1_Stacked_White.svg/revision/latest?cb=20260225232928",TNT SPORTS 1 (lunar)
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/Cynthiab/Travel66/100775
-#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPTaIzOT5TNq7LGoE1rT1NhrLOfnwnWYSXJygex5OIQ&s=10",TNT SPORTS 2 (lunar)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/TNT_Sports_2_Stacked_White.svg/revision/latest?cb=20260225233958",TNT SPORTS 2 (lunar)
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/Cynthiab/Travel66/100776
-#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPTaIzOT5TNq7LGoE1rT1NhrLOfnwnWYSXJygex5OIQ&s=10",TNT SPORTS 3 (lunar)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/TNT_Sports_3_Stacked_White.svg/revision/latest?cb=20260225234923",TNT SPORTS 3 (lunar)
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/Cynthiab/Travel66/100777
-#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPTaIzOT5TNq7LGoE1rT1NhrLOfnwnWYSXJygex5OIQ&s=10",TNT SPORTS 4 (lunar)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TNT_Sports_4_Stacked_White.svg/revision/latest?cb=20260225235830",TNT SPORTS 4 (lunar)
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/Cynthiab/Travel66/100778
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png",TNT Sports 1 (kstv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/TNT_Sports_1_Stacked_White.svg/revision/latest?cb=20260225232928",TNT Sports 1 (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/47850
-#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png",TNT Sports 2 (kstv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/TNT_Sports_2_Stacked_White.svg/revision/latest?cb=20260225233958",TNT Sports 2 (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/47851
-#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png",TNT Sports 3 (kstv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/TNT_Sports_3_Stacked_White.svg/revision/latest?cb=20260225234923",TNT Sports 3 (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/47852
-#EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png",TNT Sports 4 (kstv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TNT_Sports_4_Stacked_White.svg/revision/latest?cb=20260225235830",TNT Sports 4 (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/47853
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png",TNT Sports 1 (greenslime)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/TNT_Sports_1_Stacked_White.svg/revision/latest?cb=20260225232928",TNT Sports 1 (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/16552.ts
-#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png",TNT Sports 1 (greenslime)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/TNT_Sports_1_Stacked_White.svg/revision/latest?cb=20260225232928",TNT Sports 1 (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/43128.ts
-#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png",TNT Sports 2 (greenslime)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/TNT_Sports_2_Stacked_White.svg/revision/latest?cb=20260225233958",TNT Sports 2 (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/16551.ts
-#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png",TNT Sports 2 (greenslime)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/TNT_Sports_2_Stacked_White.svg/revision/latest?cb=20260225233958",TNT Sports 2 (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/43126.ts
-#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png",TNT Sports 3 (greenslime)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/TNT_Sports_3_Stacked_White.svg/revision/latest?cb=20260225234923",TNT Sports 3 (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/16550.ts
-#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png",TNT Sports 3 (greenslime)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/TNT_Sports_3_Stacked_White.svg/revision/latest?cb=20260225234923",TNT Sports 3 (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/43124.ts
-#EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png",TNT Sports 4 (greenslime)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TNT_Sports_4_Stacked_White.svg/revision/latest?cb=20260225235830",TNT Sports 4 (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/16549.ts
-#EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png",TNT Sports 4 (greenslime)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TNT_Sports_4_Stacked_White.svg/revision/latest?cb=20260225235830",TNT Sports 4 (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57420.ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png",TNT Sports 1 (realiptv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/TNT_Sports_1_Stacked_White.svg/revision/latest?cb=20260225232928",TNT Sports 1 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2337
-#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png",TNT Sports 2 (realiptv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/TNT_Sports_2_Stacked_White.svg/revision/latest?cb=20260225233958",TNT Sports 2 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2336
-#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png",TNT Sports 3 (realiptv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/TNT_Sports_3_Stacked_White.svg/revision/latest?cb=20260225234923",TNT Sports 3 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2335
-#EXTINF:-1  tvg-id="TNT.Sports.4.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png",TNT Sports 4 (realiptv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TNT_Sports_4_Stacked_White.svg/revision/latest?cb=20260225235830",TNT Sports 4 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/675021
 
-#EXTINF:-1 tvg-logo="" group-title="TNT SPORTS",TNT SPORTS 1 (dragon1977)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/TNT_Sports_1_Stacked_White.svg/revision/latest?cb=20260225232928" group-title="TNT SPORTS",TNT SPORTS 1 (dragon1977)
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/578001
-#EXTINF:-1 tvg-logo="" group-title="TNT SPORTS",TNT SPORTS 2 (dragon1977)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/TNT_Sports_2_Stacked_White.svg/revision/latest?cb=20260225233958" group-title="TNT SPORTS",TNT SPORTS 2 (dragon1977)
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/578000
-#EXTINF:-1 tvg-logo="" group-title="TNT SPORTS",TNT SPORTS 3 (dragon1977)
+#EXTINF:-1 tvg-logo=https://static.wikia.nocookie.net/logopedia/images/6/64/TNT_Sports_3_Stacked_White.svg/revision/latest?cb=20260225234923"" group-title="TNT SPORTS",TNT SPORTS 3 (dragon1977)
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/577999
-#EXTINF:-1 tvg-logo="" group-title="TNT SPORTS",TNT SPORTS 4 (dragon1977)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TNT_Sports_4_Stacked_White.svg/revision/latest?cb=20260225235830" group-title="TNT SPORTS",TNT SPORTS 4 (dragon1977)
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/577998
-#EXTINF:-1 tvg-logo="" group-title="TNT SPORTS",TNT SPORTS 5 (dragon1977)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="TNT SPORTS",TNT SPORTS 5 (dragon1977)
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/577997
 
-#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://sonic.shliv.fun/crchd/assets/tvlogos/TNTSports1.jpg" group-title="TNT SPORTS",TNT SPORTS 1 (antsports)
-https://v.antsports.tv/live/3/index.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://sonic.shliv.fun/crchd/assets/tvlogos/TNTSports2.jpg" group-title="TNT SPORTS",TNT SPORTS 2 (antsports)
-https://v.antsports.tv/live/4/index.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://sonic.shliv.fun/crchd/assets/tvlogos/TNTSports3.jpg" group-title="TNT SPORTS",TNT SPORTS 3 (antsports)
-https://v.antsports.tv/live/5/index.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://sonic.shliv.fun/crchd/assets/tvlogos/TNTSports4.jpg" group-title="TNT SPORTS",TNT SPORTS 4 (antsports)
-https://v.antsports.tv/live/6/index.m3u8
-
-#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png",TNT SPORTS 1 (kstv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/TNT_Sports_1_Stacked_White.svg/revision/latest?cb=20260225232928",TNT SPORTS 1 (kstv)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47850
-#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png",TNT SPORTS 1 (kstv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/TNT_Sports_1_Stacked_White.svg/revision/latest?cb=20260225232928",TNT SPORTS 1 (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/47850
-#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png",TNT SPORTS 2 (kstv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/TNT_Sports_2_Stacked_White.svg/revision/latest?cb=20260225233958",TNT SPORTS 2 (kstv)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47851
-#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png",TNT SPORTS 2 (kstv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/TNT_Sports_2_Stacked_White.svg/revision/latest?cb=20260225233958",TNT SPORTS 2 (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/47851
-#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png",TNT SPORTS 3 (kstv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/TNT_Sports_3_Stacked_White.svg/revision/latest?cb=20260225234923",TNT SPORTS 3 (kstv)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47852
-#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png",TNT SPORTS 3 (kstv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/TNT_Sports_3_Stacked_White.svg/revision/latest?cb=20260225234923",TNT SPORTS 3 (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/47852
-#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png",TNT SPORTS 4 (kstv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TNT_Sports_4_Stacked_White.svg/revision/latest?cb=20260225235830",TNT SPORTS 4 (kstv)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47853
-#EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png",TNT SPORTS 4 (kstv)
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TNT_Sports_4_Stacked_White.svg/revision/latest?cb=20260225235830",TNT SPORTS 4 (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/47853
 
 
@@ -1535,9 +1499,6 @@ http://kstv.us:8080/Freshcobar23/83261331891/47853
 
 #SPORT TV
 #
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png" group-title="SPORT TV",SPORT TV (canal-pro)
-http://canal-pro.xyz:8080/978280496tv3/951r8ui/27203
-
 #EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg" group-title="SPORT TV",SPORT TV+ (kstv)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48501
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png",SPORT TV 1 (kstv)
@@ -1593,43 +1554,43 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/839
 
 #ZIGGO SPORT
 #
-#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-nl-logo.png",ZIGGO SPORT (cdn)
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Ziggo_Sport_2026_S.svg/revision/latest?cb=20260115185932",ZIGGO SPORT (cdn)
 http://cdn.tv-rds.workers.dev/ZiggoSport.m3u8
-#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-2-nl-logo.png",ZIGGO SPORT 2 (cdn)
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Ziggo_Sport_2_2026_S.svg/revision/latest?cb=20260115191131",ZIGGO SPORT 2 (cdn)
 http://cdn.tv-rds.workers.dev/ZiggoSport2.m3u8
-#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-3-nl-logo.png",ZIGGO SPORT 3 (cdn)
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Ziggo_Sport_3_2026_S.svg/revision/latest?cb=20260115191303",ZIGGO SPORT 3 (cdn)
 http://cdn.tv-rds.workers.dev/ZiggoSport3.m3u8
-#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-4-nl-logo.png",ZIGGO SPORT 4 (cdn)
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Ziggo_Sport_4_2026_S.svg/revision/latest?cb=20260115191517",ZIGGO SPORT 4 (cdn)
 http://cdn.tv-rds.workers.dev/ZiggoSport4.m3u8
-#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-5-nl-logo.png",ZIGGO SPORT 5 (cdn)
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Ziggo_Sport_5_2026_S.svg/revision/latest?cb=20260115191738",ZIGGO SPORT 5 (cdn)
 http://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8
-#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png",ZIGGO SPORT 6 (cdn)
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Ziggo_Sport_6_2026_S.svg/revision/latest?cb=20260115191759",ZIGGO SPORT 6 (cdn)
 http://cdn.tv-rds.workers.dev/ZiggoSport6.m3u8
 
-#EXTINF:-1 group-title="ZIGGO SPORT",ZIGGO SPORT (catchmeifyo)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ziggo-sport-nl-logo.png" group-title="ZIGGO SPORT",ZIGGO SPORT (catchmeifyo)
 http://lemon.catchmeifyo.com:8000/9301834947/1675514161/16307
-#EXTINF:-1 group-title="ZIGGO SPORT",ZIGGO SPORT 2 (catchmeifyo)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ziggo-sport-2-nl-logo.png" group-title="ZIGGO SPORT",ZIGGO SPORT 2 (catchmeifyo)
 http://lemon.catchmeifyo.com:8000/9301834947/1675514161/16335
-#EXTINF:-1 group-title="ZIGGO SPORT",ZIGGO SPORT 3 (catchmeifyo)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ziggo-sport-3-nl-logo.png" group-title="ZIGGO SPORT",ZIGGO SPORT 3 (catchmeifyo)
 http://lemon.catchmeifyo.com:8000/9301834947/1675514161/16336
-#EXTINF:-1 group-title="ZIGGO SPORT",ZIGGO SPORT 4 (catchmeifyo)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ziggo-sport-4-nl-logo.png" group-title="ZIGGO SPORT",ZIGGO SPORT 4 (catchmeifyo)
 http://lemon.catchmeifyo.com:8000/9301834947/1675514161/16333
-#EXTINF:-1 group-title="ZIGGO SPORT",ZIGGO SPORT 5 (catchmeifyo)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ziggo-sport-5-nl-logo.png" group-title="ZIGGO SPORT",ZIGGO SPORT 5 (catchmeifyo)
 http://lemon.catchmeifyo.com:8000/9301834947/1675514161/16276
-#EXTINF:-1 group-title="ZIGGO SPORT",ZIGGO SPORT 6 (catchmeifyo)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png" group-title="ZIGGO SPORT",ZIGGO SPORT 6 (catchmeifyo)
 http://lemon.catchmeifyo.com:8000/9301834947/1675514161/16277
 
-#EXTINF:-1 group-title="ZIGGO SPORT",ZIGGO SPORT (vipnorseman)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ziggo-sport-nl-logo.png" group-title="ZIGGO SPORT",ZIGGO SPORT (vipnorseman)
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128986
-#EXTINF:-1 group-title="ZIGGO SPORT",ZIGGO SPORT 2 (vipnorseman)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ziggo-sport-2-nl-logo.png" group-title="ZIGGO SPORT",ZIGGO SPORT 2 (vipnorseman)
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128987
-#EXTINF:-1 group-title="ZIGGO SPORT",ZIGGO SPORT 3 (vipnorseman)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ziggo-sport-3-nl-logo.png" group-title="ZIGGO SPORT",ZIGGO SPORT 3 (vipnorseman)
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128988
-#EXTINF:-1 group-title="ZIGGO SPORT",ZIGGO SPORT 4 (vipnorseman)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ziggo-sport-4-nl-logo.png" group-title="ZIGGO SPORT",ZIGGO SPORT 4 (vipnorseman)
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128994
-#EXTINF:-1 group-title="ZIGGO SPORT",ZIGGO SPORT 5 (vipnorseman)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ziggo-sport-5-nl-logo.png" group-title="ZIGGO SPORT",ZIGGO SPORT 5 (vipnorseman)
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128995
-#EXTINF:-1 group-title="ZIGGO SPORT",ZIGGO SPORT 6 (vipnorseman)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png" group-title="ZIGGO SPORT",ZIGGO SPORT 6 (vipnorseman)
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128996
 
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="ZIGGO SPORT",ZIGGO SPORT (xemzi)
@@ -1641,17 +1602,17 @@ https://xemzi.short.gy/140003
 #EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-logo="http://spott4k.online:8080/images/logopedia/NL_ZIGGO_SPORT_4_302083.png" group-title="ZIGGO SPORT",ZIGGO SPORT 4 (xemzi)
 https://xemzi.short.gy/140004
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ziggo_Sport.svg/960px-Ziggo_Sport.svg.png?_=20250204051411" group-title="ZIGGO SPORT",ZIGGO SPORT 1 (assarao4k)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Ziggo_Sport_2026_S.svg/revision/latest?cb=20260115185932" group-title="ZIGGO SPORT",ZIGGO SPORT 1 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537597&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ziggo_Sport.svg/960px-Ziggo_Sport.svg.png?_=20250204051411" group-title="ZIGGO SPORT",ZIGGO SPORT 2 (assarao4k)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Ziggo_Sport_2_2026_S.svg/revision/latest?cb=20260115191131" group-title="ZIGGO SPORT",ZIGGO SPORT 2 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537596&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ziggo_Sport.svg/960px-Ziggo_Sport.svg.png?_=20250204051411" group-title="ZIGGO SPORT",ZIGGO SPORT 3 (assarao4k)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Ziggo_Sport_3_2026_S.svg/revision/latest?cb=20260115191303" group-title="ZIGGO SPORT",ZIGGO SPORT 3 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537595&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ziggo_Sport.svg/960px-Ziggo_Sport.svg.png?_=20250204051411" group-title="ZIGGO SPORT",ZIGGO SPORT 4 (assarao4k)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Ziggo_Sport_4_2026_S.svg/revision/latest?cb=20260115191517" group-title="ZIGGO SPORT",ZIGGO SPORT 4 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537594&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ziggo_Sport.svg/960px-Ziggo_Sport.svg.png?_=20250204051411" group-title="ZIGGO SPORT",ZIGGO SPORT 5 (assarao4k)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Ziggo_Sport_5_2026_S.svg/revision/latest?cb=20260115191738" group-title="ZIGGO SPORT",ZIGGO SPORT 5 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537593&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png" group-title="ZIGGO SPORT",ZIGGO SPORT 6 (assarao4k)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Ziggo_Sport_6_2026_S.svg/revision/latest?cb=20260115191759" group-title="ZIGGO SPORT",ZIGGO SPORT 6 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537592&extension=ts
 
 
