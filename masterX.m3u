@@ -79,9 +79,9 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/MDTV.svg/revision/latest?cb=20250226154803" group-title="INDO NASIONAL",MDTV (wahyu1ptv)
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="INDO NASIONAL",RCTI (eagle-4k)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gfjc6q1605825509.png" group-title="INDO NASIONAL",RCTI (eagle-4k)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="INDO NASIONAL",RCTI (e-cdn)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gfjc6q1605825509.png" group-title="INDO NASIONAL",RCTI (e-cdn)
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1165918
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="INDO NASIONAL",SCTV (dens)
@@ -968,17 +968,17 @@ https://brat-samsung-us.amagi.tv/playlist.m3u8
 
 #BEIN SPORTS
 #
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/BeIN_Sports_2014_flat.svg/revision/latest?cb=20250510235455" group-title="BEIN SPORTS",BEIN SPORTS (fastream)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png?_=20240407181723" group-title="BEIN SPORTS",BEIN SPORTS (fastream)
 http://fastream.xyz:8080/977605802tv/2k0mdjk34/33360
 
-#EXTINF:-1 tvg-url="https://static.wikia.nocookie.net/logopedia/images/4/4d/BeIN_Sports_2014_flat.svg/revision/latest?cb=20250510235455" group-title="BEIN SPORTS",BEIN SPORTS (23.237.104.106)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png?_=20240407181723" group-title="BEIN SPORTS",BEIN SPORTS (23.237.104.106)
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="beIN Sports 2 Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903" group-title="BEIN SPORTS",BEIN SPORTS 2 (livedoomovies)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8?_t=1773179685053
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/BeIN_Sports_2014_flat.svg/revision/latest?cb=20250510235455" group-title="BEIN SPORTS",BEIN SPORTS (kstv)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png?_=20240407181723" group-title="BEIN SPORTS",BEIN SPORTS (kstv)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/15922
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (kstv)
 http://kstv.us:8080/Freshcobar23/83261331891/12554
@@ -1114,10 +1114,9 @@ http://185.57.68.33:8091/110/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/69eju21628519874.png" group-title="RUSSIAN SPORTS",МАТЧ! ФУТБOЛ 3 (188.191.160.238)
 http://188.191.160.238:7780/udp/239.195.3.18:1234
 
-#EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/960px-Belarus_5_logo.svg.png?_=20221112184354" group-title="RUSSIAN SPORTS",Беларусь 5 (beltelecom)
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png" group-title="RUSSIAN SPORTS",Беларусь 5 (beltelecom)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/960px-Belarus_5_logo.svg.png?_=20221112184354" group-title="RUSSIAN SPORTS",Беларусь 5 (beltelecom)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png" group-title="RUSSIAN SPORTS",Беларусь 5 (beltelecom)
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Futbol.tj@SD" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="RUSSIAN SPORTS",Futbol (teleradiocom)
@@ -1662,7 +1661,7 @@ http://77.137.40.221:8000/play/a019
 http://77.137.40.221:8000/play/a01a
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png" group-title="SPORTS 0",YES SPORT 5 (77.137.40.221)
 http://77.137.40.221:8000/play/a00i
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vrqrqx1446172472.png" group-title="SPORTS 0",YES SPORT 5 PLUS (77.137.40.221)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png" group-title="SPORTS 0",YES SPORT 5+ (77.137.40.221)
 http://77.137.40.221:8000/play/a001
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/27uvm51627494269.png" group-title="SPORTS 0",YES SPORT 2 (185.132.134.159)
 http://185.132.134.159:80/sport2/index.m3u8
@@ -1818,32 +1817,32 @@ http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Arena_Sport_2_SK_2024.svg/revision/latest?cb=20250325134935" group-title="SPORTS 0", ARENA SPORT 2 (88.212.15.19)
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="392303" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/Arena-Sport-1-logo.png",ARENA SPORT 1 (cdn)
+#EXTINF:-1 tvg-id="392303" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hd6nx11643205736.png",ARENA SPORT 1 (cdn)
 http://cdn.tv-rds.workers.dev/ArenaSport1HR.m3u8
-#EXTINF:-1 tvg-id="392305" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/Arena-Sport-2-logo.png",ARENA SPORT 2 (cdn)
+#EXTINF:-1 tvg-id="392305" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/do4eok1643205747.png",ARENA SPORT 2 (cdn)
 http://cdn.tv-rds.workers.dev/ArenaSport2HR.m3u8
-#EXTINF:-1 tvg-id="392317" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ArenaSport-logo-3.png",ARENA SPORT 3 (cdn)
+#EXTINF:-1 tvg-id="392317" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/nnqoda1643205755.png",ARENA SPORT 3 (cdn)
 http://cdn.tv-rds.workers.dev/ArenaSport3HR.m3u8
-#EXTINF:-1 tvg-id="392311" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ArenaSport-logo-4.png",ARENA SPORT 4 (cdn)
+#EXTINF:-1 tvg-id="392311" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6oo0y71643205763.png",ARENA SPORT 4 (cdn)
 http://cdn.tv-rds.workers.dev/ArenaSport4HR.m3u8
-#EXTINF:-1 tvg-id="392298" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ArenaSport-5-logo.png",ARENA SPORT 5 (cdn)
+#EXTINF:-1 tvg-id="392298" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png",ARENA SPORT 5 (cdn)
 http://cdn.tv-rds.workers.dev/ArenaSport5HR.m3u8
-#EXTINF:-1 tvg-id="403427" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ArenaSport-6-logo.png",ARENA SPORT 6 (cdn)
+#EXTINF:-1 tvg-id="403427" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3htl2t1643205783.png",ARENA SPORT 6 (cdn)
 http://cdn.tv-rds.workers.dev/ArenaSport6HR.m3u8
-#EXTINF:-1 tvg-id="410641" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ArenaSport-7-logo.png",ARENA SPORT 7 (cdn)
+#EXTINF:-1 tvg-id="410641" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/jec0d31643205801.png",ARENA SPORT 7 (cdn)
 http://cdn.tv-rds.workers.dev/ArenaSport7HR.m3u8
-#EXTINF:-1 tvg-id="410632" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ArenaSport-8-logo.png",ARENA SPORT 8 (cdn)
+#EXTINF:-1 tvg-id="410632" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3ch2k51643205817.png",ARENA SPORT 8 (cdn)
 http://cdn.tv-rds.workers.dev/ArenaSport8HR.m3u8
 
-#EXTINF:-1 tvg-id="381850" group-title="SPORTS 0" tvg-logo="https://i.pinimg.com/236x/a9/66/16/a96616c81d4cba4dd1e73c65a24ba77d.jpg",ARENA SPORT 1 (feniks)
+#EXTINF:-1 tvg-id="381850" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k2rhxu1658777393.png",ARENA SPORT 1 (feniks)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
-#EXTINF:-1 tvg-id="381848" group-title="SPORTS 0" tvg-logo="https://i.pinimg.com/236x/87/e8/43/87e84386035aa3112e506fb9e9175071.jpg",ARENA SPORT 2 (feniks)
+#EXTINF:-1 tvg-id="381848" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwrvaj1658777420.png",ARENA SPORT 2 (feniks)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20478
-#EXTINF:-1 tvg-id="381849" group-title="SPORTS 0" tvg-logo="https://i.pinimg.com/236x/c9/61/3a/c9613a85c849ca7626f0907e54bf82cc.jpg",ARENA SPORT 3 (feniks)
+#EXTINF:-1 tvg-id="381849" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/shwfns1658777451.png",ARENA SPORT 3 (feniks)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
-#EXTINF:-1 tvg-id="381853" group-title="SPORTS 0" tvg-logo="https://i.pinimg.com/236x/77/8c/2e/778c2e668f2c6f8345fbf96ef02adb90.jpg",ARENA SPORT 4 (feniks)
+#EXTINF:-1 tvg-id="381853" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qjjhxf1658777468.png",ARENA SPORT 4 (feniks)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
-#EXTINF:-1 tvg-id="381854" group-title="SPORTS 0" tvg-logo="https://i.pinimg.com/236x/5e/6f/86/5e6f86c463c84f9b1aa868ef60ed5e0f.jpg",ARENA SPORT 5 (feniks)
+#EXTINF:-1 tvg-id="381854" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png",ARENA SPORT 5 (feniks)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1181
 
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eurosport_1_Logo_2015.png/960px-Eurosport_1_Logo_2015.png",EUROSPORT 1 (KSTV)
@@ -1883,9 +1882,9 @@ http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262764
 #EXTINF:-1 tvg-id="SuperSport.6.al" tvg-name="Super Sport 6 AL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-6-al.png?raw=true" group-title="SPORTS 0",Super Sport 6 (fit)
 http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262765
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgjJ63Lx/Dise-o-sin-t-tulo-2.png" group-title="SPORTS 0",WIN SPORTS (rey-premium)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/nwk0dl1629234945.png" group-title="SPORTS 0",WIN SPORTS (rey-premium)
 http://rey-premium.ddns.net:80/DPVEduardoEspa/Espa020828/13767.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" group-title="SPORTS 0",WIN SPORTS+ (rey-premium)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sf3mjg1623871165.png" group-title="SPORTS 0",WIN SPORTS+ (rey-premium)
 http://rey-premium.ddns.net:80/DPVEduardoEspa/Espa020828/13769.ts
 
 #EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-logo="https://www.alkass.net/assets/images/logo.png" group-title="SPORTS 0",ALKASS DIGITAL 1 (alkassdigital)
@@ -2266,7 +2265,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=78845&uid=15301&deviceMac=00:1A:79:1D
 http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=15301&deviceMac=00:1A:79:1D:53:3F
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica |  TIGO SPORT COSTA RICA SD" tvg-logo="https://i.imgur.com/eMZXWmD.png" group-title="SPORTS X",TIGO SPORT (rey-premium)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ioy32l1623579346.png" group-title="SPORTS X",TIGO SPORT (rey-premium)
 http://rey-premium.ddns.net:80/DPVEduardoEspa/Espa020828/14877.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="SPORTS X", DIRECTV SPORTS (rey-premium)
