@@ -103,106 +103,106 @@ https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NASIONAL (cloudns)
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 
-#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVRI_World_Old_Logo.png/revision/latest?cb=20220222084819" group-title="INDO NASIONAL",TVRI WORLD (tvri)
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI WORLD (tvri)
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVRI_World_Old_Logo.png/revision/latest?cb=20220222084819" group-title="INDO NASIONAL",TVRI WORLD (cloudns)
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI WORLD (cloudns)
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 
-#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TVRI_Sport_2022.svg/revision/latest?cb=20260127084259" group-title="INDO NASIONAL",TVRI SPORT (tvri)
+#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SPORT (tvri)
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TVRI_Sport_2022.svg/revision/latest?cb=20260127084259" group-title="INDO NASIONAL",TVRI SPORT (dens)
+#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SPORT (dens)
 https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
-#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TVRI_Sport_2022.svg/revision/latest?cb=20260127084259" group-title="INDO NASIONAL",TVRI SPORT (github)
+#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SPORT (github)
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/TVRISport.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TVRI_Aceh.png/960px-TVRI_Aceh.png?_=20220323045933" group-title="INDO NASIONAL",TVRI ACEH (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI ACEH (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/TVRI_Bali.png/960px-TVRI_Bali.png?_=20220323045947" group-title="INDO NASIONAL", TVRI BALI (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL", TVRI BALI (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TVRI_Bangka_Belitung.png/960px-TVRI_Bangka_Belitung.png?_=20220323045940" group-title="INDO NASIONAL",TVRI BABEL (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI BABEL (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TVRI_Bengkulu.png/960px-TVRI_Bengkulu.png?_=20220323045940" group-title="INDO NASIONAL",TVRI BENGKULU (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI BENGKULU (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TVRI_Gorontalo.png/960px-TVRI_Gorontalo.png?_=20220323045956" group-title="INDO NASIONAL",TVRI GORONTALO (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI GORONTALO (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/TVRI_Jakarta.png/960px-TVRI_Jakarta.png?_=20220323045944" group-title="INDO NASIONAL",TVRI JAKARTA (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI JAKARTA (tvri)
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TVRI_Jambi.png/960px-TVRI_Jambi.png?_=20220323045937" group-title="INDO NASIONAL",TVRI JAMBI (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI JAMBI (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TVRI_Jawa_Barat.png/960px-TVRI_Jawa_Barat.png?_=20220323045944" group-title="INDO NASIONAL",TVRI JABAR (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI JABAR (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/TVRI_Jawa_Tengah.png/960px-TVRI_Jawa_Tengah.png?_=20220323045943" group-title="INDO NASIONAL",TVRI JATENG (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI JATENG (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/TVRI_Jawa_Timur.png/960px-TVRI_Jawa_Timur.png?_=20220323045947" group-title="INDO NASIONAL",TVRI JATIM (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI JATIM (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TVRI_Kalimantan_Barat.png/960px-TVRI_Kalimantan_Barat.png?_=20220323045950" group-title="INDO NASIONAL",TVRI KALBAR (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI KALBAR (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/TVRI_Kalimantan_Selatan.png/960px-TVRI_Kalimantan_Selatan.png?_=20220323045953" group-title="INDO NASIONAL",TVRI KALSEL (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI KALSEL (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/TVRI_Kalimantan_Tengah.png/960px-TVRI_Kalimantan_Tengah.png?_=20220323045953" group-title="INDO NASIONAL",TVRI KALTENG (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI KALTENG (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TVRI_Kalimantan_Timur.png/960px-TVRI_Kalimantan_Timur.png?_=20220323045953" group-title="INDO NASIONAL",TVRI KALTIM (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI KALTIM (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/TVRI_Lampung.png/960px-TVRI_Lampung.png?_=20220323045940" group-title="INDO NASIONAL",TVRI LAMPUNG (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI LAMPUNG (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TVRI_Maluku.png/960px-TVRI_Maluku.png?_=20220323050003" group-title="INDO NASIONAL",TVRI MALUKU (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI MALUKU (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TVRI_Sulawesi_Utara.png/960px-TVRI_Sulawesi_Utara.png?_=20220323045956" group-title="INDO NASIONAL",TVRI SULUT (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SULUT (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVRI_Sumatera_Barat.png/960px-TVRI_Sumatera_Barat.png?_=20220323045933" group-title="INDO NASIONAL",TVRI SUMUT (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SUMUT (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/TVRI_Nusa_Tenggara_Barat.png/960px-TVRI_Nusa_Tenggara_Barat.png?_=20220323045950" group-title="INDO NASIONAL",TVRI NTB (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NTB (tvri)
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/TVRI_Nusa_Tenggara_Timur.png/960px-TVRI_Nusa_Tenggara_Timur.png?_=20220323045950" group-title="INDO NASIONAL",TVRI NTT (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NTT (tvri)
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/6/65/TVRI_Papua.png/960px-TVRI_Papua.png?_=20220323050003" group-title="INDO NASIONAL",TVRI PAPUA (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI PAPUA (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TVRI_Papua_Barat.png/960px-TVRI_Papua_Barat.png?_=20220323050004" group-title="INDO NASIONAL",TVRI PABAR (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI PABAR (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TVRI_Riau.png/960px-TVRI_Riau.png?_=20220323045937" group-title="INDO NASIONAL",TVRI RIAU (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI RIAU (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVRI_Sulawesi_Barat.png?_=20220323050000" group-title="INDO NASIONAL",TVRI SULBAR (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SULBAR (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TVRI_Sulawesi_Selatan.png/960px-TVRI_Sulawesi_Selatan.png?_=20220323050000" group-title="INDO NASIONAL",TVRI SULSEL (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SULSEL (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRI_Sulawesi_Tengah.png/960px-TVRI_Sulawesi_Tengah.png?_=20220323045957" group-title="INDO NASIONAL",TVRI SULTENG (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SULTENG (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TVRI_Sulawesi_Utara.png/960px-TVRI_Sulawesi_Utara.png?_=20220323045956" group-title="INDO NASIONAL",TVRI SULTRA (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SULTRA (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVRI_Sumatera_Barat.png/960px-TVRI_Sumatera_Barat.png?_=20220323045933" group-title="INDO NASIONAL",TVRI SUMBAR (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SUMBAR (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/TVRI_Sumatera_Selatan.png/960px-TVRI_Sumatera_Selatan.png?_=20220323045937" group-title="INDO NASIONAL",TVRI SUMSEL (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SUMSEL (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/TVRI_Yogyakarta.png/960px-TVRI_Yogyakarta.png?_=20220323045947" group-title="INDO NASIONAL",TVRI YOGYAKARTA (tvri)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI YOGYAKARTA (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
@@ -328,7 +328,7 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="INDO LOKAL",RADAR TV (siar)
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://youtv.id/data/channel/rinjanitv_20241031090044.png" group-title="INDO LOKAL",RINJANI TV (rinjanitv)
+#EXTINF:0 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQUgpMPCfBeGra2nwIJ2k_lqzyfVKpZCXNTQ&s" group-title="INDO LOKAL",RINJANI TV (rinjanitv)
 https://rinjanitv.cloud/hls/tvkabel.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="INDO LOKAL",SALIRA TV (salira)
@@ -502,9 +502,6 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/120px-WION_news_Logo.svg.png" group-title="WORLD NEWS",WION (cloudfront)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
-#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png" group-logo="" group-title="WORLD NEWS"",TV2 MY(githubusercontent)
-https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
 
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/ABC_News_-_Logo_1978-1999.svg/revision/latest?cb=20170504120624" group-title="WORLD NEWS",ABC NEWS (abc)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
@@ -860,7 +857,7 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-logo="https://i.imgur.com/1ENdbZn.png" group-title="MOVIES & SHOWS",Mix Hollywood (myco.io)
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="Comet.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="MOVIES & SHOWS",Comet (fast-channels)
+#EXTINF:-1 tvg-id="Comet.us@SD" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/8/86/Comet_TV_2015.png/revision/latest?cb=20200815230941" group-title="MOVIES & SHOWS",Comet (fast-channels)
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
 #EXTINF:-1 channel-id="be3c81de355c56f89cbf99301735cfd2" tvg-id="be3c81de355c56f89cbf99301735cfd2" tvg-chno="275" tvg-name="My Time Movie Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/be3c81de355c56f89cbf99301735cfd2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1654727499791_MyTime_Roku_ChannelLogos_260x147.png" group-title="MOVIES & SHOWS",MyTime Movie Network (jmp2.uk)
@@ -974,9 +971,8 @@ http://fastream.xyz:8080/977605802tv/2k0mdjk34/33360
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png?_=20240407181723" group-title="BEIN SPORTS",BEIN SPORTS (23.237.104.106)
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="beIN Sports 2 Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903" group-title="BEIN SPORTS",BEIN SPORTS 2 (livedoomovies)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8?_t=1773179685053
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png?_=20240407181723" group-title="BEIN SPORTS",BEIN SPORTS (bouygues-cdn)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/239672.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png?_=20240407181723" group-title="BEIN SPORTS",BEIN SPORTS (kstv)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/15922
@@ -1017,6 +1013,10 @@ https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="beIN Sports 3 Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110" group-title="BEIN SPORTS",BEIN SPORTS 3 (9xrie8ecms)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="beIN Sports 2 Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903" group-title="BEIN SPORTS",BEIN SPORTS 2 (livedoomovies)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8?_t=1773179685053
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA n (amagi.tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1153,10 +1153,10 @@ http://ua.online24.pm/play/7337/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 channel-id="647f07e74cfc2c0008a2e557" tvg-id="647f07e74cfc2c0008a2e557" tvg-chno="708" tvg-name="DAZN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Daznchannellogo.png?_=20210827121139" group-title="DAZN SPORTS",DAZN TV (jmp2.uk)
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 
-#EXTINF:-1 channel-id="b6a492b04d7d534fa0e9e69380382d02" tvg-id="b6a492b04d7d534fa0e9e69380382d02" tvg-chno="242" tvg-name="DAZN Ringside" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Daznchannellogo.png?_=20210827121139" group-title="DAZN SPORTS",DAZN RINGSIDE (jmp2.uk)
+#EXTINF:-1 channel-id="b6a492b04d7d534fa0e9e69380382d02" tvg-id="b6a492b04d7d534fa0e9e69380382d02" tvg-chno="242" tvg-name="DAZN Ringside" tvg-logo="https://d2epwduv7bstma.cloudfront.net/Dazn_Ringside/LG/DAZN_RINGSIDE_WHITE_800x264_TV.png" group-title="DAZN SPORTS",DAZN RINGSIDE (jmp2.uk)
 https://jmp2.uk/rok-b6a492b04d7d534fa0e9e69380382d02.m3u8
 
-#EXTINF:-1 tvg-id="DAZN COMBAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Daznchannellogo.png?_=20210827121139" group-title="DAZN SPORTS",DAZN COMBAT (amagi.tv)
+#EXTINF:-1 tvg-id="DAZN COMBAT" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="DAZN SPORTS",DAZN COMBAT (amagi.tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
 https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
 
@@ -1189,6 +1189,19 @@ http://cdn.tv-rds.workers.dev/DAZN2DE.m3u8
 
 #ESPN SPORTS
 #
+#EXTINF:-1 tvg-id="ESPN" group-title="ESPN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927",ESPN 1 (dnsrot)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73051.ts
+#EXTINF:-1 tvg-id="ESPN 2" group-title="ESPN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png?_=20160127215859",ESPN 2 (dnsrot)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36977.ts
+#EXTINF:-1 tvg-id="ESPN 3" group-title="ESPN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/500px-ESPN3_logo.svg.png?_=20220919203215",ESPN 3 (dnsrot)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36976.ts
+#EXTINF:-1 tvg-id="ESPN 4" group-title="ESPN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png?_=20220126204156",ESPN 4 (dnsrot)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85336.ts
+#EXTINF:-1 tvg-id="ESPN 5" group-title="ESPN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png?_=20240213032017",ESPN 5 (dnsrot)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36971.ts
+#EXTINF:-1 tvg-id="ESPN 6" group-title="ESPN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png?_=20240213032350",ESPN 6 (dnsrot)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/129623.ts
+
 #EXTINF:-1 group-title="ESPN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",ESPN PREMIUM (lunar) 
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122345
 #EXTINF:-1 group-title="ESPN SPORTS" tvg-logo="https://iili.io/qopzTeR.png",ESPN 1 (lunar)
@@ -1587,17 +1600,17 @@ http://169.150.223.25/ArtSport4/index.m3u8
 http://169.150.223.25/ArtSport5/index.m3u8
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-6-logo.png" group-title="SPORTS 0",ART SPORT 6 (169.150.223)
 http://169.150.223.25/ArtSport6/index.m3u8
-#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-1-logo.png" group-title="SPORTS 0",ART SPORT 1 (79.127.207)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-1-logo.png" group-title="SPORTS 0",ART SPORT 1 (79.127.207.193)
 http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-2-logo.png" group-title="SPORTS 0",ART SPORT 2 (79.127.207)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-2-logo.png" group-title="SPORTS 0",ART SPORT 2 (79.127.207.193)
 http://79.127.207.193:80/ArtSport2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-3-logo.png" group-title="SPORTS 0",ART SPORT 3 (79.127.207)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-3-logo.png" group-title="SPORTS 0",ART SPORT 3 (79.127.207.193)
 http://79.127.207.193:80/ArtSport3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-4-logo.png" group-title="SPORTS 0",ART SPORT 4 (79.127.207)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-4-logo.png" group-title="SPORTS 0",ART SPORT 4 (79.127.207.193)
 http://79.127.207.193:80/ArtSport4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-5-logo.png" group-title="SPORTS 0",ART SPORT 5 (79.127.207)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-5-logo.png" group-title="SPORTS 0",ART SPORT 5 (79.127.207.193)
 http://79.127.207.193:80/ArtSport5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-6-logo.png" group-title="SPORTS 0",ART SPORT 6 (79.127.207)
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-6-logo.png" group-title="SPORTS 0",ART SPORT 6 (79.127.207.193)
 http://79.127.207.193:80/ArtSport6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssjl1j1627494247.png" group-title="SPORTS 0",YES SPORT 1 (77.137.40.221)
@@ -1622,6 +1635,15 @@ http://185.132.134.159:80/sport1/index.m3u8
 http://185.132.134.159:80/sport5/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uvpyps1446212972.png" group-title="SPORTS 0",YES SPORT 6 (185.132.134.159)
 http://185.132.134.159:80/sport6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Starzplay_2023.png/revision/latest?cb=20231125205244" group-title="SPORTS 0",STARZPLAY SPORTS 1 (bouygues-cdn)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/177285.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Starzplay_2023.png/revision/latest?cb=20231125205244" group-title="SPORTS 0",STARZPLAY SPORTS 1 (bouygues-cdn)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/177284.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Starzplay_2023.png/revision/latest?cb=20231125205244" group-title="SPORTS 0",STARZPLAY SPORTS 2 (bouygues-cdn)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/177287.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Starzplay_2023.png/revision/latest?cb=20231125205244" group-title="SPORTS 0",STARZPLAY SPORTS 2 (bouygues-cdn)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/177286.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="SPORTS 0" tvg-name="" tvg-id="ElevenSports1.pl",ELEVEN SPORTS 1 (assarao4k)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512429&extension=ts
@@ -1728,16 +1750,22 @@ http://cdn.tv-rds.workers.dev/ArenaSport7HR.m3u8
 #EXTINF:-1 tvg-id="410632" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3ch2k51643205817.png",ARENA SPORT 8 (cdn)
 http://cdn.tv-rds.workers.dev/ArenaSport8HR.m3u8
 
-#EXTINF:-1 tvg-id="381850" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k2rhxu1658777393.png",ARENA SPORT 1 (feniks)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k2rhxu1658777393.png",ARENA SPORT 1 (feniks)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
-#EXTINF:-1 tvg-id="381848" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwrvaj1658777420.png",ARENA SPORT 2 (feniks)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwrvaj1658777420.png",ARENA SPORT 2 (feniks)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20478
-#EXTINF:-1 tvg-id="381849" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/shwfns1658777451.png",ARENA SPORT 3 (feniks)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/shwfns1658777451.png",ARENA SPORT 3 (feniks)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
-#EXTINF:-1 tvg-id="381853" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qjjhxf1658777468.png",ARENA SPORT 4 (feniks)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qjjhxf1658777468.png",ARENA SPORT 4 (feniks)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
-#EXTINF:-1 tvg-id="381854" group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png",ARENA SPORT 5 (feniks)
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png",ARENA SPORT 5 (feniks)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1181
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3htl2t1643205783.png",ARENA SPORT 6 (feniks)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1179
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3ch2k51643205817.png",ARENA SPORT 8 (feniks)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17670
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zuhnap1643205837.png",ARENA SPORT 9 (feniks)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17671
 
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eurosport_1_Logo_2015.png/960px-Eurosport_1_Logo_2015.png",EUROSPORT 1 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48449
@@ -1762,6 +1790,23 @@ http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262765
 http://rey-premium.ddns.net:80/DPVEduardoEspa/Espa020828/13767.ts
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sf3mjg1623871165.png" group-title="SPORTS 0",WIN SPORTS+ (rey-premium)
 http://rey-premium.ddns.net:80/DPVEduardoEspa/Espa020828/13769.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-rabiaa-tv-iq.png" group-title="SPORTS 0",AL RABIAA SPORT 1 (bouygues-cdn)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/239245.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-rabiaa-tv-iq.png" group-title="SPORTS 0",AL RABIAA SPORT 2 (bouygues-cdn)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/239247.m3u8
+
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://ibsouq.com/cdn/shop/collections/alwan_sticker_W6cmxH7cm_1_9eb8f556-1e6c-4a38-a602-100056d92c35_580x.png?v=1763895391",ALWAN SPORT 2 (camcloud)
+https://stream.camcloud.stream/stream/8dd8ad49bb05/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS 0 tvg-logo="https://ibsouq.com/cdn/shop/collections/alwan_sticker_W6cmxH7cm_1_9eb8f556-1e6c-4a38-a602-100056d92c35_580x.png?v=1763895391",ALWAN SPORT 3 (camcloud)
+https://stream.camcloud.stream/stream/075f2d3a2988/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://ibsouq.com/cdn/shop/collections/alwan_sticker_W6cmxH7cm_1_9eb8f556-1e6c-4a38-a602-100056d92c35_580x.png?v=1763895391",ALWAN SPORT 4 (camcloud)
+https://stream.camcloud.stream/stream/4994d2defc1a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/AD_Sportz_2015.png/revision/latest/scale-to-width-down/1000?cb=20250715125451" group-title="SPORTS 0",ABU DHABI SPORTS 1 (bouygues-cdn)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/3341.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/AD_Sportz_2015.png/revision/latest/scale-to-width-down/1000?cb=20250715125451" group-title="SPORTS 0",ABU DHABI SPORTS 2 (bouygues-cdn)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/3340.m3u8
 
 #EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-logo="https://www.alkass.net/assets/images/logo.png" group-title="SPORTS 0",ALKASS DIGITAL 1 (alkassdigital)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -2028,6 +2073,8 @@ https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/id
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TV_2_Sport_Logo_2019.svg/960px-TV_2_Sport_Logo_2019.svg.png?_=20230325193745" group-title="SPORTS X",2TV SPORT (cdn.xsg)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TV_2_Sport_Logo_2019.svg/960px-TV_2_Sport_Logo_2019.svg.png?_=20230325193745" group-title="SPORTS X",2TV SPORT (cdn.xsg)
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/AYM2004.jpg/revision/latest?cb=20130608195841" group-title="SPORTS X",AYM SPORT (otteravision)
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
@@ -2152,3 +2199,8 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/75675
 #EXTINF:-1 group-title="SPORTS X" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png",SPORTNET WORLD (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/88060
 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5lr9ga1637159235.png" group-title="SPORTS X",ON SPORT MAX (bouygues-cdn)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71435.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d7/Voosport_logo.png?_=20180723132750" group-title="SPORTS X",VOO SPORT (bouygues-cdn)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/9081.m3u8
