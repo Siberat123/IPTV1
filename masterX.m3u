@@ -980,8 +980,12 @@ http://kstv.us:8080/Freshcobar23/83261331891/12553
 
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (realiptv)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/714411
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659428
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (realiptv)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607" group-title="BEIN SPORTS",BEIN SPORTS 1 (Rochdi@starshare)
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts
@@ -1011,40 +1015,42 @@ https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (eagle-4k)
+http://front-main.eagle-4k.me:80/live/rmt8r91bac/tsleey7v5g/1163717.m3u8
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (eagle-4k)
+http://front-main.eagle-4k.me:80/live/rmt8r91bac/tsleey7v5g/1163712.m3u8
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",BEIN SPORTS 3 (eagle-4k)
+http://front-main.eagle-4k.me:80/live/rmt8r91bac/tsleey7v5g/1163715.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (213.199.33.203)
+http://213.199.33.203:8081/live/ch1.m3u8?hls_ctx=0c9a943a
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="beIN Sports 2 Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903" group-title="BEIN SPORTS",BEIN SPORTS 2 (livedoomovies)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8?_t=1773179685053
 
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",BEIN SPORTS 1 (reelpush)
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (reelpush)
 http://h42.reelpush.online/live/918454578001/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",BEIN SPORTS 2 (reelpush)
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (reelpush)
 http://h42.reelpush.online/live/69854211/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",BEIN SPORTS 3 (reelpush)
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",BEIN SPORTS 3 (reelpush)
 http://h42.reelpush.online/live/645587700/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",BEIN SPORTS 4 (reelpush)
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg/revision/latest?cb=20200107204039",BEIN SPORTS 4 (reelpush)
 http://h42.reelpush.online/live/9787488847/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",BEIN SPORTS 5 (reelpush)
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BS5.svg/revision/latest?cb=20200107204133",BEIN SPORTS 5 (reelpush)
 http://h42.reelpush.online/live/610303030/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",BEIN SPORTS 6 (reelpush)
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/BS6.svg/revision/latest?cb=20200107204143",BEIN SPORTS 6 (reelpush)
 http://h42.reelpush.online/live/1515000000/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",BEIN SPORTS 7 (reelpush)
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/BS7.svg/revision/latest?cb=20200107204153",BEIN SPORTS 7 (reelpush)
 http://h42.reelpush.online/live/33523510/index.m3u8
 
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="BEIN SPORTS" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-1.png",BEIN SPORTS 1 (online24)
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (online24)
 http://ua.online24.pm/play/1101/350B326FB34F4B8/tracks-v1a1/mono.m3u8?token=350B326FB34F4B8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="BEIN SPORTS" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-2.png",BEIN SPORTS 2 (online24)
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (online24)
 http://ua.online24.pm/play/1102/350B326FB34F4B8/tracks-v1/mono.m3u8?token=350B326FB34F4B8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="BEIN SPORTS" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-3.png",BEIN SPORTS 3 (online24)
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",BEIN SPORTS 3 (online24)
 http://ua.online24.pm/play/1103/350B326FB34F4B8/tracks-v1a1/mono.m3u8?token=350B326FB34F4B8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="BEIN SPORTS" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-4.png",BEIN SPORTS 4 (online24)
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg/revision/latest?cb=20200107204039",BEIN SPORTS 4 (online24)
 http://ua.online24.pm/play/1104/350B326FB34F4B8/tracks-v1a1/mono.m3u8?token=350B326FB34F4B8
-
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS",BEIN SPORTS 1 (99.27.51.147)
-http://99.27.51.147:8080/BeinSport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS",BEIN SPORTS 2 (99.27.51.147)
-http://99.27.51.147:8080/BeinSport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS",BEIN SPORTS 3 (99.27.51.147)
-http://99.27.51.147:8080/BeinSport3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA n (amagi.tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1715,13 +1721,28 @@ http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Sport2.png?_=20241103065253" group-title="SPORTS 0",SPORT 2 (88.212.15.19)
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Sport2.png?_=20241103065253 group-title="SPORTS 0",SPORT 2 (185.98.211.8)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Sport2.png?_=20241103065253" group-title="SPORTS 0",SPORT 2 (185.98.211.8)
 http://185.98.211.8:81/sport2/index.m3u8?token=test
 
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-1.png",NOW SPORTS 1 (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-2.png",NOW SPORTS 2 (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
+
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-1.png",NOW SPORTS 1 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791022&extension=ts
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-2.png",NOW SPORTS 2 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791021&extension=ts
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-3.png",NOW SPORTS 3 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791020&extension=ts
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-4.png",NOW SPORTS 4 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791019&extension=ts
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-5.png",NOW SPORTS 5 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791018&extension=ts
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-6.png",NOW SPORTS 6 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791017&extension=ts
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-7.png",NOW SPORTS 7 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791016&extension=ts
 
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png?_=20250929101818" group-title="SPORTS 0",FIFA+ (wurl)
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -2207,4 +2228,9 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/21239.ts
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/75675
 #EXTINF:-1 group-title="SPORTS X" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png",SPORTNET WORLD (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/88060
+
+#EXTINF:-1 group-title="SPORTS X" tvg-logo="https://i.imgur.com/Y1t8xkL.png",DEPORTES TVC (162.19.255.233)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+
+
 
