@@ -2106,14 +2106,33 @@ http://lb.wisp.cat/lb0/PL_CANAL_SPORT3HD/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="" tvg-logo=" group-title="SPORTS 0",CANAL+ SPORT 4 (wisp)
 http://lb.wisp.cat/lb0/PL_CANAL_SPORT4HDPL/video.m3u8?token=AUSnMTD
 
-#EXTINF:-1 tvg-id="6832" tvg-logo="" group-title="SPORTS 0",PRIMA SPORTP 1 (wisp)
+#EXTINF:-1 tvg-id="6832" tvg-logo="" group-title="SPORTS 0",PRIMA SPORT 1 (wisp)
 http://lb.wisp.cat/lb0/TelekomSport1HDRO/video.m3u8?token=AUSnMTD
-#EXTINF:-1 tvg-id="6830" tvg-logo="" group-title="SPORTS 0",PRIMA SPORTP 2 (wisp)
+#EXTINF:-1 tvg-id="6830" tvg-logo="" group-title="SPORTS 0",PRIMA SPORT 2 (wisp)
 http://lb.wisp.cat/lb0/TelekomSport2HDRO/video.m3u8?token=AUSnMTD
-#EXTINF:-1 tvg-id="6831" tvg-logo="" group-title="SPORTS 0",PRIMA SPORTP 3 (wisp)
+#EXTINF:-1 tvg-id="6831" tvg-logo="" group-title="SPORTS 0",PRIMA SPORT 3 (wisp)
 http://lb.wisp.cat/lb0/TelekomSport3HDRO/video.m3u8?token=AUSnMTD
-#EXTINF:-1 tvg-id="6828" tvg-logo="" group-title="SPORTS 0",PRIMA SPORTP 4 (wisp)
+#EXTINF:-1 tvg-id="6828" tvg-logo="" group-title="SPORTS 0",PRIMA SPORT 4 (wisp)
 http://lb.wisp.cat/lb0/TelekomSport4HDRO/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/5a85ec354802e6b85738a13c83d8fb3f.png",SPORT KLUB 1 (013tv)
+http://013tv.com:8080/F13836/35b68aca/3473
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/f03f8c517a5e79b9e8e927180496370d.png",SPORT KLUB 2 (013tv)
+http://013tv.com:8080/F13836/35b68aca/279841
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/3ee32511f85cad4408168d2700fb53d7.png",SPORT KLUB 3 (013tv)
+http://013tv.com:8080/F13836/35b68aca/279840
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/6dced90dd3378bb441466083f850e29b.jpg",SPORT KLUB 4 (013tv)
+http://013tv.com:8080/F13836/35b68aca/279839
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/753a33149eb926e7492903efb13367f5.jpg",SPORT KLUB 5 (013tv)
+http://013tv.com:8080/F13836/35b68aca/26662
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",SPORT KLUB 6 (013tv)
+http://013tv.com:8080/F13836/35b68aca/38987
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",SPORT KLUB 8 (013tv)
+http://013tv.com:8080/F13836/35b68aca/151911
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",SPORT KLUB 9 (013tv)
+http://013tv.com:8080/F13836/35b68aca/305952
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",SPORT KLUB 10 (013tv)
+http://013tv.com:8080/F13836/35b68aca/305955
 
 
 
