@@ -1156,13 +1156,13 @@ https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 #EXTINF:-1 tvg-id="Futbol.tj@SD" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="RUSSIAN SPORTS",Futbol (teleradiocom)
 https://live.teleradiocom.tj/8/3m.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="RUSSIAN SPORTS",ФУТБOЛ (31.148.48.15)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1fvm821618686403.png" group-title="RUSSIAN SPORTS",ФУТБOЛ (31.148.48.15)
 http://31.148.48.15/Futbol_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="RUSSIAN SPORTS",ФУТБOЛ 1 (cdntv)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1fvm821618686403.png" group-title="RUSSIAN SPORTS",ФУТБOЛ 1 (cdntv)
 http://cdntv.online/low/9mlxywika2/55.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="RUSSIAN SPORTS",ФУТБOЛ 2 (cdntv)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wp9rxv1618686422.png" group-title="RUSSIAN SPORTS",ФУТБOЛ 2 (cdntv)
 http://cdntv.online/low/9mlxywika2/56.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="RUSSIAN SPORTS",ФУТБOЛ 3 (cdntv)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/61u3ww1618686439.png" group-title="RUSSIAN SPORTS",ФУТБOЛ 3 (cdntv)
 http://cdntv.online/low/9mlxywika2/57.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804042515" group-title="RUSSIAN SPORTS",SETANTA SPORT 1 (cdntv)
@@ -2134,6 +2134,14 @@ http://013tv.com:8080/F13836/35b68aca/305952
 #EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",SPORT KLUB 10 (013tv)
 http://013tv.com:8080/F13836/35b68aca/305955
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS 0",DIGI SPORT 1 (wisp)
+http://lb.wisp.cat/lb0/DigiSport_1_HD_RO/mpegts?token=AUSnMTD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS 0",DIGI SPORT 2 (wisp)
+http://lb.wisp.cat/lb0/DigiSport_2_HD_RO/mpegts?token=AUSnMTD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS 0",DIGI SPORT 3 (wisp)
+http://lb.wisp.cat/lb0/DigiSport3FHDRO/mpegts?token=AUSnMTD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS 0",DIGI SPORT 4 (wisp)
+http://lb.wisp.cat/lb0/DigiSport4FHDRO/mpegts?token=AUSnMTD
 
 
 
@@ -2391,4 +2399,9 @@ http://new.vivatvs.uk:8080//live/c18zdcfgor/p0tqfl03fz/689908.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS X",M4 SPORT (wisp)
 http://lb.wisp.cat/lb0/M4_Sport_HD_HU/video.m3u8?token=AUSnMTD
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/eju6ny1629403057.png" group-title="SPORTS X",SPORT 1 UA (wisp)
+http://lb.wisp.cat/lb0/Sport1_UA_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS X",SPORTKLUB (wisp)
+http://lb.wisp.cat/lb0/PL_Sport_Klub_HD_Polska/video.m3u8?token=AUSnMTD
 
