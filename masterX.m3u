@@ -607,6 +607,9 @@ https://aegis-cloudfront-1.tubi.video/605fb6ea-f89c-451a-873c-030cb726b493/maste
 
 #DOCUMENTARY
 #
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_170_122" group-title="DOCUMENTARY",Discovery Asia
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+
 #EXTINF:-1 channel-id="8152fae2aebf5c228eee6470242174ec" tvg-id="8152fae2aebf5c228eee6470242174ec" tvg-chno="484" tvg-name="Dinos 24/7" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8152fae2aebf5c228eee6470242174ec/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734493190895_ROKU_DINOS_247_CHANNEL_HUD2_LOGO_260x147_CENTER.png" group-title="DOCUMENTARY",BBC Dinos 24/7 (jmp2.uk)
 https://jmp2.uk/rok-8152fae2aebf5c228eee6470242174ec.m3u8
 
@@ -819,8 +822,16 @@ https://aegis-cloudfront-1.tubi.video/55c4e96c-e345-486c-8f61-8320b61d734d/playl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_of_Family_Feud.png?_=20231025151320" group-title="MOVIES & SHOWS",Family Feud (tubi)
 https://aegis-cloudfront-1.tubi.video/e1638fe1-8df0-470a-9fa9-b515ca7ca18e/master_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest?cb=20201205114958" group-title="MOVIES & SHOWS",Cinemax (Bluestraveller13)
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest?cb=20201205114958" group-title="MOVIES & SHOWS",Cinemax (transvision)
+http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="MOVIES & SHOWS",HBO HITS (transvision)
+http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="MOVIES & SHOWS",HBO (transvision)
+http://103.58.160.157:8278/720-HBO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/330px-AXN_logo.svg.png" group-title="MOVIES & SHOWS",AXN (transvision)
+http://103.58.160.157:8278/720-AXN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mycinema.png?raw=true" group-title="MOVIES & SHOWS",My Cinema (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -965,9 +976,6 @@ https://brat-samsung-us.amagi.tv/playlist.m3u8
 
 #BEIN SPORTS
 #
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png?_=20240407181723" group-title="BEIN SPORTS",BEIN SPORTS (stvplus1)
-https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/StvSport1.m3u8?|referer=https://veo.buzz/
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png?_=20240407181723" group-title="BEIN SPORTS",BEIN SPORTS (fastream)
 http://fastream.xyz:8080/977605802tv/2k0mdjk34/33360
 
@@ -1030,6 +1038,13 @@ http://ua.online24.pm/play/1102/350B326FB34F4B8/tracks-v1/mono.m3u8?token=350B32
 http://ua.online24.pm/play/1103/350B326FB34F4B8/tracks-v1a1/mono.m3u8?token=350B326FB34F4B8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg/revision/latest?cb=20200107204039",BEIN SPORTS 4 (online24)
 http://ua.online24.pm/play/1104/350B326FB34F4B8/tracks-v1a1/mono.m3u8?token=350B326FB34F4B8
+
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (wahyu1ptv)
+https://wahyu1ptv.pages.dev/AstroBein1.m3u8
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (wahyu1ptv)
+https://wahyu1ptv.pages.dev/AstroBein2.m3u8
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",BEIN SPORTS 3 (wahyu1ptv)
+https://wahyu1ptv.pages.dev/AstroBein3.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA n (amagi.tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1389,6 +1404,15 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=485855&extens
 http://rey-premium.ddns.net:80/DPVEduardoEspa/Espa020828/417206.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMmydQdY/descarga-2.png" group-title="TNT SPORTS",TNT SPORTS PREMIUM (rey-premium)
 http://rey-premium.ddns.net:80/DPVEduardoEspa/Espa020828/417204.ts
+
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/TNT_Sports_1_Stacked_White.svg/revision/latest?cb=20260225232928",TNT Sports 1 (siauliairsavlt)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6566/index.m3u8
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/TNT_Sports_2_Stacked_White.svg/revision/latest?cb=20260225233958",TNT Sports 2 (siauliairsavlt)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/2506/index.m3u8
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/TNT_Sports_3_Stacked_White.svg/revision/latest?cb=20260225234923",TNT Sports 3 (siauliairsavlt)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6564/index.m3u8
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TNT_Sports_4_Stacked_White.svg/revision/latest?cb=20260225235830",TNT Sports 4 (siauliairsavlt)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/19054/index.m3u8
 
 #EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://i.postimg.cc/wMmydQdY/descarga-2.png",TNT SPORTS PREMIUM (lunar)
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122394
@@ -2187,22 +2211,5 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/75675
 #EXTINF:-1 group-title="SPORTS X" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png",SPORTNET WORLD (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/88060
 
-#EXTINF:-1 group-title="SPORTS X" tvg-logo="https://i.imgur.com/Y1t8xkL.png",DEPORTES TVC (162.19.255.233)
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
-
-#EXTINF:-1 group-title="SPORTS X" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_17114781.png?v=1",GAWHAR SPORT (karwan) 
+#EXTINF:-1 group-title="SPORTS X" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_17114781.png?v=1",GEWHER SPORT (karwan) 
 https://cdn.karwan.tv/gewher-sport/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SPORTS X" tvg-logo="https://files.cdn-files-a.com/uploads/278563/100_6864154dc3ee4.png",LD SPORT (vivatvs)
-http://new.vivatvs.uk:8080//live/c18zdcfgor/p0tqfl03fz/689908.m3u8
-
-#EXTINF:-1 group-title="SPORTS X" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_68ab919ab33eb.png",STARZPLAY SPORTS 1 (stvplus1)
-https://raw.githubusercontent.com/stvplus1/ben/refs/heads/main/kurd7.m3u8?|referer=http://wvvw.yari.live/
-#EXTINF:-1 group-title="SPORTS X" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_68ab919ab33eb.png",STARZPLAY SPORTS 2 (stvplus1)
-http://AWB.nv2.xyz:80//live/2025ahmed/ahmed2025/2206.m3u8
-#EXTINF:-1 group-title="SPORTS X" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_68ab919ab33eb.png",STARZPLAY SPORTS 3 (stvplus1)
-http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/6126/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="SPORTS X" tvg-logo="https://freeshot.live/upload/source/Canal+Foot-logo.png",CANAL+ FOOT (cdn)
-http://cdn.tv-rds.workers.dev/FootPlusFR.m3u8
-
