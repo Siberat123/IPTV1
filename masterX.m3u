@@ -102,6 +102,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 http://202.169.224.202:8800/udp/239.9.1.29:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="INDO NASIONAL",SCTV (light-ott)
 http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058980&extension=ts&play_token=sL1r1lBem2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="INDO NASIONAL",SCTV (cloudns)
+http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NASIONAL (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -236,8 +238,8 @@ http://cdn.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548" group-title="INDO LOKAL",MOJI (dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548",MOJI (wahyu1ptv)
-https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548",MOJI (cloudns)
+http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 #EXTINF:-1 tvg-id="BiznetAdventure.id@SD" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="INDO LOKAL",BIZNET ADVENTURE (biznet)
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -274,6 +276,9 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541195&exte
 #EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Ent_Channel_Logo.png",ENT (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541183&extension=ts&play_token=J4RzsLFWgA
 
+#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/53/Logo_Food_Travel.svg/250px-Logo_Food_Travel.svg.png",FOOD TRAVEL (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541180&extension=ts&play_token=J4RzsLFWgA
+
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="JakTV.id" tvg-name="Jak TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Jak_TV_gray_logo.svg/revision/latest?cb=20220219085208" group-title="INDO LOKAL", JAKTV (dens)
@@ -282,6 +287,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&userid=
 #EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest?cb=20200805135934",MAGNA CHANNEL (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
+#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest?cb=20200805135934",MAGNA CHANNEL (cloudns)
+http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226cce.m3u8
 
 #EXTINF:-1 tvg-id="DAAITV.id@SD" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="INDO LOKAL",DAAI TV (daaiplus)
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
@@ -372,9 +379,16 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="INDO LOKAL",JOWO CHANNEL (cloudns)
+http://cdn.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="INDO LOKAL",HANACARAKA TV (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541173&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png", MIC TV (siar)
 https://mic.siar.us/mic/live/mic_720p.m3u8
+#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png", MIC TV (siar)
+http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 
 #EXTINF:-1 tvg-logo="https://astha.garuda.tv/assets/logo-DLGyXEGO.png" group-title="INDO LOKAL",ASTHA TV (hgmtv)
 https://hgmtv.com:19360/asthatv/1080p.m3u8
@@ -499,6 +513,9 @@ http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8?checked
 #EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BN_Channel.png/revision/latest?cb=20230124080830",BN CHANNEL (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
+#EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BN_Channel.png/revision/latest?cb=20230124080830",BN CHANNEL (cloudns)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
 #EXTINF:-1 tvg-id="RRINet.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/RRIcoid_2023.png/revision/latest?cb=20230916044031" group-title="INDO NEWS",RRI NET (rri)
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
@@ -527,7 +544,7 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/120px-WION_news_Logo.svg.png" group-title="WORLD NEWS",WION (cloudfront)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/120px-WION_news_Logo.svg.png" group-title="WORLD NEWS",ASTRO AWANI(cloudfront)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="WORLD NEWS",ASTRO AWANI (cloudfront)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 
@@ -568,9 +585,13 @@ https://nhk.lls.pbs.org/index_1080p.m3u8
 #EXTVLCOPT:http-referrer=https://tv.garden/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png", ARIRANG TV (cloudns)
+http://cdn.nng.cloudns.us/live/m3u8/int/892fc80890b4b65.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest?cb=20230219122811" group-title="WORLD NEWS",CNA (cloudfront)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/250px-CNA_new_logo.svg.png" group-title="WORLD NEWS",CNA (cloudfront)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/250px-CNA_new_logo.svg.png" group-title="WORLD NEWS",CNA (vison+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541191&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/CnaT98.png/revision/latest?cb=20231124031113" group-title="WORLD NEWS",CNA ORIGINAL (amagi.tv)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist720p.m3u8
@@ -586,6 +607,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
 #EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/TRT_World_logo.svg/revision/latest?cb=20211029170858" group-title="WORLD NEWS",TRT WORLD (trt)
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/TRT_World_logo.svg/revision/latest?cb=20211029170858" group-title="WORLD NEWS",TRT WORLD (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541122&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Scripps_News_2023.svg/revision/latest?cb=20230104215636" group-title="WORLD NEWS",SCRIPPS NEWS (tubi)
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist_4.m3u8
@@ -629,6 +652,11 @@ https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/2.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/NBC_2023_white_logo.svg/960px-NBC_2023_white_logo.svg.png?_=20250908010132" group-title="WORLD NEWS",NBC NEWS NOW (tubi)
 https://aegis-cloudfront-1.tubi.video/605fb6ea-f89c-451a-873c-030cb726b493/master_5.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTB_Sukmaindera.png/120px-RTB_Sukmaindera.png" group-title="WORLD NEWS",RTB SUKMAINDERA (cloudfront)
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png" group-title="WORLD NEWS",RTB GO (cloudfront)
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
 
 
 
@@ -654,6 +682,12 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541172&exte
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSylrGT-3GYXjp7l5Hv28zeC7o3VkkSpLjvYNEMk9Krhw&s&ec=121657068" group-title="DOCUMENTARY",Love Nature (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541157&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Disney_Wonder_logo.svg/500px-Disney_Wonder_logo.svg.png?_=20160806202055" group-title="DOCUMENTARY",Wonder (amagi.tv)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/250px-Outdoor_Channel_logo_2017.svg.png" group-title="DOCUMENTARY",Outdoor Channel (amagi.tv)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 channel-id="8152fae2aebf5c228eee6470242174ec" tvg-id="8152fae2aebf5c228eee6470242174ec" tvg-chno="484" tvg-name="Dinos 24/7" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8152fae2aebf5c228eee6470242174ec/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734493190895_ROKU_DINOS_247_CHANNEL_HUD2_LOGO_260x147_CENTER.png" group-title="DOCUMENTARY",BBC Dinos 24/7 (jmp2.uk)
 https://jmp2.uk/rok-8152fae2aebf5c228eee6470242174ec.m3u8
@@ -899,9 +933,6 @@ http://103.58.160.157:8278/720-AXN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/330px-AXN_logo.svg.png" group-title="MOVIES & SHOWS",AXN (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541210&extension=ts&play_token=J4RzsLFWgA
 
-#EXTINF:-1 tvg-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png" group-title="MOVIES & SHOWS",RTB GO (cloudfront)
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/500px-KIX_logo.svg.png" group-title="MOVIES & SHOWS",KIX (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541161&extension=ts&play_token=J4RzsLFWgA
 
@@ -926,6 +957,12 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541171&exte
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_XmJJZ-mg9OX6B5UcYPalnar8M1_dek5tSaIa_zQVmw&s&ec=121657068" group-title="MOVIES & SHOWS",HITS NOW (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1856370&extension=ts&play_token=J4RzsLFWgA
 
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_404.png" group-title="MOVIES & SHOWS",SUPERRIX (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541126&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_402.png" group-title="MOVIES & SHOWS",CINEEDGE (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541190&extension=ts&play_token=J4RzsLFWgA
+
 #EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mycinema.png?raw=true" group-title="MOVIES & SHOWS",My Cinema (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
@@ -936,6 +973,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
 https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
+#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/mycinemaeurope.jpg?raw=true" group-title="MOVIES & SHOWS",MY Cinema Europe (dens)
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+http://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_2_0.png" group-title="MOVIES & SHOWS",LG 1:Film (ottera.tv)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465
@@ -1131,6 +1172,17 @@ http://ua.online24.pm/play/1102/350B326FB34F4B8/tracks-v1/mono.m3u8?token=350B32
 http://ua.online24.pm/play/1103/350B326FB34F4B8/tracks-v1a1/mono.m3u8?token=350B326FB34F4B8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg/revision/latest?cb=20200107204039",BEIN SPORTS 4 (online24)
 http://ua.online24.pm/play/1104/350B326FB34F4B8/tracks-v1a1/mono.m3u8?token=350B326FB34F4B8
+
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541205&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541204&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",BEIN SPORTS 3 (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541203&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg/revision/latest?cb=20200107204039",BEIN SPORTS 4 (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541202&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BS5.svg/revision/latest?cb=20200107204133",BEIN SPORTS 5 (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541201&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA n (amagi.tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
