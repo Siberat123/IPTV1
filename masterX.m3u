@@ -1279,6 +1279,13 @@ http://185.57.68.33:8091/110/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/69eju21628519874.png" group-title="RUSSIAN SPORTS",МАТЧ! ФУТБOЛ 3 (188.191.160.238)
 http://188.191.160.238:7780/udp/239.195.3.18:1234
 
+#EXTINF:-1 group-title="RUSSIAN SPORTS" tvg-id="match-futbol1-hd" tvg-name="МАТЧ! Футбол 1 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Матч! ФУТБОЛ 1 (31.148.48.15)
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="RUSSIAN SPORTS" tvg-id="match-futbol2-hd" tvg-name="МАТЧ! Футбол 2 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol2-hd.png",Матч! ФУТБОЛ 2 (31.148.48.15)
+http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="RUSSIAN SPORTS" tvg-id="match-futbol3-hd" tvg-name="МАТЧ! Футбол 3 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol3-hd.png",Матч! ФУТБОЛ 3 (31.148.48.15)
+http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png" group-title="RUSSIAN SPORTS",Беларусь 5 (beltelecom)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png" group-title="RUSSIAN SPORTS",Беларусь 5 (beltelecom)
@@ -1382,6 +1389,15 @@ http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580802
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580803
 #EXTINF:-1 tvg-id="ESPN4.nl" tvg-name="|NL| ESPN 4 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="ESPN SPORTS",ESPN 4 (ottct)
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580804
+
+#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="ARG: ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="ESPN SPORTS",ESPN PREMIUM (sinlimitestv)
+http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/183614
+#EXTINF:-1 tvg-id="ESPNLA" tvg-name="ARG: ESPN HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qzobqn1660760939.png" group-title="ESPN SPORTS",ESPN (sinlimitestv)
+http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165649
+#EXTINF:-1 tvg-id="EPN2HAA" tvg-name="ARG: ESPN 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wcualh1660760950.png" group-title="ESPN SPORTS",ESPN 2 (sinlimitestv)
+http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165652
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ARG: ESPN 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wkdrnd1660760961.png" group-title="ESPN SPORTS",ESPN 3 (sinlimitestv)
+http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165654
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" group-title="ESPN SPORTS",ESPN (fazoeli)
 https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8
@@ -2409,6 +2425,33 @@ https://s.id/Shareext_champion2_m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg" group-title="SPORTS 0",CHAMPIONS TV 3 (s.id)
 https://s.id/Shareext_champion3_m3u8
 
+#EXTINF:-1 tvg-id="FSALA" tvg-name="ARG: FOX SPORTS HD" tvg-logo="http://www.tmsimg.com/assets/s17754_ll_h3_aa.png" group-title="SPORTS 0",FOX SPORTS (sinlimitestv)
+http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165655
+#EXTINF:-1 tvg-id="FS2AR" tvg-name="ARG: FOX SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBI0EPdzOmISfxBD7kZQqu3qJqd5GBCdKPZnDKghLqTfSYxYCmYDs0Nm7v196VCE3V9qc&usqp=CAU" group-title="SPORTS 0",FOX SPORTS 2 (sinlimitestv)
+http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165656
+#EXTINF:-1 tvg-id="FOXS3" tvg-name="ARG: FOX SPORTS 3 HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/small.551251533_FOXSports3ARG(2023-).png.e10c652fe1c72bfe143ea01f59d9a5a0.png" group-title="SPORTS 0",FOX SPORTS 3 (sinlimitestv)
+http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165657
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS 0",FOX SPORTS PREMIUM (nor2live)
+http://nor2live.win:80/livehttpplay?channel_id=23251
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS 0",FOX SPORTS (nor2live)
+http://nor2live.win:80/livehttpplay?channel_id=23248
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS 0",FOX SPORTS 2 (nor2live) 
+http://nor2live.win:80/livehttpplay?channel_id=23249
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS 0",FOX SPORTS 3 (nor2live)
+http://nor2live.win:80/livehttpplay?channel_id=23250
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS 0",TVC DEPORTES (nor2live)
+http://nor2live.win:80/livehttpplay?channel_id=23234
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS 0",TVC DEPORTES 2 (nor2live)
+http://nor2live.win:80/livehttpplay?channel_id=23235
+
+#EXTINF:-1 tvg-id="TYC" tvg-name="ARG: TYC SPORTS HD" tvg-logo="https://yt3.googleusercontent.com/HIeucb9xdTW5Hh7kkhDiROU7zLO6fNzn6q_fDvgFr_fD2qFH1vT-8U2OdOf0Pb_VCvmD-PClgQ=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS 0",TYC SPORTS (sinlimitestv)
+http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165660
+#EXTINF:-1 tvg-id="TYCINTH" tvg-name="ARG: TYC SPORTS INT" tvg-logo="http://www.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="SPORTS 0",TYC SPORTS INT (sinlimitestv)
+http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165658
+#EXTINF:-1  tvg-logo="http://www.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="SPORTS 0",TYC SPORTS INT (nor2live)
+http://nor2live.win:80/livehttpplay?channel_id=16505
 
 
 
