@@ -439,6 +439,9 @@ https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Kompas_TV_%282011%29.svg/revision/latest?cb=20181016124429" group-title="INDO NEWS",KOMPAS TV (103.58.160.157)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Kompas_TV_%282011%29.svg/revision/latest?cb=20181016124429" group-title="INDO NEWS",KOMPAS TV (cloudns)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/TvOne_2011.svg/revision/latest?cb=20181207020506" group-title="INDO NEWS",TV ONE (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -870,6 +873,10 @@ https://d3em2dvvzq3oj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="DOCUMENTARY",Classic Arts Showcase (akamaized)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/rmcB6JMQ/ezgif-63cedb0a1d9add6a.png",KNOWLEDGE+ (103.58.160.157)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-KNOWLEDGE/playlist.m3u8
+
 
 
 
@@ -917,6 +924,9 @@ https://itv-hellskitchen-rakuten.amagi.tv/1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_of_Family_Feud.png?_=20231025151320" group-title="MOVIES & SHOWS",Family Feud (tubi)
 https://aegis-cloudfront-1.tubi.video/e1638fe1-8df0-470a-9fa9-b515ca7ca18e/master_5.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SHOWS" tvg-logo="https://i.postimg.cc/d08FLVhL/ezgif-70f6541767638f44.png",MTV (23.237.104.106)
+http://23.237.104.106:8080/USA_MTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png?_=20231028030137" group-title="MOVIES & SHOWS",Entertainment Tonight (cbsivideo)
 https://enterbcef94b.airspace-cdn.cbsivideo.com/master_7.m3u8
@@ -1182,6 +1192,29 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541203&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541202&extension=ts&play_token=J4RzsLFWgA
 #EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BS5.svg/revision/latest?cb=20200107204133",BEIN SPORTS 5 (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541201&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png?_=20240407181723" group-title="BEIN SPORTS",BEIN SPORTS (99.27.51.147)
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (99.27.51.147)
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",BEIN SPORTS 3 (99.27.51.147)
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (41.205.70.146)
+http://41.205.70.146/BEINSPORT1/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (41.205.70.146)
+http://41.205.70.146/BEINSPORT2/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",BEIN SPORTS 3 (41.205.70.146)
+http://41.205.70.146/BEINSPORT3/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg/revision/latest?cb=20200107204039",BEIN SPORTS 4 (41.205.70.146)
+http://41.205.70.146/BEINSPORT4/index.m3u8
+#EXTINF:-1  group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BS5.svg/revision/latest?cb=20200107204133",BEIN SPORTS 5 (41.205.70.146)
+http://41.205.70.146/BEINSPORT5/index.m3u8
+
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (145.239.5.177)
+http://145.239.5.177/549/mpegts
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",BEIN SPORTS 3 (145.239.5.177)
+http://145.239.5.177/559/mpegts
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA n (amagi.tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2232,6 +2265,11 @@ http://5.188.221.43:8080/play/match
 http://cdntv.online/low/9mlxywika2/1021.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Setanta_Sports_2_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804053337" group-title="SPORTS 0",SETANTA SPORT 2 (cdntv)
 http://cdntv.online/low/9mlxywika2/1022.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Max_Sport.svg/960px-Max_Sport.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20220728122425" group-title="SPORTS 0",MAX SPORT 1 (169.150.223.25)
+http://169.150.223.25/MaxSport1HR/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Max_Sport.svg/960px-Max_Sport.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20220728122425" group-title="SPORTS 0",MAX SPORT 2 (169.150.223.25)
+http://169.150.223.25/MaxSport2HR/index.m3u8
 
 
 
