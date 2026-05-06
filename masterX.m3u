@@ -20,12 +20,16 @@ https://s.id/Shareext_liga1_m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (103.58.160.157)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (syok)
+http://syok.tv:25461/843839483/33999/2415
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (103.58.160.157)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (light-ott)
 http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058862&extension=ts&play_token=XMOx1ovd3r
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (syok)
+http://syok.tv:25461/843839483/33999/1544
 
 #EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (103.58.160.157)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -36,6 +40,8 @@ http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1165910
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png" group-title="INDO NASIONAL",MNC TV (light-ott)
 http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058960&extension=ts&play_token=JTF719aZF0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png" group-title="INDO NASIONAL",MNC TV (syok)
+http://syok.tv:25461/843839483/33999/2106
 
 #EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png",GTV (103.58.160.157)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -44,6 +50,8 @@ http://103.58.160.157:8278/720-GLOBALTV/playlist.m3u8
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV (e-cdn)
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1165902
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDO NASIONAL",GTV (syok)
+http://syok.tv:25461/843839483/33999/2107
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Trans_7_2013.svg/revision/latest?cb=20160314100735" group-title="INDO NASIONAL",TRANS 7 (103.58.160.157)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -59,6 +67,8 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541124&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (syok)
+http://syok.tv:25461/843839483/33999/1941
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (103.58.160.157)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -95,6 +105,8 @@ http://202.150.161.212:5000/live/channel31/playlist.m3u8
 http://103.58.160.157:8278/720-RCTI/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gfjc6q1605825509.png" group-title="INDO NASIONAL",RCTI (e-cdn)
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1165918
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gfjc6q1605825509.png" group-title="INDO NASIONAL",RCTI (syok)
+http://syok.tv:25461/843839483/33999/2105
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="INDO NASIONAL",SCTV (dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -227,6 +239,9 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 #INDO LOKAL
 #
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Logo_Citra_Dangdut.png/960px-Logo_Citra_Dangdut.png" group-title="INDO LOKAL",CITRA DANGDUT (syok)
+http://syok.tv:25461/843839483/33999/2441
+
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO LOKAL",RTV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
@@ -523,6 +538,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8?app_type=web&userid=lite&chname=Berita_Satu
+#EXTINF:-1 tvg-id="Berita Satu.id" tvg-name="Berita Satu.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/BeritaSatu_%28Stacked%29.svg/revision/latest?cb=20181125093938" group-title="INDO NEWS",BERITA SATU (cloudns)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843g.m3u8
 
 #EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/INews_TV_logo.svg/revision/latest?cb=20150420140812",INEWS (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541166&extension=ts&play_token=J4RzsLFWgA
@@ -638,6 +656,8 @@ http://103.58.160.157:8278/720-CNA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/CnaT98.png/revision/latest?cb=20231124031113" group-title="WORLD NEWS",CNA ORIGINAL (amagi.tv)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist720p.m3u8
 
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/CGTN_%28China_Global_Television_Network%29.svg/revision/latest?cb=20210816144604" group-title="WORLD NEWS",CGTN (syok)
+http://syok.tv:25461/843839483/33999/223
 #EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/CGTN_%28China_Global_Television_Network%29.svg/revision/latest?cb=20210816144604" group-title="WORLD NEWS",CGTN (rakuten)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/CGTN_%28China_Global_Television_Network%29.svg/revision/latest?cb=20210816144604" group-title="WORLD NEWS",CGTN (103.58.160.157)
@@ -703,14 +723,37 @@ https://aegis-cloudfront-1.tubi.video/605fb6ea-f89c-451a-873c-030cb726b493/maste
 #
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_170_122" group-title="DOCUMENTARY",Discovery Asia (skygo)
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_170_122" group-title="DOCUMENTARY",Discovery Asia (syok)
+http://syok.tv:25461/843839483/33999/1547
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY",Animal Planet (syok)
+http://syok.tv:25461/843839483/33999/214
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/250px-National-Geographic-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20150107121724",National Geographic (syok)
+http://syok.tv:25461/843839483/33999/215
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest?cb=20170426190523",National Geographic Wild (syok)
+http://syok.tv:25461/843839483/33999/217
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest?cb=20170426190523",National Geographic Wild (84.17.50.102)
+http://84.17.50.102/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/960px-HGTV_2010.svg.png" group-title="DOCUMENTARY",HGTV (syok)
+http://syok.tv:25461/843839483/33999/219
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/250px-Asian_Food_Network.svg.png" group-title="DOCUMENTARY",Asian Food Network (syok)
+http://syok.tv:25461/843839483/33999/220
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png?format=1500w" group-title="DOCUMENTARY",Global Trekker (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541176&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20180124021550" group-title="DOCUMENTARY",HISTORY (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541172&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20180124021550" group-title="DOCUMENTARY",HISTORY (syok)
+http://syok.tv:25461/843839483/33999/218
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/960px-Love_Nature_logo_%282025%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250607120619" group-title="DOCUMENTARY",Love Nature (vision+)
+http://syok.tv:25461/843839483/33999/23097
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/960px-Love_Nature_logo_%282025%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250607120619" group-title="DOCUMENTARY",Love Nature (syok)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541157&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/250px-Outdoor_Channel_logo_2017.svg.png" group-title="DOCUMENTARY",Outdoor Channel (amagi.tv)
@@ -721,6 +764,8 @@ https://jmp2.uk/rok-8152fae2aebf5c228eee6470242174ec.m3u8
 
 #EXTINF:-1 tvg-id="400000063" tvg-logo="https://canvas-lb.tubitv.com/opts/FgYXmM6oI193Bw==/630f09e9-a354-4d28-a952-2f5c75e09815/CHgQeDoFMS4xLjhAAQ==" group-title="DOCUMENTARY",BBC Earth (cloudfront)
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="400000063" tvg-logo="https://canvas-lb.tubitv.com/opts/FgYXmM6oI193Bw==/630f09e9-a354-4d28-a952-2f5c75e09815/CHgQeDoFMS4xLjhAAQ==" group-title="DOCUMENTARY",BBC Earth (syok)
+http://syok.tv:25461/843839483/33999/211
 
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="DOCUMENTARY",CGTN Documentary (amagi.tv) 
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
@@ -730,9 +775,6 @@ http://103.58.160.157:8278/720-CGTNDOC/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="DOCUMENTARY",RT Documentary (rttv)
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest?cb=20170426190523",Nat Geo Wild (84.17.50.102)
-http://84.17.50.102/natgeowild/index.m3u8
 
 #EXTINF:-1 tvg-id="TerraMaterWILD.de@English" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png" group-title="DOCUMENTARY",Terra Mater Wild (amagi.tv)
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
@@ -877,6 +919,8 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-KNOWLEDGE/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/500px-Crime_%2B_Investigation_Logo_10.2019.svg.png" group-title="DOCUMENTARY",Crime+Investigation (syok)
+http://syok.tv:25461/843839483/33999/2550
 
 
 
@@ -934,13 +978,20 @@ https://enterbcef94b.airspace-cdn.cbsivideo.com/master_7.m3u8
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="MOVIES & SHOWS",Mr. Bean (amagi.tv)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="MOVIES & SHOWS",Galaxy (syok)
+http://syok.tv:25461/843839483/33999/196
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="MOVIES & SHOWS",Galaxy Premium (syok)
+http://syok.tv:25461/843839483/33999/197
+
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/330px-Logo_tvN.svg.png" group-title="MOVIES & SHOWS",TVN (103.58.160.157)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TVN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/330px-Logo_tvN.svg.png" group-title="MOVIES & SHOWS",TVN MOVIES (202.150.161.212)
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/330px-Logo_tvN.svg.png" group-title="MOVIES & SHOWS", TVN MOVIES (103.58.160.157)
+#EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/330px-Logo_tvN.svg.png" group-title="MOVIES & SHOWS",TVN MOVIES (103.58.160.157)
 http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
+#EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/330px-Logo_tvN.svg.png" group-title="MOVIES & SHOWS",TVN MOVIES (syok)
+http://syok.tv:25461/843839483/33999/195
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png?_=20210920034610" group-title="MOVIES & SHOWS",BIOSKOP INDONESIA (202.150.161.212)
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
@@ -954,10 +1005,14 @@ http://103.58.160.157:8278/720-MUSIKINDONESIA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest?cb=20201205114958" group-title="MOVIES & SHOWS",Cinemax (transvision)
 http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest?cb=20201205114958" group-title="MOVIES & SHOWS",Cinemax (syok)
+http://syok.tv:25461/843839483/33999/192
 
 #EXTINF:-1 group-title="MOVIES & SHOWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/250px-Warner2018LA.png",WARNER BROS TV (103.58.160.157)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-WARNERTV/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SHOWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/250px-Warner2018LA.png",WARNER BROS TV (syok)
+http://syok.tv:25461/843839483/33999/193
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="MOVIES & SHOWS",HBO (transvision)
 http://103.58.160.157:8278/720-HBO/playlist.m3u8
@@ -967,9 +1022,27 @@ http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="MOVIES & SHOWS",HBO (syok)
+http://syok.tv:25461/843839483/33999/188
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="MOVIES & SHOWS",HBO Hits (syok)
+http://syok.tv:25461/843839483/33999/189
+#EXTINF:-1 group-title="MOVIES & SHOWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20101220234026",HBO Family (syok)
+http://syok.tv:25461/843839483/33999/190
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/500px-HBO_Signature.svg.png" group-title="MOVIES & SHOWS",HBO Signature (syok)
+http://syok.tv:25461/843839483/33999/191
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/330px-AXN_logo.svg.png" group-title="MOVIES & SHOWS",AXN (transvision)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-AXN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/330px-AXN_logo.svg.png" group-title="MOVIES & SHOWS",AXN (syok)
+http://syok.tv:25461/843839483/33999/239
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/330px-AXN_logo.svg.png" group-title="MOVIES & SHOWS",AXN (syok)
+http://syok.tv:25461/843839483/33999/198
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="ENTERTAIMENT",Rock Action (syok)
+http://syok.tv:25461/843839483/33999/240
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/960px-Rock_Entertainment.png" group-title="ENTERTAIMENT",Rock Entertaiment (syok)
+http://syok.tv:25461/843839483/33999/241
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Thrill_logo.svg/250px-Thrill_logo.svg.png" group-title="MOVIES & SHOWS",THRILL (103.58.160.157)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -983,9 +1056,16 @@ http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SHOWS" tvg-logo="https://i.postimg.cc/g0ft8QZm/ezgif-7fcea27e75a5aab2.png",CARTOON NETWORK (103.58.160.157)
+#EXTINF:-1 group-title="MOVIES & SHOWS" tvg-logo="https://i.postimg.cc/g0ft8QZm/ezgif-7fcea27e75a5aab2.png",Cartoon Netrwork (103.58.160.157)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SHOWS" tvg-logo="https://i.postimg.cc/g0ft8QZm/ezgif-7fcea27e75a5aab2.png",Cartoon Netrwork (syok)
+http://syok.tv:25461/843839483/33999/229
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="MOVIES & SHOWS",Nickelodeon (syok)
+http://syok.tv:25461/843839483/33999/230
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/960px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="MOVIES & SHOWS",Nick Jr (syok)
+http://syok.tv:25461/843839483/33999/231
 
 #EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/mycinemaeurope.jpg?raw=true" group-title="MOVIES & SHOWS",MY Cinema Europe (dens)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1135,6 +1215,18 @@ http://213.199.33.203:8081/live/ch1.m3u8?hls_ctx=0c9a943a
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="beIN Sports 2 Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903" group-title="BEIN SPORTS",BEIN SPORTS 2 (livedoomovies)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8?_t=1773179685053
+
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (syok)
+http://syok.tv:25461/843839483/33999/644
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (syok)
+http://syok.tv:25461/843839483/33999/18525
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",BEIN SPORTS 3 (syok)
+http://syok.tv:25461/843839483/33999/643
+
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (syok)
+http://syok.tv:25461/843839483/33999/23099
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",BEIN SPORTS 3 (syok)
+http://syok.tv:25461/843839483/33999/23100
 
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
