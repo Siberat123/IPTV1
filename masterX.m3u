@@ -1349,6 +1349,24 @@ http://ua.online24.pm/play/1103/350B326FB34F4B8/tracks-v1a1/mono.m3u8?token=350B
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg/revision/latest?cb=20200107204039",BEIN SPORTS 4 (online24)
 http://ua.online24.pm/play/1104/350B326FB34F4B8/tracks-v1a1/mono.m3u8?token=350B326FB34F4B8
 
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-1.png",BEIN SPORTS 1 (online24)
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-2.png",BEIN SPORTS 2 (online24)
+http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-3.png",BEIN SPORTS 3 (online24)
+http://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-4.png",BEIN SPORTS 4 (online24)
+http://ua.online24.pm/play/1104/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",beIN SPORTS 1 (213.199.33.203)
+http://213.199.33.203:8081/live/ch1.m3u8
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",beIN SPORTS 2 (213.199.33.203)
+http://213.199.33.203:8081/live/ch2.m3u8
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",beIN SPORTS 3 (213.199.33.203)
+http://213.199.33.203:8081/live/ch3.m3u8
+#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",beIN SPORTS 4 (213.199.33.203)
+http://213.199.33.203:8081/live/ch4.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA n (amagi.tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1895,6 +1913,13 @@ https://stream.camcloud.stream/stream/8dd8ad49bb05/playlist.m3u8
 https://stream.camcloud.stream/stream/075f2d3a2988/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://ibsouq.com/cdn/shop/collections/alwan_sticker_W6cmxH7cm_1_9eb8f556-1e6c-4a38-a602-100056d92c35_580x.png?v=1763895391",ALWAN SPORT 4 (camcloud)
 https://stream.camcloud.stream/stream/4994d2defc1a/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://ibsouq.com/cdn/shop/collections/alwan_sticker_W6cmxH7cm_1_9eb8f556-1e6c-4a38-a602-100056d92c35_580x.png?v=1763895391",ALWAN SPORT 2 (wildflower)
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://stream.camcloud.stream/stream/8dd8ad49bb05/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://ibsouq.com/cdn/shop/collections/alwan_sticker_W6cmxH7cm_1_9eb8f556-1e6c-4a38-a602-100056d92c35_580x.png?v=1763895391",ALWAN SPORT 3 (wildflower)
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://stream.camcloud.stream/stream/075f2d3a2988/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://ibsouq.com/cdn/shop/collections/alwan_sticker_W6cmxH7cm_1_9eb8f556-1e6c-4a38-a602-100056d92c35_580x.png?v=1763895391",ALWAN SPORT 4 (wildflower)
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://stream.camcloud.stream/stream/4994d2defc1a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-logo="https://www.alkass.net/assets/images/logo.png" group-title="SPORTS 0",ALKASS DIGITAL 1 (alkassdigital)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
