@@ -633,9 +633,13 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541168&exte
 #
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="WORLD NEWS",CNN (jmp2.uk)
 https://jmp2.uk/stvp-CHBD800001D0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="WORLD NEWS",CNN HEADLINES (jmp2.uk)
+https://jmp2.uk/stvp-ATBD190000101
 
 #EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Reuters_2008_vertical.svg/revision/latest?cb=20240525053744" group-title="WORLD NEWS",REUTERS (rakuten-uk)
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Reuters_2008_vertical.svg/revision/latest?cb=20240525053744" group-title="WORLD NEWS",REUTERS (jmp2.uk)
+https://jmp2.uk/stvp-DEBD4900001QV
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Al_Jazeera_English_2020_II.svg/revision/latest?cb=20230116010336" group-title="WORLD NEWS",ALJAZEERA (aljazeera)
 https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
@@ -645,6 +649,11 @@ http://103.58.160.157:8278/720-ALJAZEERA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/120px-WION_news_Logo.svg.png" group-title="WORLD NEWS",WION (cloudfront)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-id="14" tvg-chno="205" tvg-name="wion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/120px-WION_news_Logo.svg.png" group-title="WORLD NEWS",WION (akamaized)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8?hdnts=st%3D1778272646~exp%3D1778294246~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-wion%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F20c3c0d9-0256-43fe-bca6-70fdd490b957%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.3.221.183_yuppfast_2_channel_14_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.3.221.183_yuppfast_2_channel_14_-1~hmac%3Dca82d0101f373882d88d1a81417c97277844afbc28ee9c4ef06ea486fbef62fb
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="WORLD NEWS",ASTRO AWANI (cloudfront)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
@@ -2026,6 +2035,15 @@ http://169.150.223.25/MaxSport1HR/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Max_Sport.svg/960px-Max_Sport.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20220728122425" group-title="SPORTS 0",MAX SPORT 2 (169.150.223.25)
 http://169.150.223.25/MaxSport2HR/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/DIGI_Sport_1.png/960px-DIGI_Sport_1.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20241027173745" group-title="SPORTS 0",DIGI SPORT 1 (wisp)
+http://lb.wisp.cat/lb0/DigiSport_1_HD_RO/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/DIGI_Sport_2.png/960px-DIGI_Sport_2.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20241027173746" group-title="SPORTS 0",DIGI SPORT 2 (wisp)
+http://lb.wisp.cat/lb0/DigiSport_2_HD_RO/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DIGI_Sport_3.png/960px-DIGI_Sport_3.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20241027173748" group-title="SPORTS 0",DIGI SPORT 3 (wisp)
+http://lb.wisp.cat/lb0/DigiSport3FHDRO/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/DIGI_Sport_4.png/960px-DIGI_Sport_4.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20241027173749" group-title="SPORTS 0",DIGI SPORT 4 (wisp)
+http://lb.wisp.cat/lb0/DigiSport4FHDRO/video.m3u8?token=AUSnMTD
+
 
 
 
@@ -2076,11 +2094,11 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/82241
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="SPORTS X" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tudn.png",TUDN (realiptv)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/4640
 
-#EXTINF:-1 tvg-logo="https://www.flysat.com/images/uploads/Channel/sportitalia-solocalcio.png" group-title="SPORTS X",SOLO CALCIO (streamup)
+#EXTINF:-1 tvg-logo="https://vse-tv.net/picon/sportitalia-solocalcio-it.gif" group-title="SPORTS X",SOLO CALCIO (streamup)
 https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.flysat.com/images/uploads/Channel/sportitalia-solocalcio.png" group-title="SPORTS X",SOLO CALCIO (rakuten)
+#EXTINF:-1 tvg-logo="https://vse-tv.net/picon/sportitalia-solocalcio-it.gif" group-title="SPORTS X",SOLO CALCIO (rakuten)
 https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.flysat.com/images/uploads/Channel/sportitalia-solocalcio.png" group-title="SPORTS X",SOLO CALCIO (jmp2.uk)
+#EXTINF:-1 tvg-logo="https://vse-tv.net/picon/sportitalia-solocalcio-it.gif" group-title="SPORTS X",SOLO CALCIO (jmp2.uk)
 https://jmp2.uk/stvp-ITBC4700002CO
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Sportitalia_logo.svg/revision/latest?cb=20100602084122" group-title="SPORTS X",SPORT ITALIA (rakuten)
