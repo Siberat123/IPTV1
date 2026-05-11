@@ -2040,6 +2040,9 @@ http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="SPORTS 0",МАТЧ! (5.188.221.43)
 http://5.188.221.43:8080/play/match
 
+#EXTINF:-1 tvg-id="Football.ru" tvg-name="Football" tvg-logo="https://i.imgur.com/pEuaZVx.png" tvg-country="RU" group-title="SPORTS 0",Футбол (31.148.48.15)
+http://31.148.48.15/Futbol_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="SPORTS 0",Матч! Футбол 3 (185.57.68.33)
 http://185.57.68.33/110/mpegts
 
