@@ -1321,6 +1321,13 @@ https://jmp2.uk/rok-bc932f13c31e542db6e3e6247e7131bc.m3u8
 
 #ESPN SPORTS
 #
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN HD MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20180702212649" group-title="ESPN SPORTS",ESPN (planettvweb)
+http://planettvweb.com:8091/pablotorres/Ferpab8719/11991
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN 2 MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20160127215859" group-title="ESPN SPORTS",ESPN 2 (planettvweb)
+http://planettvweb.com:8091/pablotorres/Ferpab8719/11989
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN 3 MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/500px-ESPN3_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20220919203215" group-title="ESPN SPORTS",ESPN 3 (planettvweb)
+http://planettvweb.com:8091/pablotorres/Ferpab8719/11990
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20180702212649" group-title="ESPN SPORTS",ESPN (ottct)
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580801
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20160127215859" group-title="ESPN SPORTS",ESPN 2 (ottct)
@@ -1406,6 +1413,19 @@ http://190.0.247.38:8000/play/a012
 
 #SKY SPORTS
 #
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportcalcio.it" tvg-name="|IT| SKY SPORT CALCIO  ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYCALCIO1HD.png" group-title="SKY SPORTS",SKY SPORT CALCIO (lordstreams)
+http://lordstreams.live:80/9857855271/8369553594/661330
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportcalcio.it" tvg-name="|IT| SKY SPORT CALCIO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYCALCIOINFO.png" group-title="SKY SPORTS",SKY SPORT CALCIO (lordstreams)
+http://lordstreams.live:80/9857855271/8369553594/661332
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportfootball.it" tvg-name="|IT| SKY SPORT FOOT ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTHD.png" group-title="SKY SPORTS",SKY SPORT MAX (lordstreams)
+http://lordstreams.live:80/9857855271/8369553594/661339
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsFootball.uk" tvg-name="|IT| SKY SPORT FOOTBALL ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/SKYSPORTS.png" group-title="SKY SPORTS",SKY SPORT MAX (lordstreams)
+http://lordstreams.live:80/9857855271/8369553594/661340
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsFootball.uk" tvg-name="|IT| SKY SPORT FOOTBALL ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTHD.png" group-title="SKY SPORTS",SKY SPORT MAX (lordstreams)
+http://lordstreams.live:80/9857855271/8369553594/661341
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportmax.it" tvg-name="|IT| SKY SPORT MAX FULL ᴴᴰ" tvg-logo="" group-title="SKY SPORTS",SKY SPORT MAX (lordstreams)
+http://lordstreams.live:80/9857855271/8369553594/661359
+
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png",Sky Sports Premier League (ttvb.eu)
 https://cdn-2.ttvb.eu.org/api/Sky-Sports-EPL/index.m3u8
 
@@ -1466,6 +1486,19 @@ http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412242.ts
 http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412251.ts
 #EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT : SPORT TV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Sporttv4_White.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20201210155306" group-title="SPORT TV",SPORT TV 4 (totalplay)
 http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412258.ts
+
+#EXTINF:-1 tvg-id="SportTVMais.pt" tvg-name="PT : SPORT TV +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Sporttv%2B_White.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20201210161604" group-title="SPORT TV",SPORT TV (totalplay)
+http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412270.ts
+#EXTINF:-1 tvg-id="SportTVMais.pt" tvg-name="PT : SPORT TV +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Sporttv%2B_White.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20201210161604" group-title="SPORT TV",SPORT TV + (totalplay)
+http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412234.ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT : SPORT TV 1 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Sporttv1_White.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20201210154542" group-title="SPORT TV",SPORT TV 1 (totalplay)
+http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412239.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT : SPORT TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Sporttv3_White.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20201210155156" group-title="SPORT TV",SPORT TV 3 (totalplay)
+http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412257.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT : SPORT TV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Sporttv4_White.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20201210155306" group-title="SPORT TV",SPORT TV 4 (totalplay)
+http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412262.ts
+
+
 
 #EXTINF:-1 tvg-id="SportTVMais.pt" tvg-name="PT: Sport TV Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Sporttv%2B_White.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20201210161604" group-title="SPORT TV",SPORT TV+ (bedroombullyonline)
 http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700341
@@ -1736,12 +1769,26 @@ http://cdn.tv-rds.workers.dev/ElevenSports3PL.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/ElevenSports4-logo.png",ELEVEN SPORTS 4 (cdn)
 http://cdn.tv-rds.workers.dev/ElevenSports4PL.m3u8
 
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://i120.fastpic.org/big/2022/1002/c9/1fd69b23165beb5dffff35db90aa3bc9.png",ELEVEN SPORTS 1 (bocian)
+http://bocian.io:8880/NL753811/552284900/105525
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://i120.fastpic.org/big/2022/1002/97/f64619a7536f43d291f14fde0670c297.png",ELEVEN SPORTS 2 (bocian)
+http://bocian.io:8880/NL753811/552284900/105526
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://i120.fastpic.org/big/2022/1002/07/59ad67698a1de0e142fafa74c4850107.png",ELEVEN SPORTS 3 (bocian)
+http://bocian.io:8880/NL753811/552284900/105527
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/960px-SporTV_2017_logo.svg.png?_=20170818060139" group-title="SPORTS 0",SPOR TV 1 (ssrv88)
 http://ssrv88.com:80/7897442120/8964203798/205558.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/960px-SporTV_2_2017_logo.svg.png?_=20170818055103" group-title="SPORTS 0",SPOR TV 2 (ssrv88)
 http://ssrv88.com:80/7897442120/8964203798/205566.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/960px-SporTV_3_2017_logo.svg.png?_=20170818055345" group-title="SPORTS 0",SPOR TV 3 (ssrv88)
 http://ssrv88.com:80/7897442120/8964203798/205574.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/960px-SporTV_2017_logo.svg.png?_=20170818060139" group-title="SPORTS 0",SPOR TV 1 (ssrv88)
+http://ssrv88.com:80/7897442120/8964203798/205555.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/960px-SporTV_2_2017_logo.svg.png?_=20170818055103" group-title="SPORTS 0",SPOR TV 2 (ssrv88)
+http://ssrv88.com:80/7897442120/8964203798/205564.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/960px-SporTV_3_2017_logo.svg.png?_=20170818055345" group-title="SPORTS 0",SPOR TV 3 (ssrv88)
+http://ssrv88.com:80/7897442120/8964203798/205572.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest/scale-to-width-down/1000?cb=20220226104639&path-prefix=vi" group-title="SPORTS 0",CCTV5 (38.75.136.137)
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
@@ -1968,6 +2015,13 @@ http://cdn.tv-rds.workers.dev/PolsatSportPremium1.m3u8
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/Polsat_Sport_Premium_2_logo.png",POLSAT SPORT PREMIUM 2 (cdn)
 http://cdn.tv-rds.workers.dev/PolsatSportPremium2.m3u8
 
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/Polsat-sport_logo.png",POLSAT SPORT 1 (seetv)
+http://de.seetv.cc/play/5456/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/Polsat-sport-3-logo.png",POLSAT SPORT 3 (seetv)
+http://de.seetv.cc/play/5457/632F375BC8243BC/video.m3u8
+
+
+
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/PremierSports-logo.png",PREMIER SPORTS 1 (cdn)
 http://cdn.tv-rds.workers.dev/PremierSports1.m3u8
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/PremierSports-logo.png",PREMIER SPORTS 2 (cdn)
@@ -2147,6 +2201,8 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/35633f08c98857cb9e85c91eae17c0d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749856192932_LoMejorDeLigaMX_HUD_ChannelLogo_260x147px.png" group-title="SPORTS X",VIX LO MEJOR DE LIGA MX (jmp2.uk)
 https://jmp2.uk/rok-35633f08c98857cb9e85c91eae17c0d5.m3u8
+#EXTINF:-1 tvg-id="LaLiga.es" tvg-name="VIX Premium La Liga" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2022/07/16/vix-juegos-exclusivos-futbol-mexicano-1.jpg" group-title="SPORTS X",VIX LO MEJOR DE LIGA MX (planettvweb)
+http://planettvweb.com:8091/pablotorres/Ferpab8719/132850
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="SPORTS X", REAL MADRID TV (akamaized)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
@@ -2276,137 +2332,3 @@ https://live-azd1112.telewebion.ir/ek/sport1/live/108050p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="SPORTS X", NBA-TV (103.148.44.38)
 http://103.148.44.38:8000/play/a03m/index.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportcalcio.it" tvg-name="|IT| SKY SPORT CALCIO  ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYCALCIO1HD.png" group-title="SPORTS Z",|IT| SKY SPORT CALCIO  ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661330
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportcalcio.it" tvg-name="|IT| SKY SPORT CALCIO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYCALCIOINFO.png" group-title="SPORTS Z",|IT| SKY SPORT CALCIO ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661332
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportcalcio.it" tvg-name="|IT| SKY SPORT CALCIO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSUPERCALCIOHD.png" group-title="SPORTS Z",|IT| SKY SPORT CALCIO ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661331
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportfootball.it" tvg-name="|IT| SKY SPORT FOOT ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTHD.png" group-title="SPORTS Z",|IT| SKY SPORT FOOT ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661339
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsFootball.uk" tvg-name="|IT| SKY SPORT FOOTBALL ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/SKYSPORTS.png" group-title="SPORTS Z",|IT| SKY SPORT FOOTBALL ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661340
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsFootball.uk" tvg-name="|IT| SKY SPORT FOOTBALL ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTHD.png" group-title="SPORTS Z",|IT| SKY SPORT FOOTBALL ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661341
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportmax.it" tvg-name="|IT| SKY SPORT MAX FULL ᴴᴰ" tvg-logo="" group-title="SPORTS Z",|IT| SKY SPORT MAX FULL ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661359
-
-#EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="FR|  Ligue 1 +1" tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="SPORTS Z",FR|  Ligue 1 +1
-http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1102178
-#EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="FR|  Ligue 1 +2" tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title=""SPORTS Z",FR|  Ligue 1 +2
-http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1102179
-#EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="FR|  Ligue 1 +3" tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title=""SPORTS Z",FR|  Ligue 1 +3
-http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1102180
-#EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="FR|  Ligue 1 +4" tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title=""SPORTS Z",FR|  Ligue 1 +4
-http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1102181
-#EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="FR|  Ligue 1 +5" tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title=""SPORTS Z",FR|  Ligue 1 +5
-http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1102182
-#EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="FR|  Ligue 1 +6" tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title=""SPORTS Z",FR|  Ligue 1 +6
-http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1102183
-#EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="FR|  Ligue 1 +7" tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title=""SPORTS Z",FR|  Ligue 1 +7
-http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1102184
-#EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="FR|  Ligue 1 +8" tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title=""SPORTS Z",FR|  Ligue 1 +8
-http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1102185
-#EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="FR|  Ligue 1 +9" tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title=""SPORTS Z",FR|  Ligue 1 +9
-http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1102186
-#EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="FR|  Ligue 1 +10" tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title=""SPORTS Z",FR| Ligue 1 +10
-http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1102187
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raisport.it" tvg-name="|IT| RAI SPORT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAISPORT.png" group-title="SPORTS Z",|IT| RAI SPORT ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661361
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raisport+.ch" tvg-name="|IT| RAI SPORT+ ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAISPORT.png" group-title="SPORTS Z",|IT| RAI SPORT+ ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661360
-
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN 2 MX HD" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/70997_logo_espn_2.png" group-title="SPORTS Z",ESPN 2 MX HD
-http://planettvweb.com:8091/pablotorres/Ferpab8719/11989
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN 3 MX HD" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/espn-3-logo-01.png" group-title="SPORTS Z",ESPN 3 MX HD
-http://planettvweb.com:8091/pablotorres/Ferpab8719/11990
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="SPORTS Z",ESPN HD MX
-http://planettvweb.com:8091/pablotorres/Ferpab8719/11991
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN PLUS MX HD" tvg-logo="https://alruckershow.com/wp-content/uploads/2018/04/espn-plus-logo.png" group-title="SPORTS Z",ESPN PLUS MX HD
-http://planettvweb.com:8091/pablotorres/Ferpab8719/11992
-
-#EXTINF:-1 tvg-id="LaLiga.es" tvg-name="VIX Premium La Liga" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2022/07/16/vix-juegos-exclusivos-futbol-mexicano-1.jpg" group-title="SPORTS Z",VIX Premium La Liga
-http://planettvweb.com:8091/pablotorres/Ferpab8719/132850
-
-#EXTINF:-1 group-title="SPORTS Z" tvg-logo="http://i120.fastpic.org/big/2022/1002/c9/1fd69b23165beb5dffff35db90aa3bc9.png",ELEVEN SPORTS 1 HD
-http://bocian.io:8880/NL753811/552284900/105525
-#EXTINF:-1 group-title="SPORTS Z" tvg-logo="http://i120.fastpic.org/big/2022/1002/97/f64619a7536f43d291f14fde0670c297.png",ELEVEN SPORTS 2 HD
-http://bocian.io:8880/NL753811/552284900/105526
-#EXTINF:-1 group-title="SPORTS Z" tvg-logo="http://i120.fastpic.org/big/2022/1002/07/59ad67698a1de0e142fafa74c4850107.png",ELEVEN SPORTS 3 HD
-http://bocian.io:8880/NL753811/552284900/105527
-
-
-#EXTINF:-1 tvg-id="SportTVMais.pt" tvg-name="PT : SPORT TV +" tvg-logo="http://live.phenixiptv.com:8080/images/a451219bf2a8e0f0e96d53d0da054fa8.png" group-title="SPORTS Z",PT : SPORT TV +
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412231.ts
-#EXTINF:-1 tvg-id="SportTVMais.pt" tvg-name="PT : SPORT TV + ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/a451219bf2a8e0f0e96d53d0da054fa8.png" group-title="SPORTS Z",PT : SPORT TV + ᶠᴴᴰ
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412234.ts
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT : SPORT TV 1 HD HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay2mTSJvJpcSD23539K81MWsix6pdtDA6UDqYSIXayTZvqXAC_KE1m64eXTcq1xUaPDWbkIsvDc-vfv9ocbtPnar1rlfN3ZIaBYqf2P4tNtTBJ4uEtCsa9cDW4-0jrd9UNyQ_LXYkXs1VQndW3R66p-Q.png" group-title="SPORTS Z",PT : SPORT TV 1 HD HEVC
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412239.ts
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT : SPORT TV 1 ᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/145ab6f9e5c19d2bfa60ec2bcedf6195.png" group-title="SPORTS Z",PT : SPORT TV 1 ᴴᴰ
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412242.ts
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT : SPORT TV 3 ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/aa7c9dd5238e7a946b8031b7218c8279.png" group-title="SPORTS Z",PT : SPORT TV 3 ᶠᴴᴰ
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412257.ts
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT : SPORT TV 3" tvg-logo="http://live.phenixiptv.com:8080/images/aa7c9dd5238e7a946b8031b7218c8279.png" group-title="SPORTS Z",PT : SPORT TV 3
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412251.ts
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT : SPORT TV 4" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jBFoQrbeelLMY8-Txy1a3ac.png" group-title="SPORTS Z",PT : SPORT TV 4
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412258.ts
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT : SPORT TV 4 LOW" tvg-logo="" group-title="SPORTS Z",PT : SPORT TV 4 LOW
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412262.ts
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="PT : SPORT TV 5 ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jAH3WOmYBe1nVvVexo_pmkw.png" group-title="SPORTS Z",PT : SPORT TV 5 ᶠᴴᴰ
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412270.ts
-
-
-#EXTINF:-1 tvg-id="ESPN1.nl" tvg-name="|NL| ESPN 1 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="SPORTS Z",|NL| ESPN 1 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580801
-#EXTINF:-1 tvg-id="ESPN2.nl" tvg-name="|NL| ESPN 2 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="SPORTS Z",|NL| ESPN 2 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580802
-#EXTINF:-1 tvg-id="ESPN3.nl" tvg-name="|NL| ESPN 3 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="SPORTS Z",|NL| ESPN 3 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580803
-#EXTINF:-1 tvg-id="ESPN4.nl" tvg-name="|NL| ESPN 4 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="SPORTS Z",|NL| ESPN 4 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580804
-
-
-
-#EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-name="|NL| ZIGGO SPORT 2 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTVOETBAL.png" group-title="SPORTS Z",|NL| ZIGGO SPORT 2 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580807
-#EXTINF:-1 tvg-id="ZiggoSportGolf.nl" tvg-name="|NL| ZIGGO SPORT 3 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTGOLF.png" group-title="SPORTS Z",|NL| ZIGGO SPORT 3 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580811
-#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-name="|NL| ZIGGO SPORT 4 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTRACING.png" group-title="SPORTS Z",|NL| ZIGGO SPORT 4 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580808
-#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-name="|NL| ZIGGO SPORT 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORT.png" group-title="SPORTS Z",|NL| ZIGGO SPORT 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580805
-#EXTINF:-1 tvg-id="ZiggoSportDocu.nl" tvg-name="|NL| ZIGGO SPORT 5 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTDOCU.png" group-title="SPORTS Z",|NL| ZIGGO SPORT 5 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580809
-#EXTINF:-1 tvg-id="ZiggoSportTennis.nl" tvg-name="|NL| ZIGGO SPORT 6 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTTENNIS.png" group-title="SPORTS Z",|NL| ZIGGO SPORT 6 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580810
-
-
-#EXTINF:0 tvg-id="Xpolsat-sport" tvg-name="Polsat Sport" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport.png" group-title="SPORTS Z", Polsat Sport
-http://de.seetv.cc/play/5456/632F375BC8243BC/video.m3u8
-#EXTINF:0 tvg-id="Xpolsat-sport-extra" tvg-name="Polsat Sport Extra" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-extra.png" group-title="SPORTS Z", Polsat Sport Extra
-http://de.seetv.cc/play/5457/632F375BC8243BC/video.m3u8
-#EXTINF:0 tvg-id="Xpolsat-sport-pr1" tvg-name="Polsat Sport Premium 1 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr1.png" group-title="SPORTS Z", Polsat Sport Premium 1 HD
-http://de.seetv.cc/play/5447/632F375BC8243BC/video.m3u8
-#EXTINF:0 tvg-id="Xpolsat-sport-pr2" tvg-name="Polsat Sport Premium 2 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr2.png" group-title="SPORTS Z", Polsat Sport Premium 2 HD
-http://de.seetv.cc/play/5448/632F375BC8243BC/video.m3u8
-
-
-
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SPORTV FHD¹" tvg-logo="https://i.postimg.cc/bNmQzDKr/SporTV_FHD.png" group-title="SPORTS Z",SPORTV FHD¹
-http://ssrv88.com:80/7897442120/8964203798/205555.ts
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORTV 2 FHD²" tvg-logo="https://i.postimg.cc/RVZHbCNB/SporTV2FHD².png" group-title="SPORTS Z",SPORTV 2 FHD²
-http://ssrv88.com:80/7897442120/8964203798/205564.ts
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORTV 3 FHD²" tvg-logo="https://i.postimg.cc/MHKv4tZD/SporTV3FHD².png" group-title="SPORTS Z",SPORTV 3 FHD²
-http://ssrv88.com:80/7897442120/8964203798/205572.ts
