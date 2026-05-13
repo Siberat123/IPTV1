@@ -1413,6 +1413,27 @@ http://190.0.247.38:8000/play/a012
 
 #SKY SPORTS
 #
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png",Sky Sports Premier League (ktkguru) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015489
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png",Sky Sports Premier League (ktkguru) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/17285
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png",Sky Sports Premier League (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/365044
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png",Sky Sports Premier League (ktkguru) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/17285
+#EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png",Sky Sports Football (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/17288
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="SKY SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",Sky Sports Main Mix (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/17284
+
+
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportcalcio.it" tvg-name="|IT| SKY SPORT CALCIO  ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYCALCIO1HD.png" group-title="SKY SPORTS",SKY SPORT CALCIO (lordstreams)
 http://lordstreams.live:80/9857855271/8369553594/661330
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportcalcio.it" tvg-name="|IT| SKY SPORT CALCIO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYCALCIOINFO.png" group-title="SKY SPORTS",SKY SPORT CALCIO (lordstreams)
@@ -1662,6 +1683,32 @@ http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412213.ts
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" group-title="SPORTS 0",HUB SPORTS 2 (4kgood)
 http://4kgood.org/live/4o48up5evz/r4fiast66u/280828.ts
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",HUB PREMIER 1 (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/324806
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 0",HUB PREMIER 2 (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/324807
+#EXTINF:-1 group-title="SPORTS 0",HUB PREMIER 3 (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/324808
+#EXTINF:-1 group-title="SPORTS 0",HUB PREMIER 4 (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/324809
+#EXTINF:-1 group-title="SPORTS 0",HUB PREMIER 5 (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/324810
+#EXTINF:-1 group-title="SPORTS 0",HUB PREMIER 6 (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/324811
+#EXTINF:-1 group-title="SPORTS 0",HUB PREMIER 7 (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/324812
+#EXTINF:-1 group-title="SPORTS 0",HUB PREMIER 8 (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/324813
+
+
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png",HUB PREMIER 1 (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-2.png",HUB PREMIER 2 (greenslime)
@@ -1805,6 +1852,21 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Sport2.png?_=20241103065253" group-title="SPORTS 0",SPORT 2 (185.98.211.8)
 http://185.98.211.8:81/sport2/index.m3u8?token=test
+
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-1.png",NOW SPORTS 1 (ktkguru)
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/438868
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-2.png",NOW SPORTS 2 (ktkguru)
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/438869
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-3.png",NOW SPORTS 3 (ktkguru)
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/438870
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-4.png",NOW SPORTS 4 (ktkguru)
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/438871
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-5.png",NOW SPORTS 5 (ktkguru)
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/438872
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-6.png",NOW SPORTS 6 (ktkguru)
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/438873
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-7.png",NOW SPORTS 7 (ktkguru)
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/438874
 
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-1.png",NOW SPORTS 1 (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
@@ -2020,7 +2082,10 @@ http://de.seetv.cc/play/5456/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/Polsat-sport-3-logo.png",POLSAT SPORT 3 (seetv)
 http://de.seetv.cc/play/5457/632F375BC8243BC/video.m3u8
 
-
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/PremierSports-logo.png",PREMIER SPORTS 1 (ktkguru)
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/748421
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/PremierSports-logo.png",PREMIER SPORTS 2 (ktkguru)
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/748422
 
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://freeshot.live/upload/source/PremierSports-logo.png",PREMIER SPORTS 1 (cdn)
 http://cdn.tv-rds.workers.dev/PremierSports1.m3u8
@@ -2055,7 +2120,11 @@ https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="SPORTS 0",TRUE SPORTS 3 (jco5sjujta)
 https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="FSALA" tvg-name="ARG: FOX SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/120px-FOX_Sports_logo.svg.png" group-title="SPORTS 0",FOX SPORTS (sinlimitestv)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/120px-FOX_Sports_logo.svg.png" group-title="SPORTS 0",FOX DEPORTES (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/71958
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/120px-FOX_Sports_logo.svg.png" group-title="SPORTS 0",FOX SPORTS (sinlimitestv)
 http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165655
 #EXTINF:-1 tvg-id="FS2AR" tvg-name="ARG: FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/120px-Fox_sports_2_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20170519073754" group-title="SPORTS 0",FOX SPORTS 2 (sinlimitestv)
 http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165656
