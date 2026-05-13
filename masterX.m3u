@@ -1225,30 +1225,12 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #BEIN SPORTS
 #
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png?_=20240407181723" group-title="BEIN SPORTS",BEIN SPORTS (fastream)
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/33360
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png?_=20240407181723" group-title="BEIN SPORTS",BEIN SPORTS (23.237.104.106)
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (213.199.33.203)
-http://213.199.33.203:8081/live/ch1.m3u8?hls_ctx=0c9a943a
-
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="beIN Sports 2 Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903" group-title="BEIN SPORTS",BEIN SPORTS 2 (livedoomovies)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8?_t=1773179685053
-
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607" group-title="BEIN SPORTS",BEIN SPORTS 1 (Rochdi@starshare)
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903" group-title="BEIN SPORTS",BEIN SPORTS 2 (Rochdi@starshare)
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652311.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110" group-title="BEIN SPORTS",BEIN SPORTS 3 (Rochdi@starshare)
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652312.ts
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="beIN Sports 1 Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607" group-title="BEIN SPORTS",BEIN SPORTS 1 (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/348325
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="beIN Sports 2 Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903" group-title="BEIN SPORTS",BEIN SPORTS 2 (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/575400
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="beIN Sports 1 Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607" group-title="BEIN SPORTS",BEIN SPORTS 1 (truevision)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1765,6 +1747,16 @@ http://185.132.134.159:80/sport5/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uvpyps1446212972.png" group-title="SPORTS 0",YES SPORT 6 (185.132.134.159)
 http://185.132.134.159:80/sport6/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/TNT_Sports_1_Stacked_White.svg/revision/latest?cb=20260225232928",TNT Sports 1 (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/348297
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/TNT_Sports_2_Stacked_White.svg/revision/latest?cb=20260225233958",TNT Sports 2 (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/348298
+#EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/TNT_Sports_3_Stacked_White.svg/revision/latest?cb=20260225234923",TNT Sports 3 (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/17279
+
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/TNT_Sports_1_Stacked_White.svg/revision/latest?cb=20260225232928",TNT Sports 1 (greenslime)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/16552.ts
 #EXTINF:-1 group-title="SPORTS 0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/TNT_Sports_1_Stacked_White.svg/revision/latest?cb=20260225232928",TNT Sports 1 (greenslime)
@@ -2260,6 +2252,10 @@ https://jmp2.uk/plu-66461eb33d173b000805ecd3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/960px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="SPORTS X",LA lIGA INSIDE (cloudfront)
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/960px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="SPORTS X",LA LIGA TV (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/912772
+
 #EXTINF:-1 tvg-id="GolClassics.es@SD" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="SPORTS X",GOAL CLASSICS (cloudfront)
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 #EXTINF:-1 tvg-id="GolClassics.es@SD" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="SPORTS X",GOAL CLASSICS (cloudfront)
@@ -2278,6 +2274,18 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Inter_TV_-_Logo_2017.svg/960px-Inter_TV_-_Logo_2017.svg.png" group-title="SPORTS X",INTER TV (akamaized)
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS X",MANCHESTER UNITED TV (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/348278
+
+#EXTINF:-1 group-title="SPORTS X",LIVERPOOL TV (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/150244
+
+#EXTINF:-1 group-title="SPORTS X",GLASGOW RANGERS TV (ktkguru)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/980419
 
 #EXTINF:-1 tvg-id="GBBD2300003IK"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_of_Red_bull.svg/960px-Logo_of_Red_bull.svg.png" group-title="SPORTS X",RED BULL TV (redbull.tv)
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/id/en/playlist.m3u8
