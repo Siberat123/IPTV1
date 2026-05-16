@@ -1664,6 +1664,16 @@ http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580809
 #EXTINF:-1 tvg-id="ZiggoSportTennis.nl" tvg-name="|NL| ZIGGO SPORT 6 4K" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png" group-title="SPORTS 0",ZIGGO SPORT 6 (ottct)
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580810
 
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png",ELTA SPORT 1 (rakyattv)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-1
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png",ELTA SPORT 2 (rakyattv)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-2
+#EXTINF:-1 tvg-id="" group-title="SPORTS 0" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png",ELTA SPORT 3 (rakyattv)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-3
+
 
 
 
