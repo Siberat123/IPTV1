@@ -1268,6 +1268,23 @@ http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1090647
 #EXTVLCOPT:http-header=Authorization: Bearer 6B01DE632742B297344114A877424208
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1090648
 
+#EXTINF:-1 tvg-id="1090648" group-title="SPORTS MIX 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png",HUB SPORTS 2 (rakyattv)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-badminton-2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png" group-title="SPORTS MIX 1",HUB SPORTS 3 (852851)
+https://iptv.852851.xyz/ch/874e51c0f277826e87073125e044dad9/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042952565979_23.png" group-title="SPORTS MIX 1",HUB SPORTS 4 (852851)
+https://iptv.852851.xyz/ch/24f90e2bf4ba913c0d297ccd5e0684ce/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042641983979_50.png" group-title="SPORTS MIX 1",HUB SPORTS 5 (852851)
+https://iptv.852851.xyz/ch/6a0c4b49ecf7a9f8c84d23f2d88ed22d/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042824169600_35.png" group-title="SPORTS MIX 1",HUB SPORTS 6 (852851)
+https://iptv.852851.xyz/ch/734b2377606bd6de69ec71436c224d40/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2026/05/16/20260516042457780222_92.png" group-title="SPORTS MIX 1",HUB SPORTS 7 (852851)
+https://iptv.852851.xyz/ch/9590989cb53f0e47448f53abe5ff4ee8/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2026/05/16/20260516042508849653_75.png" group-title="SPORTS MIX 1",HUB SPORTS 8 (852851)
+https://iptv.852851.xyz/ch/187295c39cc8f118e8c128aa5703e470/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="SPORTS MIX 1",HUB PREMIER 1 (ktkguru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/324806
@@ -1545,6 +1562,24 @@ http://169.150.223.25/MaxSport1HR/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Max_Sport.svg/960px-Max_Sport.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20220728122425" group-title="SPORTS MIX 2",MAX SPORT 2 (169.150.223.25)
 http://169.150.223.25/MaxSport2HR/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png" group-title="SPORTS MIX 2",MAX SPORT 1 (77.46.130.252)
+http://77.46.130.252:99/maxsport1
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png" group-title="SPORTS MIX 2",MAX SPORT 2 (77.46.130.252)
+http://77.46.130.252:99/maxsport2
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4j70fr1641505813.png" group-title="SPORTS MIX 2",MAX SPORT 3 (77.46.130.252)
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/o0kgrq1641505828.png" group-title="SPORTS MIX 2",MAX SPORT 4 (77.46.130.252)
+http://77.46.130.252:99/maxsport4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png" group-title="SPORTS MIX 2",MAX SPORT 1 (213.169.39.30)
+http://213.169.39.30:5138
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png" group-title="SPORTS MIX 2",MAX SPORT 2 (213.169.39.30)
+http://213.169.39.30:5140
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4j70fr1641505813.png" group-title="SPORTS MIX 2",MAX SPORT 3 (213.169.39.30)
+http://213.169.39.30:5142
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/o0kgrq1641505828.png" group-title="SPORTS MIX 2",MAX SPORT 4 (213.169.39.30)
+http://213.169.39.30:5130
+
 #EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Ziggo_Sport_2026_S.svg/revision/latest?cb=20260115185932",ZIGGO SPORT (cdn)
 http://cdn.tv-rds.workers.dev/ZiggoSport.m3u8
 #EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Ziggo_Sport_2_2026_S.svg/revision/latest?cb=20260115191131",ZIGGO SPORT 2 (cdn)
@@ -1609,6 +1644,9 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-pl-2
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png",ESPN 2 (cdn)
 http://cdn.tv-rds.workers.dev/ESPN2BR.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVycPrqcSQ74386GOn1z8JGgOC-9Pg5mvSGw&s",DIGI SPORT 1 (bekaks)
+http://cmskos.bekaks.net:777/live/valard_klient2/PhcWLtKTuc/2466.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://freeshot.live/upload/source/Viasat-Sport-1-Sweden.png",VIASAT SPORT (cdn)
 http://cdn.tv-rds.workers.dev/ViasatSportSE.m3u8
