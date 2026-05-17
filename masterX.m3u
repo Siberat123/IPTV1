@@ -1805,3 +1805,76 @@ http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 http://5.188.221.43:8080/play/match
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="https://files.metropoles.com/static/expediente/assets/images/general/portal-metropoles.jpg",Metropoles Esportes 1
+http://425.sshgarem.com:80/Dbdjsk/leo334/4984307
+
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="https://imagem.natelinha.uol.com.br/original/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg",PREMIERE CLUBES HD²
+http://425.sshgarem.com:80/Dbdjsk/leo334/1487673
+
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="https://i.imgur.com/0CJGGgd.png",Sport Italia (1080p) (ita1) (Italian) (Sports) - 1080P
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/405-sisolocalciohd.png",SPORTITALIA SOLOCALCIO
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4",sporting tv
+http://znty.dyndns.org:5010/hls/sporting.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="⚽ SPORTS MIX 4",BeIN SPORTS XTRA (720p)
+https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="⚽ SPORTS MIX 4",BeIN SPORTS XTRA En Espanol (720p)
+https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="⚽ SPORTS MIX 4",BeIN Sports XTRA (1080p)
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="⚽ SPORTS MIX 4",Futbol (1080p)
+https://live.teleradiocom.tj/8/3m.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="⚽ SPORTS MIX 4",Football
+http://31.148.48.15/Futbol_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png",Premier Sports 1
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89089.ts
+
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png",Premier Sports 2
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89090.ts
+
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="https://www.fontedecanais.io/logos/canais/sportynet.png",SPORTYNET 01
+http://425.sshgarem.com:80/Dbdjsk/leo334/129968
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="https://www.fontedecanais.io/logos/canais/sportynet.png",SPORTYNET 02
+http://425.sshgarem.com:80/Dbdjsk/leo334/129971
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="https://www.fontedecanais.io/logos/canais/sportynet.png",SPORTYNET 03
+http://425.sshgarem.com:80/Dbdjsk/leo334/129974
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="https://www.fontedecanais.io/logos/canais/sportynet.png",SPORTYNET 04
+http://425.sshgarem.com:80/Dbdjsk/leo334/129977
+
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4",SPORTYTV 🇨🇿
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="https://iili.io/qopndRp.png",TNT Sports
+http://redworld.pro:8880/luis738049207/98756479239/327919
+
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4",Viasat sport
+https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4",viju+ Sport
+http://178.134.1.158:8081/viasatsport/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="https://i.imgur.com/I2dltZW.png",ČT sport
+http://212.102.38.45/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ (720p) (rus1) (Russian) (Sports) - 720P
+http://31.148.48.15/Boks_TV/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="https://i.imgur.com/udTzwzu.png",МАТЧ! Арена (720p) (rus2) (Russian) (Sports) - 720P
+http://31.148.48.15/Match_Arena_HD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="https://i.imgur.com/5XWpF19.png",МАТЧ! Игра (720p) (rus2) (Russian) (Sports) - 720P
+http://31.148.48.15/Match_Igra_HD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORTS MIX 4" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол (720p) (rus2) (Russian) (Sports) - 720P
+http://31.148.48.15/Futbol_HD/index.m3u8
