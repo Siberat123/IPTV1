@@ -21,6 +21,8 @@ https://s.id/Shareext_liga1_m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (light-ott)
 http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058862&extension=ts&play_token=XMOx1ovd3r
 
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (202.169.224.202)
+http://202.169.224.202:8800/udp/239.9.1.34:1234
 #EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (king-4k)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png" group-title="INDO NASIONAL",MNC TV (e-cdn)
@@ -205,6 +207,9 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 #INDO LOKAL
 #
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Hip_Hip_Horee.png" group-title="INDO LOKAL",HIP HIP HOREE (202.169.224.202)
+http://202.169.224.202:8800/udp/239.9.1.28:1234
+
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO LOKAL",RTV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
@@ -253,6 +258,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://www.dens.tv/images/default/logo-white.png" group-title="INDO LOKAL",DENS PLAY (dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+
+#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_Citra_Entertainment.png/960px-Logo_Citra_Entertainment.png",CITRA ENTERTAINMENT (202.169.224.202)
+http://202.169.224.202:8800/udp/239.9.1.27:1234
+#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg?_=20230205014000",CITRA MUSLIM (202.169.224.202)
+http://202.169.224.202:8800/udp/239.9.1.14:1234
 
 #EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Celebrities_TV.png/500px-Celebrities_TV.png",CELEBRITIES TV (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541195&extension=ts&play_token=J4RzsLFWgA
@@ -389,7 +399,6 @@ https://hgmtv.com:19360/asthatv/1080p.m3u8
 #EXTINF:-1 tvg-id="AsthaTV.id@HD" tvg-logo="https://asthatv.com/wp-content/uploads/2026/02/Logo-Astha.png" group-title="INDO LOKAL",ASTHA TV (hgmtv)
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu5z5yuIgkWOexLTjvuejIeNCl6LAHnEn43g&s" group-title="INDO LOKAL",BALIKPAPAN TV (streamlock)
 https://5bf7b725107e5.streamlock.net/btv/btv/chunklist_w570891310.m3u8
 
@@ -455,6 +464,7 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
 
 #EXTINF:-1 tvg-id="JogjaIstimewaTV.id@SD" tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="INDO LOKAL",JI TV (103.255.15.222)
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+
 
 
 
@@ -575,8 +585,8 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_o
 #EXTINF:-1 tvg-logo="https://file.fin.co.id/uploads/fin-news/images/2026/02/25/viral-kemunculan-mbg-tv-wakil-kepala-bgn-beri-dukungan-151853-600x420.webp" group-title="INDO NEWS",MBG TV (convergen)
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/chunklist_w845323564_b1944100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png" group-title="INDO NEWS",IDX CHANNEL (vision+)
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541168&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png" group-title="INDO NEWS",IDX CHANNEL (202.169.224)
+http://202.169.224.202:8800/udp/239.9.1.36:1234
 
 
 
@@ -650,6 +660,9 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 https://nhk.lls.pbs.org/index_1080p.m3u8
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/NHK_World.svg",NHK WORLD (dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h23/01.m3u8
+#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/NHK_World.svg",NHK WORLD (202.169.224.202)
+http://202.169.224.202:8800/udp/239.5.2.3:1234
+
 
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",ARIRANG TV (akamaized)
 #EXTVLCOPT:http-origin=https://tv.garden
@@ -665,6 +678,8 @@ http://stream1.freetv.fun/arirang-world-1.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/250px-CNA_new_logo.svg.png" group-title="WORLD NEWS",CNA (vison+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541191&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/250px-CNA_new_logo.svg.png" group-title="WORLD NEWS",CNA (202.169.224.202)
+http://202.169.224.202:8800/udp/239.8.2.1:1234
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/CnaT98.png/revision/latest?cb=20231124031113" group-title="WORLD NEWS",CNA ORIGINAL (amagi.tv)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist720p.m3u8
@@ -683,9 +698,14 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="WORLD NEWS",DW NEWS (akamaized)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="WORLD NEWS",DW NEWS (202.169.224.202)
+http://202.169.224.202:8800/udp/239.5.2.1:1234
 
 #EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/TRT_World_logo.svg/revision/latest?cb=20211029170858" group-title="WORLD NEWS",TRT WORLD (trt)
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/TRT_World_logo.svg/revision/latest?cb=20211029170858" group-title="WORLD NEWS",TRT WORLD (202.169.224.202)
+http://202.169.224.202:8800/udp/239.5.2.4:1234
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Scripps_News_2023.svg/revision/latest?cb=20230104215636" group-title="WORLD NEWS",SCRIPPS NEWS (tubi)
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist_4.m3u8
@@ -739,6 +759,9 @@ https://d25w9q07b2mtmw.cloudfront.net/live/master_4.m3u8
 #
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_170_122" group-title="DOCUMENTARY",Discovery Asia (skygo)
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY",Animal Planet (202.169.224.202)
+http://202.169.224.202:8800/udp/239.9.1.7:1234
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest?cb=20170426190523",National Geographic Wild (84.17.50.102)
 http://84.17.50.102/natgeowild/index.m3u8
@@ -995,6 +1018,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
 http://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4bb062_logo_ent_red_web-p-500.png" group-title="MOVIES & SHOWS",Rock Entertainment (202.169.224.202)
+http://202.169.224.202:8800/udp/239.9.1.8:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Celestial_Movies.png/250px-Celestial_Movies.png" group-title="MOVIES & SHOWS",CCM (202.169.224.202)
+http://202.169.224.202:8800/udp/239.9.1.22:1234
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_2_0.png" group-title="MOVIES & SHOWS",LG 1:Film (ottera.tv)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465
@@ -1730,105 +1759,64 @@ http://425.sshgarem.com:80/Dbdjsk/leo334/129977
 
 
 
+#EXTINF:-1 group-title="MIX 3",Bein Sport 1
+http://41.205.70.146/BEINSPORT1/index.m3u8
+#EXTINF:-1 group-title="MIX 3",Bein Sport 2
+http://41.205.70.146/BEINSPORT2/index.m3u8
+#EXTINF:-1 group-title="MIX 3",Bein Sport 3
+http://41.205.70.146/BEINSPORT3/index.m3u8
+#EXTINF:-1 group-title="MIX 3",Bein Sport 4 HD
+http://41.205.70.146/BEINSPORT4/index.m3u8
+#EXTINF:-1 group-title="MIX 3",Bein Sport 5 HD
+http://41.205.70.146/BEINSPORT5/index.m3u8
+
+#EXTINF:-1 group-title="MIX 3",RMC SPORT 1
+http://145.239.5.177/525/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MIX 3",Biensport3
+http://145.239.5.177/559/mpegts
+#EXTINF:-1 group-title="MIX 3",Biensport2
+http://145.239.5.177/549/mpegts
 
 
 
-#EXTINF:-1 group-title="MIX",SCTV HD
-http://202.169.224.202:8800/udp/239.4.4.1:1234
-#EXTINF:-1 group-title="MIX",INDOSIAR HD
-http://202.169.224.202:8800/udp/239.4.4.2:1234
-#EXTINF:-1 group-title="MIX",MOJI HD
-http://202.169.224.202:8800/udp/239.4.4.3:1234
-#EXTINF:-1 group-title="MIX",MENTARITY HD
-http://202.169.224.202:8800/udp/239.4.4.4:1234
 
-#EXTINF:-1 group-title="MIX",DEUTSCHE WELLE HD
-http://202.169.224.202:8800/udp/239.5.2.1:1234
-#EXTINF:-1 group-title="MIX",AL JAZEERA HD
-http://202.169.224.202:8800/udp/239.5.2.2:1234
-#EXTINF:-1 group-title="MIX",NHK WORLD JPN
-http://202.169.224.202:8800/udp/239.5.2.3:1234
-#EXTINF:-1 group-title="MIX",TRT ENGLAND
-http://202.169.224.202:8800/udp/239.5.2.4:1234
+#EXTINF:-1 group-title="MIX 3",Bein Sport HD
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 group-title="MIX 3",Bein Sport 2 HD
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+#EXTINF:-1 group-title="MIX 3",Bein Sport 3 HD
+http://99.27.51.147:8080/BeinSport3/index.m3u8
 
-#EXTINF:-1 group-title="MIX",FRANCE 24 ENGLAND
-http://202.169.224.202:8800/udp/239.6.3.1:1234
-#EXTINF:-1 group-title="MIX",FRANCE 24
-http://202.169.224.202:8800/udp/239.6.3.2:1234
-#EXTINF:-1 group-title="MIX",DUBAI INTERNATIONAL
-http://202.169.224.202:8800/udp/239.6.3.3:1234
+#EXTINF:-1 group-title="MIX 3",Art Sport 1 HD
+http://169.150.223.25/ArtSport1HD/index.m3u8
+#EXTINF:-1 group-title="MIX 3",Art Sport 2 HD
+http://169.150.223.25/ArtSport2/index.m3u8
+#EXTINF:-1 group-title="MIX 3",Art Sport 3 HD
+http://169.150.223.25/ArtSport3/index.m3u8
+#EXTINF:-1 group-title="MIX 3",Art Sport 4 HD
+http://169.150.223.25/ArtSport4/index.m3u8
+#EXTINF:-1 group-title="MIX 3",Art Sport 5 HD
+http://169.150.223.25/ArtSport5/index.m3u8
+#EXTINF:-1 group-title="MIX 3",Art Sport 6 HD
+http://169.150.223.25/ArtSport6/index.m3u8
+#EXTINF:-1 group-title="MIX 3",Max Sport 1 HD
+http://169.150.223.25/MaxSport1HR/index.m3u8
+#EXTINF:-1 group-title="MIX 3",Max Sport 2 HD
+http://169.150.223.25/MaxSport2HR/index.m3u8
 
-#EXTINF:-1 group-title="MIX",TVE INT ASIA
-http://202.169.224.202:8800/udp/239.6.3.5:1234
 
-#EXTINF:-1 group-title="MIX",CNA INTERNATIONAL HD 1080i
-http://202.169.224.202:8800/udp/239.8.2.1:1234
-#EXTINF:-1 group-title="MIX",ROCK ACTION
-http://202.169.224.202:8800/udp/239.9.1.1:1234
-#EXTINF:-1 group-title="MIX",NHK WORLD JAPAN
-http://202.169.224.202:8800/udp/239.9.1.2:1234
-#EXTINF:-1 group-title="MIX",HGTV
-http://202.169.224.202:8800/udp/239.9.1.3:1234
-#EXTINF:-1 group-title="MIX",TLC
-http://202.169.224.202:8800/udp/239.9.1.4:1234
-#EXTINF:-1 group-title="MIX",ASIA FOOD NETWORK
-http://202.169.224.202:8800/udp/239.9.1.5:1234
-#EXTINF:-1 group-title="MIX",DISCOVERY CHANNEL
-http://202.169.224.202:8800/udp/239.9.1.6:1234
-#EXTINF:-1 group-title="MIX",ANIMAL PLANET
-http://202.169.224.202:8800/udp/239.9.1.7:1234
-#EXTINF:-1 group-title="MIX",ROCK ENTERTAINMENT
-http://202.169.224.202:8800/udp/239.9.1.8:1234
-#EXTINF:-1 group-title="MIX",CHAMPIONS TV 1 HD
-http://202.169.224.202:8800/udp/239.9.1.9:1234
-#EXTINF:-1 group-title="MIX",CHAMPIONS TV 2 HD
-http://202.169.224.202:8800/udp/239.9.1.10:1234
-#EXTINF:-1 group-title="MIX",CHAMPIONS TV
-http://202.169.224.202:8800/udp/239.9.1.11:1234
-#EXTINF:-1 group-title="MIX",CITRA DRAMA
-http://202.169.224.202:8800/udp/239.9.1.12:1234
-#EXTINF:-1 group-title="MIX",CITRA DANGDUT
-http://202.169.224.202:8800/udp/239.9.1.13:1234
-#EXTINF:-1 group-title="MIX",CITRA MUSLIM
-http://202.169.224.202:8800/udp/239.9.1.14:1234
-#EXTINF:-1 group-title="MIX",CITRA BIOSKOP
-http://202.169.224.202:8800/udp/239.9.1.15:1234
-#EXTINF:-1 group-title="MIX",CITRA DRAMA PLUS
-http://202.169.224.202:8800/udp/239.9.1.16:1234
+#EXTINF:1 group-title="MIX 3",Rai Sport HD
+http://169.150.223.25/RaiSport/index.m3u8
+#EXTINF:-1 group-title="MIX 3",RAI 1 HD
+http://169.150.223.25/Rai1/index.m3u8
+#EXTINF:-1 group-title="MIX 3",RAI 2 HD
+http://169.150.223.25/Rai2/index.m3u8
+#EXTINF:1 group-title="MIX 3",Rai 3 HD
+http://169.150.223.25/Rai3/index.m3u8
 
-#EXTINF:-1 group-title="MIX",tvN
-http://202.169.224.202:8800/udp/239.9.1.20:1234
-#EXTINF:-1 group-title="MIX",KIX
-http://202.169.224.202:8800/udp/239.9.1.21:1234
-#EXTINF:-1 group-title="MIX",CCM
-http://202.169.224.202:8800/udp/239.9.1.22:1234
-#EXTINF:-1 group-title="MIX",CELESTIAL MOVIES
-http://202.169.224.202:8800/udp/239.9.1.23:1234
-#EXTINF:-1 group-title="MIX",BBC NEWS
-http://202.169.224.202:8800/udp/239.9.1.24:1234
-#EXTINF:-1 group-title="MIX",INDOSIAR HD
-http://202.169.224.202:8800/udp/239.9.1.25:1234
-#EXTINF:-1 group-title="MIX",HOREEE
-http://202.169.224.202:8800/udp/239.9.1.26:1234
-#EXTINF:-1 group-title="MIX",CITRA ENTERTAINMENT
-http://202.169.224.202:8800/udp/239.9.1.27:1234
-#EXTINF:-1 group-title="MIX",HIP HIP HOREE
-http://202.169.224.202:8800/udp/239.9.1.28:1234
-#EXTINF:-1 group-title="MIX",SCTV INDONESIA HD
-http://202.169.224.202:8800/udp/239.9.1.29:1234
-#EXTINF:-1 group-title="MIX",BBC EARTH
-http://202.169.224.202:8800/udp/239.9.1.30:1234
-#EXTINF:-1 group-title="MIX",BBC LIFESTYLE
-http://202.169.224.202:8800/udp/239.9.1.31:1234
-#EXTINF:-1 group-title="MIX",MOJI HD
-http://202.169.224.202:8800/udp/239.9.1.32:1234
-#EXTINF:-1 group-title="MIX",MNC TV
-http://202.169.224.202:8800/udp/239.9.1.34:1234
-#EXTINF:-1 group-title="MIX",RCTI HD
-http://202.169.224.202:8800/udp/239.9.1.35:1234
-#EXTINF:-1 group-title="MIX",IDX CHANNEL
-http://202.169.224.202:8800/udp/239.9.1.36:1234
-#EXTINF:-1 group-title="MIX",ANTV HD
-http://202.169.224.202:8800/udp/239.9.1.37:1234
-#EXTINF:-1 group-title="MIX",VTV HD
-http://202.169.224.202:8800/udp/239.9.1.39:1234
+#EXTINF:-1 group-title="MIX 3",CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 group-title="MIX 3",Infosport+
+http://151.80.18.177:86/Infosport+_HD/index.m3u8
+
+
