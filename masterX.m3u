@@ -17,6 +17,12 @@ http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (s.id)
 https://s.id/Shareext_liga1_m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (ogietv)
+http://ogietv.biz.id:80/aqin/aqin168/1327.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (rakyattv)
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=gtv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (103.148.44.38)
+http://103.148.44.38:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (light-ott)
 http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058862&extension=ts&play_token=XMOx1ovd3r
@@ -110,6 +116,8 @@ http://202.169.224.202:8800/udp/239.1.2.3:1234
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SPORT (dens)
 https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
+#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SPORT (103.148.44.38)
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI ACEH (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
@@ -258,6 +266,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://www.dens.tv/images/default/logo-white.png" group-title="INDO LOKAL",DENS PLAY (dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+
+#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg",MAX REEL (103.148.44.38)
+http://103.148.44.38:8000/play/a003/index.m3u8
 
 #EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_Citra_Entertainment.png/960px-Logo_Citra_Entertainment.png",CITRA ENTERTAINMENT (202.169.224.202)
 http://202.169.224.202:8800/udp/239.9.1.27:1234
@@ -786,6 +797,8 @@ https://jmp2.uk/rok-8152fae2aebf5c228eee6470242174ec.m3u8
 
 #EXTINF:-1 tvg-id="400000063" tvg-logo="https://canvas-lb.tubitv.com/opts/FgYXmM6oI193Bw==/630f09e9-a354-4d28-a952-2f5c75e09815/CHgQeDoFMS4xLjhAAQ==" group-title="DOCUMENTARY",BBC Earth (cloudfront)
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="400000063" tvg-logo="https://canvas-lb.tubitv.com/opts/FgYXmM6oI193Bw==/630f09e9-a354-4d28-a952-2f5c75e09815/CHgQeDoFMS4xLjhAAQ==" group-title="DOCUMENTARY",BBC Earth (vision+)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541207&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="DOCUMENTARY",CGTN Documentary (amagi.tv) 
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
@@ -1380,6 +1393,25 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6564/inde
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Logo.svg/960px-TNT_Logo.svg.png" group-title="SPORTS MIX 1",TNT SPORTS 4 (siauliairsavlt)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/19054/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png?_=20241118054613" group-title="SPORTS MIX 1",ASTRO ARENA (rakyattv) 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=arena 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png?_=20241118054615" group-title="SPORTS MIX 1",ASTRO ARENA 2 (rakyattv)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=arena-2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png?_=20241118054619" group-title="SPORTS MIX 1",ASTRO GRANDSTAND (rakyattv)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-grandstand 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png?_=20241118054903" group-title="SPORTS MIX 1",ASTRO FOOTBALL (rakyattv)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=supersports-4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Astro_Sports_Plus_%282024%29.png?_=20241118054906" group-title="SPORTS MIX 1",ASTRO SPORTS PLUS (rakyattv)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-sports-plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Astro_Badminton_%282024%29.png?_=20241118054904" group-title="SPORTS MIX 1",ASTRO BADMINTON (rakyattv)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-badminton  
+
 
 
 
@@ -1782,111 +1814,3 @@ http://425.sshgarem.com:80/Dbdjsk/leo334/129977
 
 
 
-
-#EXTINF:-1 tvg-id="nowSports1.hk" tvg-name="Now Sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_170_122" group-title="SPORTS MIX 4",Now Sports 1
-https://iptv.852851.xyz/ch/cb54507de44f69262ecc8913ed958294/master.m3u8
-
-#EXTINF:-1 tvg-id="nowSports2.hk" tvg-name="Now Sports 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_170_122" group-title="SPORTS MIX 4",Now Sports 2
-https://iptv.852851.xyz/ch/f62fe735f8cb6871fe11b6da65ef1704/master.m3u8
-
-#EXTINF:-1 tvg-id="nowSports3.hk" tvg-name="Now Sports 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_170_122" group-title="SPORTS MIX 4",Now Sports 3
-https://iptv.852851.xyz/ch/7d47f9714dbb7aa678b76b7d0b83e447/master.m3u8
-
-#EXTINF:-1 tvg-id="nowSports4.hk" tvg-name="Now Sports 4" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_170_122" group-title="SPORTS MIX 4",Now Sports 4
-https://iptv.852851.xyz/ch/0d49608b8cf594236940c258638e6839/master.m3u8
-
-#EXTINF:-1 tvg-id="nowSports4K1.hk" tvg-name="Now Sports 4K 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_170_122" group-title="SPORTS MIX 4",Now Sports 4K 1
-https://iptv.852851.xyz/ch/0325871cc62ec8754c1cc7fa93813c19/master.m3u8
-
-#EXTINF:-1 tvg-id="nowSports5.hk" tvg-name="Now Sports 5" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_170_122" group-title="SPORTS MIX 4",Now Sports 5
-https://iptv.852851.xyz/ch/e164c9692d4064f1ddedc3d0c122b392/master.m3u8
-
-#EXTINF:-1 tvg-id="nowSports6.hk" tvg-name="Now Sports 6" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_170_122" group-title="SPORTS MIX 4",Now Sports 6
-https://iptv.852851.xyz/ch/e7d67f8f528630b00389ce5d4a65a9ab/master.m3u8
-
-#EXTINF:-1 tvg-id="641" tvg-name="Now Sports 641" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch641_170_122" group-title="SPORTS MIX 4",Now Sports 641
-https://iptv.852851.xyz/ch/da539034d579bba63d6502d4c996683b/master.m3u8
-
-#EXTINF:-1 tvg-id="651" tvg-name="Now Sports 651" tvg-logo="" group-title="SPORTS MIX 4",Now Sports 651
-https://iptv.852851.xyz/ch/61ac05394efb1e85df05cca7df6764ec/master.m3u8
-
-#EXTINF:-1 tvg-id="nowSports7.hk" tvg-name="Now Sports 7" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_170_122" group-title="SPORTS MIX 4",Now Sports 7
-https://iptv.852851.xyz/ch/951ec11f555e9289166e1e06d1c53ffc/master.m3u8
-
-#EXTINF:-1 tvg-id="630" tvg-name="Now Sports 精選" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_170_122" group-title="SPORTS MIX 4",Now Sports 精選
-https://iptv.852851.xyz/ch/7fb12e9f9ce6696478dadea629117325/master.m3u8
-
-#EXTINF:-1 tvg-id="621" tvg-name="Now Sports 英超1台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_170_122" group-title="SPORTS MIX 4",Now Sports 英超1台
-https://iptv.852851.xyz/ch/8242c3384a56e993f5859a46ca69bd10/master.m3u8
-
-#EXTINF:-1 tvg-id="622" tvg-name="Now Sports 英超2台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_170_122" group-title="SPORTS MIX 4",Now Sports 英超2台
-https://iptv.852851.xyz/ch/9addc6bbb8551c5dc40e1654b9871405/master.m3u8
-
-#EXTINF:-1 tvg-id="623" tvg-name="Now Sports 英超3台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_170_122" group-title="SPORTS MIX 4",Now Sports 英超3台
-https://iptv.852851.xyz/ch/a011adc494e53e1bb0456dd82857fd76/master.m3u8
-
-#EXTINF:-1 tvg-id="624" tvg-name="Now Sports 英超4台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_170_122" group-title="SPORTS MIX 4",Now Sports 英超4台
-https://iptv.852851.xyz/ch/138e150e94b4e08cdcda4cb1a9272b00/master.m3u8
-
-#EXTINF:-1 tvg-id="625" tvg-name="Now Sports 英超5台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_170_122" group-title="SPORTS MIX 4",Now Sports 英超5台
-https://iptv.852851.xyz/ch/4465baf175c32e7078606b90f4229869/master.m3u8
-
-#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/221_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Premier 1 HD
-https://iptv.852851.xyz/ch/da42c0f533aa38f73db22add60558883/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/222_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Premier 2 HD
-https://iptv.852851.xyz/ch/b4259bd9ec0d1ef0ce94273192e7f166/master.m3u8
-
-#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/223_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Premier 3 HD
-https://iptv.852851.xyz/ch/330e4486b7f750077b8c59a49273f7b5/master.m3u8
-
-#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/224_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Premier 4 HD
-https://iptv.852851.xyz/ch/0351d46bc501451fbb9d1ce8cd306dff/master.m3u8
-
-#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/225_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Premier 5 HD
-https://iptv.852851.xyz/ch/026a05e593ba60ad3802d7e8db0de100/master.m3u8
-
-#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/226_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Premier 6 HD
-https://iptv.852851.xyz/ch/d540360177c34f8380a302eaa129621c/master.m3u8
-
-#EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="Hub Premier 7 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/227_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Premier 7 HD
-https://iptv.852851.xyz/ch/200551b34cdec1c466b1b43697cfb3ee/master.m3u8
-
-#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/228_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Premier 8 HD
-https://iptv.852851.xyz/ch/245264daf11067d9b89222b1bc725e1e/master.m3u8
-
-#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/221_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Sports 1 HD
-https://iptv.852851.xyz/ch/b9ca32abe8f6c8e0e913ae7fb7b76e7c/master.m3u8
-
-#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/222_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Sports 2 HD
-https://iptv.852851.xyz/ch/8d255436fe68691047dad7651709ea34/master.m3u8
-
-#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/223_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Sports 3 HD
-https://iptv.852851.xyz/ch/874e51c0f277826e87073125e044dad9/master.m3u8
-
-#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/224_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Sports 4 HD
-https://iptv.852851.xyz/ch/24f90e2bf4ba913c0d297ccd5e0684ce/master.m3u8
-
-#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/225_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Sports 5 HD
-https://iptv.852851.xyz/ch/6a0c4b49ecf7a9f8c84d23f2d88ed22d/master.m3u8
-
-#EXTINF:-1 tvg-id="Hub Sports 6" tvg-name="Hub Sports 6 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/226_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Sports 6 HD
-https://iptv.852851.xyz/ch/734b2377606bd6de69ec71436c224d40/master.m3u8
-
-#EXTINF:-1 tvg-id="329" tvg-name="Hub Sports 7 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/227_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Sports 7 HD
-https://iptv.852851.xyz/ch/9590989cb53f0e47448f53abe5ff4ee8/master.m3u8
-
-#EXTINF:-1 tvg-id="Hub Sports 8" tvg-name="Hub Sports 8 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/228_1920x1080_HTV.png" group-title="SPORTS MIX 4",Hub Sports 8 HD
-https://iptv.852851.xyz/ch/187295c39cc8f118e8c128aa5703e470/master.m3u8
-
-#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/211_1920x1080_HTV.png" group-title="SPORTS MIX 4",beIN Sports 2 HD
-https://iptv.852851.xyz/ch/b6f0ba78ab0ef875376319e73782ddd5/master.m3u8
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-name="beIN Sports 3 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/214_1920x1080_HTV.png" group-title="SPORTS MIX 4",beIN Sports 3 HD
-https://iptv.852851.xyz/ch/30cc0805acb2aada8da9e2ae3fad5b5c/master.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="beIN Sports 4 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/215_1920x1080_HTV.png" group-title="SPORTS MIX 4",beIN Sports 4 HD
-https://iptv.852851.xyz/ch/914bdf0fd79c1d2244606b261a3cad5c/master.m3u8
-
-#EXTINF:-1 tvg-id="329" tvg-name="beIN Sports 5 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/216_1920x1080_HTV.png" group-title="SPORTS MIX 4",beIN Sports 5 HD
-https://iptv.852851.xyz/ch/10e13715bab91e96840897bdb33ed0d0/master.m3u8
