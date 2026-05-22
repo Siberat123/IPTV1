@@ -1292,14 +1292,15 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 #EXTINF:-1 tvg-id="SuperSport.3.al" tvg-name="Super Sport 3 AL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-3-al.png?raw=true" group-title="SPORTS MIX 1",SUPER SPORT 3 (93.93.113.95)
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
 
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssjl1j1627494247.png" group-title="SPORTS MIX 1",YES SPORT 1 (185.132.134.159)
+http://185.132.134.159:80/sport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/27uvm51627494269.png" group-title="SPORTS MIX 1",YES SPORT 2 (185.132.134.159)
 http://185.132.134.159:80/sport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/irxvmy1627494303.png" group-title="SPORTS MIX 1",YES SPORT 3 (185.132.134.159)
 http://185.132.134.159:80/sport3/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/km8o4f1627494329.png" group-title="SPORTS MIX 1",YES SPORT 4 (185.132.134.159)
 http://185.132.134.159:80/sport4/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png" group-title="SPORTS MIX 1",YES SPORT 5 (185.132.134.159)
-http://185.132.134.159:80/sport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png" group-title="SPORTS MIX 1",YES SPORT 5 (185.132.134.159)
 http://185.132.134.159:80/sport5/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uvpyps1446212972.png" group-title="SPORTS MIX 1",YES SPORT 6 (185.132.134.159)
@@ -1823,5 +1824,57 @@ http://425.sshgarem.com:80/Dbdjsk/leo334/129971
 http://425.sshgarem.com:80/Dbdjsk/leo334/129974
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://www.fontedecanais.io/logos/canais/sportynet.png",SPORTYNET (sshgarem)
 http://425.sshgarem.com:80/Dbdjsk/leo334/129977
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="SPORTS MIX 4", Digi Sport 2 🇷🇴
+http://91.201.172.14:35006/
+
+#EXTINF:-1 group-title="SPORTS MIX 4", CANAL + Sport 🇫🇷
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS MIX 4", Матч! 🇷🇺
+http://5.188.221.43:8080/play/match
+
+#EXTINF:-1 group-title="SPORTS MIX 4", Матч! 🇷🇺
+http://cdntv.online/low/9mlxywika2/48.m3u8
+
+#EXTINF:-1 group-title="SPORTS MIX 4", МАТЧ! ФУТБOЛ 1HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/55.m3u8
+
+#EXTINF:-1 group-title="SPORTS MIX 4", МАТЧ! ФУТБOЛ 2HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/56.m3u8
+
+#EXTINF:-1 group-title="SPORTS MIX 4", МАТЧ! ФУТБOЛ 3HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/57.m3u8
+
+#EXTINF:-1 group-title="SPORTS MIX 4", Беларусь 5 🇧🇾
+http://cdntv.online/low/9mlxywika2/778.m3u8
+
+#EXTINF:-1 group-title="SPORTS MIX 4", Super Sport 1 🇦🇱
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+
+#EXTINF:-1 group-title="SPORTS MIX 4", Super Sport 2 🇦🇱
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+
+#EXTINF:-1 group-title="SPORTS MIX 4", SPORT 2 HD 🇨🇿
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS MIX 4",  ORF+ 🇦🇹
+http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
+
+#EXTINF:-1 group-title="SPORTS MIX 4", TELEFE 🇦🇷
+http://200.115.120.1:8000/play/ca016/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS MIX 4", DSPORTS 1 🇦🇷
+http://190.117.20.37:8000/play/a08d/index.m3u8
+
+
+
 
 
