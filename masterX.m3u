@@ -1264,6 +1264,13 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894996&exte
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110" group-title="BEIN SPORTS",BEIN SPORTS 3 (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894997&extension=ts&play_token=FMGq9SVjX0
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607" group-title="BEIN SPORTS",BEIN SPORTS 1 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=941417&extension=ts&play_token=FTgacCroP0
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903" group-title="BEIN SPORTS",BEIN SPORTS 2 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=941420&extension=ts&play_token=Wezx3Db8dL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110" group-title="BEIN SPORTS",BEIN SPORTS 3 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=941423&extension=ts&play_token=6UKA0eIOkD
+
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA n (amagi.tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1382,6 +1389,10 @@ https://jmp2.uk/stvp-DEAJ0500429A
 https://jmp2.uk/stvp-ATAJ0500433A
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Scooore.svg/revision/latest?cb=20241114233910" group-title="SPORTS MIX 1",SPORTDIGITAL SCOOORE (jmp2.uk)
 https://jmp2.uk/stvp-DEBD260000692
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/500px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png?_=20250101230447" group-title="SPORTS MIX 1",SPORTDIGITAL FUSSBALL (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1122&extension=ts&play_token=Ezzp0z8Img
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Sportdigital_Edge_Logo_2024.svg/960px-Sportdigital_Edge_Logo_2024.svg.png?_=20240519183233" group-title="SPORTS MIX 1",SPORTDIGITAL EDGE (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149508&extension=ts&play_token=JEQXtK56oe
 
 #EXTINF:-1 tvg-id="Eurosport1.nl" tvg-name="|NL| EUROSPORT 1 4K" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="SPORTS MIX 1",EUROSPORT 1 (ottct)
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580812
@@ -1497,6 +1508,16 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895006&exte
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895007&extension=ts&play_token=gBTnQZvB2I
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TringSportHD2010.jpg" group-title="SPORTS MIX 1",TRING SPORT 3 (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895008&extension=ts&play_token=d8S0CIihWN
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ FOOT.png" group-title="SPORTS MIX 1",CANAL+ FOOT (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=941406&extension=ts&play_token=NDDZUC57aO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL + SPORT.png" group-title="SPORTS MIX 1",ANAL + SPORT (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=941409&extension=ts&play_token=pjX7st9PTz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ 360.png" group-title="SPORTS MIX 1",CANAL+ 360 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=941412&extension=ts&play_token=XwnmKbpSZ3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ PREMIER LEAGUE.png" group-title="SPORTS MIX 1",CANAL+ PREMIER LEAGUE (mag7070)
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/46/1/canal-liga-de-campeones-logo-png_seeklogo-465453.png" group-title="SPORTS MIX 1",CANAl+ CHAMPIONS LEAGUE (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=941624&extension=ts&play_token=Xi3zYlwIgu
 
 
 
@@ -1846,6 +1867,12 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894989&exte
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png?_=20230503164846" group-title="SPORTS MIX 3",TABII SPOR (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894999&extension=ts&play_token=fdyTi8Tf1k
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/MS SPORT.png" group-title="SPORTS MIX 3",MS SPORT (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149503&extension=ts&play_token=JnhXaoXDOy
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/SPORT 1.png" group-title="SPORTS MIX 3",SPORT 1 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149504&extension=ts&play_token=7EZv5hhoeB
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://freeshot.live/upload/source/Viasat-Sport-1-Sweden.png",VIASAT SPORT (cdn)
 http://cdn.tv-rds.workers.dev/ViasatSportSE.m3u8
