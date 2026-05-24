@@ -1257,6 +1257,13 @@ http://213.199.33.203:8081/live/ch3.m3u8
 #EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",beIN SPORTS 4 (213.199.33.203)
 http://213.199.33.203:8081/live/ch4.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607" group-title="BEIN SPORTS",BEIN SPORTS 1 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894995&extension=ts&play_token=VmxEAcuI0X
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903" group-title="BEIN SPORTS",BEIN SPORTS 2 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894996&extension=ts&play_token=DFAGNYcSrM
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110" group-title="BEIN SPORTS",BEIN SPORTS 3 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894997&extension=ts&play_token=FMGq9SVjX0
+
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA n (amagi.tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1454,6 +1461,43 @@ http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919396&extension
 #EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/960px-SPOTV_logo.svg.png",SPOTV 2 (alpha5-bx)
 http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919395&extension=ts
 
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728",ESPN 2 (cdn)
+http://cdn.tv-rds.workers.dev/ESPN2BR.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728" group-title="SPORTS MIX 1",ESPN (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1287&extension=ts&play_token=YgrSmfxbW6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728" group-title="SPORTS MIX 1",ESPN 2 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1286&extension=ts&play_token=d6UR5cVaCh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728" group-title="SPORTS MIX 1",ESPN 3 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1285&extension=ts&play_token=ODZq9KRKIm
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728" group-title="SPORTS MIX 1",ESPN 4 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1284&extension=ts&play_token=apuh8oq7Vu
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728" group-title="SPORTS MIX 1",ESPN (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084608&extension=ts&play_token=BjxGEhsjdC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728" group-title="SPORTS MIX 1",ESPN 2 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084609&extension=ts&play_token=OkhUGnDxz9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728" group-title="SPORTS MIX 1",ESPN 3 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084610&extension=ts&play_token=ytwKC7JLqc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728" group-title="SPORTS MIX 1",ESPN 4 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084611&extension=ts&play_token=OPUSfITkK4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 1 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894977&extension=ts&play_token=1Mk5B2EPNn
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 2 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894978&extension=ts&play_token=Re2HqABVI2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 3 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894979&extension=ts&play_token=sYDwCyrYnq
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 4 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894980&extension=ts&play_token=QCKl3DjDi8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TringSportHD2010.jpg" group-title="SPORTS MIX 1",TRING SPORT 1 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895006&extension=ts&play_token=mDypcPsfzR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TringSportHD2010.jpg" group-title="SPORTS MIX 1",TRING SPORT 2 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895007&extension=ts&play_token=gBTnQZvB2I
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TringSportHD2010.jpg" group-title="SPORTS MIX 1",TRING SPORT 3 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895008&extension=ts&play_token=d8S0CIihWN
+
 
 
 
@@ -1634,6 +1678,25 @@ http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580809
 #EXTINF:-1 tvg-id="ZiggoSportTennis.nl" tvg-name="|NL| ZIGGO SPORT 6 4K" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png" group-title="SPORTS MIX 2",ZIGGO SPORT 6 (ottct)
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580810
 
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Ziggo_Sport_2026_S.svg/revision/latest?cb=20260115185932",ZIGGO SPORT (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1281&extension=ts&play_token=tlIdjdhZSA
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Ziggo_Sport_2_2026_S.svg/revision/latest?cb=20260115191131",ZIGGO SPORT 2 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1280&extension=ts&play_token=twNVHuFBfz
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Ziggo_Sport_3_2026_S.svg/revision/latest?cb=20260115191303",ZIGGO SPORT 3 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1278&extension=ts&play_token=mom1Jn20sF
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Ziggo_Sport_4_2026_S.svg/revision/latest?cb=20260115191517",ZIGGO SPORT 4 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1279&extension=ts&play_token=jkj4d46A31
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Ziggo_Sport_5_2026_S.svg/revision/latest?cb=20260115191738",ZIGGO SPORT 5 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1277&extension=ts&play_token=DB57r5UGTU
+
+
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Ziggo_Sport_2026_S.svg/revision/latest?cb=20260115185932",ZIGGO SPORT (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084671&extension=ts&play_token=sFbr1PHnRC
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Ziggo_Sport_2_2026_S.svg/revision/latest?cb=20260115191131",ZIGGO SPORT 2 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084670&extension=ts&play_token=GYCmmOYBXG
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Ziggo_Sport_6_2026_S.svg/revision/latest?cb=20260115191759",ZIGGO SPORT 6 (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084669&extension=ts&play_token=yZhlOPf1NF
+
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png",ELTA SPORT 1 (rakyattv)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-1
@@ -1666,12 +1729,6 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-pl-2
 #EXTINF:-1 tvg-id="1090648" group-title="SPORTS MIX 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png",HUB SPORTS 2 (rakyattv)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-badminton-2
-
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png",ESPN 2 (cdn)
-http://cdn.tv-rds.workers.dev/ESPN2BR.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://freeshot.live/upload/source/Viasat-Sport-1-Sweden.png",VIASAT SPORT (cdn)
-http://cdn.tv-rds.workers.dev/ViasatSportSE.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Viju%2B_Sport_logo.svg/250px-Viju%2B_Sport_logo.svg.png?_=20231230092416" group-title="SPORTS MIX 3",VIJU+ SPORT (ngenix)
 https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
@@ -1784,6 +1841,20 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/83/Premier_Sports_logo.png?_=20120815042608",PREMIERE (sshgarem)
 http://425.sshgarem.com:80/Dbdjsk/leo334/1487673
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/M%2B_logo.svg/960px-M%2B_logo.svg.png?_=20210701220109" group-title="SPORTS MIX 3", M+ (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894989&extension=ts&play_token=wKjh5Uw0T9
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png?_=20230503164846" group-title="SPORTS MIX 3",TABII SPOR (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894999&extension=ts&play_token=fdyTi8Tf1k
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://freeshot.live/upload/source/Viasat-Sport-1-Sweden.png",VIASAT SPORT (cdn)
+http://cdn.tv-rds.workers.dev/ViasatSportSE.m3u8
+
+#EXTINF:-1 group-title="SPORTS MIX 3" tvg-logo="https://freeshot.live/upload/source/Viasat-Sport-1-Sweden.png",VIAPLAY TV (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1152824&extension=ts&play_token=joZPEI2uC5
+#EXTINF:-1 group-title="SPORTS MIX 3" tvg-logo="https://freeshot.live/upload/source/Viasat-Sport-1-Sweden.png",VIAPLAY TV (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1157577&extension=ts&play_token=6HEe96hqow
+
 #EXTINF:-1 channel-id="677d9adfa9a51b0008497fa0" tvg-id="677d9adfa9a51b0008497fa0" tvg-chno="2850" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" group-title="SPORTS MIX 3",UFC (jmp2.uk)
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/lysgF2PEmQ0E0w==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjhAAQ==" group-title="SPORTS MIX 3",UFC (tubi)
@@ -1840,98 +1911,3 @@ http://425.sshgarem.com:80/Dbdjsk/leo334/129974
 http://425.sshgarem.com:80/Dbdjsk/leo334/129977
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ VIAPLAY TV HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1152824&extension=ts&play_token=joZPEI2uC5
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ VIAPLAY TV+ HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1157577&extension=ts&play_token=6HEe96hqow
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ ESPN 1 HD ⏺ʳᵉᶜ
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1287&extension=ts&play_token=YgrSmfxbW6
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ ESPN 2 HD ⏺ʳᵉᶜ
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1286&extension=ts&play_token=d6UR5cVaCh
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ ESPN 3 HD ⏺ʳᵉᶜ
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1285&extension=ts&play_token=ODZq9KRKIm
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ ESPN 4 HD ⏺ʳᵉᶜ
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1284&extension=ts&play_token=apuh8oq7Vu
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ ZIGGO SPORT 1 HD ⏺ʳᵉᶜ
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1281&extension=ts&play_token=tlIdjdhZSA
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTVOETBALHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ ZIGGO SPORT 2 HD ⏺ʳᵉᶜ
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1280&extension=ts&play_token=twNVHuFBfz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTGOLFHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ ZIGGO SPORT 3 HD ⏺ʳᵉᶜ
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1278&extension=ts&play_token=mom1Jn20sF
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1279&extension=ts&play_token=jkj4d46A31
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ ZIGGO SPORT 5 HD ⏺ʳᵉᶜ
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1277&extension=ts&play_token=DB57r5UGTU
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTTENNISHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ ZIGGO SPORT 6 HD ⏺ʳᵉᶜ
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TNT SPORTS 1 HD [UK]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894977&extension=ts&play_token=1Mk5B2EPNn
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TNT SPORTS 2 HD [UK]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894978&extension=ts&play_token=Re2HqABVI2
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TNT SPORTS 3 HD [UK]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894979&extension=ts&play_token=sYDwCyrYnq
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TNT SPORTS 4 HD [UK]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894980&extension=ts&play_token=QCKl3DjDi8
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 1 HD [ES]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894989&extension=ts&play_token=wKjh5Uw0T9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 2 HD [ES]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894990&extension=ts&play_token=B0pfUklRsS
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 3 HD [ES]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894991&extension=ts&play_token=qMeNtGjT6q
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 4 HD [ES]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894992&extension=ts&play_token=hMpJqtuypE
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 5 HD [ES]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894993&extension=ts&play_token=GRTY8oE1D8
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ BEIN SPORTS 1 HD [AR]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894995&extension=ts&play_token=VmxEAcuI0X
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ BEIN SPORTS 2 HD [AR]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894996&extension=ts&play_token=DFAGNYcSrM
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ BEIN SPORTS 3 HD [AR]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894997&extension=ts&play_token=FMGq9SVjX0
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 1 HD [AL]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895006&extension=ts&play_token=mDypcPsfzR
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 2 HD [AL]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895007&extension=ts&play_token=gBTnQZvB2I
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 3 HD [AL]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895008&extension=ts&play_token=d8S0CIihWN
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR HD [TR]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894999&extension=ts&play_token=fdyTi8Tf1k
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 1 HD [TR]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895000&extension=ts&play_token=sD0wBFUxc4
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 2 HD [TR]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895001&extension=ts&play_token=a99dwpHxe4
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 3 HD [TR]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895002&extension=ts&play_token=oRM0tMpzRr
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 4 HD [TR]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895003&extension=ts&play_token=9c6nFkDCFj
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 5 HD [TR]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895004&extension=ts&play_token=xr0jANx4cj
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 6 HD [TR]
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895005&extension=ts&play_token=00ZKCyBuvM
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN.png" group-title="┃NL┃ CANAL+ LIVE",┃CANAL+┃ ESPN HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084608&extension=ts&play_token=BjxGEhsjdC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 2.png" group-title="┃NL┃ CANAL+ LIVE",┃CANAL+┃ ESPN 2 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084609&extension=ts&play_token=OkhUGnDxz9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 3.png" group-title="┃NL┃ CANAL+ LIVE",┃CANAL+┃ ESPN 3 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084610&extension=ts&play_token=ytwKC7JLqc
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 4.png" group-title="┃NL┃ CANAL+ LIVE",┃CANAL+┃ ESPN 4 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084611&extension=ts&play_token=OPUSfITkK4
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 1.png" group-title="┃NL┃ CANAL+ LIVE",┃CANAL+┃ ZIGGO SPORT 1 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084671&extension=ts&play_token=sFbr1PHnRC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="┃NL┃ CANAL+ LIVE",┃CANAL+┃ ZIGGO SPORT 2 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084670&extension=ts&play_token=GYCmmOYBXG
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 6.png" group-title="┃NL┃ CANAL+ LIVE",┃CANAL+┃ ZIGGO SPORT 6 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084669&extension=ts&play_token=yZhlOPf1NF
