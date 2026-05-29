@@ -601,12 +601,6 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTINF:-1 tvg-id="RRINet.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/RRIcoid_2023.png/revision/latest?cb=20230916044031" group-title="INDO NEWS",RRI NET (rri)
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://file.fin.co.id/uploads/fin-news/images/2026/02/25/viral-kemunculan-mbg-tv-wakil-kepala-bgn-beri-dukungan-151853-600x420.webp" group-title="INDO NEWS",MBG TV (convergen)
-https://stream.convergen.co/mbg_stream/smil:mbStream.smil/chunklist_w845323564_b1944100_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png" group-title="INDO NEWS",IDX CHANNEL (202.169.224)
-http://202.169.224.202:8800/udp/239.9.1.36:1234
-
 
 
 
@@ -1237,17 +1231,6 @@ http://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-4.png",BEIN SPORTS 4 (online24)
 http://ua.online24.pm/play/1104/350B326FB34F4B8/video.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (alpha5-bx)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919472&extension=ts
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (alpha5-bx)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919471&extension=ts
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",BEIN SPORTS 3 (alpha5-bx)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919470&extension=ts
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg/revision/latest?cb=20200107204039",BEIN SPORTS 4 (alpha5-bx)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919469&extension=ts
-#EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BS5.svg/revision/latest?cb=20200107204133",BEIN SPORTS 5 (alpha5-bx)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919468&extension=ts
-
 #EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",beIN SPORTS 1 (213.199.33.203)
 http://213.199.33.203:8081/live/ch1.m3u8
 #EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",beIN SPORTS 2 (213.199.33.203)
@@ -1256,13 +1239,6 @@ http://213.199.33.203:8081/live/ch2.m3u8
 http://213.199.33.203:8081/live/ch3.m3u8
 #EXTINF:-1 tvg-id="" group-title="BEIN SPORTS" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",beIN SPORTS 4 (213.199.33.203)
 http://213.199.33.203:8081/live/ch4.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607" group-title="BEIN SPORTS",BEIN SPORTS 1 (mag7070)
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894995&extension=ts&play_token=VmxEAcuI0X
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903" group-title="BEIN SPORTS",BEIN SPORTS 2 (mag7070)
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894996&extension=ts&play_token=DFAGNYcSrM
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110" group-title="BEIN SPORTS",BEIN SPORTS 3 (mag7070)
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894997&extension=ts&play_token=FMGq9SVjX0
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607" group-title="BEIN SPORTS",BEIN SPORTS 1 (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=941417&extension=ts&play_token=FTgacCroP0
@@ -1318,33 +1294,6 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 #EXTINF:-1 tvg-id="SuperSport.3.al" tvg-name="Super Sport 3 AL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-3-al.png?raw=true" group-title="SPORTS MIX 1",SUPER SPORT 3 (93.93.113.95)
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
-
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssjl1j1627494247.png" group-title="SPORTS MIX 1",YES SPORT 1 (185.132.134.159)
-http://185.132.134.159:80/sport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/27uvm51627494269.png" group-title="SPORTS MIX 1",YES SPORT 2 (185.132.134.159)
-http://185.132.134.159:80/sport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/irxvmy1627494303.png" group-title="SPORTS MIX 1",YES SPORT 3 (185.132.134.159)
-http://185.132.134.159:80/sport3/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/km8o4f1627494329.png" group-title="SPORTS MIX 1",YES SPORT 4 (185.132.134.159)
-http://185.132.134.159:80/sport4/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png" group-title="SPORTS MIX 1",YES SPORT 5 (185.132.134.159)
-http://185.132.134.159:80/sport5/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uvpyps1446212972.png" group-title="SPORTS MIX 1",YES SPORT 6 (185.132.134.159)
-http://185.132.134.159:80/sport6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/960px-SporTV_2017_logo.svg.png?_=20170818060139" group-title="SPORTS MIX 1",SPORTV 1 (ssrv88)
-http://ssrv88.com:80/7897442120/8964203798/205558.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/960px-SporTV_2017_logo.svg.png?_=20170818060139" group-title="SPORTS MIX 1",SPORTV 1 (ssrv88)
-http://ssrv88.com:80/7897442120/8964203798/205555.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/960px-SporTV_2_2017_logo.svg.png?_=20170818055103" group-title="SPORTS MIX 1",SPORTV 2 (ssrv88)
-http://ssrv88.com:80/7897442120/8964203798/205566.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/960px-SporTV_2_2017_logo.svg.png?_=20170818055103" group-title="SPORTS MIX 1",SPORTV 2 (ssrv88)
-http://ssrv88.com:80/7897442120/8964203798/205564.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/960px-SporTV_3_2017_logo.svg.png?_=20170818055345" group-title="SPORTS MIX 1",SPORTV 3 (ssrv88)
-http://ssrv88.com:80/7897442120/8964203798/205574.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/960px-SporTV_3_2017_logo.svg.png?_=20170818055345" group-title="SPORTS MIX 1",SPORTV 3 (ssrv88)
-http://ssrv88.com:80/7897442120/8964203798/205572.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest/scale-to-width-down/1000?cb=20220226104639&path-prefix=vi" group-title="SPORTS MIX 1",CCTV5 (38.75.136.137)
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
@@ -1466,12 +1415,6 @@ https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
 #EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://monomakh.com.ua/wp-content/uploads/2023/03/logo_monomax_orig.png",MONOMAX 2 (verowo7190)
 https://love.verowo7190.workers.dev/lx-origin/th-monomax02_480/chunks.m3u8
 
-
-#EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/960px-SPOTV_logo.svg.png",SPOTV (alpha5-bx)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919396&extension=ts
-#EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/960px-SPOTV_logo.svg.png",SPOTV 2 (alpha5-bx)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919395&extension=ts
-
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728",ESPN 2 (cdn)
 http://cdn.tv-rds.workers.dev/ESPN2BR.m3u8
 
@@ -1492,6 +1435,17 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084609&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084610&extension=ts&play_token=ytwKC7JLqc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728" group-title="SPORTS MIX 1",ESPN 4 (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084611&extension=ts&play_token=OPUSfITkK4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728" group-title="SPORTS MIX 1",ESPN (46.151.196.223)
+http://46.151.196.223:14366
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728" group-title="SPORTS MIX 1",ESPN 2 (46.151.196.223)
+http://46.151.196.223:14553
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728" group-title="SPORTS MIX 1",ESPN 3 (46.151.196.223)
+http://46.151.196.223:14444
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728" group-title="SPORTS MIX 1",ESPN 4 (46.151.196.223)
+http://46.151.196.223:14450
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png?_=20130302153728" group-title="SPORTS MIX 1",ESPN 5 (46.151.196.223)
+http://46.151.196.223:14456
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 1 (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894977&extension=ts&play_token=1Mk5B2EPNn
@@ -1874,6 +1828,15 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149503&ext
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/SPORT 1.png" group-title="SPORTS MIX 3",SPORT 1 (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149504&extension=ts&play_token=7EZv5hhoeB
 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="SPORTS MIX 3",TEN SPORTS (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=809396&extension=ts&play_token=CoqaJtNKVf
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="SPORTS MIX 3",PTV SPORTS (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=809398&extension=ts&play_token=jU80x2u5bK
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="SPORTS MIX 3",GEO SUPER (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=809399&extension=ts&play_token=zjjEBrsrhn
+
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://freeshot.live/upload/source/Viasat-Sport-1-Sweden.png",VIASAT SPORT (cdn)
 http://cdn.tv-rds.workers.dev/ViasatSportSE.m3u8
 
@@ -1942,28 +1905,45 @@ http://425.sshgarem.com:80/Dbdjsk/leo334/129977
 
 
 
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/hJr0Ay6.png",- ESPN1 ALT
-http://46.151.196.223:14366
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/hJr0Ay6.png",- ESPN2 ALT
-http://46.151.196.223:14553
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/hJr0Ay6.png",- ESPN3 ALT
-http://46.151.196.223:14444
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/hJr0Ay6.png",- ESPN4 ALT
-http://46.151.196.223:14450
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/hJr0Ay6.png",- ESPN5 ALT
-http://46.151.196.223:14456
 
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Digi Sport 1 🇷🇴
-http://91.201.172.14:35005/
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Digi Sport 2 🇷🇴
-http://91.201.172.14:35006/
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",Hub Premier 1 HD
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp1.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",Hub Premier 2 HD
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp2.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",Hub Premier 3 HD
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp3.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",Hub Premier 4 HD
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp4.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",Hub Premier 5 HD
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp5.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",in
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8?app_type=web&userid=lite&chname=indosiar
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",bs
+http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8?app_type=web&userid=lite&chname=Berita-Satu
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",kom
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8?app_type=web&userid=lite&chname=kompas-tv
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",me
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8?app_type=web&userid=lite&chname=metro-tv
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",sc
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8?app_type=web&userid=lite&chname=sctv
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",7
+http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",one
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8?app_type=web&userid=lite&chname=tvone
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",max1
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776175&extension=m3u8
 
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="⚽🥎| Thể Thao",┃WC┃ TEN SPORTS HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=809396&extension=ts&play_token=CoqaJtNKVf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="⚽🥎| Thể Thao",┃WC┃ PTV SPORTS HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=809398&extension=ts&play_token=jU80x2u5bK
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="⚽🥎| Thể Thao",┃WC┃ GEO SUPER HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=809399&extension=ts&play_token=zjjEBrsrhn
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",ar1
+http://moj.feniks.team:25461/live/411dariocacic/a1Uni9hC0D/19011.m3u8
 
-
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",ar2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401458779.m3u8
