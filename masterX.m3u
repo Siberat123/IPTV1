@@ -1201,6 +1201,8 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 #EXTINF:-1 tvg-id="SuperSport.3.al" tvg-name="Super Sport 3 AL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-3-al.png?raw=true" group-title="SPORTS MIX 1",SUPER SPORT 3 (93.93.113.95)
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest/scale-to-width-down/1000?cb=20220226104639&path-prefix=vi" group-title="SPORTS MIX 1",CCTV (38.75.136.137)
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest/scale-to-width-down/1000?cb=20220226104639&path-prefix=vi" group-title="SPORTS MIX 1",CCTV5 (38.75.136.137)
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest/scale-to-width-down/1000?cb=20220226104639&path-prefix=vi" group-title="SPORTS MIX 1",CCTV5+ (38.75.136.137)
@@ -1434,6 +1436,10 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b3500000_t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/KuwaitTV.svg/250px-KuwaitTV.svg.png" group-title="SPORTS MIX 2",KTV SPORT (mangomolo)
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b2500000_t64NzIwcA==.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png",CBS SPORTS NETWORK (realiptv)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3621
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png",CBS SPORTS NETWORK (realiptv)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3712
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/CBS_Sports_HQ_2021_%28Stacked%29.svg/revision/latest?cb=20210629162058" group-title="SPORTS MIX 2",CBS SPORTS HQ (jmp2.uk)
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/CBS_Sports_%282021%3B_stacked_blue%29.svg/revision/latest?cb=20250825142213" group-title="SPORTS MIX 2",CBS SPORTS UCL (jmp2.uk)
@@ -1649,6 +1655,8 @@ https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/id
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/AYM2004.jpg/revision/latest?cb=20130608195841" group-title="SPORTS MIX 3",AYM SPORT (otteravision)
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/AYM2004.jpg/revision/latest?cb=20130608195841" group-title="SPORTS MIX 3",AYM SPORT (ottera.tv)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13843&avod=1&content_dist_name=freelivesports&content_channel=AYM%20Sports&channel_name=AYM%20Sports&content_genre=Soccer%2CBoxing%2CWrestling%2CBaseball%2CBasketball%2CAmericanFootball%2CVolleyball%2CMotorsports%2CCollegeSports%2CMMA%2CLatamSports%2CSport&ic=IAB17-18%2CIAB17-2%2CIAB17-19%2CIAB17-1%2CIAB17-3%2CIAB17-7%2CIAB17-17%2CIAB17-8%2CIAB17-11%2CIAB17-12%2CIAB17&rating=PG&preferred_language=ES&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&consent=[CONSENT_STRING]&coppa=0&livestream=1&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/TvN_Sports_Korea.svg/250px-TvN_Sports_Korea.svg.png" group-title="SPORTS MIX 3",TVN SPORTS (jmp2.uk)
 https://jmp2.uk/stvp-KRBC800015MH
@@ -1811,3 +1819,101 @@ http://425.sshgarem.com:80/Dbdjsk/leo334/129974
 http://425.sshgarem.com:80/Dbdjsk/leo334/129977
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN HD
+http://prys.xyz:80/live/Sandramaria/22999061026/1026125.ts
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN 2 HD
+http://prys.xyz:80/live/Sandramaria/22999061026/1026128.ts
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN 3 HD
+http://prys.xyz:80/live/Sandramaria/22999061026/1026131.ts
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN 4 HD
+http://prys.xyz:80/live/Sandramaria/22999061026/1026134.ts
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN 5 HD
+http://prys.xyz:80/live/Sandramaria/22999061026/1026137.ts
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/hJr0Ay6.png",- ESPN6
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/129623.ts
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="http://img.platform.wurl.dev/channel/2198/lg/ae6736/LG-Logo-PNG-100x100_v1.png",446 Scripps Sports Network
+https://wurlewscripps.global.transmit.live/hls/699df66287f734395f248b2b/v1/e_w_scripps_scrippssports_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="http://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-Logo-PNG-100x100_v2.png",460 Fubo Sports
+https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b",A sports
+https://tvsen6.aynaott.com/asports/index.m3u8?e=1778857257&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2311c285ee3233aa1d8dfbda72d2e8c4
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b",A sports
+https://tvsen6.aynaott.com/asports/index.m3u8?e=1778849980&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=64eee0e70dac40fb14a000e6aae9dceb
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport1.png",ARENASPORT 1
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport2.png",ARENASPORT 2
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20478
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-3.png",ARENASPORT 3
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport4.png",ARENASPORT 4
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-5-rs.png",ARENASPORT 5
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1181
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-6-rs.png",ARENASPORT 6
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1179
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-8-rs.png",ARENASPORT 8
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17670
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVyWthsSAuVgOTQtR_aCR4Vfw4xIab7YDvuaH0ij3&s=10",ARENASPORT 9
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17671
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsovcz3fCv890L6ob8ip95sU4NSKZj6Uf1zOUQZKPb8cImkOlw358gb5Bz9q8htYW5PtO8SLUXKp_VmATEI8byyq1CWHsT2b2YftdD7vhdILWey3gWQxNm26obyc1pNcnL45DazX_TgvN7SyVQhOUXuItNs_Rg7cin9Qs5DewSC7PZU2PbJPwZswDM654Q/s700/ASTRO%20ARENA%202.png",ASTRO ARENA 2
+https://dl.dropboxusercontent.com/scl/fi/m850dhn51323awty0kcc5/arena2.m3u8?rlkey=7ys08p4em182wo38sdws1rwfj&dl=0
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Bein Sport 1
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Bein Sport 2
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Bein Sport 3
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Bein Sport 3 🇫🇷
+http://145.239.5.177:80/559/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png",Bein Sports 1 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png",Bein Sports 2 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/1l3t5jd.png",BEK TV Sports West (720p) - 720P
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/Y1t8xkL.png",Deportes TVC (1080p) (spa3) (Spanish) (Sports) - 1080P
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/925
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/924
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Diema Sport
+http://213.169.39.30:5134
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Diema Sport 2
+http://213.169.39.30:5136
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Diema Sport 3
+http://213.169.39.30:5216
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Diema Sport 1 🇧🇬
+http://92.247.25.42:11170/
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Diema Sport 2 🇧🇬
+http://92.247.25.42:11172/
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Diema Sport 3 🇧🇬
+http://92.247.25.42:11171/
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/2PoEm1x.png",DSports Uruguay (spa3) (Spanish) (Sports)
+https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",EKOL SPORTS 🇹🇷
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
