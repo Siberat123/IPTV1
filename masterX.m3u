@@ -72,6 +72,8 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://syok.tv:25461/843839483/33999/1942
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (rakyattv)
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=transtv
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (livestream)
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/MDTV.svg/revision/latest?cb=20250226154803" group-title="INDO NASIONAL",MDTV (202.169.224.202)
 http://202.169.224.202:8800/udp/239.1.1.1:1234
@@ -109,6 +111,8 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NASIONAL (rakyattv)
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=tvri
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NASIONAL (intechmedia)
+https://flv.intechmedia.net/live/ch113.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI WORLD (202.169.224.202)
 http://202.169.224.202:8800/udp/239.1.2.2:1234
@@ -116,6 +120,8 @@ http://202.169.224.202:8800/udp/239.1.2.2:1234
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI WORLD (cloudns)
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI WORLD (intechmedia)
+https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SPORT (202.169.224.202)
 http://202.169.224.202:8800/udp/239.1.2.3:1234
@@ -225,6 +231,9 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Hip_Hip_Horee.png" group-title="INDO LOKAL",HIP HIP HOREE (202.169.224.202)
 http://202.169.224.202:8800/udp/239.9.1.28:1234
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_Horee_Channel.png" group-title="INDO LOKAL",HOREE (202.169.224.202)
+http://202.169.224.202:8800/udp/239.9.1.26:1234
+
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO LOKAL",RTV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
@@ -234,6 +243,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO LOKAL",RTV (cloudns)
 http://cdn.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO LOKAL",RTV (intechmedia)
+https://flv.intechmedia.net/live/ch116.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548" group-title="INDO LOKAL",MOJI (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -282,9 +293,9 @@ http://202.169.224.202:8800/udp/239.9.1.27:1234
 #EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg?_=20230205014000",CITRA MUSLIM (202.169.224.202)
 http://202.169.224.202:8800/udp/239.9.1.14:1234
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="INDO LOKAL",LAPOR PAK!(202.150.161.212)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="INDO LOKAL",LAPOR PAK! (202.150.161.212)
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="INDO LOKAL",LAPOR PAK!(rakyattv)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="INDO LOKAL",LAPOR PAK! (rakyattv)
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=gtv
 
 #EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/53/Logo_Food_Travel.svg/250px-Logo_Food_Travel.svg.png",FOOD TRAVEL (vision+)
@@ -308,12 +319,6 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 tvg-id="DAAITV.id@SD" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="INDO LOKAL",DAAI TV (rakyattv)
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=daai
 
-#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/revision/latest?cb=20250101053112" group-title="INDO LOKAL",BTV (dens)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
-#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/revision/latest?cb=20250101053112" group-title="INDO LOKAL",BTV (cloudns)
-http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
-
 #EXTINF:-1 tvg-id="IndonesianaTV.id@SD" tvg-logo="https://i.imgur.com/192wiS1.png" http-referrer="https://indonesiana.tv/" group-title="INDO LOKAL",INDONESIANA.TV (tvstreamcast)
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
 https://tvstreamcast.com/indonesiana.m3u8
@@ -324,6 +329,9 @@ http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id@Malang" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="INDO LOKAL",JTV MALANG (122.248.43.242)
 http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV (intechmedia)
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="KawanuaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" group-title="INDO LOKAL",KAWANUA TV (kawanuatv)
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
@@ -441,6 +449,15 @@ https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 #EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://warningfm.github.io/v3/img/bCXtnI3.png?v=1.1.1.1" group-title="INDO LOKAL",BRTV (streamlock)
 https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Lejel_Home_Shopping.png" group-title="INDO LOKAL",LEJEL (intechmedia)
+https://flv.intechmedia.net/live/ch110.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/21/KTV_28UHF.png/250px-KTV_28UHF.png" group-title="INDO LOKAL",KTV (intechmedia)
+https://flv.intechmedia.net/live/ch118.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/05/Logo_Jagantara_TV.png?_=20251201182805" group-title="INDO LOKAL",JAGANTARA TV (intechmedia)
+https://flv.intechmedia.net/live/ch119.m3u8|user-agent=Mozilla/5.0
+
 
 
 
@@ -463,6 +480,8 @@ http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Kompas_TV_%282011%29.svg/revision/latest?cb=20181016124429" group-title="INDO NEWS",KOMPAS TV (rakyattv)
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=kompas
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Kompas_TV_%282011%29.svg/revision/latest?cb=20181016124429" group-title="INDO NEWS",KOMPAS TV (intechmedia)
+https://flv.intechmedia.net/live/ch102.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/TvOne_2011.svg/revision/latest?cb=20181207020506" group-title="INDO NEWS",TV ONE (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -477,6 +496,8 @@ http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 http://103.58.160.157:8278/720-TVONE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/TvOne_2011.svg/revision/latest?cb=20181207020506" group-title="INDO NEWS",TV ONE (rakyattv)
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=tvone
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/TvOne_2011.svg/revision/latest?cb=20181207020506" group-title="INDO NEWS",TV ONE (intechmedia)
+https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -490,6 +511,8 @@ https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w1668014862_b1492000_
 http://103.58.160.157:8278/720-METROTV/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (rakyattv)
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=metro
+#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (intechmedia)
+https://flv.intechmedia.net/live/ch101.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
@@ -497,6 +520,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Logo_GarudaTV_3D_Putih_Silver_Merah.svg/revision/latest?cb=20240508101325" group-title="INDO NEWS",GARUDA TV (mediaflow)
 https://adptv2.mediaflow.workers.dev/garudatv/s/s123/garudatvlivestreaming.m3u8
+#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Logo_GarudaTV_3D_Putih_Silver_Merah.svg/revision/latest?cb=20240508101325" group-title="INDO NEWS",GARUDA TV (intechmedia)
+https://flv.intechmedia.net/live/ch104.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Nusantara_TV_Symbol.svg/revision/latest?cb=20240509104942" group-title="INDO NEWS",NUSANTARA TV (dens)
 https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
@@ -560,6 +585,8 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_o
 
 #EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BN_Channel.png/revision/latest?cb=20230124080830",BN CHANNEL (202.169.224.202)
 http://202.169.224.202:8800/udp/239.1.3.2:1234
+#EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BN_Channel.png/revision/latest?cb=20230124080830",BN CHANNEL (intechmedia)
+https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTV_%282012%29.svg/revision/latest?cb=20240914101736" group-title="INDO NEWS",JTV (122.248.43.242)
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
@@ -567,6 +594,14 @@ http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 http://202.150.161.212:5000/live/channel38/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTV_%282012%29.svg/revision/latest?cb=20240914101736" group-title="INDO NEWS",JTV(rakyattv)
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=jtv
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/revision/latest?cb=20250101053112" group-title="INDO NEWS",BTV (dens)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/revision/latest?cb=20250101053112" group-title="INDO NEWS",BTV (cloudns)
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/revision/latest?cb=20250101053112" group-title="INDO NEWS",BTV (intechmedia)
+https://flv.intechmedia.net/live/ch105.m3u8|user-agent=Mozilla/5.0
 
 
 
@@ -1887,150 +1922,4 @@ https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.
 #EXTINF:-1 tvg-id="Soccer Channel.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SoccerChannel2020.png/revision/latest?cb=20220810085741" group-title="SPORTS MIX 3",SOCCER CHANNEL (alpha5-bx)
 http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919399&extension=ts
 
-
-
-
-
-
-
-
-#EXTINF:-1  group-title="Shareext@LOKAL_ID" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png",TRANSTV(stream)
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://tv.cic.net.id/uploads/TRANSTV.png" group-title="Shareext@LOKAL_ID",TRANS TV (K7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/3
-#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://tv.cic.net.id/uploads/TRANS7.png" group-title="Shareext@LOKAL_ID",TRANS 7 (K7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/4
-#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://tv.cic.net.id/uploads/TVONE_TV.png" group-title="Shareext@LOKAL_ID",TV ONE (K7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/5
-#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://tv.cic.net.id/uploads/METRO.png" group-title="Shareext@LOKAL_ID",METRO TV (K7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/6
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://tv.cic.net.id/uploads/AN_TV.png" group-title="Shareext@LOKAL_ID",ANTV (K7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/7
-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://tv.cic.net.id/uploads/TV_RI.png" group-title="Shareext@LOKAL_ID",TVRI (K7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/8
-#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://tv.cic.net.id/uploads/KOMPAS.png" group-title="Shareext@LOKAL_ID",KOMPAS TV (K7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/10
-#EXTINF:-1 tvg-id="" tvg-name="DA AI" tvg-logo="https://tv.cic.net.id/uploads/DAAI.png" group-title="Shareext@LOKAL_ID",DA AI (K7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/11
-#EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://tv.cic.net.id/uploads/CNN_INDO.png" group-title="Shareext@LOKAL_ID",CNN INDONESIA (K7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/12
-#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://tv.cic.net.id/uploads/CNBC.png" group-title="Shareext@LOKAL_ID",CNBC INDONESIA (K7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/13
-#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://tv.cic.net.id/uploads/NET.png" group-title="Shareext@LOKAL_ID",NET TV (K7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/14
-#EXTINF:-1 tvg-id="" tvg-name="RRI-NET" tvg-logo="https://tv.cic.net.id/uploads/RRINET.png" group-title="Shareext@LOKAL_ID",RRI-NET (K7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/15
-#EXTINF:-1 tvg-id="" tvg-name="KILAS 7" tvg-logo="https://tv.cic.net.id/uploads/KILAS7.png" group-title="Shareext@LOKAL_ID",KILAS 7 (K7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/16
-#EXTINF:-1 tvg-id="" tvg-name="PBTV" tvg-logo="https://tv.cic.net.id/uploads/PB_TV.png" group-title="Shareext@LOKAL_ID",PBTV (K7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/17
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Indosiar (udp)
-http://202.169.224.202:8800/udp/239.9.1.25:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Sctv (udp)
-http://202.169.224.202:8800/udp/239.9.1.29:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",Moji (udp)
-http://202.169.224.202:8800/udp/239.9.1.32:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Mnctv (udp)
-http://202.169.224.202:8800/udp/239.9.1.34:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", VTV (udp)
-http://202.169.224.202:8800/udp/239.9.1.39:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Rock action (udp)
-http://202.169.224.202:8800/udp/239.9.1.1:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Rock entertainment (udp)
-http://202.169.224.202:8800/udp/239.9.1.8:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Citra drama (udp)
-http://202.169.224.202:8800/udp/239.9.1.12:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Citra musik (udp)
-http://202.169.224.202:8800/udp/239.9.1.14:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Citra bioskop (udp)
-http://202.169.224.202:8800/udp/239.9.1.15:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",Citra Dangdut (udp)
-http://202.169.224.202:8800/udp/239.9.1.13:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TVN
-http://202.169.224.202:8800/udp/239.9.1.20:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Kix (udp)
-http://202.169.224.202:8800/udp/239.9.1.21:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", CCM (udp)
-http://202.169.224.202:8800/udp/239.9.1.22:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", CELESTIAL movie (udp)
-http://202.169.224.202:8800/udp/239.9.1.23:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", IDX (udp)
-http://202.169.224.202:8800/udp/239.9.1.36:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", NEX (udp)
-http://202.169.224.202:8800/udp/239.9.1.32:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Hip hip hoore (udp)
-http://202.169.224.202:8800/udp/239.9.1.28:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",Dreamwork
-http://202.169.224.202:8800/udp/239.9.1.19:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Horee (udp)
-http://202.169.224.202:8800/udp/239.9.1.26:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Nickeledeon (udp)
-http://202.169.224.202:8800/udp/239.9.1.17:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Nick.jr (udp)
-http://202.169.224.202:8800/udp/239.9.1.18:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Champion 1 (udp)
-http://202.169.224.202:8800/udp/239.9.1.9:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Champion 2 (udp)
-http://202.169.224.202:8800/udp/239.9.1.10:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Champion 3 (udp)
-http://202.169.224.202:8800/udp/239.9.1.11:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", BBC lifestyle (udp)
-http://202.169.224.202:8800/udp/239.9.1.31:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", BBC eartt (udp)
-http://202.169.224.202:8800/udp/239.9.1.30:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", HGTV (udp)
-http://202.169.224.202:8800/udp/239.9.1.3:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", NHK world (udp)
-http://202.169.224.202:8800/udp/239.9.1.2:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", TLC (udp)
-http://202.169.224.202:8800/udp/239.9.1.4:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Food network (udp)
-http://202.169.224.202:8800/udp/239.9.1.5:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Discovery (udp)
-http://202.169.224.202:8800/udp/239.9.1.6:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Animal Planet (udp)
-http://202.169.224.202:8800/udp/239.9.1.7:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",AFN (udp)
-http://202.169.224.202:8800/udp/239.9.1.5:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",BBC news (udp)
-http://202.169.224.202:8800/udp/239.9.1.24:1234
-
-
-
-#EXTINF:-1 group-title="SHAREEXT@ DENZ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV
-https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", TVone (intec)
-https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", TVRI (intec)
-https://flv.intechmedia.net/live/ch113.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", TVRI World (intec)
-https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", MetroTv (intec)
-https://flv.intechmedia.net/live/ch101.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", KompasTv (intec)
-https://flv.intechmedia.net/live/ch102.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", GarudaTv (intec)
-https://flv.intechmedia.net/live/ch104.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", BTv (intec)
-https://flv.intechmedia.net/live/ch105.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", LEJEL (intec)
-https://flv.intechmedia.net/live/ch110.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", BNtv (intec)
-https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", RTV (intec)
-https://flv.intechmedia.net/live/ch116.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", RT (intec)
-https://flv.intechmedia.net/live/ch117.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", KTV (intec)
-https://flv.intechmedia.net/live/ch118.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", JagantaraTv (intec)
-https://flv.intechmedia.net/live/ch119.m3u8|user-agent=Mozilla/5.0
 
