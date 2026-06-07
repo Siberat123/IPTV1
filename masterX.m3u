@@ -12,8 +12,6 @@ http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 https://s.id/Shareext_liga1_m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (ogietv)
 http://ogietv.biz.id:80/aqin/aqin168/1327.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (rakyattv)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=gtv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (103.148.44.38)
 http://103.148.44.38:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (syok)
@@ -32,15 +30,11 @@ http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919479&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (syok)
 http://syok.tv:25461/843839483/33999/1544
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (rakyattv)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=antv
 
 #EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (king-4k)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts
 #EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (syok)
 http://syok.tv:25461/843839483/33999/2106
-#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (rakyattv)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=mnc
 
 #EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png",GTV (king-4k)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
@@ -59,8 +53,6 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (syok)
 http://syok.tv:25461/843839483/33999/1941
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (rakyattv)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=trans-7
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (202.169.224.202)
 http://202.169.224.202:8800/udp/239.4.1.1:1234
@@ -77,8 +69,6 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (syok)
 http://syok.tv:25461/843839483/33999/1942
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (rakyattv)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=transtv
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (livestream)
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
@@ -102,22 +92,16 @@ https://warningfm.github.io/v3/live/str/id/6cdb3402d11f58d.m3u8
 http://103.58.160.157:8278/720-RCTI/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gfjc6q1605825509.png" group-title="INDO NASIONAL",RCTI (syok)
 http://syok.tv:25461/843839483/33999/2105
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gfjc6q1605825509.png" group-title="INDO NASIONAL",RCTI (rakyattv)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="INDO NASIONAL",SCTV (202.169.224.202)
 http://202.169.224.202:8800/udp/239.9.1.29:1234
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="INDO NASIONAL",SCTV (syok)
 http://syok.tv:25461/843839483/33999/2416
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="INDO NASIONAL",SCTV (rakyattv)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=sctv
 
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NASIONAL (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NASIONAL (cloudns)
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NASIONAL (rakyattv)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=tvri
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NASIONAL (intechmedia)
 https://flv.intechmedia.net/live/ch113.m3u8|user-agent=Mozilla/5.0
 
@@ -302,8 +286,6 @@ http://202.169.224.202:8800/udp/239.9.1.14:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="INDO LOKAL",LAPOR PAK! (202.150.161.212)
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="INDO LOKAL",LAPOR PAK! (rakyattv)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=gtv
 
 #EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/53/Logo_Food_Travel.svg/250px-Logo_Food_Travel.svg.png",FOOD TRAVEL (vision+)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541180&extension=ts&play_token=J4RzsLFWgA
@@ -323,8 +305,6 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226cce.m3u8
 
 #EXTINF:-1 tvg-id="DAAITV.id@SD" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="INDO LOKAL",DAAI TV (daaiplus)
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:-1 tvg-id="DAAITV.id@SD" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="INDO LOKAL",DAAI TV (rakyattv)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=daai
 
 #EXTINF:-1 tvg-id="IndonesianaTV.id@SD" tvg-logo="https://i.imgur.com/192wiS1.png" http-referrer="https://indonesiana.tv/" group-title="INDO LOKAL",INDONESIANA.TV (tvstreamcast)
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
@@ -485,8 +465,6 @@ https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Kompas_TV_%282011%29.svg/revision/latest?cb=20181016124429" group-title="INDO NEWS",KOMPAS TV (103.58.160.157)
 http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Kompas_TV_%282011%29.svg/revision/latest?cb=20181016124429" group-title="INDO NEWS",KOMPAS TV (rakyattv)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=kompas
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Kompas_TV_%282011%29.svg/revision/latest?cb=20181016124429" group-title="INDO NEWS",KOMPAS TV (intechmedia)
 https://flv.intechmedia.net/live/ch102.m3u8|user-agent=Mozilla/5.0
 
@@ -501,8 +479,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/TvOne_2011.svg/revision/latest?cb=20181207020506" group-title="INDO NEWS",TV ONE (103.58.160.157)
 http://103.58.160.157:8278/720-TVONE/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/TvOne_2011.svg/revision/latest?cb=20181207020506" group-title="INDO NEWS",TV ONE (rakyattv)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=tvone
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/TvOne_2011.svg/revision/latest?cb=20181207020506" group-title="INDO NEWS",TV ONE (intechmedia)
 https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
 
@@ -516,8 +492,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w1668014862_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (103.58.160.157)
 http://103.58.160.157:8278/720-METROTV/playlist.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (rakyattv)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=metro
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (intechmedia)
 https://flv.intechmedia.net/live/ch101.m3u8|user-agent=Mozilla/5.0
 
@@ -599,8 +573,6 @@ https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTV_%282012%29.svg/revision/latest?cb=20240914101736" group-title="INDO NEWS",JTV (202.150.161.212)
 http://202.150.161.212:5000/live/channel38/playlist.m3u8
-#EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTV_%282012%29.svg/revision/latest?cb=20240914101736" group-title="INDO NEWS",JTV (rakyattv)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=jtv
 
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/revision/latest?cb=20250101053112" group-title="INDO NEWS",BTV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -1176,10 +1148,6 @@ https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="MOVIES & SHOWS",Discover Film (wurl.tv)
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="MOVIES & SHOWS" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5fc1c84d88fe2_SWyt-480x320.jpg",Astro Showtime (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=boo
-
 
 
 
@@ -1235,21 +1203,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=941417&exte
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=941420&extension=ts&play_token=Wezx3Db8dL
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110" group-title="BEIN SPORTS",BEIN SPORTS 3 (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=941423&extension=ts&play_token=6UKA0eIOkD
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607" group-title="BEIN SPORTS",BEIN SPORTS 1 (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903" group-title="BEIN SPORTS",BEIN SPORTS 2 (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607" group-title="BEIN SPORTS",BEIN SPORTS 1 (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-beinsports-1
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903" group-title="BEIN SPORTS",BEIN SPORTS 2 (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-beinsports-2
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110" group-title="BEIN SPORTS",BEIN SPORTS 3 (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-beinsports-3
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607" group-title="BEIN SPORTS",BEIN SPORTS 1 (9xrie8ecms)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1312,16 +1265,6 @@ http://23.237.104.106:8080/DAZN_2/index.m3u8
 http://23.237.104.106:8080/DAZN_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/g4s4yy1740903460.png" group-title="SPORTS MIX 1",DAZN 4 (50.7.120.34)
 http://23.237.104.106:8080/DAZN_4/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/925
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png",DAZN 2 (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/924
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mkx6rd1740903163.png" group-title="SPORTS MIX 1",DAZN 3 (totalplay)
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412212.ts
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/g4s4yy1740903460.png" group-title="SPORTS MIX 1",DAZN 4 (totalplay)
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412213.ts
 
 #EXTINF:-1 tvg-id="SuperSport.1.al" tvg-name="Super Sport 1 AL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-1-al.png?raw=true" group-title="SPORTS MIX 1",SUPER SPORT 1 (93.93.113.95)
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
@@ -1400,55 +1343,6 @@ https://jmp2.uk/stvp-DEBD260000692
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1122&extension=ts&play_token=Ezzp0z8Img
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Sportdigital_Edge_Logo_2024.svg/960px-Sportdigital_Edge_Logo_2024.svg.png?_=20240519183233" group-title="SPORTS MIX 1",SPORTDIGITAL EDGE (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149508&extension=ts&play_token=JEQXtK56oe
-
-#EXTINF:-1 tvg-id="SportTVMais.pt" tvg-name="PT : SPORT TV +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Sporttv%2B_White.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20201210161604" group-title="SPORTS MIX 1",SPORT TV (totalplay)
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412270.ts
-#EXTINF:-1 tvg-id="SportTVMais.pt" tvg-name="PT : SPORT TV +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Sporttv%2B_White.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20201210161604" group-title="SPORTS MIX 1",SPORT TV+ (totalplay)
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412234.ts
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT : SPORT TV 1 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Sporttv1_White.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20201210154542" group-title="SPORTS MIX 1",SPORT TV 1 (totalplay)
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412242.ts
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT : SPORT TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Sporttv3_White.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20201210155156" group-title="SPORTS MIX 1",SPORT TV 3 (totalplay)
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412251.ts
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT : SPORT TV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Sporttv4_White.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20201210155306" group-title="SPORTS MIX 1",SPORT TV 4 (totalplay)
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412262.ts
-
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png",SPORT TV 1 (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/848
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png",SPORT TV 3 (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/845
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",SPORT TV 4 (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/843
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png",SPORT TV 5 (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/840
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png?_=20241118054613" group-title="SPORTS MIX 1",ASTRO ARENA (rakyattv) 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=arena 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png?_=20241118054615" group-title="SPORTS MIX 1",ASTRO ARENA 2 (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=arena-2
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png?_=20241118054619" group-title="SPORTS MIX 1",ASTRO GRANDSTAND (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-grandstand 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png?_=20241118054903" group-title="SPORTS MIX 1",ASTRO FOOTBALL (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=supersports-4
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Astro_Sports_Plus_%282024%29.png?_=20241118054906" group-title="SPORTS MIX 1",ASTRO SPORTS PLUS (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-sports-plus
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Astro_Badminton_%282024%29.png?_=20241118054904" group-title="SPORTS MIX 1",ASTRO BADMINTON (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-badminton
-#EXTINF:-1 tvg-name="Astro Premier League" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SPORTS MIX 1",ASTRO PREMIER LEAGUE (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-pl-1
-
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/bsyd1-480x320.png",SPORTCAST 1 (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=sportcast-sport-1
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/bsyd2-480x320.png",SPORTCAST 2 (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=sportcast-sport-2
 
 #EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",MONOMAX 1 (verowo7190)
 https://love.verowo7190.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
@@ -1742,23 +1636,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png" group-title="SPORTS MIX 2",J SPORT 4 (jp-primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png",ELTA SPORT 1 (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-1
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png",ELTA SPORT 2 (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-2
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png",ELTA SPORT 3 (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-3
-
-#EXTINF:-1 tvg-id="SPOTVStadia.my" tvg-name="SPOTV Stadia" tvg-logo="https://www.visionplus.id/images/repository/856/522856-LOGO-m.png" group-title="SPORTS MIX 2",SPOTV 1 (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=spotv-1-hd
-#EXTINF:-1 tvg-id="SPOTV2Stadia.my" tvg-name="SPOTV 2 Stadia" tvg-logo="https://www.visionplus.id/images/repository/366/525366-LOGO-m.png" group-title="SPORTS MIX 2",SPOTV 2 (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=spotv-2
-
 #EXTINF:-1 tvg-id="SPOTVStadia.my" tvg-name="SPOTV Stadia" tvg-logo="https://www.visionplus.id/images/repository/856/522856-LOGO-m.png" group-title="SPORTS MIX 2",SPOTV 1 (alpha5-bx)
 http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919396&extension=ts
 #EXTINF:-1 tvg-id="SPOTV2Stadia.my" tvg-name="SPOTV 2 Stadia" tvg-logo="https://www.visionplus.id/images/repository/366/525366-LOGO-m.png" group-title="SPORTS MIX 2",SPOTV 2 (alpha5-bx)
@@ -1778,14 +1655,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TDMSport.png/revision/latest?cb=20220124190357" group-title="SPORTS MIX 3",TDM SPORT (cdn6)
 http://cdn6.163189.xyz/163189/amty
-
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Champions_TV_Logo.png/250px-Champions_TV_Logo.png",CHAMPIONS TV 6 (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-pl-2
-
-#EXTINF:-1 tvg-id="1090648" group-title="SPORTS MIX 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png",HUB SPORTS 2 (rakyattv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-badminton-2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Viju%2B_Sport_logo.svg/250px-Viju%2B_Sport_logo.svg.png?_=20231230092416" group-title="SPORTS MIX 3",VIJU+ SPORT (ngenix)
 https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
@@ -1858,8 +1727,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 #EXTINF:-1 group-title="SPORTS MIX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RTM_Sports.png/960px-RTM_Sports.png",RTM SPORTS (cloudfront)
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-#EXTINF:-1 group-title="SPORTS MIX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RTM_Sports.png/960px-RTM_Sports.png",RTM SPORTS (rakyattv)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=rtm-sport
 
 #EXTINF:-1 channel-id="b4273871759a5631bd536d2214f175e5" tvg-id="b4273871759a5631bd536d2214f175e5" tvg-chno="246" tvg-name="Fubo Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b4273871759a5631bd536d2214f175e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761774127737_Roku-FSN-Logo-efefef.png" group-title="SPORTS MIX 3",FUBO SPORTS NETWORK (jmp2.uk)
 https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
@@ -1977,11 +1844,6 @@ http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/301841
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1QLRSp6XcqEwKHdbGSjpYTuAeI90NnVJzJX1Wp-8f6g&s=10",JTBC SPORTS (211.110.63.98)
 http://211.110.63.98/jtbc3sports1/_definst_/32E28CFC070F873F25913C79D8AAADBEAD1397047A173437D49BA1D34AEB6731/chunklist_w525103698.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png",CBS SPORTS NETWORK (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3621
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png",CBS SPORTS NETWORK (realiptv)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3712
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="SPORTS MIX 3",A SPOR (turknet)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
