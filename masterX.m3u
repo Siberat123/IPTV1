@@ -1330,6 +1330,21 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 #EXTINF:-1 tvg-id="SuperSport.3.al" tvg-name="Super Sport 3 AL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-3-al.png?raw=true" group-title="SPORTS MIX 1",SUPER SPORT 3 (93.93.113.95)
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/250px-SuperSport_Albania.svg.png" group-title="SPORTS MIX 1",SUPER SPORT NEWS (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/3127
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-1-al.png?raw=true" group-title="SPORTS MIX 1",SUPER SPORT 1 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/276568
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-2-al.png?raw=true" group-title="SPORTS MIX 1",SUPER SPORT 2 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/3128
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-3-al.png?raw=true" group-title="SPORTS MIX 1",SUPER SPORT 3 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/3129
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-4-al.png?raw=true" group-title="SPORTS MIX 1",SUPER SPORT 4 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/209433
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-5-al.png?raw=true" group-title="SPORTS MIX 1",SUPER SPORT 5 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/209434
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/supersport-6-al.png?raw=true" group-title="SPORTS MIX 1",SUPER SPORT 6 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211449
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest/scale-to-width-down/1000?cb=20220226104639&path-prefix=vi" group-title="SPORTS MIX 1",CCTV (38.75.136.137)
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest/scale-to-width-down/1000?cb=20220226104639&path-prefix=vi" group-title="SPORTS MIX 1",CCTV5 (38.75.136.137)
@@ -1496,6 +1511,17 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894980&exte
 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS PREMIUM (jumangis)
 http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/117757
 
+#EXTINF:-1 tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/6/64/TringSportHD2010.jpg" group-title="SPORTS MIX 1",TRING SPORT NEWS (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/3132
+#EXTINF:-1 tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/6/64/TringSportHD2010.jpg" group-title="SPORTS MIX 1",TRING SPORT 1 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/3133
+#EXTINF:-1 tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/6/64/TringSportHD2010.jpg" group-title="SPORTS MIX 1",TRING SPORT 2 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/3134
+#EXTINF:-1 tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/6/64/TringSportHD2010.jpg" group-title="SPORTS MIX 1",TRING SPORT 3 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211451
+#EXTINF:-1 tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/6/64/TringSportHD2010.jpg" group-title="SPORTS MIX 1",TRING SPORT 4 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211452
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TringSportHD2010.jpg" group-title="SPORTS MIX 1",TRING SPORT 1 (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895006&extension=ts&play_token=mDypcPsfzR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TringSportHD2010.jpg" group-title="SPORTS MIX 1",TRING SPORT 2 (mag7070)
@@ -1523,6 +1549,11 @@ http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/960px-Eurosport_logo_%282001-2011%29.svg.png?_=20190514131705" group-title="SPORTS MIX 1",EUROSPORT 2 (79.127.207.193)
 http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Eurosport_logo_1989.svg/960px-Eurosport_logo_1989.svg.png?_=20200222125229" group-title="SPORTS MIX 1",EUROSPORT 1 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211453
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Eurosport_logo_1989.svg/960px-Eurosport_logo_1989.svg.png?_=20200222125229" group-title="SPORTS MIX 1",EUROSPORT 2 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211454
+
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png",FOX SPORTS (jmp2.uk)
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORTS MIX 1",FOX SPORTS (cloudfront)
@@ -1540,6 +1571,22 @@ http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/117738
 
 #SPORTS MIX 2
 #
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4jcpre1657031942.png" group-title="SPORTS MIX 2",ART SPORT 1 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211394
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwbqic1657031982.png" group-title="SPORTS MIX 2",ART SPORT 2 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/224503
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n5n1sd1657031998.png" group-title="SPORTS MIX 2",ART SPORT 3 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/224504
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/ArtSport_Logo.jpg?_=20211006195538" group-title="SPORTS MIX 2",ART SPORT 4 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/491561
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/ArtSport_Logo.jpg?_=20211006195538" group-title="SPORTS MIX 2",ART SPORT 5 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/491560
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/ArtSport_Logo.jpg?_=20211006195538" group-title="SPORTS MIX 2",ART SPORT 6 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/491559
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n5n1sd1657031998.png" group-title="SPORTS MIX 2",ART SPORT 3 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/225131
+
 #EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg",ALWAN SPORT 2 (camcloud)
 https://stream.camcloud.stream/stream/8dd8ad49bb05/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg",ALWAN SPORT 3 (camcloud)
@@ -1833,6 +1880,8 @@ https://jmp2.uk/rok-0128b5f756acf1e1c488509fd76b0a61.m3u8
 
 #EXTINF:-1 channel-id="6d8659091f745b8b864f438f06c56fae" tvg-id="6d8659091f745b8b864f438f06c56fae" tvg-chno="241" tvg-name="TNA Wrestling Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d8659091f745b8b864f438f06c56fae/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1709314978559_TNAWrestling_Roku_WhiteLogo_CenterAligned_260x147.png" group-title="SPORTS MIX 3",TNA WRESTLING (jmp2.uk)
 https://jmp2.uk/rok-6d8659091f745b8b864f438f06c56fae.m3u8
+#EXTINF:-1 channel-id="6d8659091f745b8b864f438f06c56fae" tvg-id="6d8659091f745b8b864f438f06c56fae" tvg-chno="241" tvg-name="TNA Wrestling Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d8659091f745b8b864f438f06c56fae/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1709314978559_TNAWrestling_Roku_WhiteLogo_CenterAligned_260x147.png" group-title="SPORTS MIX 3",TNA WRESTLING (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/301729
 
 #EXTINF:-1 channel-id="43623368b9c3704a5ea138fbaac14735" tvg-id="43623368b9c3704a5ea138fbaac14735" tvg-chno="940" tvg-name="Lucha Plus" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/43623368b9c3704a5ea138fbaac14735/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741654115050_Roku_260x147_White_Channel_Lucha_Plus_Logo.png" group-title="SPORTS MIX 3",LUCHA PLUS (jmp2.uk)
 https://jmp2.uk/rok-43623368b9c3704a5ea138fbaac14735.m3u8
@@ -1921,6 +1970,8 @@ http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/117784
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_%282020_Logo%29.svg/500px-RTSH_Sport_%282020_Logo%29.svg.png?_=20201023224529" group-title="SPORTS MIX 3"",RTSH SPORT (234003)
 http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/452172
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_%282020_Logo%29.svg/500px-RTSH_Sport_%282020_Logo%29.svg.png?_=20201023224529" group-title="SPORTS MIX 3"",RTSH SPORT (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/301841
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaJKF2oRvANM0EoMFoRvsXhMBUcgGBjXoDrGDNz8CVzg&s=10",JTBC SPORTS (211.110.63.98)
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
@@ -1995,89 +2046,13 @@ https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.
 #EXTINF:-1 tvg-id="Soccer Channel.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SoccerChannel2020.png/revision/latest?cb=20220810085741" group-title="SPORTS MIX 3",SOCCER CHANNEL (alpha5-bx)
 http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919399&extension=ts
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", TRING SPORT NEWS HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/3132
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SUPER SPORT NEWS HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/3127
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SUPER SPORT 1 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/276568
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SUPER SPORT 2 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/3128
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SUPER SPORT 3 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/3129
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SUPER SPORT 4 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/209433
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SUPER SPORT 5 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/209434
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SUPER SPORT 6 FHD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211449
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", KS: SUPER SPORT 1 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/3191
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", KS: SUPER SPORT 2 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/3192
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", TRING SPORT 1 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/3133
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", TRING SPORT 2 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/3134
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", TRING SPORT 3 HD*
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211451
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", TRING SPORT 4 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211452
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", KUJTESA SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-6-rs.png?raw=true" group-title="SPORTS MIX 3",ARENA SPORT 6 (234003) 
 http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/225129
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", KUJTESA SPORT 2 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/225130
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", KUJTESA SPORT 3 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/225131
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", KUJTESA SPORT 4
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/225132
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", K SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-6-rs.png?raw=true" group-title="SPORTS MIX 3",ARENA SPORT 6 (234003) 
 http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211389
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", K SPORT 2 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211390
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", K SPORT 3 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211391
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", K SPORT 4 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211392
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", ART SPORT 1 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211394
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", ART SPORT 2 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/224503
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", ART SPORT 3 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/224504
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", ART SPORT 4 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/491561
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", ART SPORT 5 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/491560
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", ART SPORT 6 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/491559
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", EUROSPORT 1 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211453
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", EUROSPORT 2 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211454
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", RTSH SPORT HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/301841
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", KLAN SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-6-rs.png?raw=true" group-title="SPORTS MIX 3",ARENA SPORT 6 (234003)
 http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/532497
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", KLAN SPORT 2 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/532496
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", FIGHT BOX FHD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/301729
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", OVERSPORT 3 HD
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/395248
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pirzmo1656958353.png" group-title="SPORTS MIX 3",PRIMA SPORT 3 (234003)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/211391
 
