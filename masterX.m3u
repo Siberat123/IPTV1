@@ -6,39 +6,6 @@
 
 #INDO NASIONAL
 #
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (king-4k)
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (s.id)
-https://s.id/Shareext_liga1_m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (ogietv)
-http://ogietv.biz.id:80/aqin/aqin168/1327.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (103.148.44.38)
-http://103.148.44.38:8000/play/a05c/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (syok)
-http://syok.tv:25461/843839483/33999/2415
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (semar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://vidx.semar.my.id/biasa2.mpd?id=205&type=dash
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (103.58.160.157)
-http://103.58.160.157:8278/720-ANTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (syok)
-http://syok.tv:25461/843839483/33999/1544
-
-#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (king-4k)
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts
-#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (syok)
-http://syok.tv:25461/843839483/33999/2106
-
-#EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png",GTV (king-4k)
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
-#EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png",GTV (syok)
-http://syok.tv:25461/843839483/33999/2107
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (202.169.224.202)
 http://202.169.224.202:8800/udp/239.4.1.2:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (103.58.160.157)
@@ -70,6 +37,41 @@ http://syok.tv:25461/843839483/33999/1942
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (livestream)
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (king-4k)
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (s.id)
+https://s.id/Shareext_liga1_m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (ogietv)
+http://ogietv.biz.id:80/aqin/aqin168/1327.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (103.148.44.38)
+http://103.148.44.38:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (syok)
+http://syok.tv:25461/843839483/33999/2415
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (semar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://vidx.semar.my.id/biasa2.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (103.148.44.38)
+http://103.148.44.38:8000/play/a05h/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (103.58.160.157)
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (syok)
+http://syok.tv:25461/843839483/33999/1544
+
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (king-4k)
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (syok)
+http://syok.tv:25461/843839483/33999/2106
+
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png",GTV (king-4k)
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png",GTV (syok)
+http://syok.tv:25461/843839483/33999/2107
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/MDTV.svg/revision/latest?cb=20250226154803" group-title="INDO NASIONAL",MDTV (202.169.224.202)
 http://202.169.224.202:8800/udp/239.1.1.1:1234
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/MDTV.svg/revision/latest?cb=20250226154803" group-title="INDO NASIONAL",MDTV (202.150.161.212)
@@ -85,6 +87,8 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/MDTV.svg/revision/latest?cb=20250226154803" group-title="INDO NASIONAL",MDTV (warningfm)
 https://warningfm.github.io/v3/live/str/id/6cdb3402d11f58d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/MDTV.svg/revision/latest?cb=20250226154803" group-title="INDO NASIONAL",MDTV (103.148.44.38)
+http://103.148.44.38:8000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gfjc6q1605825509.png" group-title="INDO NASIONAL",RCTI (103.58.160.157)
 http://103.58.160.157:8278/720-RCTI/playlist.m3u8
@@ -485,8 +489,13 @@ https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Kompas_TV_%282011%29.svg/revision/latest?cb=20181016124429" group-title="INDO NEWS",KOMPAS TV (cloudns)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Kompas_TV_%282011%29.svg/revision/latest?cb=20181016124429" group-title="INDO NEWS",KOMPAS TV (cloudns)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://cdn.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Kompas_TV_%282011%29.svg/revision/latest?cb=20181016124429" group-title="INDO NEWS",KOMPAS TV (103.58.160.157)
 http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Kompas_TV_%282011%29.svg/revision/latest?cb=20181016124429" group-title="INDO NEWS",KOMPAS TV (103.58.160.157)
+http://103.148.44.38:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Kompas_TV_%282011%29.svg/revision/latest?cb=20181016124429" group-title="INDO NEWS",KOMPAS TV (intechmedia)
 https://flv.intechmedia.net/live/ch102.m3u8|user-agent=Mozilla/5.0
 
@@ -532,6 +541,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Nusantara_TV_Symbol.svg/revision/latest?cb=20240509104942" group-title="INDO NEWS",NUSANTARA TV (cloudns)
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Nusantara_TV_Symbol.svg/revision/latest?cb=20240509104942" group-title="INDO NEWS",NUSANTARA TV (cloudns)
+http://cdn.nng.cloudns.us/live/m3u8/id/378a642ff00fed8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/CNN_Indonesia_%28boxless%29.svg/revision/latest?cb=20231215230627" group-title="INDO NEWS",CNN INDONESIA (202.169.224.202)
 http://202.169.224.202:8800/udp/239.4.1.3:1234
@@ -744,10 +755,12 @@ https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/ts-u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/GBNews.svg/revision/latest?cb=20210421163251" group-title="WORLD NEWS",GB NEWS (amagi.tv)
 https://amg01076-lightningintern-gbnewsse-samsungse-q7qjc.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-gbnewsse-samsungse/cb543d1e786c668f84c83c65cef341a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7251db80148b61299bce8c37683f03409a5e5afba358b1ebe20f42d16ef3e44855977b47b69f43c8821da68887099c5e8527f614cbc3a589d71581d3f31c93748a98cd5c581fb0a43bfae053b2d5946c2a95705a297437c790e335caa1e43d277debf6cac505b5739cca4d0907461e9e4a5416e0f2cbd37d17c5f6307981ff082d18b7cd5a2e0da1eea198ef3409700791adc4d2697595fa153712873d986a1c319ef9c40397833ba2f672d5fa394678f7984bcdc9e9c3f7e6d903dc04dad7f89d0a474c480d16c908f1cd23887f9d3083e6270c700104a1935ec1c6fe5b336940cfc07ddc0114b4dec4d28b5d759a2e4b14b820ea5a036dde3d2329b67ab7c96a1efc4c60b23c33ff57229302ade85e9289efa5576bfb8ebd019509c8ba05d5fa07d31d1f5110bcff291f080c4ad9e06202276a8122c0d6d9ea630610e6959eaa2032c3f4e9b934e3a93075b293311a3cb29ea394cc3df8/34/1920x1080_4716800/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="WORLD NEWS",FRANCE24 (antik)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="WORLD NEWS",FRANCE 24 (antik)
 https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="WORLD NEWS",FRANCE24 (amagi.tv)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="WORLD NEWS",FRANCE 24 (amagi.tv)
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="WORLD NEWS",FRANCE 24 (204.52.191.254)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541179&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/E-NTD_logo2.jpg?_=20220521180758" group-title="WORLD NEWS",NTD NEWS (amagi.tv)
 https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/cb543d1e786c668f84c83c65cef341a2f94d1fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c575677a864c30d00c1db0cb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7254db80148c79218bb3dc60306d2700cd0401b0b03df2a9b01f1cc769a2b6024b933d51e28747c1d519efd5c959ca45806bf015cb93ed82db158b9b9332af50b3660d5c2079ca824bbca32ede765e6d43fe580c04777ce8a79cf04b2f8f463133929dea8c15349753eb5fe54124b201e22fce50d828c281c090eb3e7fa04d923999ddb0eb459f30319aaab15912ae6ffaedc3dc787d8be2154289a807c30f242299f1c715cb965bc6f66ba9bd6708209bd1649599a08ce6b4cd1bca7e8af4d9d51c131836224bc67cb28a61de1ed87a83c7076e091e13e3c90384cef276044f63cac052dd181ef9fc8e80d401728a431348e76ddc1454389a7a3c32b27ba1ca723dd87f4aa83a3ff25430c071fdbe2de7ae94b0556cfb8d91309205889404d6e40da0694e3b53e5886c35227f7cddfd7303370ba476e5ded9f4790e4280dac2fcc95f3d47091f5d028ee88525c86ea1b9a1c76f35474c41c1dc65ccaa17dd2db9a93bf2cf/53/1280x720_3329040/index.m3u8
@@ -787,13 +800,16 @@ http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417996
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY",Animal Planet (202.169.224.202)
 http://202.169.224.202:8800/udp/239.9.1.7:1234
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png?format=1500w" group-title="DOCUMENTARY",Global Trekker (vision+)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Smithsonian_Channel_current_logo.png/330px-Smithsonian_Channel_current_logo.png" group-title="DOCUMENTARY",Smithsonian Channel (204.52.191.254)
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:D5:A6:B2&stream=469429&extension=ts
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png?format=1500w" group-title="DOCUMENTARY",Global Trekker (204.52.191.254)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541176&extension=ts&play_token=J4RzsLFWgA
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20180124021550" group-title="DOCUMENTARY",HISTORY (vision+)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20180124021550" group-title="DOCUMENTARY",History (204.52.191.254)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541172&extension=ts&play_token=J4RzsLFWgA
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/960px-Love_Nature_logo_%282025%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250607120619" group-title="DOCUMENTARY",Love Nature (vision+)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/960px-Love_Nature_logo_%282025%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250607120619" group-title="DOCUMENTARY",Love Nature (204.52.191.254)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541157&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/250px-Outdoor_Channel_logo_2017.svg.png" group-title="DOCUMENTARY",Outdoor Channel (amagi.tv)
@@ -1020,7 +1036,10 @@ https://amg01439-amg01439c1-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="MOVIES & SHOWS",Mr. Bean (amagi.tv)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/330px-Logo_tvN.svg.png" group-title="MOVIES & SHOWS",TVN Movies(202.150.161.212)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Moviefone_logo.png?_=20140831142317" group-title="MOVIES & SHOWS",Moviefone (wurl)
+https://connection3-ent-nz.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/330px-Logo_tvN.svg.png" group-title="MOVIES & SHOWS",TVN Movies (202.150.161.212)
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/330px-Logo_tvN.svg.png" group-title="MOVIES & SHOWS",TVN Movies(103.148.44.38)
 http://103.148.44.38:8000/play/a052/index.m3u8
@@ -1040,11 +1059,26 @@ https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-referrer=http://dens.tv/
 http://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="MOVIES & SHOWS",Galaxy (204.52.191.254)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541178&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="MOVIES & SHOWS",Galaxy Premium (204.52.191.254)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541177&extension=ts&play_token=J4RzsLFWgA
+
+
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4bb062_logo_ent_red_web-p-500.png" group-title="MOVIES & SHOWS",Rock Entertainment (202.169.224.202)
 http://202.169.224.202:8800/udp/239.9.1.8:1234
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Celestial_Movies.png/250px-Celestial_Movies.png" group-title="MOVIES & SHOWS",CCM (202.169.224.202)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Celestial_Movies.png/250px-Celestial_Movies.png" group-title="MOVIES & SHOWS",Celestial Movies (204.52.191.254)
+http://103.148.44.38:8000/play/a09m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="MOVIES & SHOWS",CCM (204.52.191.254)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541196&extension=ts&play_token=J4RzsLFWgA
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="MOVIES & SHOWS",CCM (202.169.224.202)
 http://202.169.224.202:8800/udp/239.9.1.22:1234
+
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED-225x225.png" group-title="MOVIES & SHOWS",We Do Movies (amagi.tv)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomovies-benelux-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_2_0.png" group-title="MOVIES & SHOWS",LG 1:Film (ottera.tv)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465
@@ -1078,7 +1112,7 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 tvg-id="Comet.us@SD" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/8/86/Comet_TV_2015.png/revision/latest?cb=20200815230941" group-title="MOVIES & SHOWS",Comet (fast-channels)
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
-#EXTINF:-1 channel-id="be3c81de355c56f89cbf99301735cfd2" tvg-id="be3c81de355c56f89cbf99301735cfd2" tvg-chno="275" tvg-name="My Time Movie Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/be3c81de355c56f89cbf99301735cfd2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1654727499791_MyTime_Roku_ChannelLogos_260x147.png" group-title="MOVIES & SHOWS",MyTime Movie Network (jmp2.uk)
+#EXTINF:-1 channel-id="be3c81de355c56f89cbf99301735cfd2" tvg-id="be3c81de355c56f89cbf99301735cfd2" tvg-chno="275" tvg-name="My Time Movie Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/be3c81de355c56f89cbf99301735cfd2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1654727499791_MyTime_Roku_ChannelLogos_260x147.png" group-title="MOVIES & SHOWS",MyTime Movie (jmp2.uk)
 https://jmp2.uk/rok-be3c81de355c56f89cbf99301735cfd2.m3u8
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="MOVIES & SHOWS",MyTime Movie (amagi.tv)
 https://mytime-tcl.amagi.tv/1080p-en-cc/index.m3u8
@@ -1142,6 +1176,9 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/e/8/3/e8348bc6a66aa74da3f32eb274422564_icon.png?w=128" group-title="MOVIES & SHOWS",Asian Crush (frequency)
 https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Midnight_Pulp_logo.png/960px-Midnight_Pulp_logo.png?_=20250302223248" group-title="MOVIES & SHOWS",Midnight Pulp (cineverse)
+http://cineverse.g-mana.live/media/579fa853-ff49-426e-bc2d-d16ce9b1bdf6/profile/sub-0/profileManifest.m3u8?
 
 #EXTINF:-1 tvg-logo="https://r2.theaudiodb.com/images/media/artist/logo/svsrxw1522418415.png" group-title="MOVIES & SHOWS",The Archive (frequency)
 https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist_1920x1080.m3u8
