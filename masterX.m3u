@@ -1551,6 +1551,18 @@ http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/960px-Eurosport_logo_%282001-2011%29.svg.png?_=20190514131705" group-title="SPORTS MIX 1",EUROSPORT 2 (79.127.207.193)
 http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/250px-TSN_Logo.svg.png",TSN 1 (185.80.197.39)
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:7C:7A&stream=2077049&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/250px-TSN_Logo.svg.png",TSN 3 (185.80.197.39)
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:7C:7A&stream=2077047&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/250px-TSN_Logo.svg.png",TSN 4 (185.80.197.39)
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:7C:7A&stream=2077046&extension=m3u8
+ 
+#EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/250px-TSN_Logo.svg.png",TSN 5 (185.80.197.39)
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:7C:7A&stream=2077045&extension=m3u8
+
 
 
 
@@ -1943,6 +1955,8 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1157577&ext
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORTS MIX 3",FOX SPORTS (cloudfront)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png",FOX SPORTS (jmp2.uk)
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:D1:EA:F2&stream=858547&extension=m3u8
 
 #EXTINF:-1 channel-id="677d9adfa9a51b0008497fa0" tvg-id="677d9adfa9a51b0008497fa0" tvg-chno="2850" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" group-title="SPORTS MIX 3",UFC (jmp2.uk)
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
@@ -2019,6 +2033,16 @@ https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271d
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 #EXTINF:-1 group-title="SPORTS MIX 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10",RTB GO LIVE (cloudfront) 
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS MIX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Magenta_Telekom_Logo.svg/960px-Magenta_Telekom_Logo.svg.png?_=20230401193356",FUSSBALL TV 1 (91.208.115.26)
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&extension=m3u8
+#EXTINF:-1 group-title="SPORTS MIX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Magenta_TV_Logo_2024.svg/960px-Magenta_TV_Logo_2024.svg.png?_=20250218221121",FUSSBALL TV 1 (91.208.115.26)
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745095&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS MIX 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRX8mfzA5rWYeZNlvmRmjS2di7wFVabXIn9lzQBNsmhQ&s",UNITE 8 SPORTS 1 (starhub)
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+
+
 
 
 
