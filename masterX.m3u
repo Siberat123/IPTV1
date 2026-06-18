@@ -1333,6 +1333,9 @@ http://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-4.png",BEIN SPORTS 4 (online24)
 http://ua.online24.pm/play/1104/350B326FB34F4B8/video.m3u8
 
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS (23.237.104.106)
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA n (amagi.tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1439,6 +1442,8 @@ http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest/scale-to-width-down/1000?cb=20220226104639&path-prefix=vi" group-title="SPORTS MIX 1",CCTV5+ (38.75.136.137)
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest/scale-to-width-down/1000?cb=20220226104639&path-prefix=vi" group-title="SPORTS MIX 1",CCTV5+ (38.75.136.137)
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://epg.v1.mk/logo/cctv16.png",CCTV16 (38.75.136.137)
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest/scale-to-width-down/1000?cb=20220226104639&path-prefix=vi",CCTV FOOTBALL (38.75.136.137)
@@ -1756,7 +1761,7 @@ https://jmp2.uk/plu-66461eb33d173b000805ecd3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/960px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="SPORTS MIX 3",LA lIGA INSIDE (cloudfront)
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png?_=20170902110931" group-title="SPORTS MIX 3",CT SPORT (88.212.15.19)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png?_=20170902110931" group-title="SPORTS MIX 3",ČT SPORT (88.212.15.19)
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/35633f08c98857cb9e85c91eae17c0d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749856192932_LoMejorDeLigaMX_HUD_ChannelLogo_260x147px.png" group-title="SPORTS MIX 3",VIX LO MEJOR DE LIGA MX (jmp2.uk)
@@ -1984,7 +1989,113 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 #EXTINF:-1 group-title="SPORTS MIX 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10",RTB GO LIVE (cloudfront) 
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="DongNaiTV2.vn@SD" tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="SPORTS MIX 3",DONG NAI 2 (118.107.85.4)
+http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w722555549_b1384000.m3u8
 
 
 
 
+
+#WORLD CUP 2026
+#
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", TVRI Nasional (Indonesia)
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", TVRI Sport (Indonesia)
+http://103.148.44.38:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", RTB Aneka (Brunei)
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", RTB Go (Brunei)
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", True Sports 1 (Thailand)
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", True Sports 2 (Thailand)
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", True Sports 3 (Thailand)
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", True Sports 5 (Thailand)
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", True Sports 7 (Thailand)
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", NHK BS (Japan)
+http://akariko.netgenx.site/stream/jp/NHK_BS/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", NHK BS Premium 4K (Japan)
+http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", NHK G (Japan)
+http://akariko.netgenx.site/stream/jp/NHK_G/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", Fox (United States)
+http://stream.cammonitorplus.net/1772/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", Cignal World Cup TV 2 (Philippines)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", FUSSBALL.TV 1 (Germany)
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", TSN 1 (Canada)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6521/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", TSN 1 (Canada/Alt)
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsK04-AqnXNvYG0b_Z6U-SG/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", TSN 1 (Canada/Alt 2)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", TSN 2 (Canada)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6492/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", TSN 2 (Canada/Alt)
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvYJVCjcR2GWbg7GKmuFWQk/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", TSN 2 (Canada/Alt 2)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", TSN 3 (Canada)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6522/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", TSN 3 (Canada/Alt)
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpv8x3tAP0-CWHfpKoj-o4Rz/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", TSN 4 (Canada)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6445/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", TSN 4 (Canada/Alt)
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuW1Fs344n15KEeKaKxZwJ1/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", TSN 5 (Canada)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6517/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", TSN 5 (Canada/Alt)
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpss0oU8VkGW-VxjeNebejIG/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", BBC One (United Kingdom)
+https://xemzi.short.gy/1000001
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", BBC Two (United Kingdom)
+https://xemzi.short.gy/1000002
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", iTV 1 (United Kingdom)
+https://xemzi.short.gy/1000011
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", iTV 4 (United Kingdom)
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptHoaHIQUz0kzgA53CKR6i7/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", Caze TV 1 (Brazil)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="WORLD CUP 2026", SporTV (Brazil)
+http://tjtor8411.com:80/live/010794/FXz1sY/131132.ts
