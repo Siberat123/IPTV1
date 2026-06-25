@@ -1989,3 +1989,69 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 #EXTINF:-1 group-title="SPORTS MIX 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10",RTB GO LIVE (cloudfront) 
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gPteww8.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",Unite8 Sports 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://66.102.126.10:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (beIN Sports France 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2499/index.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2499/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/tlyHK4i.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (beIN Sports France 2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2500/index.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2500/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/cMeeaJe.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (Elta Sports 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://106.107.177.247:5678/live/stream-14760d6c-b244-42de-8ae4-88233185ada2/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/oxOTDgI.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (Elta Sports 2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://106.107.177.247:5678/live/stream-75ae3a1c-49a7-4972-932b-73ae6b796569/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/DxzpkM3.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (Elta Sports 3)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://106.107.177.247:5678/live/stream-0ec229ac-84d8-4ce8-a04b-d12c0c5343ff/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
+
+#EXTINF:-1 tvg-name="TNT Sports" tvg-logo="https://i.imgur.com/K67Pr1z.jpeg" tvg-id="tntsports.com" group-title="TNT Sports",TNT Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/11606
+
+#EXTINF:-1 tvg-name="TNT Sports" tvg-logo="https://i.imgur.com/rmKAerL.jpeg" tvg-id="tntsports.com" group-title="TNT Sports",TNT Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_TNT_SPORTS_2_TV/tracks-v1a1/mono.ts.m3u8
+http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/11605
+
+#EXTINF:-1 tvg-name="TNT Sports" tvg-logo="https://i.imgur.com/BiYXwPV.jpeg" tvg-id="tntsports.com" group-title="TNT Sports",TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_TNT_SPORTS_3_TV/tracks-v1a1/mono.ts.m3u8
+http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/11604
+
+#EXTINF:-1 tvg-name="TNT Sports" tvg-logo="https://i.imgur.com/jgM5gMN.jpeg" tvg-id="tntsports.com" group-title="TNT Sports",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_TNT_SPORTS_4_TV/tracks-v1a1/mono.ts.m3u8
+http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/442298
+
+#EXTINF:-1 tvg-name="Elta Sports" tvg-logo="https://i.imgur.com/cMeeaJe.jpeg" tvg-id="eltasports.tw" group-title="Elta Sports",Elta Sports 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://106.107.177.247:5678/live/stream-14760d6c-b244-42de-8ae4-88233185ada2/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
+
+#EXTINF:-1 tvg-name="Elta Sports" tvg-logo="https://i.imgur.com/oxOTDgI.jpeg" tvg-id="eltasports.tw" group-title="Elta Sports",Elta Sports 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://106.107.177.247:5678/live/stream-75ae3a1c-49a7-4972-932b-73ae6b796569/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
+
+#EXTINF:-1 tvg-name="Elta Sports" tvg-logo="https://i.imgur.com/DxzpkM3.jpeg" tvg-id="eltasports.tw" group-title="Elta Sports",Elta Sports 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://106.107.177.247:5678/live/stream-0ec229ac-84d8-4ce8-a04b-d12c0c5343ff/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
