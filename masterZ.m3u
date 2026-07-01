@@ -1016,8 +1016,6 @@ https://mechtvltd-mechplus-1-dk.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4f628a666da552d7a9ea9157e079d56b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669078691120_JustforLaughsGags_260x147_copy.png" group-title="MOVIES & SHOWS",Just For Laughs Gags (wurl.tv)
 https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 channel-id="4f628a666da552d7a9ea9157e079d56b" tvg-id="4f628a666da552d7a9ea9157e079d56b" tvg-chno="835" tvg-name="Just for Laughs Gags" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4f628a666da552d7a9ea9157e079d56b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669078691120_JustforLaughsGags_260x147_copy.png" group-title="MOVIES & SHOWS",Just for Laughs Gags (jmp2.uk)
-https://jmp2.uk/rok-4f628a666da552d7a9ea9157e079d56b.m3u8
 
 #EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="MOVIES & SHOWS",Deal or No Deal (amagi.tv)
 https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
@@ -1043,9 +1041,6 @@ https://itv-hellskitchen-rakuten.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_of_Family_Feud.png?_=20231025151320" group-title="MOVIES & SHOWS",Family Feud (tubi)
 https://aegis-cloudfront-1.tubi.video/e1638fe1-8df0-470a-9fa9-b515ca7ca18e/master_5.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SHOWS" tvg-logo="https://i.postimg.cc/d08FLVhL/ezgif-70f6541767638f44.png",MTV (23.237.104.106)
-http://23.237.104.106:8080/USA_MTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png?_=20231028030137" group-title="MOVIES & SHOWS",Entertainment Tonight (cbsivideo)
 https://enterbcef94b.airspace-cdn.cbsivideo.com/master_7.m3u8
 
@@ -1055,46 +1050,14 @@ https://amg01439-amg01439c1-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="MOVIES & SHOWS",Mr. Bean (amagi.tv)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Moviefone_logo.png?_=20140831142317" group-title="MOVIES & SHOWS",Moviefone (wurl)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Moviefone_logo.png?_=20140831142317" group-title="MOVIES & SHOWS",Made in Hollywood (wurl)
 https://connection3-ent-nz.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/330px-Logo_tvN.svg.png" group-title="MOVIES & SHOWS",TVN Movies (202.150.161.212)
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/330px-Logo_tvN.svg.png" group-title="MOVIES & SHOWS",TVN Movies(103.148.44.38)
-http://103.148.44.38:8000/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png?_=20210920034610" group-title="MOVIES & SHOWS",Bioskop Indonesia (202.150.161.212)
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ec/%C4%B0MC_TV_logosu.png?_=20140917203716" group-title="MOVIES & SHOWS",IMC (vision+)
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541167&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/mycinemaeurope.jpg?raw=true" group-title="MOVIES & SHOWS",MY Cinema Europe (dens)
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
-#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/mycinemaeurope.jpg?raw=true" group-title="MOVIES & SHOWS",MY Cinema Europe (dens)
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
-http://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="MOVIES & SHOWS",Galaxy (204.52.191.254)
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541178&extension=ts&play_token=J4RzsLFWgA
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="MOVIES & SHOWS",Galaxy Premium (204.52.191.254)
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541177&extension=ts&play_token=J4RzsLFWgA
-
-
-#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4bb062_logo_ent_red_web-p-500.png" group-title="MOVIES & SHOWS",Rock Entertainment (202.169.224.202)
-http://202.169.224.202:8800/udp/239.9.1.8:1234
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Celestial_Movies.png/250px-Celestial_Movies.png" group-title="MOVIES & SHOWS",Celestial Movies (204.52.191.254)
-http://103.148.44.38:8000/play/a09m/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="MOVIES & SHOWS",CCM (204.52.191.254)
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541196&extension=ts&play_token=J4RzsLFWgA
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="MOVIES & SHOWS",CCM (202.169.224.202)
-http://202.169.224.202:8800/udp/239.9.1.22:1234
 
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED-225x225.png" group-title="MOVIES & SHOWS",We Do Movies (amagi.tv)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomovies-benelux-ono/playlist.m3u8
@@ -1116,8 +1079,6 @@ https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="MOVIES & SHOWS",Rakuten Top Movies (amazonaws)
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="MOVIES & SHOWS",Rakuten Cinema (amazonaws)
-https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/31T4eMT29IL.png" group-title="MOVIES & SHOWS",Viki (wurl)
 https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1319,6 +1280,12 @@ https://jmp2.uk/stvp-ATAJ0500433A
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Scooore.svg/revision/latest?cb=20241114233910" group-title="WORLD SPORTS",SPORTDIGITAL SCOOORE (jmp2.uk)
 https://jmp2.uk/stvp-DEBD260000692
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="WORLD SPORTS",TRUE SPORTS 3 (ddns)
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="WORLD SPORTS",TRUE SPORTS 7 (ddns)
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
+
 #EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-logo="https://www.alkass.net/assets/images/logo.png" group-title="WORLD SPORTS",ALKASS DIGITAL 1 (alkassdigital)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
@@ -1498,88 +1465,64 @@ http://cdn6.163189.xyz/163189/amty
 
 
 
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", tsn
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-http://mains.services:80/live/9982659680/2285211317/134187.m3u8
+#EXTINF:-1 group-title="General", OTT CLUB 🇷🇺
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6554/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53805.m3u
+
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/338754.m3u
+
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53806.m3u
+
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/338755.m3u
+
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53807.m3u
+
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/338756.m3u
 
 
-#EXTINF:-1 group-title="FIFA World Cup 2026 Channels", PERSIANA SPORTS 🇮🇷
-https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53808.m3u
 
-#EXTINF:-1 group-title="FIFA World Cup 2026 Channels", BEIN 1 🇫🇷
-http://145.239.5.177:80/559/index.m3u8
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/338757.m3u
 
-#EXTINF:-1 group-title="FIFA World Cup 2026 Channels", МАТЧ! ФУТБOЛ 2HD 🇷🇺
-http://cdntv.online/low/9mlxywika2/56.m3u8
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53809.m3u
 
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", True Sports 3 (Thailand)
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/339499.m3u
 
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", True Sports 7 (Thailand)
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53982.m3u
 
-
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", Fox (United States)
-http://stream.cammonitorplus.net/1772/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", Fox Deportes (United States)
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", FUSSBALL.TV 1 (Germany)
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", Dazn Mundial 1 (Spain)
-http://myxpanel.pro/live/13579/13579/838108.ts
-
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", Dazn Mundial 2 (Spain)
-http://myxpanel.pro/live/13579/13579/838106.ts
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53977.m3u
 
 
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", TSN 1 (Canada)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6521/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", TSN 1 (Canada/Alt)
-https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsK04-AqnXNvYG0b_Z6U-SG/m3u8
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (h)
+http://hostengine.live/live/GCC528197/TGB86673456/55060.m3u
+
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/55061.m3u
 
 
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", TSN 1 (Canada/Alt 2)
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53850.m3u
 
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", TSN 2 (Canada)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6492/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53851.m3u
 
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", TSN 2 (Canada/Alt)
-https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvYJVCjcR2GWbg7GKmuFWQk/m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53852.m3u
 
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", TSN 2 (Canada/Alt 2)
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
+#EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53853.m3u
 
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", TSN 3 (Canada)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6522/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", TSN 3 (Canada/Alt)
-https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpv8x3tAP0-CWHfpKoj-o4Rz/m3u8
-
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", TSN 4 (Canada)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6445/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", TSN 4 (Canada/Alt)
-https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuW1Fs344n15KEeKaKxZwJ1/m3u8
-
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", TSN 5 (Canada)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6517/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", TSN 5 (Canada/Alt)
-https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpss0oU8VkGW-VxjeNebejIG/m3u8
-
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", BBC One (United Kingdom)
-https://xemzi.short.gy/1000001
-
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", BBC Two (United Kingdom)
-https://xemzi.short.gy/1000002
-
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", iTV 1 (United Kingdom)
-https://xemzi.short.gy/1000011
-
-#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA World Cup 2026 Channels", iTV 4 (United Kingdom)
-https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptHoaHIQUz0kzgA53CKR6i7/m3u8
