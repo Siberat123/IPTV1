@@ -1341,18 +1341,6 @@ https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC65asL_2cuUOSRrVjLbGM1PCRmqCzlo3obJK3PfCihjy9ZfCIU_7JeP19VpwGsZzWHt39f6EOwDIcJit_WXL-FDuiT-dxxmHCqgwyBm7rxj58CpPxJNgOsDJW2YPEqRRMCRzs4AJbi1Ly23pENL0FWGdJ3rpSvPw_J6EKH9xInHLC6sD8ChtH0m0xTVI/s700/CazeTV.png" group-title="WORLD SPORTS",CAZE TV (cloudfront)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TDMSport.png/revision/latest?cb=20220124190357" group-title="WORLD SPORTS",TDM SPORT (cdn6)
-http://cdn6.163189.xyz/163189/amty
-
-#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3b9ff291-5825-4cd3-b8f0-5d03a3f1e3c1" group-title="WORLD SPORTS",GOAL TV (sofast)
-https://streams2.sofast.tv/sofast/goaltv/goaltv_3500k.m3u8
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/telemundo.png",TELEMUNDO (akamaized)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
 #EXTINF:-1 channel-id="ITBC4700002CO" tvg-id="ITBC4700002CO" tvg-chno="4633" tvg-name="Solocalcio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="WORLD SPORTS",SOLO CALCIO (jmp2.uk)
 https://jmp2.uk/stvp-ITBC4700002CO
 #EXTINF:-1 channel-id="ITBC4700002CO" tvg-id="ITBC4700002CO" tvg-chno="4633" tvg-name="Solocalcio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="WORLD SPORTS",SOLO CALCIO (inspirationFreetv)
@@ -1360,50 +1348,32 @@ https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="Si Solo Calcio.it" tvg-logo="https://i.ibb.co.com/7Q5vVhy/sportitaliaplus.png" group-title="WORLD SPORTS",SOLO CALCIO (amagi.tv)
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="66461eb33d173b000805ecd3" tvg-id="66461eb33d173b000805ecd3" tvg-chno="223" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/66461eb33d173b000805ecd3/colorLogoPNG_1769414804838.png" group-title="WORLD SPORTS",DFB PLAY TV (jmp2.uk)
-https://jmp2.uk/plu-66461eb33d173b000805ecd3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/960px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="WORLD SPORTS",LA lIGA INSIDE (cloudfront)
-https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/35633f08c98857cb9e85c91eae17c0d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749856192932_LoMejorDeLigaMX_HUD_ChannelLogo_260x147px.png" group-title="WORLD SPORTS",VIX LO MEJOR DE LIGA MX (jmp2.uk)
-https://jmp2.uk/rok-35633f08c98857cb9e85c91eae17c0d5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="WORLD SPORTS", REAL MADRID TV (akamaized)
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-
-#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/d8x7c8i.png",BARCELONA TV (amagi.tv)
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
-https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Inter_TV_-_Logo_2017.svg/960px-Inter_TV_-_Logo_2017.svg.png" group-title="WORLD SPORTS",INTER TV (akamaized)
-https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/qBVqtYd.png",FENERBAHCE TV (rocketcdn)
-http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GBBD2300003IK"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_of_Red_bull.svg/960px-Logo_of_Red_bull.svg.png" group-title="WORLD SPORTS",RED BULL TV (redbull.tv)
-https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/id/en/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/AYM2004.jpg/revision/latest?cb=20130608195841" group-title="WORLD SPORTS",AYM SPORT (otteravision)
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/AYM2004.jpg/revision/latest?cb=20130608195841" group-title="WORLD SPORTS",AYM SPORT (ottera.tv)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13843&avod=1&content_dist_name=freelivesports&content_channel=AYM%20Sports&channel_name=AYM%20Sports&content_genre=Soccer%2CBoxing%2CWrestling%2CBaseball%2CBasketball%2CAmericanFootball%2CVolleyball%2CMotorsports%2CCollegeSports%2CMMA%2CLatamSports%2CSport&ic=IAB17-18%2CIAB17-2%2CIAB17-19%2CIAB17-1%2CIAB17-3%2CIAB17-7%2CIAB17-17%2CIAB17-8%2CIAB17-11%2CIAB17-12%2CIAB17&rating=PG&preferred_language=ES&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&consent=[CONSENT_STRING]&coppa=0&livestream=1&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/TvN_Sports_Korea.svg/250px-TvN_Sports_Korea.svg.png" group-title="WORLD SPORTS",TVN SPORTS (jmp2.uk)
-https://jmp2.uk/stvp-KRBC800015MH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="WORLD SPORTS",A SPOR (turknet)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="WORLD SPORTS",A SPOR (turknet)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Ht-spor-buyuk.webp" group-title="WORLD SPORTS",HT SPOR (ercdn)
-https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png",FOX SPORTS (jmp2.uk)
+https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="WORLD SPORTS",FOX SPORTS (cloudfront)
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png?_=20231124140634" group-title="WORLD SPORTS",TVR SPORT (mncdn)
-https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 channel-id="677d9adfa9a51b0008497fa0" tvg-id="677d9adfa9a51b0008497fa0" tvg-chno="2850" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" group-title="WORLD SPORTS",UFC (jmp2.uk)
+https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/lysgF2PEmQ0E0w==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjhAAQ==" group-title="WORLD SPORTS",UFC (tubi)
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/lysgF2PEmQ0E0w==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjhAAQ==" group-title="WORLD SPORTS",UFC (xumo)
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/29/TJKTV_Logo.jpg?_=20080826202841" group-title="WORLD SPORTS",TJK TV (tjktv)
-https://tjktv-live.tjk.org/tjktv_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Dd-sports.png/revision/latest?cb=20230126170013" group-title="WORLD SPORTS",DD SPORT (cloudfront)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_6.m3u8
+#EXTINF:-1 tvg-id="GolClassics.es@SD" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="WORLD SPORTS",GOAL CLASSICS (cloudfront)
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
+#EXTINF:-1 tvg-id="GolClassics.es@SD" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="WORLD SPORTS",GOAL CLASSICS (cloudfront)
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics_1.m3u8
 
 #EXTINF:-1 tvg-name="Cowboy tv" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/352f5cc7-f782-4ce5-8f68-aa78e51650ce" group-title="WORLD SPORTS",COWBOY TV (distrotv)
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
@@ -1440,8 +1410,54 @@ http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=15301&deviceMac=00:1A:79:1D:5
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raisport.it" tvg-name="|IT| RAI SPORT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAISPORT.png" group-title="WORLD SPORTS",RAI SPORT (lordstreams)
 http://lordstreams.live:80/9857855271/8369553594/661361
 
+#EXTINF:-1 channel-id="66461eb33d173b000805ecd3" tvg-id="66461eb33d173b000805ecd3" tvg-chno="223" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/66461eb33d173b000805ecd3/colorLogoPNG_1769414804838.png" group-title="WORLD SPORTS",DFB PLAY TV (jmp2.uk)
+https://jmp2.uk/plu-66461eb33d173b000805ecd3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/960px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="WORLD SPORTS",LA lIGA INSIDE (cloudfront)
+https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/35633f08c98857cb9e85c91eae17c0d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749856192932_LoMejorDeLigaMX_HUD_ChannelLogo_260x147px.png" group-title="WORLD SPORTS",VIX LO MEJOR DE LIGA MX (jmp2.uk)
+https://jmp2.uk/rok-35633f08c98857cb9e85c91eae17c0d5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="WORLD SPORTS", REAL MADRID TV (akamaized)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/d8x7c8i.png",BARCELONA TV (amagi.tv)
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Inter_TV_-_Logo_2017.svg/960px-Inter_TV_-_Logo_2017.svg.png" group-title="WORLD SPORTS",INTER TV (akamaized)
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/qBVqtYd.png",FENERBAHCE TV (rocketcdn)
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GBBD2300003IK"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_of_Red_bull.svg/960px-Logo_of_Red_bull.svg.png" group-title="WORLD SPORTS",RED BULL TV (redbull.tv)
+https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/id/en/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png" group-title="WORLD SPORTS",OMAN SPORT (mgmlcdn)
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/1l3t5jd.png",BEK TV (wowza)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/TvN_Sports_Korea.svg/250px-TvN_Sports_Korea.svg.png" group-title="WORLD SPORTS",TVN SPORTS (jmp2.uk)
+https://jmp2.uk/stvp-KRBC800015MH
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Ht-spor-buyuk.webp" group-title="WORLD SPORTS",HT SPOR (ercdn)
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png?_=20231124140634" group-title="WORLD SPORTS",TVR SPORT (mncdn)
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/29/TJKTV_Logo.jpg?_=20080826202841" group-title="WORLD SPORTS",TJK TV (tjktv)
+https://tjktv-live.tjk.org/tjktv_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Dd-sports.png/revision/latest?cb=20230126170013" group-title="WORLD SPORTS",DD SPORT (cloudfront)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_6.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",TYC SPORTS (amagi.tv)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/M%2B_logo.svg/960px-M%2B_logo.svg.png?_=20210701220109" group-title="WORLD SPORTS", M+ (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894989&extension=ts&play_token=wKjh5Uw0T9
@@ -1452,40 +1468,26 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894999&exte
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD SPORTS",TEN SPORTS (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=809396&extension=ts&play_token=CoqaJtNKVf
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD SPORTS",PTV SPORTS (mag7070)
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=809398&extension=ts&play_token=jU80x2u5bK
-
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD SPORTS",GEO SUPER (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=809399&extension=ts&play_token=zjjEBrsrhn
 
-#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/1l3t5jd.png",BEK TV (wowza)
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3b9ff291-5825-4cd3-b8f0-5d03a3f1e3c1" group-title="WORLD SPORTS",GOAL TV (sofast)
+https://streams2.sofast.tv/sofast/goaltv/goaltv_3500k.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",TYC SPORTS (amagi.tv)
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/telemundo.png",TELEMUNDO (akamaized)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="WORLD SPORTS",A SPOR (turknet)
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="WORLD SPORTS",A SPOR (turknet)
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png",FOX SPORTS (jmp2.uk)
-https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="WORLD SPORTS",FOX SPORTS (cloudfront)
-https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-
-#EXTINF:-1 channel-id="677d9adfa9a51b0008497fa0" tvg-id="677d9adfa9a51b0008497fa0" tvg-chno="2850" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" group-title="WORLD SPORTS",UFC (jmp2.uk)
-https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/lysgF2PEmQ0E0w==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjhAAQ==" group-title="WORLD SPORTS",UFC (tubi)
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/lysgF2PEmQ0E0w==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjhAAQ==" group-title="WORLD SPORTS",UFC (xumo)
-https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GolClassics.es@SD" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="WORLD SPORTS",GOAL CLASSICS (cloudfront)
-https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
-#EXTINF:-1 tvg-id="GolClassics.es@SD" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="WORLD SPORTS",GOAL CLASSICS (cloudfront)
-https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics_1.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD SPORTS",PTV SPORTS (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=809398&extension=ts&play_token=jU80x2u5bK
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="WORLD SPORTS",МАТЧ! (5.188.221.43)
 http://5.188.221.43:8080/play/match
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC65asL_2cuUOSRrVjLbGM1PCRmqCzlo3obJK3PfCihjy9ZfCIU_7JeP19VpwGsZzWHt39f6EOwDIcJit_WXL-FDuiT-dxxmHCqgwyBm7rxj58CpPxJNgOsDJW2YPEqRRMCRzs4AJbi1Ly23pENL0FWGdJ3rpSvPw_J6EKH9xInHLC6sD8ChtH0m0xTVI/s700/CazeTV.png" group-title="WORLD SPORTS",CAZE TV (cloudfront)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TDMSport.png/revision/latest?cb=20220124190357" group-title="WORLD SPORTS",TDM SPORT (cdn6)
+http://cdn6.163189.xyz/163189/amty
+
 
