@@ -1061,6 +1061,8 @@ http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED-225x225.png" group-title="MOVIES & SHOWS",We Do Movies (amagi.tv)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomovies-benelux-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.wedotv.com/images/logo-wedotv-185x50.webp" group-title="MOVIES & SHOWS",We Do TV Movies (amagi.tv)
+https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedomoviesasia-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fee15f42df39a0b90140c07d40fa83439fd401e987dc5e8347d373a3459f9bf1dfd546848cb9599106f224365623709cf215f9a366b7ca8a56379d7c2d7b44298cc986ed712c944e555dfbe6b9d10f9328db9a1a91723ead019b56b96af601c008b7f171a2b8b5db4e444bcaae375a26b0f59f88ee3b37b163c6f885b711758c84721223f264cd1f7156fa9ec71990b172fcd31889b97d2062aefb269f94b6f188dae871982ccefaaef657214a6d1070e137c7a169d53de022dfa47b285a4c7bb98345c1f4b23459594680814acd031e8481f9e9ba0d34da701a28810abe600663dc246d41bf4193f8356ffb4060e10e34f8656fee289fad3ef9d5bc8f6300a0cccb7fa52d85d80bc2e63dba79334b078ce73e53373d17bfd5671d2046d051ebc1cfde621b0cd1ad8194b25037092d125c18b4eeee669e9dd43b1817cc21500a002b14990ac26cd114760c27df1bc0b81b71840b1c7794cd5a5a5f6284cdc3e8edb1f143b071c1cac06341513a64ad23774104b68d8a49ed05110e1039870b7451cf6f3024d192cdf58bbd348ef608ad3c72065cc6ff19520c5c67117af1fe53d05af28122ba94c44fc9e1992f1ff356c406008eefcf65fc9feaad263497ba4726749ed71a9f0747a11ed03f91c275aada3f6e2735445cdb9e51c26db7b5e9af875e28d72d2a5aa8119292e7bcd86345ee90385c596b74240f99f2b16ec2bef477097a96d14f199ee2993283435f322d53dfc071367d2b736efe1f551ac28aca80acd81711800ea637a10172f3d8550bc61e404afa6ca303cd17813af9fcc76da8a889cee6d7c1276c1f6d0a56a0355a5ad73cf9800be0e24832bfc9c3d2d360937af526fbaa826eb56cee9be74e999993a8af2c57460c03b581d6ea04d7b93d40b950d259624dcfddaaa733bb92972f4cc771acc50b67a53b3e7acca8f00b816b9bee2b25ea82260881247c91aeaf684c8817a626336ff882d43d6c819059e138f1ffc00642880709f7070f31de1bd4b3ff383fafec69433b8b2c08837088cda32c7a7abc9d6b206a404c2200df44533bf77c0d811fa1eff6be782aed50df57dfde922e2af1c1c419357f56aaaa12b529e2fde11a9db4/158/1280x720_3329040/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_2_0.png" group-title="MOVIES & SHOWS",LG 1:Film (ottera.tv)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465
@@ -1105,17 +1107,8 @@ https://jmp2.uk/rok-d32267711c6a5cf36520716c96b5b3fa.m3u8
 #EXTINF:-1 channel-id="15cc44e50d8453e18f21ea37713319c5" tvg-id="15cc44e50d8453e18f21ea37713319c5" tvg-chno="287" tvg-name="Electric Now" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/15cc44e50d8453e18f21ea37713319c5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1660071204893_1605145912343_EN_Logo_WhiteonBlack_260x147.png" group-title="MOVIES & SHOWS",Electric Now (jmp2.uk)
 https://jmp2.uk/rok-15cc44e50d8453e18f21ea37713319c5.m3u8
 
-#EXTINF:-1 channel-id="0abef49cfd6759b18f2ce64290cbdda3" tvg-id="0abef49cfd6759b18f2ce64290cbdda3" tvg-chno="288" tvg-name="FilmRise Action" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0abef49cfd6759b18f2ce64290cbdda3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001245461_RokuChannel_FilmRiseAction_HUD_Logo_260x147.png" group-title="MOVIES & SHOWS",FilmRise Action (jmp2.uk)
-https://jmp2.uk/rok-0abef49cfd6759b18f2ce64290cbdda3.m3u8
-
-#EXTINF:-1 channel-id="6a0629e467b5502c906136dadac290a0" tvg-id="6a0629e467b5502c906136dadac290a0" tvg-chno="768" tvg-name="FilmRise Horror" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6a0629e467b5502c906136dadac290a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673451553962_FilmRiseHorror_HUDlogo_260x147.png" group-title="MOVIES & SHOWS",FilmRise Horror (jmp2.uk)
-https://jmp2.uk/rok-6a0629e467b5502c906136dadac290a0.m3u8
-
 #EXTINF:-1 channel-id="349e0f0840cf21b888bff327b41a2413" tvg-id="349e0f0840cf21b888bff327b41a2413" tvg-chno="746" tvg-name="Scares by Shudder" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/349e0f0840cf21b888bff327b41a2413/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734485619426_SHUD_FastChanel_Roku_Image_HUD2BillWatts_.png" group-title="MOVIES & SHOWS",Scares by Shudder (jmp2.uk)
 https://jmp2.uk/rok-349e0f0840cf21b888bff327b41a2413.m3u8
-
-#EXTINF:-1 channel-id="d79c47ebb9745dc4873f24d4c9fc68ce" tvg-id="d79c47ebb9745dc4873f24d4c9fc68ce" tvg-chno="770" tvg-name="Screambox TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d79c47ebb9745dc4873f24d4c9fc68ce/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1679073875990_ScreamboxTV_Roku_HUDLogo.png" group-title="MOVIES & SHOWS",Screambox TV (jmp2.uk)
-https://jmp2.uk/rok-d79c47ebb9745dc4873f24d4c9fc68ce.m3u8
 
 #EXTINF:-1 channel-id="31d5929928835b90af7bee669e6dd217" tvg-id="31d5929928835b90af7bee669e6dd217" tvg-chno="291" tvg-name="El Rey Rebel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/31d5929928835b90af7bee669e6dd217/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1702918419829_ElReyRebel_Logo_Center_Alligned_260x147.png" group-title="MOVIES & SHOWS",El Rey Rebel (jmp2.uk)
 https://jmp2.uk/rok-31d5929928835b90af7bee669e6dd217.m3u8
@@ -1129,25 +1122,14 @@ https://jmp2.uk/rok-52c137ae3cdc50768ad7ea3cdaf0f2f4.m3u8
 #EXTINF:-1 channel-id="d6f71998860459eca1bed73db5988330" tvg-id="d6f71998860459eca1bed73db5988330" tvg-chno="298" tvg-name="FilmRise Free Movies" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6f71998860459eca1bed73db5988330/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001381678_RokuChannel_FilmRiseFreeMovies_HUD_Logo_260x147.png" group-title="MOVIES & SHOWS",FilmRise Movies (jmp2.uk)
 https://jmp2.uk/rok-d6f71998860459eca1bed73db5988330.m3u8
 
-#EXTINF:-1 channel-id="973e467d44ac5410ba217c39c9c06958" tvg-id="973e467d44ac5410ba217c39c9c06958" tvg-chno="304" tvg-name="Gravitas Movies" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/973e467d44ac5410ba217c39c9c06958/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669078552378_Gravitas-Movies_HUDlogo_centered_260x147.png" group-title="MOVIES & SHOWS",Gravitas Movies (jmp2.uk)
-https://jmp2.uk/rok-973e467d44ac5410ba217c39c9c06958.m3u8
+#EXTINF:-1 channel-id="6a0629e467b5502c906136dadac290a0" tvg-id="6a0629e467b5502c906136dadac290a0" tvg-chno="768" tvg-name="FilmRise Horror" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6a0629e467b5502c906136dadac290a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673451553962_FilmRiseHorror_HUDlogo_260x147.png" group-title="MOVIES & SHOWS",FilmRise Horror (jmp2.uk)
+https://jmp2.uk/rok-6a0629e467b5502c906136dadac290a0.m3u8
 
 #EXTINF:-1 channel-id="2547ef42e2f45bbaa84752657cffe3c9" tvg-id="2547ef42e2f45bbaa84752657cffe3c9" tvg-chno="312" tvg-name="Tribeca Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2547ef42e2f45bbaa84752657cffe3c9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669147007249_tribeca_HUDlogo_centered_260x147.png" group-title="MOVIES & SHOWS",Tribeca Channel (jmp2.uk)
 https://jmp2.uk/rok-2547ef42e2f45bbaa84752657cffe3c9.m3u8
 
 #EXTINF:-1 channel-id="923cd8e7aa1e5a5898aad41fdf6a0f0f" tvg-id="923cd8e7aa1e5a5898aad41fdf6a0f0f" tvg-chno="322" tvg-name="Grit Xtra" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/923cd8e7aa1e5a5898aad41fdf6a0f0f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1666130988945_GRITX_HUD_EFEFEF.png" group-title="MOVIES & SHOWS",Grit Xtra (jmp2.uk)
 https://jmp2.uk/rok-923cd8e7aa1e5a5898aad41fdf6a0f0f.m3u8
-
-#EXTINF:-1 tvg-id="682634" tvg-logo="https://canvas-lb.tubitv.com/opts/44L0PIfgTmwN8g==/d7bf80e8-e8bc-4883-9c2b-551d1d7ab80c/CHgQeDoFMS4xLjhAAQ==" group-title="MOVIES & SHOWS",ION (tubi.io)
-https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd982fa63e7/playlist.m3u8
-#EXTINF:-1 tvg-id="684167" tvg-logo="https://canvas-lb.tubitv.com/opts/0e6dyfopOhknOQ==/b74f76d9-1cd3-4ff8-861a-c4613ef3ca3e/CHgQeDoFMS4xLjhAAQ==" group-title="MOVIES & SHOWS",ION (tubi.io)
-https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-logo="https://i.imgur.com/abtANyj.png" group-title="MOVIES & SHOWS",AMC+ (akamaihd)
-https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.wedotv.com/images/logo-wedotv-185x50.webp" group-title="MOVIES & SHOWS", We Do TV Movies (amagi.tv)
-https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedomoviesasia-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fee15f42df39a0b90140c07d40fa83439fd401e987dc5e8347d373a3459f9bf1dfd546848cb9599106f224365623709cf215f9a366b7ca8a56379d7c2d7b44298cc986ed712c944e555dfbe6b9d10f9328db9a1a91723ead019b56b96af601c008b7f171a2b8b5db4e444bcaae375a26b0f59f88ee3b37b163c6f885b711758c84721223f264cd1f7156fa9ec71990b172fcd31889b97d2062aefb269f94b6f188dae871982ccefaaef657214a6d1070e137c7a169d53de022dfa47b285a4c7bb98345c1f4b23459594680814acd031e8481f9e9ba0d34da701a28810abe600663dc246d41bf4193f8356ffb4060e10e34f8656fee289fad3ef9d5bc8f6300a0cccb7fa52d85d80bc2e63dba79334b078ce73e53373d17bfd5671d2046d051ebc1cfde621b0cd1ad8194b25037092d125c18b4eeee669e9dd43b1817cc21500a002b14990ac26cd114760c27df1bc0b81b71840b1c7794cd5a5a5f6284cdc3e8edb1f143b071c1cac06341513a64ad23774104b68d8a49ed05110e1039870b7451cf6f3024d192cdf58bbd348ef608ad3c72065cc6ff19520c5c67117af1fe53d05af28122ba94c44fc9e1992f1ff356c406008eefcf65fc9feaad263497ba4726749ed71a9f0747a11ed03f91c275aada3f6e2735445cdb9e51c26db7b5e9af875e28d72d2a5aa8119292e7bcd86345ee90385c596b74240f99f2b16ec2bef477097a96d14f199ee2993283435f322d53dfc071367d2b736efe1f551ac28aca80acd81711800ea637a10172f3d8550bc61e404afa6ca303cd17813af9fcc76da8a889cee6d7c1276c1f6d0a56a0355a5ad73cf9800be0e24832bfc9c3d2d360937af526fbaa826eb56cee9be74e999993a8af2c57460c03b581d6ea04d7b93d40b950d259624dcfddaaa733bb92972f4cc771acc50b67a53b3e7acca8f00b816b9bee2b25ea82260881247c91aeaf684c8817a626336ff882d43d6c819059e138f1ffc00642880709f7070f31de1bd4b3ff383fafec69433b8b2c08837088cda32c7a7abc9d6b206a404c2200df44533bf77c0d811fa1eff6be782aed50df57dfde922e2af1c1c419357f56aaaa12b529e2fde11a9db4/158/1280x720_3329040/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/MovieSphere_transparent_logo.png/revision/latest?cb=20250815035707" group-title="MOVIES & SHOWS",Moviesphere (amagi.tv)
 https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
@@ -1227,6 +1209,11 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bc932f13c31e542db6e3e6247e7131bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652896913644_beIN-SPORTS-XTRA_LOGO_ROKU_HUD_260x147%255B1%255D.png" group-title="WORLD SPORTS",BEIN SPORTS XTRA (amagi.tv)
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS",SUPER SPORT 1 (93.93.113.95)
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS",SUPER SPORT 2 (93.93.113.95)
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest/scale-to-width-down/1000?cb=20220226104639&path-prefix=vi" group-title="WORLD SPORTS",CCTV (38.75.136.137)
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
@@ -1458,71 +1445,4 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 http://cdn6.163189.xyz/163189/amty
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="General", OTT CLUB 🇷🇺
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6554/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/53805.m3u
-
-#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/338754.m3u
-
-#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/53806.m3u
-
-#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/338755.m3u
-
-#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/53807.m3u
-
-#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/338756.m3u
-
-
-#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/53808.m3u
-
-#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/338757.m3u
-
-#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/53809.m3u
-
-#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/339499.m3u
-
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (h)
-http://hostengine.live/live/GCC528197/TGB86673456/53982.m3u
-
-#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus (h)
-http://hostengine.live/live/GCC528197/TGB86673456/53977.m3u
-
-
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (h)
-http://hostengine.live/live/GCC528197/TGB86673456/55060.m3u
-
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/55061.m3u
-
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/53850.m3u
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/53851.m3u
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/53852.m3u
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/53853.m3u
 
