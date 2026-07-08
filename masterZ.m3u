@@ -1196,6 +1196,12 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://i.hizliresim.com/1opo3ah.jpg",MAHSUN SPORTS (purple-fog)
+https://purple-fog-7608.han686314.workers.dev/androstreamlivebiraz1.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",BEIN SPORT 1 (99.27.51.147)
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",BEIN SPORT 2 (99.27.51.147)
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",BEIN SPORT 3 (99.27.51.147)
+http://99.27.51.147:8080/BeinSport3/index.m3u8
