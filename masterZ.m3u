@@ -800,6 +800,19 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #WORLD SPORTS
 #
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",BEIN SPORTS HABER (priwes)
+http://portal.priwes.com/live/ahmeteyvel/z631cgpap/8acd6ba0-fccd-4dad-87b7-d45eb04c4b88.m3u?output=ts
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",BEIN SPORTS 1 (priwes)
+http://portal.priwes.com/live/ahmeteyvel/z631cgpap/40948810-a4ed-4975-8c81-13e1aeb39f6d.m3u?output=ts
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",BEIN SPORTS 2 (priwes)
+http://portal.priwes.com/live/ahmeteyvel/z631cgpap/cb855bae-0ac2-478f-a8ee-8752a02738bf.m3u?output=ts
+
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",BEIN SPORTS 2 (elitetr2)
+http://elitetr2.xyz/live/merthavuz/zv9uemcnc/cb855bae-0ac2-478f-a8ee-8752a02738bf.m3u?output=ts
+
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",BEIN SPORTS 2 (europlayiptv)
+http://europlayiptv.de/live/bedil1/sn4aogieh/cb855bae-0ac2-478f-a8ee-8752a02738bf.m3u?output=ts
+
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (reelpush)
 http://h42.reelpush.online/live/918454578001/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (reelpush)
@@ -1094,38 +1107,5 @@ https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_24
 
 
 
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",BEINSPORTS 1
-http://portal.priwes.com/live/ahmeteyvel/z631cgpap/40948810-a4ed-4975-8c81-13e1aeb39f6d.m3u?output=ts
 
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",BEINSPORTS 2
-http://portal.priwes.com/live/ahmeteyvel/z631cgpap/cb855bae-0ac2-478f-a8ee-8752a02738bf.m3u?output=ts
 
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",BEINSPORTS 2
-http://elitetr2.xyz/live/merthavuz/zv9uemcnc/cb855bae-0ac2-478f-a8ee-8752a02738bf.m3u?output=ts
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",BEINSPORTS 2
-http://europlayiptv.de/live/bedil1/sn4aogieh/cb855bae-0ac2-478f-a8ee-8752a02738bf.m3u?output=ts
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",BEINSPORTS 3
-http://elitetr2.xyz/live/merthavuz/zv9uemcnc/d553d986-835e-4420-8bb1-c64d2b5cc874.m3u?output=ts
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",BEINSPORTS 4
-http://europlayiptv.de/live/bedil1/sn4aogieh/04655157-7068-48c8-86b3-f5e8510c8720.m3u?output=ts
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",BEINSPORTS 4
-http://europlayiptv.de/live/bedil1/sn4aogieh/b7565df3-1eca-40e3-b12e-6645978da359.m3u?output=ts
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",BEINSPORTS 4
-http://portal.priwes.com/live/ahmeteyvel/z631cgpap/add2dcb7-f7cf-4e7a-af1b-f9d10901329f.m3u?output=ts
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",BEINSPORTS 4
-http://elitetr2.xyz/live/merthavuz/zv9uemcnc/add2dcb7-f7cf-4e7a-af1b-f9d10901329f.m3u?output=ts
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",BEINSPORTS HABER
-http://europlayiptv.de/live/bedil1/sn4aogieh/25b40afc-c406-400e-8492-5c26c4606789.m3u?output=ts
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",BEINSPORTS HABER
-http://portal.priwes.com/live/ahmeteyvel/z631cgpap/8acd6ba0-fccd-4dad-87b7-d45eb04c4b88.m3u?output=ts
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",BEINSPORTS MAX 1
-http://europlayiptv.de/live/bedil1/sn4aogieh/4937868c-fbd9-4f16-8ac5-6a9b4eee5369.m3u?output=ts
