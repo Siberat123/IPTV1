@@ -1132,3 +1132,35 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/176673.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/playlist.m3u8
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPN 2 LATIONAMERICA
+http://108.181.20.255:27347/livehttpplay?channel_id=23511
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPN EXTRA
+http://108.181.20.255:27347/livehttpplay?channel_id=23505
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPN2 HD CHILE
+http://108.181.20.255:27347/livehttpplay?channel_id=23560
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPN PREMIUM
+http://108.181.20.255:27347/livehttpplay?channel_id=23523
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPN HD COLOMBIA
+http://108.181.20.255:27347/livehttpplay?channel_id=23531
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPN 3 HD COLOMBIA
+http://108.181.20.255:27347/livehttpplay?channel_id=23518
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPN 4
+http://108.181.20.255:27347/livehttpplay?channel_id=23503
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png",ESPN (b)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19156/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png",ESPN 2 (b)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19155/index.m3u8
