@@ -921,9 +921,26 @@ https://jmp2.uk/stvp-DEBD260000692
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="WORLD SPORTS",TRUE SPORTS 3 (ddns)
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="WORLD SPORTS",TRUE SPORTS 7 (ddns)
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",ESPN (108.181.20.255)
+http://108.181.20.255:27347/livehttpplay?channel_id=23531
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",ESPN 2 (108.181.20.255)
+http://108.181.20.255:27347/livehttpplay?channel_id=23511
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",ESPN 2 (108.181.20.255)
+http://108.181.20.255:27347/livehttpplay?channel_id=23560
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",ESPN 3 (108.181.20.255)
+http://108.181.20.255:27347/livehttpplay?channel_id=23518
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",ESPN 4 (108.181.20.255)
+http://108.181.20.255:27347/livehttpplay?channel_id=23505
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",ESPN 5 (108.181.20.255)
+http://108.181.20.255:27347/livehttpplay?channel_id=23503
+
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png",ESPN (edemist)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19156/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png",ESPN 2 (edemist)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19155/index.m3u8
 
 #EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-logo="https://www.alkass.net/assets/images/logo.png" group-title="WORLD SPORTS",ALKASS DIGITAL 1 (alkassdigital)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -969,6 +986,12 @@ https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="WORLD SPORTS",FOX SPORTS (cloudfront)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",FOX SPORTS 3 (108.181.20.255)
+http://108.181.20.255:27347/livehttpplay?channel_id=23055
+
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/yvUjOI3.png",FTF SPORTS (cdn77)
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
+
 #EXTINF:-1 channel-id="677d9adfa9a51b0008497fa0" tvg-id="677d9adfa9a51b0008497fa0" tvg-chno="2850" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" group-title="WORLD SPORTS",UFC (jmp2.uk)
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/lysgF2PEmQ0E0w==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjhAAQ==" group-title="WORLD SPORTS",UFC (tubi)
@@ -981,6 +1004,9 @@ https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 #EXTINF:-1 tvg-id="GolClassics.es@SD" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="WORLD SPORTS",GOAL CLASSICS (cloudfront)
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics_1.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png",GOLAZO NETWORK (jmp2.uk)
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+
 #EXTINF:-1 tvg-name="Cowboy tv" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/352f5cc7-f782-4ce5-8f68-aa78e51650ce" group-title="WORLD SPORTS",COWBOY TV (distrotv)
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 
@@ -990,10 +1016,17 @@ https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-45
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS",DYN SPORT MIX (jmp2.uk)
 https://jmp2.uk/plu-6866525c8a412a0e95c438b4.m3u8
 
-#EXTINF:-1 channel-id="b4273871759a5631bd536d2214f175e5" tvg-id="b4273871759a5631bd536d2214f175e5" tvg-chno="246" tvg-name="Fubo Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b4273871759a5631bd536d2214f175e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761774127737_Roku-FSN-Logo-efefef.png" group-title="WORLD SPORTS",FUBO SPORTS NETWORK (jmp2.uk)
+#EXTINF:-1 channel-id="b4273871759a5631bd536d2214f175e5" tvg-id="b4273871759a5631bd536d2214f175e5" tvg-chno="246" tvg-name="Fubo Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b4273871759a5631bd536d2214f175e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761774127737_Roku-FSN-Logo-efefef.png" group-title="WORLD SPORTS",FUBO SPORTS (jmp2.uk)
 https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
-#EXTINF:-1 channel-id="b4273871759a5631bd536d2214f175e5" tvg-id="b4273871759a5631bd536d2214f175e5" tvg-chno="246" tvg-name="Fubo Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b4273871759a5631bd536d2214f175e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761774127737_Roku-FSN-Logo-efefef.png" group-title="WORLD SPORTS",FUBO SPORTS NETWORK (wurlfubo)
+#EXTINF:-1 channel-id="b4273871759a5631bd536d2214f175e5" tvg-id="b4273871759a5631bd536d2214f175e5" tvg-chno="246" tvg-name="Fubo Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b4273871759a5631bd536d2214f175e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761774127737_Roku-FSN-Logo-efefef.png" group-title="WORLD SPORTS",FUBO SPORTS (wurlfubo)
 https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://images.vizio.com/v4/btv/1/1647012810/1/267/150/0.jpg",FUBO SPORTS (wurlfubo)
+https://wurlfubo.global.transmit.live/hls/67eb094ee3ed1615e41629ae/v1/fubotv_fubo_sports_network_1/vizio_us/latest/main/hls/playlist.m3u8?wurl_channel=1358&wurl_name=FuboSportsNetwork&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzk1ODAzODMxMH0
+
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/I8mviBy.png",FUEL TV (amagi.tv)
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/I8mviBy.png",FUEL TV (amagi.tv)
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
 
 #EXTINF:-1 channel-id="6334a574605f140007e233c4" tvg-id="6334a574605f140007e233c4" tvg-chno="2880" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="WORLD SPORTS",PFL MMA (jmp2.uk)
 https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
@@ -1135,32 +1168,3 @@ https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_24
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPN 2 LATIONAMERICA
-http://108.181.20.255:27347/livehttpplay?channel_id=23511
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPN EXTRA
-http://108.181.20.255:27347/livehttpplay?channel_id=23505
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPN2 HD CHILE
-http://108.181.20.255:27347/livehttpplay?channel_id=23560
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPN PREMIUM
-http://108.181.20.255:27347/livehttpplay?channel_id=23523
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPN HD COLOMBIA
-http://108.181.20.255:27347/livehttpplay?channel_id=23531
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPN 3 HD COLOMBIA
-http://108.181.20.255:27347/livehttpplay?channel_id=23518
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPN 4
-http://108.181.20.255:27347/livehttpplay?channel_id=23503
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png",ESPN (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19156/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png",ESPN 2 (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19155/index.m3u8
