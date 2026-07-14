@@ -964,6 +964,13 @@ https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/ONKNOAp.png",KSA SPORTS 1 (vercel)
+https://aloula-redirect.vercel.app/9/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/v8ULLqg.png",KSA SPORTS 2 (vercel)
+https://aloula-redirect.vercel.app/10/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/BXfCvez.png",KSA SPORTS 3 (vercel)
+https://aloula-redirect.vercel.app/16/playlist.m3u8
+
 #EXTINF:-1 channel-id="ITBC4700002CO" tvg-id="ITBC4700002CO" tvg-chno="4633" tvg-name="Solocalcio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="WORLD SPORTS",SOLO CALCIO (jmp2.uk)
 https://jmp2.uk/stvp-ITBC4700002CO
 #EXTINF:-1 channel-id="ITBC4700002CO" tvg-id="ITBC4700002CO" tvg-chno="4633" tvg-name="Solocalcio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="WORLD SPORTS",SOLO CALCIO (inspirationFreetv)
@@ -1150,6 +1157,8 @@ http://5.188.221.43:8080/play/match
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC65asL_2cuUOSRrVjLbGM1PCRmqCzlo3obJK3PfCihjy9ZfCIU_7JeP19VpwGsZzWHt39f6EOwDIcJit_WXL-FDuiT-dxxmHCqgwyBm7rxj58CpPxJNgOsDJW2YPEqRRMCRzs4AJbi1Ly23pENL0FWGdJ3rpSvPw_J6EKH9xInHLC6sD8ChtH0m0xTVI/s700/CazeTV.png" group-title="WORLD SPORTS",CAZE TV (cloudfront)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC65asL_2cuUOSRrVjLbGM1PCRmqCzlo3obJK3PfCihjy9ZfCIU_7JeP19VpwGsZzWHt39f6EOwDIcJit_WXL-FDuiT-dxxmHCqgwyBm7rxj58CpPxJNgOsDJW2YPEqRRMCRzs4AJbi1Ly23pENL0FWGdJ3rpSvPw_J6EKH9xInHLC6sD8ChtH0m0xTVI/s700/CazeTV.png" group-title="WORLD SPORTS",CAZE TV (cloudfront)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC65asL_2cuUOSRrVjLbGM1PCRmqCzlo3obJK3PfCihjy9ZfCIU_7JeP19VpwGsZzWHt39f6EOwDIcJit_WXL-FDuiT-dxxmHCqgwyBm7rxj58CpPxJNgOsDJW2YPEqRRMCRzs4AJbi1Ly23pENL0FWGdJ3rpSvPw_J6EKH9xInHLC6sD8ChtH0m0xTVI/s700/CazeTV.png",CAZE TV 1 (dnsrot)
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/100769.ts
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC65asL_2cuUOSRrVjLbGM1PCRmqCzlo3obJK3PfCihjy9ZfCIU_7JeP19VpwGsZzWHt39f6EOwDIcJit_WXL-FDuiT-dxxmHCqgwyBm7rxj58CpPxJNgOsDJW2YPEqRRMCRzs4AJbi1Ly23pENL0FWGdJ3rpSvPw_J6EKH9xInHLC6sD8ChtH0m0xTVI/s700/CazeTV.png",CAZE TV 2 (dnsrot)
@@ -1165,6 +1174,12 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/176673.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/playlist.m3u8
 
+#EXTINF:-1 data-source="Manual" group-title="WORLD SPORTS" tvg-logo="tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="9d5b7e47dc9d44d70733ec87cc3ca99a",TVRI Folaplay (olaplay)
+https://img-80t.pages.dev/fola.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2024/02/22/xn9qr9jb_htv-the-thaoa9c339d21a7a58c06b7b002004bac073_468_134.png",HTV (pk79)
+http://pk79.io.vn/vieon/play.php?id=07344012-5a3c-49cc-b389-30466d767ad6
+#EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV%20Th%E1%BB%83%20Thao%20HD.png",HTV (HaNoiIPTV)
+https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV_The_Thao_HD
 
 
