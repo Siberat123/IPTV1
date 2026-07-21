@@ -1261,13 +1261,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/131113.ts
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/960px-SporTV_2017_logo.svg.png" group-title="SPORTS MIX 2",SPORTV 2 (dnsrot)
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36943.ts
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",DIRECTV SPORTS (108.181.20.255)
-http://108.181.20.255:27347/livehttpplay?channel_id=23537
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",DIRECTV SPORTS+ (108.181.20.255)
-http://108.181.20.255:27347/livehttpplay?channel_id=23539
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",DIRECTV SPORTS 2 (108.181.20.255)
-http://108.181.20.255:27347/livehttpplay?channel_id=23538
-
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",EUROSPORT 1 (akciatv)
 http://kws04u9a.akciatv.ru/iptv/MCHUP9AS7DBP5W/19432/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",EUROSPORT 2 (akciatv)
@@ -1278,6 +1271,64 @@ http://kws04u9a.akciatv.ru/iptv/MCHUP9AS7DBP5W/19431/index.m3u8
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/20060/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",SPOR SMART 2 (rostelekom)
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/19073/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/telemundo.png",TELEMUNDO (akamaized)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/telemundo.png",TELEMUNDO AHORES (akamaized)
+https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_[PLATFORM]_telemundodeportesahora_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=es&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.channelId=99951459&ads._fw_ifa_type=[IFA_TYPE]
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png?_=20230503164846" group-title="SPORTS MIX 2",TABII SPOR (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894999&extension=ts&play_token=fdyTi8Tf1k
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png?_=20230503164846" group-title="SPORTS MIX 2",TABII SPOR (europlayiptv)
+http://europlayiptv.de/live/bedil1/sn4aogieh/ea9c36c1-3d0b-48d0-ba44-e5f1069a9b9a.m3u?output=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png?_=20230503164846" group-title="SPORTS MIX 2",TABII SPOR (elitetr2)
+http://elitetr2.xyz/live/merthavuz/zv9uemcnc/e9280903-3599-438a-9b53-9ae51c388bc1.m3u?output=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png?_=20230503164846" group-title="SPORTS MIX 2",TABII SPOR 1 (elitetr2)
+http://elitetr2.xyz/live/merthavuz/zv9uemcnc/a047abe9-748d-48e9-bbbb-175161d39783.m3u?output=ts
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TIVIBU SPOR (elitetr2)
+http://elitetr2.xyz/live/merthavuz/zv9uemcnc/114d7ecb-ca9c-427d-b785-41cf422879cd.m3u?output=ts
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TIVIBU SPOR 1 (elitetr2)
+http://elitetr2.xyz/live/merthavuz/zv9uemcnc/ab771054-d4e8-4f4b-9fb3-021cf3c04441.m3u?output=ts
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TIVIBU SPOR (priwes)
+http://portal.priwes.com/live/ahmeteyvel/z631cgpap/114d7ecb-ca9c-427d-b785-41cf422879cd.m3u?output=ts
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TIVIBU SPOR 1 (priwes)
+http://portal.priwes.com/live/ahmeteyvel/z631cgpap/5d4032d0-8b2a-487c-8619-390832b1c0aa.m3u?output=ts
+
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TIVIBU SPOR (europlayiptv)
+http://europlayiptv.de/live/bedil1/sn4aogieh/114d7ecb-ca9c-427d-b785-41cf422879cd.m3u?output=ts
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TIVIBU SPOR 1 (europlayiptv)
+http://europlayiptv.de/live/bedil1/sn4aogieh/bd40552e-8bd4-4504-a946-bc9d9e0aab6d.m3u?output=ts
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TIVIBU SPOR 2 (europlayiptv)
+http://elitetr2.xyz/live/merthavuz/zv9uemcnc/05080024-aa01-47cb-889e-3628f3f46a8e.m3u?output=ts
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TIVIBU SPOR 1 (akciatv)
+http://kws04u9a.akciatv.ru/iptv/MCHUP9AS7DBP5W/19074/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TIVIBU SPOR 2 (akciatv)
+http://kws04u9a.akciatv.ru/iptv/MCHUP9AS7DBP5W/19075/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TIVIBU SPOR 3 (akciatv)
+http://kws04u9a.akciatv.ru/iptv/MCHUP9AS7DBP5W/19076/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TIVIBU SPOR (andro)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.226503.xyz/checklist/androstreamlivets.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TIVIBU SPOR 1 (andro)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.226503.xyz/checklist/androstreamlivets1.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TIVIBU SPOR 2 (andro)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.226503.xyz/checklist/androstreamlivets2.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TIVIBU SPOR 3 (andro)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.226503.xyz/checklist/androstreamlivets3.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TIVIBU SPOR 4 (andro)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.226503.xyz/checklist/androstreamlivets4.m3u8
+
 
 
 
@@ -1296,9 +1347,6 @@ https://andro.226503.xyz/checklist/androstreamlivetb1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/M%2B_logo.svg/960px-M%2B_logo.svg.png?_=20210701220109" group-title="SPORTS MIX 3", M+ (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894989&extension=ts&play_token=wKjh5Uw0T9
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png?_=20230503164846" group-title="SPORTS MIX 3",TABII SPOR (mag7070)
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894999&extension=ts&play_token=fdyTi8Tf1k
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/MS SPORT.png" group-title="SPORTS MIX 3",MS SPORT (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149503&extension=ts&play_token=JnhXaoXDOy
@@ -1329,9 +1377,6 @@ https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b223154
 
 #EXTINF:-1 tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3b9ff291-5825-4cd3-b8f0-5d03a3f1e3c1" group-title="SPORTS MIX 3",GOAL TV (sofast)
 https://streams2.sofast.tv/sofast/goaltv/goaltv_3500k.m3u8
-
-#EXTINF:-1 group-title="SPORTS MIX 3" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/telemundo.png",TELEMUNDO (akamaized)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Sportitalia_2019_Logo.png?_=20250626142542",SPORT ITALIA (amagi.tv)
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
