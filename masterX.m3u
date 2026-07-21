@@ -1104,6 +1104,33 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894979&exte
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 4 (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894980&extension=ts&play_token=QCKl3DjDi8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 1 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:B6:E6:0B&stream=1527617&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 2 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:B6:E6:0B&stream=1527615&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 3 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:B6:E6:0B&stream=1527613&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 4 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:B6:E6:0B&stream=1527611&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 1 (edemist)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2505/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 2 (edemist)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2506/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 3 (edemist)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6564/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 4 (edemist)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19054/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 1 (hostengine)
+http://hostengine.live/live/GCC528197/TGB86673456/53850.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 2 (hostengine)
+http://hostengine.live/live/GCC528197/TGB86673456/53851.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 3 (hostengine)
+http://hostengine.live/live/GCC528197/TGB86673456/53852.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 4 (hostengine)
+http://hostengine.live/live/GCC528197/TGB86673456/53853.m3u
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TringSportHD2010.jpg" group-title="SPORTS MIX 1",TRING SPORT 1 (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895006&extension=ts&play_token=mDypcPsfzR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TringSportHD2010.jpg" group-title="SPORTS MIX 1",TRING SPORT 2 (mag7070)
@@ -1136,6 +1163,35 @@ https://jmp2.uk/stvp-DEAJ0500429A
 https://jmp2.uk/stvp-ATAJ0500433A
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Scooore.svg/revision/latest?cb=20241114233910" group-title="SPORTS MIX 1",SPORTDIGITAL SCOOORE (jmp2.uk)
 https://jmp2.uk/stvp-DEBD260000692
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",VIP SPORT 1 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/20099/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",VIP SPORT 2 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/20103/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",VIP SPORT 3 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/20104/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",VIP SPORT 4 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/20105/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",VIP SPORT 5 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/20106/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",VIP SPORT 7 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/20108/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",VIP SPORT 9 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/20110/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",VIP SPORT 10 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/20100/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",VIP SPORT 11 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/20101/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",VIP SPORT 12 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/20102/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",VIP SPORT 13 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/31674/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",VIP SPORT 14 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/31675/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",VIP SPORT 15 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/31676/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",VIP SPORT 17 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/31678/index.m3u8
 
 
 
@@ -1323,15 +1379,50 @@ https://andro.226503.xyz/checklist/androstreamlivets3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://andro.226503.xyz/checklist/androstreamlivets4.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png",TSN 1 (edemist)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6521/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png",TSN 2 (edemist)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6492/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png",TSN 3 (edemist)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6522/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png",TSN 4 (edemist)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6445/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png",TSN 5 (edemist)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6517/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png",TSN 1 (hostengine)
+http://hostengine.live/live/GCC528197/TGB86673456/53805.m3u
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png",TSN 2 (hostengine)
+http://hostengine.live/live/GCC528197/TGB86673456/53806.m3u
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png",TSN 3 (hostengine)
+http://hostengine.live/live/GCC528197/TGB86673456/53807.m3u
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png",TSN 4 (hostengine)
+http://hostengine.live/live/GCC528197/TGB86673456/53808.m3u
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png",TSN 5 (hostengine)
+http://hostengine.live/live/GCC528197/TGB86673456/53809.m3u
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png",TSN 1 (hostengine)
+http://hostengine.live/live/GCC528197/TGB86673456/338754.m3u
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png",TSN 2 (hostengine)
+http://hostengine.live/live/GCC528197/TGB86673456/338755.m3u
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png",TSN 3 (hostengine)
+http://hostengine.live/live/GCC528197/TGB86673456/338756.m3u
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png",TSN 4 (hostengine)
+http://hostengine.live/live/GCC528197/TGB86673456/338757.m3u
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TV4 SPORT 1 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/12036/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TV4 SPORT 4 (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/12039/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",TV4 SPORTKANALEN (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/12035/index.m3u8
+
 
 
 
 
 #SPORTS MIX 3
 #
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png?_=20170902110931" group-title="SPORTS MIX 3",ČT SPORT (88.212.15.19)
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORTS MIX 3" tvg-logo="https://freeshot.live/upload/source/Polsat-sport_logo.png",POLSAT SPORT 1 (seetv)
 http://de.seetv.cc/play/5456/632F375BC8243BC/video.m3u8
 
@@ -1359,6 +1450,9 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=809399&exte
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ FOOT.png" group-title="SPORTS MIX 3",CANAL+ FOOT (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=941406&extension=ts&play_token=NDDZUC57aO
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3",VIJU+ SPORT (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/5065/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png",GOLAZO NETWORK (jmp2.uk)
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
@@ -1449,10 +1543,22 @@ http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="SPORTS MIX 3",МАТЧ! (5.188.221.43)
 http://5.188.221.43:8080/play/match
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png?_=20170902110931" group-title="SPORTS MIX 3",ČT SPORT (88.212.15.19)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/ctsport.png",ČT SPORT (212.102.38.45)
+http://212.102.38.45/live/test_ctsport_25p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TV_2_Sport_Logo_2019.svg/960px-TV_2_Sport_Logo_2019.svg.png?_=20230325193745" group-title="SPORTS MIX 3",2TV SPORT (cdn.xsg)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TV_2_Sport_Logo_2019.svg/960px-TV_2_Sport_Logo_2019.svg.png?_=20230325193745" group-title="SPORTS MIX 3",2TV SPORT (cdn.xsg)
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3",TRT SPOR (priwes)
+http://portal.priwes.com/live/ahmeteyvel/z631cgpap/a4d4ac8d-2b93-478d-9103-68ac4ee22d5e.m3u?output=ts
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3",TRT SPOR (elitetr2)
+http://elitetr2.xyz/live/merthavuz/zv9uemcnc/a4d4ac8d-2b93-478d-9103-68ac4ee22d5e.m3u?output=ts
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3",TRT SPOR (europlayiptv)
+http://europlayiptv.de/live/bedil1/sn4aogieh/a4d4ac8d-2b93-478d-9103-68ac4ee22d5e.m3u?output=ts
 
 #EXTINF:-1 channel-id="ITBC4700002CO" tvg-id="ITBC4700002CO" tvg-chno="4633" tvg-name="Solocalcio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="SPORTS MIX 3",SOLO CALCIO (jmp2.uk)
 https://jmp2.uk/stvp-ITBC4700002CO
