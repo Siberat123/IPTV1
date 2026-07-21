@@ -1227,9 +1227,9 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804042515" group-title="SPORTS MIX 2",SETANTA SPORTS 1 (akciatv)
 http://kws04u9a.akciatv.ru/iptv/MCHUP9AS7DBP5W/5069/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",SETANTA SPORTS (rostelekom)
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",SETANTA SPORTS (rostelekom)
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/15183/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",SETANTA SPORTS+ (rostelekom)
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",SETANTA SPORTS+ (rostelekom)
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/15184/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804042515" group-title="SPORTS MIX 2",SETANTA SPORTS 1 (rostelekom)
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/6541/index.m3u8
@@ -1287,18 +1287,12 @@ http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/19073/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png?_=20170902110931" group-title="SPORTS MIX 3",ČT SPORT (88.212.15.19)
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3",YES SPORT 5 (akamaized)
-https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORTS MIX 3" tvg-logo="https://freeshot.live/upload/source/Polsat-sport_logo.png",POLSAT SPORT 1 (seetv)
 http://de.seetv.cc/play/5456/632F375BC8243BC/video.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3",DIGI SPORT 1 (andro)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://andro.226503.xyz/checklist/androstreamlivetb1.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3",DIEMA SPORT (andro)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://andro.226503.xyz/checklist/androstreamlivetb2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/M%2B_logo.svg/960px-M%2B_logo.svg.png?_=20210701220109" group-title="SPORTS MIX 3", M+ (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894989&extension=ts&play_token=wKjh5Uw0T9
