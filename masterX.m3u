@@ -23,6 +23,8 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (syok)
 http://syok.tv:25461/843839483/33999/1942
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (202.169.224.202)
+http://202.169.224.202:8800/udp/239.9.1.25:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (king-4k)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (s.id)
@@ -303,6 +305,8 @@ https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
+#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (202.169.224.202)
+http://202.169.224.202:8800/udp/239.1.3.3:1234
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (intechmedia)
 https://flv.intechmedia.net/live/ch101.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (dens)
@@ -558,16 +562,25 @@ https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 #EXTINF:-1 tvg-id="" group-title="DOCUMENTARY" tvg-logo="",Discovery Asia (skygo) 
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png",Discovery Channel (23.237.104.106)
+http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png",Discovery Channel (websafety101)
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418001
+
 #EXTINF:-1 tvg-id="" group-title="DOCUMENTARY" tvg-logo="",Smithsonian Channel (103.176.90.182)
 http://103.176.90.182:80/play/live.php?mac=00:1A:79:D5:A6:B2&stream=469429&extension=ts
 
 #EXTINF:-1 tvg-id="" group-title="DOCUMENTARY" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png",National Geographic (websafety101)
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418006
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARY" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png",National Geographic (23.237.104.106)
+http://23.237.104.106:8080/USA_NAT_GEO/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY",Animal Planet (websafety101)
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417996
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY",Animal Planet (202.169.224.202)
 http://202.169.224.202:8800/udp/239.9.1.7:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY",Animal Planet (23.239.31.26)
+http://23.239.31.26:8989/animalplanet/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/250px-Outdoor_Channel_logo_2017.svg.png" group-title="DOCUMENTARY",Outdoor Channel (amagi.tv)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
@@ -602,6 +615,8 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="DOCUMENTARY",Adventure Earth (wurl)
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="DOCUMENTARY",Adventure Earth (wurl)
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-id="InWild.it@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Inwild.png" group-title="DOCUMENTARY",InWild (amagi.tv)
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
@@ -896,6 +911,8 @@ https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="MOVIES & SHOWS",Discover Film (wurl.tv)
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES & SHOWS",Colors Infinity (66.102.126.10)  
+http://66.102.126.10:8000/play/a014
 
 
 
@@ -953,12 +970,36 @@ http://178.253.194.79:10017
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Arena_sport_logo.png/250px-Arena_sport_logo.png" group-title="ARENA SPORTS",ARENA ADRENALIN (178.253.194.79) 
 http://178.253.194.79:10018
 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hd6nx11643205736.png" group-title="ARENA SPORTS",ARENA SPORT 1 (feniks)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/do4eok1643205747.png" group-title="ARENA SPORTS",ARENA SPORT 2 (feniks)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20478
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/nnqoda1643205755.png" group-title="ARENA SPORTS",ARENA SPORT 3 (feniks) 
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6oo0y71643205763.png" group-title="ARENA SPORTS",ARENA SPORT 4 (feniks)  
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png" group-title="ARENA SPORTS",ARENA SPORT 5 (feniks)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1181
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3htl2t1643205783.png" group-title="ARENA SPORTS",ARENA SPORT 6 (feniks) 
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1179
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3ch2k51643205817.png" group-title="ARENA SPORTS",ARENA SPORT 8 (feniks)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17670
+#EXTINF:-1 tvg-id="" group-title="ARENA SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-9-rs.png",ARENA SPORT 9 (feniks)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17671
+
 
 
 
 
 #BEIN SPORTS
 #
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (99.27.51.147)
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (99.27.51.147)
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",BEIN SPORTS 3 (99.27.51.147)
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (online24)
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (online24)
@@ -1065,12 +1106,39 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19156/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="ESPN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png",ESPN 2 (edemist)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19155/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="ESPN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (etvhosts)
+http://etvhosts.site:55337/xLuLzNicKx/lager4life/60190
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="ESPN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (etvhosts)
+http://etvhosts.site:55337/xLuLzNicKx/lager4life/60192
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="ESPN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (hostengine)
+http://hostengine.live/live/GCC528197/TGB86673456/55060.m3u
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="ESPN SPORTS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (hostengine)
+http://hostengine.live/live/GCC528197/TGB86673456/55061.m3u
+
 
 
 
 
 #SPORTS MIX 1
 #
+#EXTINF:-1 tvg-id="399521" group-title="SPORTS MIX 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJTg7cpNEer-x3VF84thO0WLClpN3UROonu1r8ukStW2VhvHrqWCn8KRyJbaPIpuTxjIW6QdypKPtEzd9YGA2lweoWD6vDrHh3rIN7BAQLkCpmSqYsvi7NqxDtQyhNnZlXYue5t7BDB3LWmWFA4KziFwX8eWcZf8CI1adP4euWlX4s2JB9F02xRlqeVpp2/s700/ASTRO%20ARENA.png",ASTRO ARENA (dropboxusercontent)
+https://dl.dropboxusercontent.com/scl/fi/o75jqmy66701sz01o9u0s/arena.m3u8?rlkey=9kl4nordyk2cix9di4s7t22zo&dl=0
+#EXTINF:-1 tvg-id="399508" group-title="SPORTS MIX 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsovcz3fCv890L6ob8ip95sU4NSKZj6Uf1zOUQZKPb8cImkOlw358gb5Bz9q8htYW5PtO8SLUXKp_VmATEI8byyq1CWHsT2b2YftdD7vhdILWey3gWQxNm26obyc1pNcnL45DazX_TgvN7SyVQhOUXuItNs_Rg7cin9Qs5DewSC7PZU2PbJPwZswDM654Q/s700/ASTRO%20ARENA%202.png",ASTRO ARENA 2 (dropboxusercontent)
+https://dl.dropboxusercontent.com/scl/fi/m850dhn51323awty0kcc5/arena2.m3u8?rlkey=7ys08p4em182wo38sdws1rwfj&dl=0
+#EXTINF:-1 tvg-id="399498" group-title="SPORTS MIX 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4mzfHYC5TjMHkYTcLs7cb-WqaCXjF1ay-TcjJm_xwCKHAn-_hetiuETyJnQ3yAnj7ufKMCGY8xPGRW_dYD-4S4q9bEao-6Ra7jsYxpYhuXrHhtbFKnSpkaytS4__NxY_SnjKPcZxbdEjjrA-BJgIHQ8K7sAzgvMoKlr7c-QzIYRuFqnN4q5_gYlzacBjV/s700/ASTRO%20FOOTBALL.png",ASTRO FOOTBALL (dropboxusercontent)
+https://dl.dropboxusercontent.com/scl/fi/fvmlubrpsz62feuvcutxu/asspfoot.m3u8?rlkey=ewph2mk93bpw44va9k9b9e6p9&dl=0
+
+#EXTINF:-1 tvg-id="ElevenSports1.pl" group-title="SPORTS MIX 1" tvg-logo="https://i.imgur.com/AOu4FXH.png",ELEVEN SPORTS 1 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512429&extension=ts
+#EXTINF:-1 tvg-id="ElevenSports2.pl" group-title="SPORTS MIX 1" tvg-logo="https://i.imgur.com/bTIRgqG.png",ELEVEN SPORTS 2 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512428&extension=ts
+#EXTINF:-1 tvg-id="ElevenSports3.pl" group-title="SPORTS MIX 1" tvg-logo="https://i.imgur.com/bWjGol4.png",ELEVEN SPORTS 3 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512427&extension=ts
+#EXTINF:-1 tvg-id="ElevenSports4.pl" group-title="SPORTS MIX 1" tvg-logo="https://i.imgur.com/SEKXaAW.png",ELEVEN SPORTS 4 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512426&extension=ts
+
+
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0cbss91740861809.png" group-title="SPORTS MIX 1",DAZN 1 (dyndns)
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/exh1731740861414.png" group-title="SPORTS MIX 1",DAZN 2 (dyndns)
@@ -1201,6 +1269,19 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1279&extens
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1277&extension=ts&play_token=DB57r5UGTU
 #EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Ziggo_Sport_6_2026_S.svg/revision/latest?cb=20260115191759",ZIGGO SPORT 6 (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1084669&extension=ts&play_token=yZhlOPf1NF
+
+#EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Ziggo_Sport_2026_S.svg/revision/latest?cb=20260115185932",ZIGGO SPORT (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537597&extension=ts
+#EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Ziggo_Sport_2_2026_S.svg/revision/latest?cb=20260115191131",ZIGGO SPORT 2 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537596&extension=ts
+#EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Ziggo_Sport_3_2026_S.svg/revision/latest?cb=20260115191303",ZIGGO SPORT 3 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537595&extension=ts
+#EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Ziggo_Sport_4_2026_S.svg/revision/latest?cb=20260115191517",ZIGGO SPORT 4 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537594&extension=ts
+#EXTINF:-1  group-title="SPORTS MIX 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Ziggo_Sport_5_2026_S.svg/revision/latest?cb=20260115191738",ZIGGO SPORT 5 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537593&extension=ts
+#EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Ziggo_Sport_6_2026_S.svg/revision/latest?cb=20260115191759",ZIGGO SPORT 6 (assarao4k)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537592&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/500px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png?_=20250101230447" group-title="SPORTS MIX 1",SPORTDIGITAL FUSSBALL (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1122&extension=ts&play_token=Ezzp0z8Img
@@ -1454,15 +1535,6 @@ http://hostengine.live/live/GCC528197/TGB86673456/53808.m3u
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png",TSN 5 (hostengine)
 http://hostengine.live/live/GCC528197/TGB86673456/53809.m3u
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png",TSN 1 (hostengine)
-http://hostengine.live/live/GCC528197/TGB86673456/338754.m3u
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png",TSN 2 (hostengine)
-http://hostengine.live/live/GCC528197/TGB86673456/338755.m3u
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png",TSN 3 (hostengine)
-http://hostengine.live/live/GCC528197/TGB86673456/338756.m3u
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png",TSN 4 (hostengine)
-http://hostengine.live/live/GCC528197/TGB86673456/338757.m3u
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 2",TV4 SPORT 1 (rostelekom)
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/12036/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 2",TV4 SPORT 4 (rostelekom)
@@ -1490,6 +1562,20 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13843&avod=1&content_dist_
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/AYM2004.jpg/revision/latest?cb=20130608195841" group-title="SPORTS MIX 2",AYM SPORT 3 (ottera.tv)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",SKY SPORTS MAIN EVENT (etvhosts)
+http://etvhosts.site:55337/xLuLzNicKx/lager4life/58925
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",SKY SPORTS PREMIER LEAGUE (etvhosts)
+http://etvhosts.site:55337/xLuLzNicKx/lager4life/58924
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png",SKY SPORTS PLUS (etvhosts)
+http://etvhosts.site:55337/xLuLzNicKx/lager4life/16566
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",SKY SPORTS MAIN EVENT (8kultradnscloud)
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=1905853&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",SKY SPORTS PREMIER LEAGUE (8kultradnscloud)
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=83447&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png",SKY SPORTS PLUS (8kultradnscloud)
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=1458663&extension=ts
+
 
 
 
@@ -1502,6 +1588,9 @@ http://de.seetv.cc/play/5456/632F375BC8243BC/video.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 3",DIGI SPORT 1 (andro)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://andro.226503.xyz/checklist/androstreamlivetb1.m3u8
+
+#EXTINF:-1 group-title="SPORTS MIX 3" tvg-logo="",MAX SPORT 3 (92.247.25.42)
+http://92.247.25.42:11171/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/M%2B_logo.svg/960px-M%2B_logo.svg.png?_=20210701220109" group-title="SPORTS MIX 3", M+ (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894989&extension=ts&play_token=wKjh5Uw0T9
