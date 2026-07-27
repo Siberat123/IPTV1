@@ -1896,15 +1896,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=15301&deviceMac=00:1A:79:1D:5
 
 
 
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn.skor.id/uploads/member/images/news/260115162500-593.jpeg", 18:00 WIB - 27/7/26 Singapore v Timor Leste| AFF CUP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live2.streambylivepulse.com/live/channel6.m3u8
-
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn.skor.id/uploads/member/images/news/260115162500-593.jpeg", 20:30 WIB - 27/7/26 Indonesia v Camboja | AFF CUP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live2.streambylivepulse.com/live/channel15.m3u8
-
+#EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="LIVE EVENT",Digi Sport 1 HD
+http://91.201.172.14:35005
+#EXTINF:-1 tvg-id="DigiSport2.ro@HD" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="LIVE EVENT",Digi Sport 2 HD
+http://91.201.172.14:35006
+#EXTINF:-1 tvg-id="Futbol.tj@SD" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="LIVE EVENT",Futbol (1080p)
+https://live.teleradiocom.tj/8/3m.m3u8
