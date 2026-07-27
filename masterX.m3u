@@ -11,6 +11,8 @@ http://202.169.224.202:8800/udp/239.4.1.2:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (detik)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w831248058_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQzMDU5NTE4NTQmd293emF0b2tlbmhhc2g9OU5wQWgwWWFlamdLYmxNVkZxbTEyX3lyc3hUZDFaYmVjRVA3N1FDVW5sUT0=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (detik)
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (digitalbroadcast)
 https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (syok)
@@ -18,6 +20,10 @@ http://syok.tv:25461/843839483/33999/1941
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (202.169.224.202)
 http://202.169.224.202:8800/udp/239.4.1.1:1234
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (detik)
+https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w33874835_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3NzI5NDUwMjEmd293emF0b2tlbmhhc2g9MWNaM2FxdDc4eDBENnNaTGhOU2NKM1E1aW5aX3BmdUo1QU1zdl9kNU5sRT0=.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (detik)
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (livestream)
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (syok)
@@ -33,19 +39,33 @@ https://s.id/Shareext_liga1_m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (syok)
 #http://syok.tv:25461/843839483/33999/1544
 
-#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (sedotcw3)
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (r-plus)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (king-4k)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (rpluz)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 
-#EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png",GTV (sedotcw3)
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png",GTV (r-plus)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png",GTV (king-4k)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png",GTV (rpluz)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/MDTV.svg/revision/latest?cb=20250226154803" group-title="INDO NASIONAL",MDTV (202.169.224.202)
 http://202.169.224.202:8800/udp/239.1.1.1:1234
@@ -54,13 +74,30 @@ http://202.169.224.202:8800/udp/239.1.1.1:1234
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/MDTV.svg/revision/latest?cb=20250226154803" group-title="INDO NASIONAL",MDTV (cloudns)
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/MDTV.svg/revision/latest?cb=20250226154803" group-title="INDO NASIONAL",MDTV (dens)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dens.tv/|referrer=https://www.dens.tv/|Origin=https://www.dens.tv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gfjc6q1605825509.png" group-title="INDO NASIONAL",RCTI (sedotcw3)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gfjc6q1605825509.png" group-title="INDO NASIONAL",RCTI (r-plus)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gfjc6q1605825509.png" group-title="INDO NASIONAL",RCTI (syok)
 http://syok.tv:25461/843839483/33999/2105
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gfjc6q1605825509.png" group-title="INDO NASIONAL",RCTI (rpluz)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="INDO NASIONAL",SCTV (202.169.224.202)
 http://202.169.224.202:8800/udp/239.9.1.29:1234
@@ -112,6 +149,8 @@ http://157.15.187.3:25092/hls/4/4.m3u8
 #EXTINF:-1 group-title="INDO LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV (intechmedia)
 https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO LOKAL",RTV (rtv)
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO LOKAL",RTV (cloudns)
 http://cdn.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO LOKAL",RTV (cloudns)
@@ -151,6 +190,16 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
 
 #EXTINF:-1 tvg-id="DAAITV.id@SD" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="INDO LOKAL",DAAI TV (daaiplus)
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 tvg-id="DAAITV.id@SD" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="INDO LOKAL",DAAI TV (dens)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dens.tv/|referrer=https://www.dens.tv/|Origin=https://www.dens.tv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
 
 #EXTINF:-1 tvg-id="IndonesianaTV.id@SD" tvg-logo="https://i.imgur.com/192wiS1.png" http-referrer="https://indonesiana.tv/" group-title="INDO LOKAL",INDONESIANA.TV (tvstreamcast)
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
@@ -309,7 +358,15 @@ https://flv.intechmedia.net/live/ch101.m3u8|user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (dens)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
+#EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://garuda.tv/
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
@@ -358,10 +415,17 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843g.m3u8
 
-#EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png",INEWS (sedotcw3)
+#EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png",INEWS (r-plus)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png",INEWS (rpluz)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 #EXTINF:-1 tvg-name="iNews (VISION+) 2" tvg-logo="https://i.imgur.com/G5vVGhx.jpeg" tvg-id="iNews.id" group-title="INDO NEWS",INEWS (maling)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=4&type=fitnah
@@ -1614,9 +1678,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149504&ext
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="SPORTS MIX 3",TEN SPORTS (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=809396&extension=ts&play_token=CoqaJtNKVf
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="SPORTS MIX 3",PTV SPORTS (mag7070)
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=809398&extension=ts&play_token=jU80x2u5bK
-
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="SPORTS MIX 3",GEO SUPER (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=809399&extension=ts&play_token=zjjEBrsrhn
 
@@ -1718,6 +1779,11 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6554/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png" group-title="SPORTS MIX 3",Беларусь 5 (cdntv)
 http://cdntv.online/low/9mlxywika2/778.m3u8
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="SPORTS MIX 3",PTV SPORTS (mag7070)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=809398&extension=ts&play_token=jU80x2u5bK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="SPORTS MIX 3",PTV SPORTS (103.165.93.31)
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.png" group-title="SPORTS MIX 3",МАТЧ! (tuva)
 http://tv.tuva.ru/machtv/index.m3u8
@@ -1822,3 +1888,23 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Willow_2023_stacked.svg/revision/latest?cb=20240927132511" group-title="SPORTS MIX 3",WILLOW SPORT (cloudcdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn.skor.id/uploads/member/images/news/260115162500-593.jpeg", 18:00 WIB - 27/7/26 Singapore v Timor Leste| AFF CUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live2.streambylivepulse.com/live/channel6.m3u8
+
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn.skor.id/uploads/member/images/news/260115162500-593.jpeg", 20:30 WIB - 27/7/26 Indonesia v Camboja | AFF CUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live2.streambylivepulse.com/live/channel15.m3u8
+
