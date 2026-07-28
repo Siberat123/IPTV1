@@ -707,20 +707,35 @@ http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417996
 http://202.169.224.202:8800/udp/239.9.1.7:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY",Animal Planet (23.239.31.26)
 http://23.239.31.26:8989/animalplanet/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY",Animal Planet (syok)
+http://syok.tv:25461/843839483/33999/214
+
+#EXTINF:-1 tvg-id="AsianFoodChannel.id" tvg-name="MY: AFN HD" tvg-logo="https://i.postimg.cc/JhHpfhSP/afn2.png" group-title="DOCUMENTARY",Asian Food Network (syok)
+http://syok.tv:25461/843839483/33999/220
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="MY:TLC" tvg-logo="https://i.ibb.co/X5vKy5T/SCX.png" group-title="DOCUMENTARY",TLC (syok)
+http://syok.tv:25461/843839483/33999/47
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/250px-Outdoor_Channel_logo_2017.svg.png" group-title="DOCUMENTARY",Outdoor Channel (amagi.tv)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/250px-Outdoor_Channel_logo_2017.svg.png" group-title="DOCUMENTARY",Outdoor Channel (amagi.tv)
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="None" tvg-name="Love Nature" tvg-logo="https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png" group-title="DOCUMENTARY",Love Nature (syok)
+http://syok.tv:25461/843839483/33999/23097
+
 #EXTINF:-1 channel-id="8152fae2aebf5c228eee6470242174ec" tvg-id="8152fae2aebf5c228eee6470242174ec" tvg-chno="484" tvg-name="Dinos 24/7" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8152fae2aebf5c228eee6470242174ec/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734493190895_ROKU_DINOS_247_CHANNEL_HUD2_LOGO_260x147_CENTER.png" group-title="DOCUMENTARY",BBC Dinos 24/7 (jmp2.uk)
 https://jmp2.uk/rok-8152fae2aebf5c228eee6470242174ec.m3u8
 
 #EXTINF:-1 tvg-id="400000063" tvg-logo="https://canvas-lb.tubitv.com/opts/FgYXmM6oI193Bw==/630f09e9-a354-4d28-a952-2f5c75e09815/CHgQeDoFMS4xLjhAAQ==" group-title="DOCUMENTARY",BBC Earth (cloudfront)
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="400000063" tvg-logo="https://canvas-lb.tubitv.com/opts/FgYXmM6oI193Bw==/630f09e9-a354-4d28-a952-2f5c75e09815/CHgQeDoFMS4xLjhAAQ==" group-title="DOCUMENTARY",BBC Earth (syok)
+http://syok.tv:25461/843839483/33999/211
 
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="DOCUMENTARY",CGTN Documentary (amagi.tv) 
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="DOCUMENTARY",CGTN Documentary (syok) 
+http://syok.tv:25461/843839483/33999/223
 
 #EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="DOCUMENTARY",RT Documentary (rttv)
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -915,6 +930,23 @@ https://connection3-ent-nz.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/330px-Logo_tvN.svg.png" group-title="MOVIES & SHOWS",TVN Movies (202.150.161.212)
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#EXTINF:-1 tvg-id="tvNMovies" tvg-name="TVN MOVIES FHD" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="MOVIES & SHOWS",TVN Movies (syok)
+http://syok.tv:25461/843839483/33999/195
+
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN FHD" tvg-logo="https://i.postimg.cc/kG3z1S4Q/axn2.png" group-title=MOVIES & SHOWS",AXN (syok)
+http://syok.tv:25461/843839483/33999/198
+
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO FAMILY FHD" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="MOVIES & SHOWS",HBO Family (syok)
+http://syok.tv:25461/843839483/33999/190
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family" tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="MOVIES & SHOWS",HBO Family (syok)
+http://syok.tv:25461/843839483/33999/100
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="MOVIES & SHOWS",HBO Signature (syok)
+http://syok.tv:25461/843839483/33999/191
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="MOVIES & SHOWS",HBO Signature (syok)
+http://syok.tv:25461/843839483/33999/99
+
+#EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="Rock Entertaiment" tvg-logo="https://i.postimg.cc/qvTBhtxC/blue-abt22.png" group-title="MOVIES & SHOWS",Rock Entertaiment (syok)
+http://syok.tv:25461/843839483/33999/241
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png?_=20210920034610" group-title="MOVIES & SHOWS",Bioskop Indonesia (202.150.161.212)
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
@@ -924,6 +956,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomovies-be
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES & SHOWS",Cinemax (23.237.104.106)
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX FHD" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="MOVIES & SHOWS",Cinemax (syok)
+http://syok.tv:25461/843839483/33999/192
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_2_0.png" group-title="MOVIES & SHOWS",LG 1:Film (ottera.tv)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465
@@ -1142,6 +1176,13 @@ http://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg/revision/latest?cb=20200107204039",BEIN SPORTS 4 (online24)
 http://ua.online24.pm/play/1104/350B326FB34F4B8/video.m3u8
 
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (syok)
+http://syok.tv:25461/843839483/33999/644
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (syok)
+http://syok.tv:25461/843839483/33999/18525
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",BEIN SPORTS 3 (syok)
+http://syok.tv:25461/843839483/33999/643
+
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",BEIN SPORTS 3 (145.239.5.177)
 http://145.239.5.177:80/559/index.m3u8
 
@@ -1151,12 +1192,6 @@ http://portal.priwes.com/live/ahmeteyvel/z631cgpap/8acd6ba0-fccd-4dad-87b7-d45eb
 http://portal.priwes.com/live/ahmeteyvel/z631cgpap/40948810-a4ed-4975-8c81-13e1aeb39f6d.m3u?output=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-2.png" group-title="BEIN SPORTS",BEIN SPORTS 2 (priwes)
 http://portal.priwes.com/live/ahmeteyvel/z631cgpap/cb855bae-0ac2-478f-a8ee-8752a02738bf.m3u?output=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-2.png" group-title="BEIN SPORTS",BEIN SPORTS 2 (elitetr2)
-http://elitetr2.xyz/live/merthavuz/zv9uemcnc/cb855bae-0ac2-478f-a8ee-8752a02738bf.m3u?output=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-2.png" group-title="BEIN SPORTS",BEIN SPORTS 2 (europlayiptv)
-http://europlayiptv.de/live/bedil1/sn4aogieh/cb855bae-0ac2-478f-a8ee-8752a02738bf.m3u?output=ts
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA n (amagi.tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
