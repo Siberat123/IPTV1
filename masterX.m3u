@@ -1119,6 +1119,13 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17671
 
 #BEIN SPORTS
 #
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (hls)
+https://hls.iptv-th.workers.dev/live/51/playlist.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (hls)
+https://hls.iptv-th.workers.dev/live/52/playlist.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BE_IN_SPORT_3_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181110",BEIN SPORTS 3 (hls)
+https://hls.iptv-th.workers.dev/live/53/playlist.m3u8
+
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",BEIN SPORTS 1 (99.27.51.147)
 http://99.27.51.147:8080/BeinSport/index.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",BEIN SPORTS 2 (99.27.51.147)
@@ -1551,12 +1558,24 @@ http://kws04u9a.akciatv.ru/iptv/MCHUP9AS7DBP5W/19129/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",SKY SPORT CALCIO (rostelekom)
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/19113/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",SKY SPORT PREMIER LEAGUE (rostelekom)
-http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/5042/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",SKY SPORT BUNDESLIGA (rostelekom)
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/2480/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",SKY SPORT MIX (rostelekom)
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/5039/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",SKY SPORT PREMIER LEAGUE (rostelekom)
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/5042/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0jy6Hie.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 2",SKY SPORT PREMIER LEAGUE (pro2box)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://panel.pro2box.cc/456876/bpMnYZA/243798
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpWubye.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 2",SKY SPORT MAX (redfoxx)
+http://redfoxx.vip/FG803300F12D2/ncWUsGr/614524
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpWubye.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 2",SKY SPORT MAX (31.43.191.125)
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/136507
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BCzZYyI.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 2",SKY SPORT ARENA (31.43.191.125)
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/136478
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",SKY SPORTS ACTION (rostelekom)
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/9155/index.m3u8
