@@ -1,297 +1,240 @@
 #EXTM3U
 
 
-  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SjCylM5.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Indosiar
-http://202.169.224.202:8800/udp/239.9.1.25:1234
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SjCylM5.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Indosiar
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5kClAk.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Australia 1
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:83:3D:5C&stream=1348093&extension=m3u8
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/rQsnQpm.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Australia 2
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:83:3D:5C&stream=1348102&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GibgpKE.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Australia 3
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:83:3D:5C&stream=1348103&extension=m3u8
 
 
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=205&type=darm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hk4Z8wi.jpeg" tvg-id="itzplay.id" group-title="Live Event Liga Indonesia",Bri Super League (Vidio 1)
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
-
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19353&type=drm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hk4Z8wi.jpeg" tvg-id="itzplay.id" group-title="Live Event Liga Indonesia",Bri Super League (Vidio 2)
-https://tvratu.my.id/vid/index.mpd?id=19353&type=dash
-
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19385&type=drm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hk4Z8wi.jpeg" tvg-id="itzplay.id" group-title="Live Event Liga Indonesia",Bri Super League (Vidio 3)
-https://tvratu.my.id/vid/index.mpd?id=19385&type=dash
-
-
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19354&type=drm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hk4Z8wi.jpeg" tvg-id="itzplay.id" group-title="Live Event Liga Indonesia",Bri Super League (Vidio 4)
-https://tvratu.my.id/vid/index.mpd?id=19354&type=dash
-
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hk4Z8wi.jpeg" tvg-id="itzplay.id" group-title="Live Event Liga Indonesia",Bri Super League (Vidio 5)
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19541&type=drm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OEqbYYe.jpeg" tvg-id="itzplay.id" group-title="Live Event Liga Indonesia", Pegadaian Championship (Vidio 1)
-https://tvratu.my.id/vid/index.mpd?id=19541&type=dash
-
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19543&type=drm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OEqbYYe.jpeg" tvg-id="itzplay.id" group-title="Live Event Liga Indonesia",Pegadaian Championship(Vidio 2)
-https://tvratu.my.id/vid/index.mpd?id=19543&type=dash
-
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=20833&type=drm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OEqbYYe.jpeg" tvg-id="itzplay.id" group-title="Live Event Liga Indonesia",Pegadaian Championship (Vidio 3)
-https://tvratu.my.id/vid/index.mpd?id=20833&type=dash
-
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19883&type=drm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OEqbYYe.jpeg" tvg-id="itzplay.id" group-title="Live Event Liga Indonesia",Pegadaian Championship (Vidio 4)
-https://tvratu.my.id/vid/index.mpd?id=19883&type=dash
-
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19584&type=drm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OEqbYYe.jpeg" tvg-id="itzplay.id" group-title="Live Event Liga Indonesia",Pegadaian Championshipe (Vidio 5)
-https://tvratu.my.id/vid/index.mpd?id=19584&type=dash
-
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19542&type=drm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OEqbYYe.jpeg" tvg-id="itzplay.id" group-title="Live Event Liga Indonesia",Pegadaian Championship (Vidio 6)
-https://tvratu.my.id/vid/index.mpd?id=19542&type=dash
-
-
-
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L2rLYOs.jpeg" tvg-id="itzplay.id" group-title="Live Event Liga Indonesia",Piala Presiden (Indosiar Digital)
-http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350972
-
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VtNylf8.jpeg" tvg-id="itzplay.id" group-title="Football Live Event National Team",Asean Cup (True Sports 2)
-http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5kClAk.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Thailand 1
+https://hls.iptv-th.workers.dev/live/51/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQsnQpm.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Thailand 2
+https://hls.iptv-th.workers.dev/live/52/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GibgpKE.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Thailand 3
+https://hls.iptv-th.workers.dev/live/53/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VtNylf8.jpeg" tvg-id="itzplay.id" group-title="Football Live Event National Team",Asean Cup (GTV Digital)
-http://157.15.187.3:25092/hls/57/57.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VtNylf8.jpeg" tvg-id="itzplay.id" group-title="Football Live Event National Team",Asean Cup (GTV Digital)
-http://opplextv.cyou:8080/nasir6160/nasir/351023
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ktYodsw.jpeg" tvg-id="itzplay.id" group-title="Channel Lokal Indonesia",Jupnas Gizi (MBG TV)
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="non" tvg-id="itzplay.id" group-title="World Sports", Thailand (True Sports 1)
-https://hls.iptv-th.workers.dev/live/79/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="non" tvg-id="itzplay.id" group-title="World Sports", Thailand (True Sports 2)
-http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2
-
-#EXTINF:-1 tvg-logo="non" tvg-id="itzplay.id" group-title="World Sports", Thailand (True Sports 3)
-https://hls.iptv-th.workers.dev/live/148/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="non" tvg-id="itzplay.id" group-title="World Sports", Thailand (True Sports 4)
-https://hls.iptv-th.workers.dev/live/80/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="non" tvg-id="itzplay.id" group-title="World Sports", Thailand (True Sports 5)
-https://hls.iptv-th.workers.dev/live/115/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="non" tvg-id="itzplay.id" group-title="World Sports", Thailand (True Sports 6)
-
-#EXTINF:-1 tvg-logo="non" tvg-id="itzplay.id" group-title="World Sports", Thailand (True Sports 7)
-https://hls.iptv-th.workers.dev/live/116/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iGa3aV1.jpeg" tvg-id="itzplay.id" group-title="World Sports",Netherlands (Ziggo Sports 1)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069726.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jpFLqM.jpeg" tvg-id="itzplay.id" group-title="World Sports",Netherlands (Ziggo Sports 2)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069725.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ouS1iQW.jpeg" tvg-id="itzplay.id" group-title="World Sports",Netherlands (Ziggo Sports 3)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069724.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hw1tU5j.jpeg" tvg-id="itzplay.id" group-title="World Sports",Netherlands (Ziggo Sports 4)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069723.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KjVgFbV.jpeg" tvg-id="itzplay.id" group-title="World Sports",Netherlands (Ziggo Sports 5)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069722.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tr7IXKb.jpeg" tvg-id="itzplay.id" group-title="World Sports",Netherlands (Ziggo Sports 6)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069721.m3u8
-
-#EXTVLCOPT:http-referrer=
-#EXTVLCOPT:http-origin=
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="non" tvg-id="itzplay.id" group-title="World Sports",Malaysia (Astro Football)
-https://live1.kinxie.com/live/vrqwni4d8p5c4qn_678a8bd401a572b9c55f547594517b69_autoChange.m3u8?auth_key=1784723534-0-0-29ed6c084c5da95105007117b6e6d1d6
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WgiIRQi.jpeg" tvg-id="itzplay.id" group-title="World Sports",United Kingdom (TNT Sports 1)
-http://wickediptv.xyz/Randall123/Randall321/53850
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RNczxwH.jpeg" tvg-id="itzplay.id" group-title="World Sports",United Kingdom (TNT Sports 2)
-http://wickediptv.xyz/Randall123/Randall321/53851
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lUZ0h5V.jpeg" tvg-id="itzplay.id" group-title="World Sports",United Kingdom (TNT Sports 3)
-http://wickediptv.xyz/Randall123/Randall321/53852
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JRrxTzO.jpeg" tvg-id="itzplay.id" group-title="World Sports",United Kingdom (TNT Sports 4)
-http://wickediptv.xyz/Randall123/Randall321/53853
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H3bXRPx.jpeg" tvg-id="itzplay.id" group-title="World Sports",United Kingdom (Premier Sports 1)
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98771
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BfHltYb.jpeg" tvg-id="itzplay.id" group-title="World Sports",United Kingdom (Premier Sports 2)
-http://rocketfx.uk:8080/henry/henry/357498
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BGBn0uW.jpeg" tvg-id="itzplay.id" group-title="Digital Sports", ANTV Digital 1
-http://157.15.187.3:25092/hls/45/45.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BGBn0uW.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",ANTV Digital 2
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NvICauU.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",Trans 7 Digital 1
-http://157.15.187.3:25092/hls/42/42.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NvICauU.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",Trans 7 Digital 2
-http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WZ5h0LV.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",Trans TV Digital 1
-http://157.15.187.3:25092/hls/43/43.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dXUEbd3.jpeg" tvg-id="itzplay.id" group-title="Brunei Darussalam", RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dXUEbd3.jpeg" tvg-id="itzplay.id" group-title="Brunei Darussalam", RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WZ5h0LV.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",Trans TV Digital 2
-http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SjCylM5.jpeg" tvg-id="itzplay.id" group-title="Digital Sports", Indosiar Digital 1
-http://157.15.187.3:25092/hls/56/56.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SjCylM5.jpeg" tvg-id="itzplay.id" group-title="Digital Sports", Indosiar Digital 2
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SjCylM5.jpeg" tvg-id="itzplay.id" group-title="Digital Sports", Indosiar Digital 3
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SjCylM5.jpeg" tvg-id="itzplay.id" group-title="Digital Sports", Indosiar Digital 4
-https://s.id/Shareext_liga1_m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9nGJaOL.jpeg" tvg-id="itzplay.id" group-title="Digital Sports", SCTV Digital 1
-http://157.15.187.3:25092/hls/55/55.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLgB7p7.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",RCTI Digital 1
-http://157.15.187.3:25092/hls/51/51.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9x3uLMH.jpeg" tvg-id="itzplay.id" group-title="Digital Sports", MNCTV Digital 1
-http://157.15.187.3:25092/hls/54/54.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9x3uLMH.jpeg" tvg-id="itzplay.id" group-title="Digital Sports", MNCTV Digital 2
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9x3uLMH.jpeg" tvg-id="itzplay.id" group-title="Digital Sports", MNCTV Digital 3
-https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/7.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A6SHCrs.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",GTV Digital 1
-http://157.15.187.3:25092/hls/57/57.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A6SHCrs.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",GTV Digital 2
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l2p1NUt.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",iNews Digital 1
-http://157.15.187.3:25092/hls/52/52.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xp7UiDl.jpeg" tvg-id="itzplay.id" group-title="Brunei Darussalam",RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xp7UiDl.jpeg" tvg-id="itzplay.id" group-title="Brunei Darussalam",RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",Moji Digital 1
-http://157.15.187.3:25092/hls/50/50.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hBFuCUQ.jpeg" tvg-id="itzplay.id" group-title="Brunei Darussalam",RTB Go Live
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hBFuCUQ.jpeg" tvg-id="itzplay.id" group-title="Brunei Darussalam",RTB Go Live
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8AlXOE.jpeg" tvg-id="itzplay.id" group-title="SPOTV",SPOTV Thailand
+http://117.18.127.253:8080/live/sakdaa/0442260/218079.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/862RVQD.jpeg" tvg-id="itzplay.id" group-title="SPOTV",SPOTV Thailand 2
+http://117.18.127.253:8080/live/sakdaa/0442260/218081.m3u8
+
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",Moji Digital 1
-http://opplextv.cyou:8080/nasir6160/nasir/350997
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iJbMNwj.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports+ (United Kingdom)
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98787
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",Moji Digital 2
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uiEBL3y.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Premier League (United Kingdom)
+http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/335
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uiEBL3y.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Premier League (United Kingdom)
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98775
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uiEBL3y.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Premier League (United Kingdom)
+http://opplextv.cyou:8080/nasir6160/nasir/346242
+
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",Moji Digital 3
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3tt7jEP.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",TVRI Nasional Digital 1
-http://157.15.187.3:25092/hls/63/63.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3tt7jEP.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",TVRI Nasional Digital 1
-https://pildun.cob.web.id/hls2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3tt7jEP.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",TVRI Nasional Digital 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZQN5CC.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Football (United Kingdom)
+http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/337
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.170.100.42:6799/stream/channelid/21976998?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZQN5CC.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Football (United Kingdom)
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98781
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZQN5CC.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Football (United Kingdom)
+http://opplextv.cyou:8080/nasir6160/nasir/346241
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KJpxxtL.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",TVRI sport Digital 1
-EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://157.15.187.3:25092/hls/49/49.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KJpxxtL.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",TVRI sport Digital 1
-EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tvri.cob.web.id/hls2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KJpxxtL.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",TVRI sport Digital 1
-EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.148.44.38:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KJpxxtL.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",TVRI sport Digital 2
-http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rlZHaAO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Main Event (United Kingdom)
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98777
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rlZHaAO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Main Event (United Kingdom)
+http://opplextv.cyou:8080/nasir6160/nasir/346382
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rlZHaAO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Main Event (United Kingdom)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47868
+
+
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c4ypoFz.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Mix (United Kingdom)
+http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/339
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c4ypoFz.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Mix (United Kingdom)
+#http://kstv.us:8080/4VUyfZBQzk/95104974615/47869
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c4ypoFz.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Mix (United Kingdom)
+http://opplextv.cyou:8080/nasir6160/nasir/346383
+
+
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/quH30iQ.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Arena (United Kingdom)
+http://opplextv.cyou:8080/nasir6160/nasir/346378
+
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 1 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350469
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 2 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350470
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 3 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350471
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 4 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350472
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 5 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350473
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 6 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350474
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 7 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350475
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 8 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350476
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 9 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350477
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 10 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350478
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga (Deutsch/Germany)
+http://redfoxx.vip/FG803300F12D2/ncWUsGr/608919
+http://opplextv.cyou:8080/nasir6160/nasir/350426
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 1 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350427
+
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://i.imgur.com/y8TOL9G.jpeg" tvg-id="skysport.com" group-title="Sky Sports",Sky Sport Bundesliga 2 (Deutsch/Germany)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 2 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350428
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/350429
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 3 (Deutsch/Germany)
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 4 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350430
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 5 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350431
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 6 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350432
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 7 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350433
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 8 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350434
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 9 (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350435
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga10 (Deutsch/Germany)
+http://opplextv.cyou:/nasir6160/nasir/350436
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iPwd07a.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Mix (Deutsch/Germany)
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310087
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iPwd07a.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Mix (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350437
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0jy6Hie.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Premier League (Deutsch/Germany)
+http://panel.pro2box.cc/456876/bpMnYZA/243798
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0jy6Hie.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Premier League (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350425
+
+
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ib9xMmU.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Top Event (Deutsch/Germany)
+http://wickediptv.xyz/Randall123/Randall321/275043
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ib9xMmU.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Top Event (Deutsch/Germany)
+http://opplextv.cyou:8080/nasir6160/nasir/350481
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BCzZYyI.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Arena (Italia)
+http://wickediptv.xyz/Randall123/Randall321/285957
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BCzZYyI.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Arena (Italia)
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/136478
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpWubye.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Max (Italia)
+http://redfoxx.vip/FG803300F12D2/ncWUsGr/614524
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpWubye.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Max (Italia)
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/136507
+
+
 
 
 
