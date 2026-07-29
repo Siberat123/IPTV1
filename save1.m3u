@@ -1,292 +1,185 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S5kClAk.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Australia 1
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://vod.supremetv.live/play/live.php?mac=00:1A:79:83:3D:5C&stream=1348093&extension=m3u8
- #EXTINF:-1 tvg-logo="https://i.imgur.com/rQsnQpm.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Australia 2
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://vod.supremetv.live/play/live.php?mac=00:1A:79:83:3D:5C&stream=1348102&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GibgpKE.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Australia 3
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://vod.supremetv.live/play/live.php?mac=00:1A:79:83:3D:5C&stream=1348103&extension=m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S5kClAk.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Thailand 1
-https://hls.iptv-th.workers.dev/live/51/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rQsnQpm.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Thailand 2
-https://hls.iptv-th.workers.dev/live/52/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GibgpKE.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Thailand 3
-https://hls.iptv-th.workers.dev/live/53/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ktYodsw.jpeg" tvg-id="itzplay.id" group-title="Channel Lokal Indonesia",Jupnas Gizi (MBG TV)
-https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
-
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dXUEbd3.jpeg" tvg-id="itzplay.id" group-title="Brunei Darussalam", RTB Sukmaindera
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dXUEbd3.jpeg" tvg-id="itzplay.id" group-title="Brunei Darussalam", RTB Sukmaindera
-https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xp7UiDl.jpeg" tvg-id="itzplay.id" group-title="Brunei Darussalam",RTB Aneka
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xp7UiDl.jpeg" tvg-id="itzplay.id" group-title="Brunei Darussalam",RTB Aneka
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hBFuCUQ.jpeg" tvg-id="itzplay.id" group-title="Brunei Darussalam",RTB Go Live
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hBFuCUQ.jpeg" tvg-id="itzplay.id" group-title="Brunei Darussalam",RTB Go Live
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a8AlXOE.jpeg" tvg-id="itzplay.id" group-title="SPOTV",SPOTV Thailand
-http://117.18.127.253:8080/live/sakdaa/0442260/218079.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/862RVQD.jpeg" tvg-id="itzplay.id" group-title="SPOTV",SPOTV Thailand 2
-http://117.18.127.253:8080/live/sakdaa/0442260/218081.m3u8
-
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iJbMNwj.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports+ (United Kingdom)
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98787
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uiEBL3y.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Premier League (United Kingdom)
-http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/335
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uiEBL3y.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Premier League (United Kingdom)
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98775
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uiEBL3y.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Premier League (United Kingdom)
-http://opplextv.cyou:8080/nasir6160/nasir/346242
-
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZQN5CC.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Football (United Kingdom)
-http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/337
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZQN5CC.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Football (United Kingdom)
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98781
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZQN5CC.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Football (United Kingdom)
-http://opplextv.cyou:8080/nasir6160/nasir/346241
-
-
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rlZHaAO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Main Event (United Kingdom)
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98777
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rlZHaAO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Main Event (United Kingdom)
-http://opplextv.cyou:8080/nasir6160/nasir/346382
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rlZHaAO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Main Event (United Kingdom)
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47868
-
-
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c4ypoFz.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Mix (United Kingdom)
-http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/339
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c4ypoFz.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Mix (United Kingdom)
-#http://kstv.us:8080/4VUyfZBQzk/95104974615/47869
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c4ypoFz.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Mix (United Kingdom)
-http://opplextv.cyou:8080/nasir6160/nasir/346383
-
-
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/quH30iQ.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sports Arena (United Kingdom)
-http://opplextv.cyou:8080/nasir6160/nasir/346378
-
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 1 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350469
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 2 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350470
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 3 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350471
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 4 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350472
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 5 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350473
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 6 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350474
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 7 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350475
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 8 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350476
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 9 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350477
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkg5KwO.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport 10 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350478
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga (Deutsch/Germany)
-http://redfoxx.vip/FG803300F12D2/ncWUsGr/608919
-http://opplextv.cyou:8080/nasir6160/nasir/350426
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 1 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350427
-
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://i.imgur.com/y8TOL9G.jpeg" tvg-id="skysport.com" group-title="Sky Sports",Sky Sport Bundesliga 2 (Deutsch/Germany)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 2 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350428
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/350429
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 3 (Deutsch/Germany)
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 4 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350430
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 5 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350431
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 6 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350432
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 7 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350433
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 8 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350434
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga 9 (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350435
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A7G8k3K.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Bundesliga10 (Deutsch/Germany)
-http://opplextv.cyou:/nasir6160/nasir/350436
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iPwd07a.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Mix (Deutsch/Germany)
-http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310087
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iPwd07a.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Mix (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350437
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0jy6Hie.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Premier League (Deutsch/Germany)
-http://panel.pro2box.cc/456876/bpMnYZA/243798
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0jy6Hie.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Premier League (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350425
-
-
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ib9xMmU.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Top Event (Deutsch/Germany)
-http://wickediptv.xyz/Randall123/Randall321/275043
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ib9xMmU.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Top Event (Deutsch/Germany)
-http://opplextv.cyou:8080/nasir6160/nasir/350481
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BCzZYyI.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Arena (Italia)
-http://wickediptv.xyz/Randall123/Randall321/285957
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BCzZYyI.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Arena (Italia)
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/136478
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QpWubye.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Max (Italia)
-http://redfoxx.vip/FG803300F12D2/ncWUsGr/614524
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QpWubye.jpeg" tvg-id="itzplay.id" group-title="Sky Sports",Sky Sport Max (Italia)
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/136507
-
-
-
-
-
-#EXTM3U
-
-
-#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg", METROTV HD
-https://tfxo3grauqmtofaauqmt1gy3145djq31un.100ycdn.com/live1.streambylivepulse.com/live/channel1/playlist.m3u8?wsSecret=0d3e7f05476cae1494baba68ddb4e104&wsABSTime=1784429687&wsSession=5011b5a82e60d4ce2c068110-178438648900872&wsIPSercert=5d7fff0b28c2023d6a5a011240937dcd&wsBindIP=2&wsserid=1168235948324382342
-
-
-#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg", METROTV HD
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1513534.m3u8
-
-#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg", METROTV HD
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1547798.m3u8
-
-
-#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg", METROTV HD
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1513532.m3u8
-
-#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg", METROTV HD
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1547797.m3u8
-
-
-#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg", METROTV HD
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1513530.m3u8
-
-
-#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg", METROTV HD
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1547796.m3u8
-
-
-#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg", METROTV HD
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1513548.m3u8
-
-
-#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg", METROTV HD
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1547805.m3u8
-
-#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg", METROTV HD
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1513536.m3u8
-
-
-#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg", METROTV HD
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1547802.m3u8
-
-#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg", METROTV HD
-http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/20815.m3u8
-
-
-
-
-
-
+#EXTINF:-1, ESPN
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21589.ts
+#EXTINF:-1, ESPN 2 
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
+#EXTINF:-1, ESPN U (alt)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2576.ts
+#EXTINF:-1, ESPN NEWS
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts
+#EXTINF:-1, ESPN DEPORTES
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2578.ts
+#EXTINF:-1, SEC Network
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/650415.ts
+#EXTINF:-1, ACC Network
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/5287.ts
+#EXTINF:-1, CBS Sports Network
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3712.ts
+#EXTINF:-1, Fox Sports 1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
+#EXTINF:-1, Fox Sports 2
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
+#EXTINF:-1, FOX Deportes
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2559.ts
+#EXTINF:-1, Fox Sports 1 Latin
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2882.ts
+#EXTINF:-1, Fox Sports 2 Latin
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2880.ts
+#EXTINF:-1, Fox Sports 3 Latin
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2881.ts
+#EXTINF:-1, FOX Soccer Plus
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2531.ts
+#EXTINF:-1, Big Ten Network
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/4443.ts
+#EXTINF:-1, NBC Sports Bay Area
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/50962.ts
+#EXTINF:-1, NBC Sports Boston
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/50962.ts
+#EXTINF:-1, NBC Sports California
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3772.ts
+#EXTINF:-1, NBC Sports Chicago
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3771.ts
+#EXTINF:-1, NBC Sports Philadelphia
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts
+#EXTINF:-1, SportsNet Southwest HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/330.ts
+#EXTINF:-1, Spectrum Sportsnet
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/414.ts
+#EXTINF:-1, Spectrum Sportsnet LA
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/415.ts
+#EXTINF:-1, Sportsnet 360
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/528.ts
+#EXTINF:-1, Sportsnet One
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/531.ts
+#EXTINF:-1, Sportsnet Ontario
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/540.ts
+#EXTINF:-1, Sportsnet Pacific
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/536.ts
+#EXTINF:-1, Sportsnet West
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/535.ts
+#EXTINF:-1, Sportsnet World
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/537.ts
+#EXTINF:-1, TSN 1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+#EXTINF:-1, TSN 2
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/421.ts
+#EXTINF:-1, TSN 3
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3144.ts
+#EXTINF:-1, TSN 4
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3143.ts
+#EXTINF:-1, TSN 5
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3142.ts
+#EXTINF:-1, RDS 1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3232.ts
+#EXTINF:-1, RDS 2
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3233.ts
+#EXTINF:-1, RDS info
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3234.ts
+#EXTINF:-1, BEIN SPORTS
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3613.ts
+#EXTINF:-1, BEIN SPORTS Canadá
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3153.ts
+#EXTINF:-1, BEIN SPORTS 1 France
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/659439.ts
+#EXTINF:-1, BEIN SPORTS 2 France
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/659440.ts
+#EXTINF:-1, BEIN SPORTS 3 France
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/659441.ts
+#EXTINF:-1, BEIN SPORTS ñ
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21586.ts
+#EXTINF:-1, SKY SPORTS Mix
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2180.ts
+#EXTINF:-1, SKY SPORTS Premier League
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
+#EXTINF:-1, SKY SPORTS NEWS
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2183.ts
+#EXTINF:-1, SKY SPORTS MAIN EVENT
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2185.ts
+#EXTINF:-1, SKY SPORTS Golf
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2187.ts
+#EXTINF:-1, SKY SPORTS Football
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30822.ts
+#EXTINF:-1, SKY SPORTS F1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2190.ts
+#EXTINF:-1, SKY SPORTS F1 (alt)
+http://s.rocketdns.info:8080/live/7312082/5738779/2190.ts
+#EXTINF:-1, SKY SPORTS Action
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2195.ts
+#EXTINF:-1, SKY SPORTS +
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15552.ts
+#EXTINF:-1, SKY SPORTS Cricket
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2192.ts
+#EXTINF:-1, TYC Sports
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2942.ts
+#EXTINF:-1, TYC Sports USA
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/4445.ts
+#EXTINF:-1, TNT Sports 1 UK
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2337.ts
+#EXTINF:-1, TNT Sports 2 UK
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2336.ts
+#EXTINF:-1, TNT Sports 2 UK (alt)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2326.ts
+#EXTINF:-1, TNT Sports 3 UK
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2335.ts
+#EXTINF:-1, TNT Sports 4 UK
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2334.ts
+#EXTINF:-1, TNT Sports 4 UK (alt)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/675021.ts
+#EXTINF:-1, TNT Sports 5 UK
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6154.ts
+#EXTINF:-1, TNT Sports 6 UK
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6155.ts
+#EXTINF:-1, TNT Sports 7 UK
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6156.ts
+#EXTINF:-1, TNT Sports 8 UK
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6157.ts
+#EXTINF:-1, TNT Sports 9 UK
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6158.ts
+#EXTINF:-1, TNT Sports 10 UK
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6159.ts
+#EXTINF:-1, TUDN
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/553262.ts
+#EXTINF:-1, TUDN 2
+http://m3u.tvcluboficial.com/free/oct/oct/957.m3u8
+#EXTINF:-1, DAZN 1 Portugal
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/926.ts
+#EXTINF:-1, DAZN 2 Portugal
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/924.ts
+#EXTINF:-1, DAZN 3 Portugal
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/921.ts
+#EXTINF:-1, DAZN 4 Portugal
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/920.ts
+#EXTINF:-1, DAZN 5 Portugal
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/918.ts
+#EXTINF:-1, Sport TV 1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/849.ts
+#EXTINF:-1, Sport TV 2
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/847.ts
+#EXTINF:-1, Sport TV 3
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/845.ts
+#EXTINF:-1, Sport TV 4
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/843.ts
+#EXTINF:-1, Sport TV 5
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/840.ts
+#EXTINF:-1, Sport TV +
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/51139.ts
+#EXTINF:-1, Tennis Channel
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/418.ts
+#EXTINF:-1, Tennis Channel 2
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/419.ts
+#EXTINF:-1, DAZN F1
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.ts
+#EXTINF:-1, DAZN F1 (alt)
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/379.ts
+#EXTINF:-1, RAI Sport
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/588669.ts
+#EXTINF:-1, Racer
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/5290.ts
+#EXTINF:-1, FOX Sports Racing
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3053.ts
+#EXTINF:-1, REV TV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/702667.ts
 
