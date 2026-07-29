@@ -1,185 +1,215 @@
 #EXTM3U
 
+#EXTINF:-1, Servus TV
+https://freqsyndlin.servustv.com/771_playlist_1.m3u8
+#EXTINF:-1, Servus TV Wetter Panorama
+https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master.m3u8
+#EXTINF:-1, RAI 1
+https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
+#EXTINF:-1, RAI 2
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTINF:-1, RAI 3
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:-1, RAI News
+https://netplus.zappr.stream/rainews.m3u8
+#EXTINF:-1, RAI Alto Adige
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
+#EXTINF:-1, Italia 1 Mediaset
+https://netplus.zappr.stream/italia1.m3u8
+#EXTINF:-1, Canale 5
+https://netplus.zappr.stream/canale5.m3u8
+#EXTINF:-1, La7
+https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
+#EXTINF:-1, La7d
+https://netplus.zappr.stream/la7d.m3u8
+#EXTINF:-1, Itália 2
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+#EXTINF:-1, MediaSet Itália
+https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+#EXTINF:-1, Plus+TV Itália
+https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/playlist.m3u8
+#EXTINF:-1, 24h Espanha
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1, 24h Catalunha
+https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8
+#EXTINF:-1, 24h Canarias
+https://rtvelivestream.rtve.es/rtvesec/can/24h_can_main_dvr.m3u8
+#EXTINF:-1, BBC Arabic
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+#EXTINF:-1, BBC 2
+https://netplus.zappr.stream/bbc2.m3u8
+#EXTINF:-1, Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1, Reuters
+https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
+#EXTINF:-1, UN United Nations TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1, Le Figaro
+https://d358c6mfrono1y.cloudfront.net/lefigaro/master.m3u8
+#EXTINF:-1, RTS 1
+https://netplus.zappr.stream/rts1hd.m3u8
+#EXTINF:-1, RTS 2
+https://netplus.zappr.stream/rts2hd.m3u8
+#EXTINF:-1, RTS Info
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
+#EXTINF:-1, RSI LA1
+https://netplus.zappr.stream/rsila1hd.m3u8
+#EXTINF:-1, RSI LA2
+https://netplus.zappr.stream/rsila2hd.m3u8
+#EXTINF:-1, SRF 1
+https://netplus.zappr.stream/srf1hd.m3u8
+#EXTINF:-1, SRF 2
+https://netplus.zappr.stream/srf2hd.m3u8
+#EXTINF:-1, Carac 1
+https://netplus.zappr.stream/rougetv.m3u8
+#EXTINF:-1, Carac 2
+https://netplus.zappr.stream/onetv.m3u8
+#EXTINF:-1, Carac 3
+https://netplus.zappr.stream/lfmtv.m3u8
+#EXTINF:-1, Carac 4
+https://netplus.zappr.stream/tvsuisseplus.m3u8
+#EXTINF:-1, Carac 5
+https://netplus.zappr.stream/teleswizz.m3u8
+#EXTINF:-1, ITV1
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2292.ts
+#EXTINF:-1, ITV2
+https://netplus.zappr.stream/itv2.m3u8
+#EXTINF:-1, ITV3
+https://netplus.zappr.stream/itv3.m3u8
+#EXTINF:-1, ITV4
+https://netplus.zappr.stream/itv4.m3u8
+#EXTINF:-1, TF1
+https://netplus.zappr.stream/tf1hd.m3u8
+#EXTINF:-1, TMC
+https://netplus.zappr.stream/tmc.m3u8
+#EXTINF:-1, France 2
+https://netplus.zappr.stream/france2hd.m3u8
+#EXTINF:-1, France 3
+https://netplus.zappr.stream/france3hd.m3u8
+#EXTINF:-1, France 4
+https://netplus.zappr.stream/france4hd.m3u8
+#EXTINF:-1, France 5
+https://netplus.zappr.stream/france5hd.m3u8
+#EXTINF:-1, C News
+https://netplus.zappr.stream/itele.m3u8
+#EXTINF:-1, Euronews France
+https://netplus.zappr.stream/euronews.m3u8
+#EXTINF:-1, France 24
+https://netplus.zappr.stream/france24.m3u8
+#EXTINF:-1, Le Figaro TV
+https://cdn.jwplayer.com/manifests/pliC9aZQ.m3u8
+#EXTINF:-1, Canal+
+https://netplus.zappr.stream/canalplusclair.m3u8
+#EXTINF:-1, LCI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+#EXTINF:-1, Das Erste
+https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
+#EXTINF:-1, Das Erste (alt)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1, RTL
+https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
+#EXTINF:-1, RTL Zwei
+https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
+#EXTINF:-1, ZDF
+https://netplus.zappr.stream/zdfhd.m3u8
+#EXTINF:-1, ORF 1
+https://netplus.zappr.stream/orf1.m3u8
+#EXTINF:-1, ORF 2
+https://netplus.zappr.stream/orf2.m3u8
+#EXTINF:-1, ORF 3
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1, ATV
+https://strm.hdtvizlecanli.com/live/atv.m3u8
+#EXTINF:-1, ATV II
+https://netplus.zappr.stream/atv.m3u8
+#EXTINF:-1, La Une RBTF
+http://41.205.93.154/LA-UNE/mpegts
+#EXTINF:-1, La Une RBTF (alt)
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
+#EXTINF:-1, KCTV (Coréia do Norte)
+https://tv.intchoson.com/kctv/main_stream.m3u8
+#EXTINF:-1, Ajyal TV (Palestina)
+http://htvmada.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1, Al Jazeera
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1, Al Jazeera English
+https://netplus.zappr.stream/aljazeera.m3u8
+#EXTINF:-1, Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1, Al Jazeera Mubasher 24
+https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
+#EXTINF:-1, Al Jazeera Mubasher Broadcast 2
+https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8
+#EXTINF:-1, Qatar Television
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
+#EXTINF:-1, Qatar Television
+https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
+#EXTINF:-1, VOA Tv Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1, Box TV Irã
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1, RBTF
+http://41.205.93.154/LA-UNE/playlist.m3u8
+#EXTINF:-1, TVR1 (Romania)
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1, TVR2 (Romania)
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+#EXTINF:-1, TVR3 (Romania)
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+#EXTINF:-1, TVR International (Romania)
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+#EXTINF:-1, 2M Maroc
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1, Iran National Revolution TV
+https://hls.irannrtv.live/hls/stream.m3u8
+#EXTINF:-1, ABC New York
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/164.m3u8
+#EXTINF:-1, ABC Miami
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/162.m3u8
+#EXTINF:-1, ABC Las Vegas
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/161.m3u8
+#EXTINF:-1, ABC HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/160.m3u8
+#EXTINF:-1, FOX Los Angeles
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/190.m3u8
+#EXTINF:-1, FOX Fresno
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/191.m3u8
+#EXTINF:-1, FOX New York
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/193.m3u8
+#EXTINF:-1, FOX Miami
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/194.m3u8
+#EXTINF:-1, FOX Tampa Bay
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/195.m3u8
+#EXTINF:-1, FOX Atlanta
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/436.m3u8
+#EXTINF:-1, Iran TV
+https://live.playstop.me/1816184091/index.m3u8
+#EXTINF:-1, CBS
+http://stream.cammonitorplus.net/1810/index.m3u8
+#EXTINF:-1, NBC
+http://stream.cammonitorplus.net/1812/index.m3u8
+#EXTINF:-1, TNT
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/261.m3u8
+#EXTINF:-1, Press TV Iran
+https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1, Arirang TV
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+#EXTINF:-1, Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 
 
-#EXTINF:-1, ESPN
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21589.ts
-#EXTINF:-1, ESPN 2 
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
-#EXTINF:-1, ESPN U (alt)
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2576.ts
-#EXTINF:-1, ESPN NEWS
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts
-#EXTINF:-1, ESPN DEPORTES
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2578.ts
-#EXTINF:-1, SEC Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/650415.ts
-#EXTINF:-1, ACC Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/5287.ts
-#EXTINF:-1, CBS Sports Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3712.ts
-#EXTINF:-1, Fox Sports 1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
-#EXTINF:-1, Fox Sports 2
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
-#EXTINF:-1, FOX Deportes
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2559.ts
-#EXTINF:-1, Fox Sports 1 Latin
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2882.ts
-#EXTINF:-1, Fox Sports 2 Latin
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2880.ts
-#EXTINF:-1, Fox Sports 3 Latin
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2881.ts
-#EXTINF:-1, FOX Soccer Plus
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2531.ts
-#EXTINF:-1, Big Ten Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/4443.ts
-#EXTINF:-1, NBC Sports Bay Area
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/50962.ts
-#EXTINF:-1, NBC Sports Boston
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/50962.ts
-#EXTINF:-1, NBC Sports California
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3772.ts
-#EXTINF:-1, NBC Sports Chicago
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3771.ts
-#EXTINF:-1, NBC Sports Philadelphia
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts
-#EXTINF:-1, SportsNet Southwest HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/330.ts
-#EXTINF:-1, Spectrum Sportsnet
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/414.ts
-#EXTINF:-1, Spectrum Sportsnet LA
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/415.ts
-#EXTINF:-1, Sportsnet 360
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/528.ts
-#EXTINF:-1, Sportsnet One
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/531.ts
-#EXTINF:-1, Sportsnet Ontario
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/540.ts
-#EXTINF:-1, Sportsnet Pacific
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/536.ts
-#EXTINF:-1, Sportsnet West
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/535.ts
-#EXTINF:-1, Sportsnet World
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/537.ts
-#EXTINF:-1, TSN 1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
-#EXTINF:-1, TSN 2
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/421.ts
-#EXTINF:-1, TSN 3
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3144.ts
-#EXTINF:-1, TSN 4
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3143.ts
-#EXTINF:-1, TSN 5
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3142.ts
-#EXTINF:-1, RDS 1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3232.ts
-#EXTINF:-1, RDS 2
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3233.ts
-#EXTINF:-1, RDS info
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3234.ts
-#EXTINF:-1, BEIN SPORTS
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3613.ts
-#EXTINF:-1, BEIN SPORTS Canadá
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3153.ts
-#EXTINF:-1, BEIN SPORTS 1 France
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/659439.ts
-#EXTINF:-1, BEIN SPORTS 2 France
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/659440.ts
-#EXTINF:-1, BEIN SPORTS 3 France
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/659441.ts
-#EXTINF:-1, BEIN SPORTS ñ
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21586.ts
-#EXTINF:-1, SKY SPORTS Mix
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2180.ts
-#EXTINF:-1, SKY SPORTS Premier League
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
-#EXTINF:-1, SKY SPORTS NEWS
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2183.ts
-#EXTINF:-1, SKY SPORTS MAIN EVENT
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2185.ts
-#EXTINF:-1, SKY SPORTS Golf
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2187.ts
-#EXTINF:-1, SKY SPORTS Football
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30822.ts
-#EXTINF:-1, SKY SPORTS F1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2190.ts
-#EXTINF:-1, SKY SPORTS F1 (alt)
-http://s.rocketdns.info:8080/live/7312082/5738779/2190.ts
-#EXTINF:-1, SKY SPORTS Action
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2195.ts
-#EXTINF:-1, SKY SPORTS +
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15552.ts
-#EXTINF:-1, SKY SPORTS Cricket
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2192.ts
-#EXTINF:-1, TYC Sports
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2942.ts
-#EXTINF:-1, TYC Sports USA
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/4445.ts
-#EXTINF:-1, TNT Sports 1 UK
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2337.ts
-#EXTINF:-1, TNT Sports 2 UK
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2336.ts
-#EXTINF:-1, TNT Sports 2 UK (alt)
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2326.ts
-#EXTINF:-1, TNT Sports 3 UK
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2335.ts
-#EXTINF:-1, TNT Sports 4 UK
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2334.ts
-#EXTINF:-1, TNT Sports 4 UK (alt)
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/675021.ts
-#EXTINF:-1, TNT Sports 5 UK
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6154.ts
-#EXTINF:-1, TNT Sports 6 UK
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6155.ts
-#EXTINF:-1, TNT Sports 7 UK
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6156.ts
-#EXTINF:-1, TNT Sports 8 UK
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6157.ts
-#EXTINF:-1, TNT Sports 9 UK
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6158.ts
-#EXTINF:-1, TNT Sports 10 UK
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6159.ts
-#EXTINF:-1, TUDN
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/553262.ts
-#EXTINF:-1, TUDN 2
-http://m3u.tvcluboficial.com/free/oct/oct/957.m3u8
-#EXTINF:-1, DAZN 1 Portugal
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/926.ts
-#EXTINF:-1, DAZN 2 Portugal
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/924.ts
-#EXTINF:-1, DAZN 3 Portugal
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/921.ts
-#EXTINF:-1, DAZN 4 Portugal
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/920.ts
-#EXTINF:-1, DAZN 5 Portugal
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/918.ts
-#EXTINF:-1, Sport TV 1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/849.ts
-#EXTINF:-1, Sport TV 2
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/847.ts
-#EXTINF:-1, Sport TV 3
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/845.ts
-#EXTINF:-1, Sport TV 4
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/843.ts
-#EXTINF:-1, Sport TV 5
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/840.ts
-#EXTINF:-1, Sport TV +
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/51139.ts
-#EXTINF:-1, Tennis Channel
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/418.ts
-#EXTINF:-1, Tennis Channel 2
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/419.ts
-#EXTINF:-1, DAZN F1
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.ts
-#EXTINF:-1, DAZN F1 (alt)
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/379.ts
-#EXTINF:-1, RAI Sport
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/588669.ts
-#EXTINF:-1, Racer
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/5290.ts
-#EXTINF:-1, FOX Sports Racing
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3053.ts
-#EXTINF:-1, REV TV
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/702667.ts
 
+#EXTINF:-1, REISEN CLUBE TV
+https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
+#EXTINF:-1, Vambora Channel
+https://video07.logicahost.com.br/vamborachannel/vamborachannel/playlist.m3u8
+#EXTINF:-1, Travel Plus
+https://origin-fast.b-cdn.net/TRAVEL_PLUS/playlist.m3u8
+#EXTINF:-1, Travel Plus (Samsung)
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/TravelPlus/Travel_Plus_BR/Travel_Plus.m3u8
+#EXTINF:-1, Travel XP
+https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1, Jordan Tourism
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
+#EXTINF:-1, Travel Box Brasil
+http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8
