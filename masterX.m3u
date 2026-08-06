@@ -10,11 +10,20 @@
 https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (119.82.250.109)
 http://119.82.250.109:8080/nl.m3u8?id=1002
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (detik)
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (detik)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (livestream)
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (detik)
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (detik)
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (beetv)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -82,6 +91,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/MDTV.svg/revision/latest?cb=20250226154803" group-title="INDO NASIONAL",MDTV (dens)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/MDTV.svg/revision/latest?cb=20250226154803" group-title="INDO NASIONAL",MDTV (dens)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET.
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gfjc6q1605825509.png" group-title="INDO NASIONAL",RCTI (r-plus)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -116,6 +129,10 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 https://sports.inisemar.my.id/gasswc.php?gass=aWtpdHYuc3FuLmF0OjgwMDAvcGxheS9hMDIxL2luZGV4Lm0zdTg=
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NASIONAL (dens)
 https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NASIONAL (khano)
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 
 #EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI WORLD (tvri)
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
@@ -132,6 +149,8 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ckwc.cpp
 https://sports.inisemar.my.id/gasswc.php?gass=aWtpdHYuc3FuLmF0OjgwMDAvcGxheS9hMDI3L2luZGV4Lm0zdTg=
+#
+#INDO NASIONAL
 
 
 
@@ -152,6 +171,8 @@ http://cdn.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO LOKAL",RTV (cloudns)
 http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO LOKAL",RTV (dens)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO LOKAL",RTV (dens)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -207,6 +228,20 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-id="Jaktv.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jaktv.jpg" group-title="INDO LOKAL",JAKTV (dens)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h218/index.m3u8?app_type=web&userid=lite&chname=Jak_tv
+#EXTINF:-1 tvg-id="Jaktv.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jaktv.jpg" group-title="INDO LOKAL",JAKTV (dens)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h218/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="INDO LOKAL",THE INDONESIA CHANNEL (indonusa)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_0.m3u8?session=nbyNcn6zyXaUxFnXPYkdhw
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/TV_Sultra.png/revision/latest?cb=20181005160300" group-title="INDO LOKAL",SULTRA TV (sultratv)
 http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
@@ -316,6 +351,8 @@ https://flv.intechmedia.net/live/ch118.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/05/Logo_Jagantara_TV.png?_=20251201182805" group-title="INDO LOKAL",JAGANTARA TV (intechmedia)
 https://flv.intechmedia.net/live/ch119.m3u8|user-agent=Mozilla/5.0
+#
+#INDO LOKAL
 
 
 
@@ -341,12 +378,22 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
 
+#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (medcom)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (streamized)
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://edge-medcom.streamized.net/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (intechmedia)
 https://flv.intechmedia.net/live/ch101.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (dens)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (dens)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (119.82.250.109)
 http://119.82.250.109:8080/nl.m3u8?id=1048
 
@@ -369,6 +416,10 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Nusantara_TV_Symbol.svg/revision/latest?cb=20240509104942" group-title="INDO NEWS",NUSANTARA TV (cloudns)
 http://cdn.nng.cloudns.us/live/m3u8/id/378a642ff00fed8.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Nusantara_TV_Symbol.svg/revision/latest?cb=20240509104942" group-title="INDO NEWS",NUSANTARA TV (dens)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/CNN_Indonesia_%28boxless%29.svg/revision/latest?cb=20231215230627" group-title="INDO NEWS",CNN INDONESIA (cnnindonesia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -433,6 +484,8 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
 http://tvratu.my.id/nissa/index.mpd?id=19046&type=dash
+#
+#INDO NEWS
 
 
 
@@ -578,6 +631,8 @@ https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 
 #EXTINF:-1 group-title="WORLD NEWS",UN TV (kaltura)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#
+#WORLD NEWS
 
 
 
@@ -734,6 +789,8 @@ https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/p
 
 #EXTINF:-1 tvg-id="672a67138e0fe64b11195701" tvg-name="672a67138e0fe64b11195701" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/5dd7d490-69f5-4e11-b524-34a02662348c" group-title="DOCUMENTARY" tvg-chno="21",Escape TV (amagi.tv)
 https://amg00585-amg00585c13-sportstribal-emea-5522.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-escapetv-sportstribalemea/playlist.m3u8
+#
+#DOCUMENTARY
 
 
 
@@ -928,6 +985,9 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES & SHOWS",Colors Infinity (66.102.126.10)  
 http://66.102.126.10:8000/play/a014
+#
+#MOVIES & SHOWS
+
 
 
 
@@ -1001,6 +1061,8 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1179
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17670
 #EXTINF:-1 tvg-id="" group-title="ARENA SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-9-rs.png",ARENA SPORT 9 (feniks)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17671
+#
+#ARENA SPORTS
 
 
 
@@ -1074,6 +1136,8 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bc932f13c31e542db6e3e6247e7131bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652896913644_beIN-SPORTS-XTRA_LOGO_ROKU_HUD_260x147%255B1%255D.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA (tubi)
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
+#
+#BEIN SPORTS
 
 
 
@@ -1166,6 +1230,8 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/5287.ts
 
 #EXTINF:-1 group-title="ESPN SPORTS", ESPN THE OCHO (cloudfront)
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
+#
+#ESPN SPORTS
 
 
 
@@ -1487,6 +1553,8 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/843.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/840.ts
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",SPORT TV + (rocketdns)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/51139.ts
+#
+#SPORTS MIX 1
 
 
 
@@ -1596,7 +1664,6 @@ http://kws04u9a.akciatv.ru/iptv/MCHUP9AS7DBP5W/19432/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",EUROSPORT 2 (akciatv)
 http://kws04u9a.akciatv.ru/iptv/MCHUP9AS7DBP5W/19431/index.m3u8
 
-
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",SPOR SMART (rostelekom)
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/20060/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2",SPOR SMART 2 (rostelekom)
@@ -1687,6 +1754,9 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3144.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3143.ts
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png",TSN 5 (rocketdns)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3142.ts
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png",TSN 1 (b-cdn)
+https://mngbcg.b-cdn.net/TSN1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 2",TV4 SPORT 1 (rostelekom)
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/12036/index.m3u8
@@ -1810,13 +1880,16 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2559.ts
 #EXTINF:-1 group-title="SPORTS MIX 2",FOX SOCCER PLUS (rocketdns)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2531.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/320px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORTS MIX 2,FOX SPORTS 1 (fortv)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/320px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORTS MIX 2",FOX SPORTS 1 (fortv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://fortv.cc:8080/rkruja@hotmail.com/zwX3gpy7nP/46792
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/320px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORTS MIX 2",FOX SPORTS 1 (cord-cutter)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://cord-cutter.net:8080/drmajones@gmail.com/J2cg4hzx4s/46792
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/320px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORTS MIX 2",FOX SPORTS 1 (b-cdn)
+https://mngbcg.b-cdn.net/FS1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png",SPORTSNET (topmediatv)
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/330.ts
@@ -1861,6 +1934,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
 https://sweet-night-1d1d.worst.workers.dev/?id=17939&type=dash
+#
+#SPORTS MIX 2
 
 
 
@@ -2137,7 +2212,6 @@ https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fub
 #EXTINF:-1 channel-id="b4273871759a5631bd536d2214f175e5" tvg-id="b4273871759a5631bd536d2214f175e5" tvg-chno="246" tvg-name="Fubo Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b4273871759a5631bd536d2214f175e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761774127737_Roku-FSN-Logo-efefef.png" group-title="SPORTS MIX 3",FUBO SPORTS NETWORK (wurl)
 https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
 
-
 #EXTINF:-1 channel-id="5ebc8688f3697d00072f7cf8" tvg-id="5ebc8688f3697d00072f7cf8" tvg-chno="2870" tvg-name="Bellator MMA" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="SPORTS MIX 3",BELLATOR MMA (jmp2.uk)
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
@@ -2179,7 +2253,8 @@ https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://d39azd0vpxfn6x.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-WPTLive/b20265d5-5ec4-4542-9d60-0d4eacb10c49/0.m3u8
 
-
-
-
+#EXTINF:-1 group-title="SPORTS MIX 3",ITV 1 (b-cdn)
+https://mngbcg.b-cdn.net/iTV/index.m3u8
+#
+#SPORTS MIX 3
 
