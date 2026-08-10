@@ -2,78 +2,192 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://image.mee77player.com/images/20240418193126SPOTV.jpg" group-title="TV THAILAND",SpoM 1
+https://live.mee88player.com/live/2027.m3u8
+#EXTINF:-1 tvg-logo="https://image.mee77player.com/images/20240418193135SPOTV2.jpg" group-title="TV THAILAND",SpoM 2
+https://live.mee88player.com/live/2023.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2892.jpg" group-title="TV THAILAND",True Sports🏌️
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2890.jpg" group-title="TV THAILAND",True Sports 2
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2890.jpg" group-title="TV THAILAND",True Sports 3
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2889.jpg" group-title="TV THAILAND",True Sports 4
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2888.jpg" group-title="TV THAILAND",True Sports 5
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2829.jpg" group-title="TV THAILAND",True Sports 7
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2018.jpg" group-title="TV THAILAND",True Premire 3
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tpf3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2017.jpg" group-title="TV THAILAND",True Premire 4
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tpf4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/7424.jpg" group-title="TV THAILAND",bein 1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/7423.jpg" group-title="TV THAILAND",bein 2
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/7422.jpg" group-title="TV THAILAND",bein 3
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2027.jpg" group-title="TV THAILAND",SPOTV1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/spotv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2023.jpg" group-title="TV THAILAND",SPOTV2
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/spotv2/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS MIX 3",5 SPORT (mcquack)
-https://stream.mcquack.net/41/tracks-v1a1/mono.ts.m3u8?token=175bfeb1be7a4881bb64e741806f46f4
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663979709.png" group-title="TV THAILAND",sporttv1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/sporttv1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663979801.png" group-title="TV THAILAND",sporttv2
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/sporttv2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663980327.png" group-title="TV THAILAND",sporttv3
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/sporttv3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664041351.png" group-title="TV THAILAND",sporttv4
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/sporttv4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664125991.png" group-title="TV THAILAND",sporttv5
+#EXTVLCOPT:http-referrer=https://atmflix.live/#EXTINF:-1 tvg-logo="https://madoball.com/upload/82290.jpg" group-title="⚽Sport🌍",Monomax 1
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/82290/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1495.jpg" group-title="⚽Sport🌍",Mono MAX 1
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1495/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/82079.jpg" group-title="⚽Sport🌍",Monomax 2
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/82079/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1494.jpg" group-title="⚽Sport🌍",Mono MAX 2
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1494/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/82044.jpg" group-title="⚽Sport🌍",Monomax 3
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/82044/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1493.jpg" group-title="⚽Sport🌍",Mono MAX 3
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1493/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/81912.jpg" group-title="⚽Sport🌍",Monomax 4
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/81912/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1492.jpg" group-title="⚽Sport🌍",Mono MAX 4
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1492/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/81779.jpg" group-title="⚽Sport🌍",Monomax 5
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/81779/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1491.jpg" group-title="⚽Sport🌍",Mono MAX 5
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1491/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/81741.jpg" group-title="⚽Sport🌍",Monomax 6
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/81741/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1490.jpg" group-title="⚽Sport🌍",Mono MAX 6
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1490/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/81639.jpg" group-title="⚽Sport🌍",Monomax 7
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/81639/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1489.jpg" group-title="⚽Sport🌍",Mono MAX 7
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1489/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/81611.jpg" group-title="⚽Sport🌍",Monomax 8
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/81611/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1488.jpg" group-title="⚽Sport🌍",Mono MAX 8
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1488/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1487.jpg" group-title="⚽Sport🌍",Mono MAX 9
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1487/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1486.jpg" group-title="⚽Sport🌍",Mono MAX 10
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1486/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS MIX 3",AL IRAQI SPORT (esite-lab)
-https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 
-#EXTINF:-1 group-title="SPORTS MIX 3",DIGI SPORT 3 (m3u8simplu)
-https://aes.m3u8simplu.workers.dev/digi3/tracks-v1a1/mono.m3u8?seq=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4680.png" group-title="⚽Sport🌍",MAX 1 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_1HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4681.png" group-title="⚽Sport🌍",MAX 2 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_2HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4682.png" group-title="⚽Sport🌍",MAX 3 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_3HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4683.png" group-title="⚽Sport🌍",MAX 4 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_4HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4684.png" group-title="⚽Sport🌍",MAX 5 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_5HD/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS MIX 3",DIGI SPORT 4 (m3u8simplu)
-https://aes.m3u8simplu.workers.dev/digi4/tracks-v1a1/mono.m3u8?seq=0
 
-#EXTINF:-1 group-title="SPORTS MIX 3",DINAMO KYIV (mcquack)
-https://stream.mcquack.net/396/tracks-v1a1/mono.ts.m3u8?token=9da887c4ca0bfae77c9a7e75d2785315
 
-#EXTINF:-1 group-title="SPORTS MIX 3",EL HEDDAF TV (elheddaftv)
-https://live.elheddaftv.com:8081/elheddaftv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS MIX 3",GO3 SPORT 1 (mcquack)
-https://stream.mcquack.net/416/tracks-v1a1/mono.ts.m3u8?token=d6827ea59ca676482817659211204e51
 
-#EXTINF:-1 group-title="SPORTS MIX 3",MATCH ARENA (mcquack)
-https://stream.mcquack.net/163/tracks-v1a1/mono.ts.m3u8?token=bb3f61c7f074f54afbb762649b5621c2
 
-#EXTINF:-1 group-title="SPORTS MIX 3",MATCH STRANA (ukrainske)
-https://ukr1.ukrainske.tv/134/tracks-v1a1/mono.m3u8?token=keytvainua
 
-#EXTINF:-1 group-title="SPORTS MIX 3",MATCH (mcquack)
-https://stream.mcquack.net/169/tracks-v1a1/mono.ts.m3u8?token=dc6359a5164c952e82af7c3f78372aed
 
-#EXTINF:-1 group-title="SPORTS MIX 3",N SPORT (otteravision)
-https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_360p.m3u8
 
-#EXTINF:-1 group-title="SPORTS MIX 3",PRIMA SPORT (m3u8simplu)
-https://aes.m3u8simplu.workers.dev/prima4kk/tracks-v1a1/mono.m3u8?seq=0
 
-#EXTINF:-1 group-title="SPORTS MIX 3",PRIMA SPORT 5 (m3u8simplu)
-https://aes.m3u8simplu.workers.dev/primasp5/tracks-v1a1/mono.m3u8?seq=0
 
-#EXTINF:-1 group-title="SPORTS MIX 3",SETANTA SPORTS 1 (mcquack)
-https://stream.mcquack.net/234/tracks-v1a1/mono.ts.m3u8?token=bd368929ab0f64685ec038087be298f1
 
-#EXTINF:-1 group-title="SPORTS MIX 3",SETANTA SPORTS 2 (mcquack)
-https://stream.mcquack.net/235/tracks-v1a1/mono.ts.m3u8?token=c967df66628d615178e401acd5cc921d
+#EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="Badminton",True Sports 2
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="Badminton",True Sports 7
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="Badminton",True Sport 2
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2891/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="Badminton",True Sport 7
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2829/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS MIX 3",SETANTA SPORTS+ (mcquack)
-https://stream.mcquack.net/390/tracks-v1a1/mono.ts.m3u8?token=5e85d0c3609194d337bd9767146258d8
 
-#EXTINF:-1 group-title="SPORTS MIX 3",SPORT 1 BALTIC (mcquack)
-https://stream.mcquack.net/461/tracks-v1a1/mono.ts.m3u8?token=e949acdced643f3f3be6c36214d56ba1
+https://cdn2.stream.atmflix.live/atmflixlive/sporttv5/chunks.m3u8
 
-#EXTINF:-1 group-title="SPORTS MIX 3",SPORT 1 (mcquack)
-https://stream.mcquack.net/391/tracks-v1a1/mono.ts.m3u8?token=2685f2b37f0533150c2d24248c106101
 
-#EXTINF:-1 group-title="SPORTS MIX 3",SPORT 2 (mcquack)
-https://stream.mcquack.net/392/tracks-v1a1/mono.ts.m3u8?token=b2c98795ad43c6de77ba53e748c8b2bc
+#EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport1.png" group-title="ARENA SPORT",ARENASPORT 1 (Berat)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
+#EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport2.png" group-title="ARENA SPORT",ARENASPORT 2 (Berat)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20478
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-3.png" group-title="ARENA SPORT",ARENASPORT 3 (Berat)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
+#EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport4.png" group-title="ARENA SPORT",ARENASPORT 4 (Berat)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-5-rs.png" group-title="ARENA SPORT",ARENASPORT 5 (Berat)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1181
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-6-rs.png" group-title="ARENA SPORT",ARENASPORT 6 (Berat)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1179
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-7-rs.png" group-title="ARENA SPORT",group-title=ARENA SPORT tvg-logo=https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-7-rs.png,ARENASPORT 7 (Berat)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22067
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-8-rs.png" group-title="ARENA SPORT",ARENASPORT 8 (Berat)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17670
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVyWthsSAuVgOTQtR_aCR4Vfw4xIab7YDvuaH0ij3&s=10" group-title="ARENA SPORT",ARENASPORT 9 (Berat)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17671
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-1.png" group-title="ARENA SPORT",Arena Premium 1 (Berat)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19011
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-2.png" group-title="ARENA SPORT",Arena Premium 2 (Berat)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19012
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-3.png" group-title="ARENA SPORT",Arena Premium 3 (Berat)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26461
+#EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenapremium4.png" group-title="ARENA SPORT",Arena Premium 4 (Berat)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27356
+#EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenapremium5.png" group-title="ARENA SPORT",Arena Premium 5 (Berat)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27357
 
-#EXTINF:-1 group-title="SPORTS MIX 3",SPORT 3 (mcquack)
-https://stream.mcquack.net/393/tracks-v1a1/mono.ts.m3u8?token=2e9f89cdb21f3a139743f432178a3070
 
-#EXTINF:-1 group-title="SPORTS MIX 3",SPORT 4 (mcquack)
-https://stream.mcquack.net/394/tracks-v1a1/mono.ts.m3u8?token=172a37d3acfbac9590df7d79bbe06b1d
 
-#EXTINF:-1 group-title="SPORTS MIX 3",SPORT EXTRA (m3u8simplu)
-https://aes.m3u8simplu.workers.dev/sportextra/tracks-v1a1/mono.m3u8?seq=0
 
-#EXTINF:-1 group-title="SPORTS MIX 3",STAR SPORT 1 (aynascope)
-https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="SPORTS MIX 3",SUSPILNE SPORT (mcquack)
-https://stream.mcquack.net/444/tracks-v1a1/mono.ts.m3u8?token=a69bd22c69858c61df0689fc1f89713e
-
-#EXTINF:-1 group-title="SPORTS MIX 3",VIJUU+ SPORT (mcquack)
-https://stream.mcquack.net/333/tracks-v1a1/mono.ts.m3u8?token=ea685481de2990f3af902ddd47d3155b
