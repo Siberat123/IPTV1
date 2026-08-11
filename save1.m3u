@@ -1,485 +1,413 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4680.png" group-title="⚽Sport🌍",MAX 1
-http://6395online.com:8080/Iptv6988/0905692638/391630
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4681.png" group-title="⚽Sport🌍",MAX 2
-http://6395online.com:8080/Iptv6988/0905692638/391655
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4682.png" group-title="⚽Sport🌍",MAX 3
-http://6395online.com:8080/Iptv6988/0905692638/391679
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4683.png" group-title="⚽Sport🌍",MAX 4
-http://6395online.com:8080/Iptv6988/0905692638/391680
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4684.png" group-title="⚽Sport🌍",MAX 5
-http://6395online.com:8080/Iptv6988/0905692638/391702
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4685.png" group-title="⚽Sport🌍",MAX 6
-http://6395online.com:8080/Iptv6988/0905692638/391703
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4686.png" group-title="⚽Sport🌍",MAX 7
-http://6395online.com:8080/Iptv6988/0905692638/391704
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4687.png" group-title="⚽Sport🌍",MAX 8
-http://6395online.com:8080/Iptv6988/0905692638/391705
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4688.png" group-title="⚽Sport🌍",MAX 9
-http://6395online.com:8080/Iptv6988/0905692638/391706
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4689.png" group-title="⚽Sport🌍",MAX 10
-http://6395online.com:8080/Iptv6988/0905692638/398636
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4690.png" group-title="⚽Sport🌍",MAX 11
-http://6395online.com:8080/Iptv6988/0905692638/398637
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4691.png" group-title="⚽Sport🌍",MAX 12
-http://6395online.com:8080/Iptv6988/0905692638/441741
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png" group-title="TV THAILAND",CH5 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/6/6.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="TV THAILAND",T Sports 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/10.png" group-title="TV THAILAND",TPTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/16.png" group-title="TV THAILAND",TNN16
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/22.png" group-title="TV THAILAND",NationTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/23.png" group-title="TV THAILAND",WorkpointTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/24.png" group-title="TV THAILAND",True4U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png" group-title="TV THAILAND",GMM25
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png" group-title="TV THAILAND",CH8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="TV THAILAND",MONO29 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/30.png" group-title="TV THAILAND",9MCOT HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/31.png" group-title="TV THAILAND",ONE31 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/32.png" group-title="TV THAILAND",ThairathTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png" group-title="TV THAILAND",CH3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/34.png" group-title="TV THAILAND",AmarinTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png" group-title="TV THAILAND",CH7 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png" group-title="TV THAILAND",Asian-Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png" group-title="TV THAILAND",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/107.png" group-title="TV THAILAND",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png" group-title="TV THAILAND",MONO29 PLUS+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/205.png" group-title="TV THAILAND",Food Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/301.png" group-title="TV THAILAND",CARTOON NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/302.png" group-title="TV THAILAND",CARTOONITO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/303.png" group-title="TV THAILAND",NICKELODEON
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/304.png" group-title="TV THAILAND",NICK JUNIOR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aCFpuzW.png" group-title="TV THAILAND",TV Muslim Thailand
-https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z9vxti4.png" group-title="TV THAILAND",Dopa Channel
-http://dopachannel.truegse.com/live/dopatv03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aPLLzMA.jpeg" group-title="TV THAILAND",CHANNEL 8 (S2) (Ga 24 Jam)
-http://vip.login.in.th:1935/ch8/ch8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tRFnV9M.png" group-title="TV THAILAND",Top News
-https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GhboFGt.png" group-title="TV THAILAND",Police TV
-https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B1tyK1Z.png" group-title="TV THAILAND",SBB TV
-https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rmNDylW.png" group-title="TV THAILAND",SBT TV
-http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pnbzE2V.png" group-title="TV THAILAND",Rama Channel
-https://ramach.ddns.net/live/ramalive/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L3T2QZz.png" group-title="TV THAILAND",STOU Channel
-https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6AGKP0A.png" group-title="TV THAILAND",Suwannabhumi Channel
-https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4TMtUjW.png" group-title="TV THAILAND",Zabb Channel
-https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="TV THAILAND",Lao-Thai TV
-https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwalZjr.png" group-title="TV THAILAND",Thai PBS (Ga 24 Jam)
-https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="TRUE & EURO",True Sports 7 (Ga 24 Jam)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4N77tyOzPPa2WCkG98fKgWI-RupS4HC-VpUg7LHkSw&s=10" group-title="TRUE & EURO",Eurosport 1 Slovakia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4N77tyOzPPa2WCkG98fKgWI-RupS4HC-VpUg7LHkSw&s=10" group-title="TRUE & EURO",Eurosport 2 Slovakia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6dmA0EGGrHvqr2yngNATDKb59NDUCp7f9mh8hjbOJg&s=10" group-title="TSN SPORTS",TSN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6dmA0EGGrHvqr2yngNATDKb59NDUCp7f9mh8hjbOJg&s=10" group-title="TSN SPORTS",TSN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6dmA0EGGrHvqr2yngNATDKb59NDUCp7f9mh8hjbOJg&s=10" group-title="TSN SPORTS",TSN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6dmA0EGGrHvqr2yngNATDKb59NDUCp7f9mh8hjbOJg&s=10" group-title="TSN SPORTS",TSN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6dmA0EGGrHvqr2yngNATDKb59NDUCp7f9mh8hjbOJg&s=10" group-title="TSN SPORTS",TSN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
-https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="TSN SPORTS",TSN The Ocho
-https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10" group-title="TNT & Premier",TNT SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10" group-title="TNT & Premier",TNT SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10" group-title="TNT & Premier",TNT SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10" group-title="TNT & Premier",TNT SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/PremierSports_2026_logo.png/revision/latest/scale-to-width-down/250?cb=20260517101311" group-title="TNT & Premier",Premier Sports Filipina
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8b595299fdf41c1a3481fddeb0b55e4:cd2b4ad0eb286239a4a022e6ca5fd007
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/PremierSports2_2026_logo.png/revision/latest/scale-to-width-down/250?cb=20260517101712" group-title="TNT & Premier",Premier Sports 2 Filipina
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/premiersports2hd/default/index.mpd
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1770804134284804096/QSYNe6wZ_400x400.jpg" group-title="TNT & Premier",Premier Sports Irlandia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1770804134284804096/QSYNe6wZ_400x400.jpg" group-title="TNT & Premier",Premier Sports 2 Irlandia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/spotv.png" group-title="SPOTV & SPORTV",SPOTV Now
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTVLCOPT:http-referrer=https://www.mana2.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://slive.mana2.my/SpotvNow/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10" group-title="SPOTV & SPORTV",SPOTV (CG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_spotv2.png" group-title="SPOTV & SPORTV",SPOTV 2 (CG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltVnHcIu9cwJ-3vCYSqjy0j4PrS6gB1OgGPmfxwQbEg&s=10" group-title="SPOTV & SPORTV",SPORTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltVnHcIu9cwJ-3vCYSqjy0j4PrS6gB1OgGPmfxwQbEg&s=10" group-title="SPOTV & SPORTV",SPORTV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltVnHcIu9cwJ-3vCYSqjy0j4PrS6gB1OgGPmfxwQbEg&s=10" group-title="SPOTV & SPORTV",SPORTV 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&amp;encoding=segmentBase
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFyqV9VZUL-Z2mbhQMAz0M7J25D5m7KElW86FROX7PQ&s=10" group-title="SONY & STAR",SONY TEN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1gnQndipVVzLEAlN4Z9kZXM-9AkfJujhVkjUug_Xqg&s=10" group-title="SONY & STAR",SONY TEN 2
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNVTrEegxS7G9uvj0Q1mD3x5MC21ueSFzJYfBfrvZoA&s=10" group-title="SONY & STAR",SONY TEN 3
-http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOg7XJgkbcwv-1olJdGic-4dSbhQbBVELFJsEhKXgXIg&s=10" group-title="SONY & STAR",SONY TEN 4
-http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMintGID2yDIo_AL-211n-4Pt30sG8R2_1X0lOsdbAig&s" group-title="SONY & STAR",STAR SPORTS 1
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Starsport1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMintGID2yDIo_AL-211n-4Pt30sG8R2_1X0lOsdbAig&s" group-title="SONY & STAR",STAR SPORTS 2
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Starsport2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMintGID2yDIo_AL-211n-4Pt30sG8R2_1X0lOsdbAig&s" group-title="SONY & STAR",STAR SPORTS 3
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Starsport3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMintGID2yDIo_AL-211n-4Pt30sG8R2_1X0lOsdbAig&s" group-title="SONY & STAR",STAR SPORTS SELECT 1
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/StarsportSelect1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMintGID2yDIo_AL-211n-4Pt30sG8R2_1X0lOsdbAig&s" group-title="SONY & STAR",STAR SPORTS SELECT 2
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/StarsportSelect2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Y4NKQPq_ryMkGWZM5TmHHxjhwOD46NZsAoHe03Hb8g&s=10" group-title="PRIMA & DIGI",DIGI SPORT 2 (Ga 24 Jam)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kuk1.modprimus1.cfd/000/
-https://kuk1.modprimus1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAML6E5PA-rYERAjz6gw9rrEPHPI-zGPIDtOWfLCo2dA&s" group-title="PRIMA & DIGI",PRIMA SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
-https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAML6E5PA-rYERAjz6gw9rrEPHPI-zGPIDtOWfLCo2dA&s" group-title="PRIMA & DIGI",PRIMA SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAML6E5PA-rYERAjz6gw9rrEPHPI-zGPIDtOWfLCo2dA&s" group-title="PRIMA & DIGI",PRIMA SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAML6E5PA-rYERAjz6gw9rrEPHPI-zGPIDtOWfLCo2dA&s" group-title="PRIMA & DIGI",PRIMA SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
-https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
-#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/novasport1.jpg" group-title="NOVA & SPORT",Nova Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/novasport2.jpg" group-title="NOVA & SPORT",Nova Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkewkBmEOngq7OIeAAhenxn5zAANvxFvTLgB64L47Z2w&s=10" group-title="NOVA & SPORT",SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSk9NMWK0cJHrWGuFhzqTW2iKB_22_bF-v0LXNv8O7TQ&s=10" group-title="NOVA & SPORT",SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="Hub Premier",HUB PREMIER 1 (Berat)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314077&extension=ts&play_token=OkTEn6qiDL
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-2.png" group-title="Hub Premier",Hub Premier 2 (Berat)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314078&extension=ts&play_token=1dWiSXJFZ1
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="Hub Premier",HUB PREMIER 3 (Berat)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314079&extension=ts&play_token=bW9r3i6SUO
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="Hub Premier",HUB PREMIER 4 (Berat)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314080&extension=ts&play_token=tlQaY2nd4P
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XhX3oUI.png" group-title="Hub Premier",HUB PREMIER 5 (Berat)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314081&extension=ts&play_token=oCrh7Xg3in
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png" group-title="Hub Premier",HUB PREMIER 6 (Berat)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314082&extension=ts&play_token=mbznWD9xYe
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="Hub Premier",HUB PREMIER 7 (Berat)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314083&extension=ts&play_token=CxgiuXGw0c
-#EXTINF:-1 tvg-logo="https://i.imgur.com/stYijJ1.png" group-title="Hub Premier",HUB PREMIER 8 (Berat)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&extension=ts&play_token=Suotild03T
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fox_sports.png" group-title="FOX & MEWATCH",FOX SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" group-title="FOX & MEWATCH",FOX SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Fox_sports_3.png" group-title="FOX & MEWATCH",FOX SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="FOX & MEWATCH",FOX SPORTS PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAR3rI-lajymNSDdEVaq3qkzl4VxNKzljFs0QIHUJ6UA&s=10" group-title="FOX & MEWATCH",M LIVE 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAR3rI-lajymNSDdEVaq3qkzl4VxNKzljFs0QIHUJ6UA&s=10" group-title="FOX & MEWATCH",M LIVE 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAR3rI-lajymNSDdEVaq3qkzl4VxNKzljFs0QIHUJ6UA&s=10" group-title="FOX & MEWATCH",M LIVE 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAR3rI-lajymNSDdEVaq3qkzl4VxNKzljFs0QIHUJ6UA&s=10" group-title="FOX & MEWATCH",M LIVE SPL 01
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
-https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAR3rI-lajymNSDdEVaq3qkzl4VxNKzljFs0QIHUJ6UA&s=10" group-title="FOX & MEWATCH",M LIVE SPL 02
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
-https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="CAZE & FANCODE",CAZE TV 1
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="CAZE & FANCODE",CAZE TV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="CAZE & FANCODE",CAZE TV 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 tvg-logo="https://shorter.me/Xydc0" group-title="CAZE & FANCODE",FANCODE TV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/Xydc0" group-title="CAZE & FANCODE",FANCODE TV 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-7LwV1rHhmIG8eIyApJJ4WhqLR_Rrg2kxr0wQGZhWQ&s=10" group-title="BEIN SPORTS",BeIN Sports 1 AU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZKf6dHUatsDKFvbHPGqhiuOxgt-GxONHA7A6ZZ5aEQ&s=10" group-title="BEIN SPORTS",BeIN Sports 2 AU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-c2KIPwa3gYG3oZ3twS4y8KTyxmLu-RhrVfVJlFZ6dg&s=10" group-title="BEIN SPORTS",BeIN Sports 3 AU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOvnklSz58uf7JLj9hdXwYuZvcEGZVBVnHpmhBGbihZw&s=10" group-title="BEIN SPORTS",beIN Sports US
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOvnklSz58uf7JLj9hdXwYuZvcEGZVBVnHpmhBGbihZw&s=10" group-title="BEIN SPORTS",beIN Sports XTRA US
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRch8k4tg_iHskeVzzi6hAiHi3k4VdguE2mfdJQ18tq3g&s=10" group-title="BEIN SPORTS",beIN Sports n ES
-http://opplextv.cyou:8080/nasir6160/nasir/381359
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRch8k4tg_iHskeVzzi6hAiHi3k4VdguE2mfdJQ18tq3g&s=10" group-title="BEIN SPORTS",beIN Sports XTRA n ES
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport1.png" group-title="ARENA SPORT",ARENASPORT 1 (Berat)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
-#EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport2.png" group-title="ARENA SPORT",ARENASPORT 2 (Berat)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20478
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-3.png" group-title="ARENA SPORT",ARENASPORT 3 (Berat)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
-#EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport4.png" group-title="ARENA SPORT",ARENASPORT 4 (Berat)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-5-rs.png" group-title="ARENA SPORT",ARENASPORT 5 (Berat)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1181
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-6-rs.png" group-title="ARENA SPORT",ARENASPORT 6 (Berat)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1179
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-7-rs.png" group-title="ARENA SPORT",group-title=ARENA SPORT tvg-logo=https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-7-rs.png,ARENASPORT 7 (Berat)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22067
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-8-rs.png" group-title="ARENA SPORT",ARENASPORT 8 (Berat)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17670
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVyWthsSAuVgOTQtR_aCR4Vfw4xIab7YDvuaH0ij3&s=10" group-title="ARENA SPORT",ARENASPORT 9 (Berat)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17671
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-1.png" group-title="ARENA SPORT",Arena Premium 1 (Berat)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19011
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-2.png" group-title="ARENA SPORT",Arena Premium 2 (Berat)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19012
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-3.png" group-title="ARENA SPORT",Arena Premium 3 (Berat)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26461
-#EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenapremium4.png" group-title="ARENA SPORT",Arena Premium 4 (Berat)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27356
-#EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenapremium5.png" group-title="ARENA SPORT",Arena Premium 5 (Berat)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27357
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 1 HD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 1 SD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641624
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 2 HD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641619
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 2 SD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641625
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 3 HD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641620
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 3 SD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641626
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 4 HD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641621
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 4 SD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641627
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 5 HD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641622
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 5 SD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641628
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 6 HD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641623
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 6 SD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641629
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 7 FHD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641611
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 8 FHD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641612
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 9 FHD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641613
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 10 FHD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641614
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan F1 FHD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641616
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan UFC FHD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641615
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan WWE FHD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641617
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 4 HD [AL]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895009&extension=ts&play_token=h4lrJh7q3N
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 5 HD [AL]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=895010&extension=ts&play_token=vWrB4beVCM
 
+
+
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY PREMIER LEAGUE",┃NL┃ VIAPLAY PREMIER LEAGUE 1 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225709&extension=ts&play_token=EpcZ9SeggM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY PREMIER LEAGUE",┃NL┃ VIAPLAY PREMIER LEAGUE 2 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225708&extension=ts&play_token=XhmPzBsQ0A
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY PREMIER LEAGUE",┃NL┃ VIAPLAY PREMIER LEAGUE 3 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225707&extension=ts&play_token=9qrqZhLgoM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY PREMIER LEAGUE",┃NL┃ VIAPLAY PREMIER LEAGUE 4 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225706&extension=ts&play_token=uNBy72qHH3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY PREMIER LEAGUE",┃NL┃ VIAPLAY PREMIER LEAGUE 5 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225705&extension=ts&play_token=ceZRMQEggP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY PREMIER LEAGUE",┃NL┃ VIAPLAY PREMIER LEAGUE 6 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225704&extension=ts&play_token=Bd0e49ybnM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY PREMIER LEAGUE",┃NL┃ VIAPLAY PREMIER LEAGUE 7
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225703&extension=ts&play_token=tsLXEmm151
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY PREMIER LEAGUE",┃NL┃ VIAPLAY PREMIER LEAGUE 8
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225702&extension=ts&play_token=GdQCaw4NJ5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY PREMIER LEAGUE",┃NL┃ VIAPLAY PREMIER LEAGUE 9
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225701&extension=ts&play_token=Py8slZYBJT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY PREMIER LEAGUE",┃NL┃ VIAPLAY PREMIER LEAGUE 10
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225700&extension=ts&play_token=ZAmg6Tz1m4
+
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY BUNDESLIGA",┃NL┃ VIAPLAY BUNDESLIGA 1 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225699&extension=ts&play_token=TyQjlCWvl3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY BUNDESLIGA",┃NL┃ VIAPLAY BUNDESLIGA 2 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225698&extension=ts&play_token=SfY8hu7DRi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY BUNDESLIGA",┃NL┃ VIAPLAY BUNDESLIGA 3 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225697&extension=ts&play_token=7orngvaLwe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY BUNDESLIGA",┃NL┃ VIAPLAY BUNDESLIGA 4 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225696&extension=ts&play_token=lMVQvCXVTe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY BUNDESLIGA",┃NL┃ VIAPLAY BUNDESLIGA 5 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225695&extension=ts&play_token=6WbWJpMRa3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY BUNDESLIGA",┃NL┃ VIAPLAY BUNDESLIGA 6 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225694&extension=ts&play_token=K4A6nRKDL3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY BUNDESLIGA",┃NL┃ VIAPLAY BUNDESLIGA 7 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225693&extension=ts&play_token=JklGDUtdkW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY BUNDESLIGA",┃NL┃ VIAPLAY BUNDESLIGA 8 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225692&extension=ts&play_token=iAHSKStF7I
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY BUNDESLIGA",┃NL┃ VIAPLAY BUNDESLIGA 9 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225691&extension=ts&play_token=ZBHpjrTTBf
+
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY LIGUE 1",┃NL┃ VIAPLAY LIGUE 1 - 1 HD |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1008690&extension=ts&play_token=3awi89VOxw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY LIGUE 1",┃NL┃ VIAPLAY LIGUE 1 - 2 HD |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1008691&extension=ts&play_token=in3vN5gNlH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY LIGUE 1",┃NL┃ VIAPLAY LIGUE 1 - 3 HD |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1008692&extension=ts&play_token=SMPtzhOpVb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY LIGUE 1",┃NL┃ VIAPLAY LIGUE 1 - 4 HD |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1008693&extension=ts&play_token=7gT90FKKUB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY LIGUE 1",┃NL┃ VIAPLAY LIGUE 1 - 5 HD |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1008694&extension=ts&play_token=U3C1FMDuJh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY LIGUE 1",┃NL┃ VIAPLAY LIGUE 1 - 6 HD |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1008695&extension=ts&play_token=tYcKFjB8xx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY LIGUE 1",┃NL┃ VIAPLAY LIGUE 1 - 7 HD |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1008696&extension=ts&play_token=xr7guncP8z
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY LIGUE 1",┃NL┃ VIAPLAY LIGUE 1 - 8 HD |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1008697&extension=ts&play_token=NOmUWvxCE7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY LIGUE 1",┃NL┃ VIAPLAY LIGUE 1 - 9 HD |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1008698&extension=ts&play_token=RwNQUmP3vg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY LIGUE 1",┃NL┃ VIAPLAY LIGUE 1 - 10 HD |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1008699&extension=ts&play_token=J2ZCfGcVnP
+
+
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY SPORT",┃NL┃ VIAPLAY MMA 1 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225680&extension=ts&play_token=kt896uaaSt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃NL┃ VIAPLAY SPORT",┃NL┃ VIAPLAY MMA 2 |
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225679&extension=ts&play_token=jLVXi4aACL
+
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ SPORT HD [FR]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894987&extension=ts&play_token=lHHU7r4NMv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ FOOT HD [FR]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894988&extension=ts&play_token=ZnVhqkYnNW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ LIVE 1 HD [FR]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894982&extension=ts&play_token=YjSAFnc6RK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ LIVE 2 HD [FR]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894983&extension=ts&play_token=3EhOIhVsex
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ LIVE 3 HD [FR]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894984&extension=ts&play_token=Q70uWA5dxE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ LIVE 4 HD [FR]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=894985&extension=ts&play_token=xIU0ZaYDRu
+
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/SPORTS1HD.png" group-title="┃BE┃ BELGIE 4K ULTRA",┃BE┃ PLAY SPORTS 1 4K
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=368548&extension=ts&play_token=7JMS3sSdb3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/SPORTS2HD.png" group-title="┃BE┃ BELGIE 4K ULTRA",┃BE┃ PLAY SPORTS 2 4K
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=368549&extension=ts&play_token=baDVyocMT1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/SPORTS3HD.png" group-title="┃BE┃ BELGIE 4K ULTRA",┃BE┃ PLAY SPORTS 3 4K
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=368550&extension=ts&play_token=cmr0tuQDu2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/SPORT10HD.png" group-title="┃BE┃ BELGIE 4K ULTRA",┃BE┃ SPORT 10 4K
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=368584&extension=ts&play_token=rErCvtpHVv
+
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/SPORTWORLD1HD.png" group-title="┃BE┃ WALLONIË SPORT",┃BE┃ VOO SPORT WORLD 1 4K (FR)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=368600&extension=ts&play_token=LllC70U4dz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/SPORTWORLD2HD.png" group-title="┃BE┃ WALLONIË SPORT",┃BE┃ VOO SPORT WORLD 2 4K (FR)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=368601&extension=ts&play_token=hjuY0D5zIo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/SPORTWORLD3HD.png" group-title="┃BE┃ WALLONIË SPORT",┃BE┃ VOO SPORT WORLD 3 4K (FR)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=368602&extension=ts&play_token=Xr4QUcelQ9
+
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORT1HD.png" group-title="┃DE┃ SKY SPORT RAW",┃DE┃ SKY SPORT 1 RAW
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=760952&extension=ts&play_token=gCa9qoWAjf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORT2HD.png" group-title="┃DE┃ SKY SPORT RAW",┃DE┃ SKY SPORT 2 RAW
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=760950&extension=ts&play_token=DbehoM9jc5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORT3HD.png" group-title="┃DE┃ SKY SPORT RAW",┃DE┃ SKY SPORT 3 RAW
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=760949&extension=ts&play_token=GoDCTYSL26
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORT4HD.png" group-title="┃DE┃ SKY SPORT RAW",┃DE┃ SKY SPORT 4 RAW
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=760948&extension=ts&play_token=7axlxkY4qP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORT5HD.png" group-title="┃DE┃ SKY SPORT RAW",┃DE┃ SKY SPORT 5 RAW
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=760947&extension=ts&play_token=ZCwgBRzP63
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORT6HD.png" group-title="┃DE┃ SKY SPORT RAW",┃DE┃ SKY SPORT 6 RAW
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=760946&extension=ts&play_token=YioSzjMR1l
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORT7HD.png" group-title="┃DE┃ SKY SPORT RAW",┃DE┃ SKY SPORT 7 RAW
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=760945&extension=ts&play_token=d0jpSyj1e9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORT8HD.png" group-title="┃DE┃ SKY SPORT RAW",┃DE┃ SKY SPORT 8 RAW
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=760944&extension=ts&play_token=9Nc7tmomra
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORT9HD.png" group-title="┃DE┃ SKY SPORT RAW",┃DE┃ SKY SPORT 9 RAW
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=760943&extension=ts&play_token=QAlCYyJ2Qe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORT10HD.png" group-title="┃DE┃ SKY SPORT RAW",┃DE┃ SKY SPORT 10 RAW
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=760951&extension=ts&play_token=3bRxcAx7Bg
+
+
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT NEWS.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT NEWS FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149431&extension=ts&play_token=qEfJK5Uzti
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TOP EVENT.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT TOP EVENT FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149434&extension=ts&play_token=pnohwXhXK9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT PREMIER LEAGUE FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149432&extension=ts&play_token=TCEZzBRDPJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT F1.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT F1 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149473&extension=ts&play_token=w2YObS8BbK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT MIX.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT MIX FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149430&extension=ts&play_token=gw1dyN10lQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT TENNIS FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149433&extension=ts&play_token=ZXQ8eFpznx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT GOLF.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT GOLF FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149429&extension=ts&play_token=OOgaOXcZM6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 1.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 1 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149435&extension=ts&play_token=nkU5SJS0oH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 2.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 2 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149436&extension=ts&play_token=4rneERKWNk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 3.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 3 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149437&extension=ts&play_token=4apInyrcgs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 4.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 4 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149438&extension=ts&play_token=WZUTTZkhqS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 5.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 5 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149439&extension=ts&play_token=azZ4TgHQJs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 6.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 6 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149440&extension=ts&play_token=NgLu9dt8mh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 7.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 7 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149441&extension=ts&play_token=IB6cEpWco5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 8.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 8 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149442&extension=ts&play_token=uZgHZDW91U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 9.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 9 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149443&extension=ts&play_token=AJVRWJauxa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 10.png" group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 10 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149444&extension=ts&play_token=cnMHhdSfAz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT NEWS.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT NEWS HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149457&extension=ts&play_token=bXLmx022xX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TOP EVENT.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT TOP EVENT HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149460&extension=ts&play_token=oZ4reTQ5VN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT PREMIER LEAGUE HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149458&extension=ts&play_token=e7P6rScJ3g
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT F1.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT F1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149474&extension=ts&play_token=4lGHxZNVqc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT MIX.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT MIX HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149456&extension=ts&play_token=AVjPOHCjXH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT TENNIS HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149459&extension=ts&play_token=BPqHE8eHzJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT GOLF.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT GOLF HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149454&extension=ts&play_token=4Aw82dYpaW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 1.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149461&extension=ts&play_token=o8lJQLI2LR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 2.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149462&extension=ts&play_token=iPPOmau7Wv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 3.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT 3 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149463&extension=ts&play_token=xYXQJcbjuq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 4.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT 4 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149464&extension=ts&play_token=hgkh2inPmO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 5.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT 5 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149465&extension=ts&play_token=ZioVj94TaV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 6.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT 6 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149466&extension=ts&play_token=QIR84ysQFv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 7.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT 7 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149467&extension=ts&play_token=qLgxHVElIp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 8.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT 8 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149468&extension=ts&play_token=x4tGxk8pMz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 9.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT 9 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149469&extension=ts&play_token=Jv9QBzMCef
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 10.png" group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT 10 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149470&extension=ts&play_token=h4JEVjALGF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173879&extension=ts&play_token=hmMQxL1xvi
+
+
+
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 1 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173861&extension=ts&play_token=opbCO58pIO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 2 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173862&extension=ts&play_token=uM1AHUru3z
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 3 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173863&extension=ts&play_token=TK8Y0H4yQH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 4 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173864&extension=ts&play_token=ICZkVNHgiM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 5 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173865&extension=ts&play_token=Exwq7k4wvx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 6 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173866&extension=ts&play_token=dUz1hcJzwN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 7 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173867&extension=ts&play_token=4NCYkuAtlv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 8 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173868&extension=ts&play_token=ENNwFUKFCs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 9 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173869&extension=ts&play_token=g3HKNRi8Di
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 10 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173870&extension=ts&play_token=tNQQHihxmT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 11 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173871&extension=ts&play_token=iHpBoDHvxJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 12 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173872&extension=ts&play_token=Qqlfujer2u
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 13 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173873&extension=ts&play_token=CdPerDYW50
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 14 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173874&extension=ts&play_token=xjeqrVApNR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 15 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173875&extension=ts&play_token=N2r2Q1fRb4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 16 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173876&extension=ts&play_token=a5aonEUOh2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 17 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173877&extension=ts&play_token=hepcQm4UY8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="┃DE┃ MAGENTA SPORT FHD",┃DE┃ MAGENTA SPORT 18 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=173878&extension=ts&play_token=UXM0GcELbR
+
+
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149480&extension=ts&play_token=3V2ENHSC2H
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149481&extension=ts&play_token=VoVEIIc1Bw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149482&extension=ts&play_token=3nJS3x0kbr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 3 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149483&extension=ts&play_token=T8k7ccspDS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 4 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149484&extension=ts&play_token=r7hz8OnySf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 5 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149485&extension=ts&play_token=yXvcJoJAZq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 6 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149486&extension=ts&play_token=VyISi2NbtK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 7 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149487&extension=ts&play_token=VLhR0Tlb5i
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 8 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149488&extension=ts&play_token=35WQT1ymVD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 9 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149489&extension=ts&play_token=gz1ovP0MEF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 10 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149490&extension=ts&play_token=9P0LW6mrW1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 11 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149491&extension=ts&play_token=LyErZtbSw4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 12 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149492&extension=ts&play_token=4sSTNaTuVP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 13 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149493&extension=ts&play_token=z2T4pnlF2R
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 14 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149494&extension=ts&play_token=vc3asNQTKA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 15 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149495&extension=ts&play_token=sClaxt94TZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 16 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149496&extension=ts&play_token=inNWEj8zYb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 17 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149497&extension=ts&play_token=zgHvH1IKOh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="┃DE┃ MAGENTA SPORT HD",┃DE┃ MAGENTA SPORT 18 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149498&extension=ts&play_token=1Z1RSNJIu5
+
+
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN BUNDESLIGA",┃DE┃ DAZN BUNDESLIGA 1
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025526&extension=ts&play_token=peeunVAb4E
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN BUNDESLIGA",┃DE┃ DAZN BUNDESLIGA 2
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025525&extension=ts&play_token=13VfkURAE2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN BUNDESLIGA",┃DE┃ DAZN BUNDESLIGA 3
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025524&extension=ts&play_token=RWvAyl3gly
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN BUNDESLIGA",┃DE┃ DAZN BUNDESLIGA 4
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025523&extension=ts&play_token=JBZhl1gLVg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN BUNDESLIGA",┃DE┃ DAZN BUNDESLIGA 5
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025522&extension=ts&play_token=2VW7Pg78ci
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN BUNDESLIGA",┃DE┃ DAZN BUNDESLIGA 6
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025521&extension=ts&play_token=VeyYUINdu0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN BUNDESLIGA",┃DE┃ DAZN BUNDESLIGA 7
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025520&extension=ts&play_token=zDb75ePyAV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN BUNDESLIGA",┃DE┃ DAZN BUNDESLIGA 8
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025519&extension=ts&play_token=ezrtYMuADU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN BUNDESLIGA",┃DE┃ DAZN BUNDESLIGA 9
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025518&extension=ts&play_token=VTEiGwvRTI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN BUNDESLIGA",┃DE┃ DAZN BUNDESLIGA 10
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025517&extension=ts&play_token=OcqvIrQiiL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 1
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025537&extension=ts&play_token=ycXz9lmmwV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 2
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025536&extension=ts&play_token=087rbQoLGY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 3
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025535&extension=ts&play_token=GXLPUwLtn2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 4
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025534&extension=ts&play_token=mOkHQP0NG4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 5
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025533&extension=ts&play_token=XQS3reJAt7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 6
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025532&extension=ts&play_token=kRjfzK9mHk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 7
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025531&extension=ts&play_token=0dATcnI0zr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 8
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025530&extension=ts&play_token=yZ6xr8bZLQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 9
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025529&extension=ts&play_token=GhRAp0m17d
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 10
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025528&extension=ts&play_token=EYeDIJzP4a
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN SERIE A",┃DE┃ DAZN SERIE A | 1
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025547&extension=ts&play_token=Hdpz5oDQPB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN SERIE A",┃DE┃ DAZN SERIE A | 2
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025546&extension=ts&play_token=zcXflHGpej
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN SERIE A",┃DE┃ DAZN SERIE A | 3
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025545&extension=ts&play_token=TJDQRoLydF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN SERIE A",┃DE┃ DAZN SERIE A | 4
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025544&extension=ts&play_token=T4aqL0J3iT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN SERIE A",┃DE┃ DAZN SERIE A | 5
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025543&extension=ts&play_token=1CRPB1tC3Y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN SERIE A",┃DE┃ DAZN SERIE A | 6
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025542&extension=ts&play_token=PhSVAsATXL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN SERIE A",┃DE┃ DAZN SERIE A | 7
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025541&extension=ts&play_token=5A6ZsahxMX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN SERIE A",┃DE┃ DAZN SERIE A | 8
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025540&extension=ts&play_token=BS56n57eDN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN SERIE A",┃DE┃ DAZN SERIE A | 9
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025539&extension=ts&play_token=eXNrVlloH9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN SERIE A",┃DE┃ DAZN SERIE A | 10
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025538&extension=ts&play_token=Fi8lfDoZpA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LIGUE 1",┃DE┃ DAZN LIGUE 1 | 1
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025559&extension=ts&play_token=Co6guTIqSD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LIGUE 1",┃DE┃ DAZN LIGUE 1 | 2
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025558&extension=ts&play_token=ArPRtP3YnT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LIGUE 1",┃DE┃ DAZN LIGUE 1 | 3
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025557&extension=ts&play_token=njxPM7qCUc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LIGUE 1",┃DE┃ DAZN LIGUE 1 | 4
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025556&extension=ts&play_token=f5R9faPQFO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LIGUE 1",┃DE┃ DAZN LIGUE 1 | 5
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025555&extension=ts&play_token=NDSscE15td
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LIGUE 1",┃DE┃ DAZN LIGUE 1 | 6
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025554&extension=ts&play_token=cbFdWaNdXG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LIGUE 1",┃DE┃ DAZN LIGUE 1 | 7
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025553&extension=ts&play_token=73UlyqifqC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LIGUE 1",┃DE┃ DAZN LIGUE 1 | 8
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025552&extension=ts&play_token=Ef0dvLWvbZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LIGUE 1",┃DE┃ DAZN LIGUE 1 | 9
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025551&extension=ts&play_token=88kgXcIQYL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LIGUE 1",┃DE┃ DAZN LIGUE 1 | 10
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025550&extension=ts&play_token=5glAIrBJPB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 1
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=925467&extension=ts&play_token=Ai1n9gBnSR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 2
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=925466&extension=ts&play_token=AIDR8OFm4O
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 3
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=925465&extension=ts&play_token=rEoY34tOwO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 4
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=925464&extension=ts&play_token=G5azAXdhnT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 5
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=925463&extension=ts&play_token=UsrM7hquGX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 6
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=925462&extension=ts&play_token=Ad7sK1Ugoz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 7
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=925461&extension=ts&play_token=o6T46nw0Uw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 8
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=925460&extension=ts&play_token=G1obMFMbKy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 9
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=925459&extension=ts&play_token=DpZaD7BzX9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 10
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=925458&extension=ts&play_token=esp07bUDpg
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 11
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1603089&extension=ts&play_token=LVpuAAtpfm
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 12
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1603090&extension=ts&play_token=h5Zb1hNKpC
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 13
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1603091&extension=ts&play_token=k1DVF3hZsV
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 14
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1603092&extension=ts&play_token=3wVoR6W13Q
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 15
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1603093&extension=ts&play_token=hRj8rz7nXy
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 16
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1603094&extension=ts&play_token=5kYdqJcNHg
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 17
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1603095&extension=ts&play_token=f8e6iFFXtK
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 18
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1603096&extension=ts&play_token=LNahDTOhXT
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 19
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1603097&extension=ts&play_token=S4arH4qRab
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DAZN UEFA CHAMPIONS LEAGUE",┃DE┃ DAZN UEFA CHAMPIONS LEAGUE 20
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1603098&extension=ts&play_token=Sfs3EIQHz8
 
 
