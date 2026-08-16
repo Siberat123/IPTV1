@@ -1571,6 +1571,11 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/843.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/840.ts
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",SPORT TV + (rocketdns)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/51139.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="SPORTS MIX 1",TVA SPORTS 1 (cord-cutter)
+http://cord-cutter.net:8080/live/315gBa/253680/57498.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="SPORTS MIX 1",TVA Sports 2 (cord-cutter)
+http://cord-cutter.net:8080/live/315gBa/253680/57337.m3u8
 #
 #SPORTS MIX 1
 
@@ -1905,6 +1910,11 @@ http://fortv.cc:8080/rkruja@hotmail.com/zwX3gpy7nP/46792
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/320px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORTS MIX 2",FOX SPORTS 1 (cord-cutter)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://cord-cutter.net:8080/drmajones@gmail.com/J2cg4hzx4s/46792
+
+#EXTINF:-1 tvg-logo="" group-title=""SPORTS MIX 2",FOX SPORTS 1 (cord-cutter)
+http://cord-cutter.net:8080/live/315gBa/253680/327394.m3u8
+#EXTINF:-1 tvg-logo="" group-title=""SPORTS MIX 2",FOX SPORTS 2 (cord-cutter)
+http://cord-cutter.net:8080/live/315gBa/253680/327395.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/320px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORTS MIX 2",FOX SPORTS 1 (b-cdn)
 https://mngbcg.b-cdn.net/FS1/tracks-v1a1/mono.ts.m3u8
