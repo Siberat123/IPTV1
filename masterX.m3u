@@ -1497,6 +1497,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://epg.v1.mk/logo/cctv16.png",CCTV16 (38.75.136.137)
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://epg.v1.mk/logo/cctv16.png",CCTV16 (38.75.136.137)
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest/scale-to-width-down/1000?cb=20220226104639&path-prefix=vi",CCTV FOOTBALL (38.75.136.137)
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
@@ -2280,6 +2282,10 @@ https://apollo-eks.production-public.tubi.io/live/azteca-deportes-network-ootAAI
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/35633f08c98857cb9e85c91eae17c0d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749856192932_LoMejorDeLigaMX_HUD_ChannelLogo_260x147px.png" group-title="SPORTS MIX 3",VIX LO MEJOR DE LIGA MX (jmp2.uk)
 https://jmp2.uk/rok-35633f08c98857cb9e85c91eae17c0d5.m3u8
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zwoSV2v.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 3",MUTV (perfecttv)
+https://get.perfecttv.net/mutv.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="SPORTS MIX 3", REAL MADRID TV (akamaized)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
@@ -2511,8 +2517,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 
 
 
-#SPORTS MIX 4
 #
+#SPORTS MIX 4
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="SPORTS MIX 4",┃NL┃ VIAPLAY PREMIER LEAGUE 1 |
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=225709&extension=ts&play_token=EpcZ9SeggM
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="SPORTS MIX 4",┃NL┃ VIAPLAY PREMIER LEAGUE 2 |
@@ -2576,5 +2582,78 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025543&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025559&extension=ts&play_token=Co6guTIqSD
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="SPORTS MIX 4",┃DE┃ DAZN LIGUE 1 | 2
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025558&extension=ts&play_token=ArPRtP3YnT
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WgiIRQi.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4",United Kingdom | TNT Sports 1
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905817&extension=ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNczxwH.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4,United Kingdom | TNT Sports 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905815&extension=ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lUZ0h5V.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4",United Kingdom | TNT Sports 3
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905812&extension=ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRrxTzO.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4",United Kingdom | TNT Sports 4
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905809&extension=ts
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EVmZjcL.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4",South Korea | SPOTV Prime+
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime_replace_cookie
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZcLJYtL.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4", South Korea | SPOTV Prime 2 
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime2_replace_cookie
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G34ESlN.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4", South Korea | SPOTV Prime 
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime1_replace_cookie
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8AlXOE.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4", South Korea | SPOTV 
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_replace_cookie
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/862RVQD.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4", South Korea |  SPOTV 2 
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv2_replace_cookie
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7a9BCZ.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4", Italia | Sky Sport 24
+http://weqcffv8.vexiumis.top/iptv/B3VXS594EX7ZAW/19127/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/apNGVwV.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4",Italia | Sky Sport Calcio
+http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/316169.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/apNGVwV.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4",Italia | Sky Sport Calcio
+http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/105860.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KMBh7Hf.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4", Serie A 🇮🇹 | DAZN 1 IT
+http://weqcffv8.vexiumis.top/iptv/B3VXS594EX7ZAW/19113/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BCzZYyI.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4",Italia | Sky Sport Arena
+http://weqcffv8.vexiumis.top/iptv/B3VXS594EX7ZAW/19128/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BCzZYyI.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4",Italia | Sky Sport Arena
+http://wickediptv.xyz/Randall123/Randall321/285957
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BCzZYyI.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4",Italia | Sky Sport Arena
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/136478
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpWubye.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4",Italia | Sky Sport Max
+http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/105969.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpWubye.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4",Italia | Sky Sport Max
+http://redfoxx.vip/FG803300F12D2/ncWUsGr/614524
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpWubye.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4",Italia | Sky Sport Max
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/136507
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S8n0Aey.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4", Mediacorp Live 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zJ66bAZ.jpeg" tvg-id="itzplay.id" group-title="SPORTS MIX 4", Eredivisie 🇳🇱 | SportsDigitalFUSSBALL 
+https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8
+
 #
 #SPORTS MIX 4
