@@ -1373,6 +1373,20 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Ht-spor-buyuk.webp" group-title="SPORTS MIX 1",HT SPOR (ercdn)
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 1",HUB SPORTS 1 (xvip)
+http://xvip.pro:80/Han5544/Sho1324/462882
+#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 1",HUB SPORTS 2 (xvip)
+http://xvip.pro:80/Han5544/Sho1324/462881
+#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 1",HUB SPORTS 3 (xvip)
+http://xvip.pro:80/Han5544/Sho1324/462880
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 1",HUB SPORTS 1 (trxdnscloud)
+http://line.trxdnscloud.ru:80/1naebx0n1p/en1cy28eqj/1110667
+#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 1",HUB SPORTS 2 (trxdnscloud)
+http://line.trxdnscloud.ru:80/1naebx0n1p/en1cy28eqj/1110666
+#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 1",HUB SPORTS 3 (trxdnscloud)
+http://line.trxdnscloud.ru:80/1naebx0n1p/en1cy28eqj/1110665
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C4%B0dman_TV_%282019%29.png/960px-%C4%B0dman_TV_%282019%29.png" group-title="SPORTS MIX 1",IDMANTV (yodacdn)
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b2231548857bf0a078bb6387e8830040aa18cee-1ee342667d60c2ac2e8f0c594cf33331-1753218237000000-1753207437000
 
@@ -1563,6 +1577,22 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1149504&ext
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 1",SPORT 2 (88.212.15.19)
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTXK7gV.jpg" group-title="SPORTS MIX 1",SPORT 1 (antik)
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zNyIETD.jpg" group-title="SPORTS MIX 1",SPORT 2 (antik)
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
 
 #EXTINF:-1 group-title="SPORTS MIX 1",SPORTS CONNECT (cloudfront)
 https://d1jl8oqlli7412.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsStudio-Passthrough-SportsConnect/index.m3u8
