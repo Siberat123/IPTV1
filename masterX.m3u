@@ -6,10 +6,6 @@
 
 #INDO NASIONAL
 #
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (digitalbroadcast)
-https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (119.82.250.109)
-http://119.82.250.109:8080/nl.m3u8?id=1002
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (syok)
 http://syok.tv:25461/843839483/33999/1941
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (cloudfront)
@@ -19,11 +15,8 @@ http://syok.tv:25461/843839483/33999/1941
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (livestream)
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (syok)
 http://syok.tv:25461/843839483/33999/1942
-
 ###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 ###KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
@@ -31,28 +24,9 @@ http://syok.tv:25461/843839483/33999/1942
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=6.play
-#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="INDO NASIONAL",TRANS TV (cloudfront)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (cloudfront)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (beetv)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-https://beetv.my.id/stream/vd.m3u8?ch=indosiar
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (nextgenz)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (s.id)
-https://s.id/Shareext_liga1_m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (opplextv)
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350972
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDO NASIONAL",INDOSIAR (syok)
 http://syok.tv:25461/843839483/33999/2415
 
@@ -61,9 +35,6 @@ http://syok.tv:25461/843839483/33999/2415
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://tvratu.my.id/vid/index.m3u8?id=782&type=hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (beetv)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:124.0) Gecko/20100101 Firefox/124.0
-https://beetv.my.id/stream/vd.m3u8?ch=antv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (syok)
 http://syok.tv:25461/843839483/33999/1544
 
@@ -71,16 +42,8 @@ http://syok.tv:25461/843839483/33999/1544
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (rpluz)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 #EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (syok)
 http://syok.tv:25461/843839483/33999/2106
-
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -96,13 +59,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-#EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png",GTV (rpluz)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 #EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png",GTV (syok)
 http://syok.tv:25461/843839483/33999/2107
 
@@ -133,25 +89,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/MDTV.svg/revision/latest?cb=20250226154803" group-title="INDO NASIONAL",MDTV (dens)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/MDTV.svg/revision/latest?cb=20250226154803" group-title="INDO NASIONAL",MDTV (dens)
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET.
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gfjc6q1605825509.png" group-title="INDO NASIONAL",RCTI (r-plus)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gfjc6q1605825509.png" group-title="INDO NASIONAL",RCTI (rpluz)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gfjc6q1605825509.png" group-title="INDO NASIONAL",RCTI (syok)
 http://syok.tv:25461/843839483/33999/2105
-
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -162,11 +106,6 @@ http://syok.tv:25461/843839483/33999/2105
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="INDO NASIONAL",RCTI (cloudfront)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="INDO NASIONAL",SCTV (beetv)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-https://beetv.my.id/stream/vd.m3u8?ch=sctv
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="INDO NASIONAL",SCTV (tvratu)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
@@ -181,8 +120,6 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ckwc.cpp
 https://sports.inisemar.my.id/gasswc.php?gass=aWtpdHYuc3FuLmF0OjgwMDAvcGxheS9hMDIxL2luZGV4Lm0zdTg=
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NASIONAL (dens)
-https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NASIONAL (khano)
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -195,8 +132,6 @@ http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI WORLD (intechmedia)
 https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SPORT (tvri)
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SPORT (inisemar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -212,17 +147,9 @@ https://sports.inisemar.my.id/gasswc.php?gass=aWtpdHYuc3FuLmF0OjgwMDAvcGxheS9hMD
 
 #INDO LOKAL
 #
-#EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://scontent.fdjb3-1.fna.fbcdn.net/v/t39.30808-6/557632209_1135647475441689_1840479255918551040_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=XxNFb9YovuIQ7kNvwHEEjh6&_nc_oc=Adm6qNcT08Eh6Dpjplv9gin3FndJsd_LZkwTzURlW-606VYq-9pymZwRuSUyy0FK0xw&_nc_zt=23&_nc_ht=scontent.fdjb3-1.fna&_nc_gid=my-Vu4LL8NQzZRCswxEjqQ&oh=00_Afdgnv9xe5k6ZFbYUPyOE7AlF9JR3Y5zxVV1Eov819qZZQ&oe=68E9FCBD",DETIK TV (detik)
-https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2025/10/05/2d39359eafaf43afa95dbbc181c9967d.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Hip_Hip_Horee.png" group-title="INDO DAERAH",HIP HIP HOREE (202.169.224.202)
-http://202.169.224.202:8800/udp/239.9.1.28:1234
-
 #EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV (intechmedia)
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO DAERAH",RTV (rtv)
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO DAERAH",RTV (cdn)
 http://cdn.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO DAERAH",RTV (khano)
@@ -234,16 +161,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lit
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO DAERAH",RTV (dens)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO DAERAH",RTV (beetv)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-https://beetv.my.id/stream/vd.m3u8?ch=rtv
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO DAERAH",RTV (nextgenz)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
 
 #EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548",MOJI (cdn)
 http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
@@ -255,11 +172,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548",MOJI (tvrat)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#EXTVLCOPT:http-origin=http://www.vidio.com
-http://tvratu.my.id/nissa/index.mpd?id=206&type=dash
 #EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548",MOJI (202.150.161.212)
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
 
@@ -288,15 +200,6 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #KODIPROP:contentlookup=false
 https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
 
-#EXTINF:-1 tvg-id="Jaktv.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jaktv.jpg" group-title="INDO DAERAH",JAKTV (dens)
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-flashcon-digdayahd-1.dens.tv/h/h218/index.m3u8?app_type=web&userid=lite&chname=Jak_tv
-#EXTINF:-1 tvg-id="Jaktv.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jaktv.jpg" group-title="INDO DAERAH",JAKTV (dens)
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-flashcon-digdayahd-1.dens.tv/h/h218/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="INDO DAERAH",THE INDONESIA CHANNEL (indonusa)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -319,15 +222,10 @@ https://hgmtv.com:19360/asthatv/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://astha.garuda.tv/assets/logo-DLGyXEGO.png" group-title="INDO DAERAH",ASTHA TV (hgmtv)
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
 
-#EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_Citra_Entertainment.png/960px-Logo_Citra_Entertainment.png",CITRA ENTERTAINMENT (202.169.224.202)
-http://202.169.224.202:8800/udp/239.9.1.27:1234
-
 #EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest?cb=20200805135934",MAGNA CHANNEL (medcom)
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest?cb=20200805135934",MAGNA CHANNEL (medcom)
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
-#EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest?cb=20200805135934",MAGNA CHANNEL (202.169.224.202)
-http://202.169.224.202:8800/udp/239.1.3.1:1234
 #EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest?cb=20200805135934",MAGNA CHANNEL (cdn)
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226cce.m3u8
 #EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest?cb=20200805135934",MAGNA CHANNEL (dens)
@@ -335,6 +233,12 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226cce.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h24/01.m3u8
 
+#EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTV_%282012%29.svg/revision/latest?cb=20240914101736" group-title="INDO DAERAH",JTV (122.248.43.242)
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTV_%282012%29.svg/revision/latest?cb=20240914101736" group-title="INDO DAERAH",JTV (202.150.161.212)
+http://202.150.161.212:5000/live/channel38/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTV_%282012%29.svg/revision/latest?cb=20240914101736" group-title="INDO DAERAH",JTV (122.248.43.242)
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id@Madiun" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="INDO DAERAH",JTV MADIUN (122.248.43.242)
 http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id@Malang" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="INDO DAERAH",JTV MALANG (122.248.43.242)
@@ -353,9 +257,6 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/8/86/BMSTVPurwokerto.png/revision/latest?cb=20250308142604" group-title="INDO DAERAH",BMSTV (streamlock)
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/6/61/RCTV_Cirebon_%282012%29.png/revision/latest?cb=20210524135124" group-title="INDO DAERAH",RCTV (siar)
-https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo-banjar_tv.jpg" group-title="INDO DAERAH",BANJAR TV (siar)
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
@@ -387,9 +288,6 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FiCom_symbol_logo.jpg/960px-FiCom_symbol_logo.jpg?_=20190417120834" group-title="INDO DAERAH", FICOM TV (siar)
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
-#EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png", MIC TV (siar)
-https://mic.siar.us/mic/live/mic_720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="INDO DAERAH",LINGKAR TV (my.id)
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
@@ -398,9 +296,6 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1526801243
 #EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2025/02/logo-tv-tabalong.png" group-title="INDO DAERAH",TABALONG TV (streamlock)
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SMTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" http-referrer="https://smtv.digital/" group-title="INDO DAERAH",SMTV (siar)
-#EXTVLCOPT:http-referrer=https://smtv.digital/
-https://e.siar.us/live/smtv.m3u8
 #EXTINF:-1 tvg-id="SMTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" http-referrer="https://smtv.digital/" group-title="INDO DAERAH",SMTV (122.248.43.242)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -515,8 +410,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (119.82.250.109)
-http://119.82.250.109:8080/nl.m3u8?id=1048
 
 #EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -556,8 +449,6 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/CNBC_Indonesia_logo_2018_%28white%29.svg/revision/latest?cb=20250310104407" group-title="INDO NEWS",CNBC INDONESIA (cnbcindonesia)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1457300562_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Berita Satu.id" tvg-name="Berita Satu.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/BeritaSatu_%28Stacked%29.svg/revision/latest?cb=20181125093938" group-title="INDO NEWS",BERITA SATU (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -567,13 +458,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-#EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png",INEWS (rpluz)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 #EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png",INEWS (syok)
 http://syok.tv:25461/843839483/33999/23254
 
@@ -599,13 +483,6 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_o
 https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BN_Channel.png/revision/latest?cb=20230124080830",BN CHANNEL (cdn)
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-
-#EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTV_%282012%29.svg/revision/latest?cb=20240914101736" group-title="INDO NEWS",JTV (122.248.43.242)
-http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTV_%282012%29.svg/revision/latest?cb=20240914101736" group-title="INDO NEWS",JTV (202.150.161.212)
-http://202.150.161.212:5000/live/channel38/playlist.m3u8
-#EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTV_%282012%29.svg/revision/latest?cb=20240914101736" group-title="INDO NEWS",JTV (122.248.43.242)
-http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/revision/latest?cb=20250101053112" group-title="INDO NEWS",BTV (khano)
@@ -1189,6 +1066,17 @@ https://dl.dropboxusercontent.com/scl/fi/m850dhn51323awty0kcc5/arena2.m3u8?rlkey
 #EXTINF:-1 tvg-id="399498" group-title="SPORTS MIX 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4mzfHYC5TjMHkYTcLs7cb-WqaCXjF1ay-TcjJm_xwCKHAn-_hetiuETyJnQ3yAnj7ufKMCGY8xPGRW_dYD-4S4q9bEao-6Ra7jsYxpYhuXrHhtbFKnSpkaytS4__NxY_SnjKPcZxbdEjjrA-BJgIHQ8K7sAzgvMoKlr7c-QzIYRuFqnN4q5_gYlzacBjV/s700/ASTRO%20FOOTBALL.png",ASTRO FOOTBALL (dropboxusercontent)
 https://dl.dropboxusercontent.com/scl/fi/fvmlubrpsz62feuvcutxu/asspfoot.m3u8?rlkey=ewph2mk93bpw44va9k9b9e6p9&dl=0
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="SPORTS MIX 1",ASTRO ARENA (syok)
+http://syok.tv:25461/843839483/33999/121
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="SPORTS MIX 1",ASTRO ARENA (syok)
+http://syok.tv:25461/843839483/33999/122
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="SPORTS MIX 1",ASTRO BADMINTON (syok)
+http://syok.tv:25461/843839483/33999/22627
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="SPORTS MIX 1",ASTRO SPORT PLUS (syok)
+http://syok.tv:25461/843839483/33999/22629
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SPORTS MIX 1",ASTRO PREMIER 1 (syok)
+http://syok.tv:25461/843839483/33999/637
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/AYM2004.jpg/revision/latest?cb=20130608195841" group-title="SPORTS MIX 1",AYM SPORT (otteravision)
 https://aym-as.otteravision.com/aym/as/as.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/AYM2004.jpg/revision/latest?cb=20130608195841" group-title="SPORTS MIX 1",AYM SPORT (otteravision)
@@ -1223,6 +1111,11 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="SPORTS MIX 1" tvg-logo="https://i.imgur.com/d8x7c8i.png",BARCELONA TV (amagi.tv)
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SPORTS MIX 1",BEIN SPORTS 1 (syok)
+http://syok.tv:25461/843839483/33999/644
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SPORTS MIX 1",BEIN SPORTS 2 (syok)
+http://syok.tv:25461/843839483/33999/18525
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="SPORTS MIX 1",BEIN SPORTS XTRA ñ (amagi.tv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1685,6 +1578,9 @@ https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/lysgF2PEmQ0E0w==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjhAAQ==" group-title="SPORTS MIX 1",UFC (xumo)
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/640px-UnifiSports2023.png" group-title="SPORTS MIX 1",UNIFI SPORT (syok)
+http://syok.tv:25461/843839483/33999/23286
 
 #EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://freeshot.live/upload/source/Viasat-Sport-1-Sweden.png",VIAPLAY TV (mag7070)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1152824&extension=ts&play_token=joZPEI2uC5
