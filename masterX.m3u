@@ -37,6 +37,12 @@ http://syok.tv:25461/843839483/33999/2415
 https://tvratu.my.id/vid/index.m3u8?id=782&type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (syok)
 http://syok.tv:25461/843839483/33999/1544
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="INDO NASIONAL",ANTV (cloudfront)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=10&type=fitnah
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV (r-plus)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -393,6 +399,15 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/TvOne_2011.svg/revision/latest?cb=20181207020506" group-title="INDO NEWS",TV ONE (dens)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/TvOne_2011.svg/revision/latest?cb=20181207020506" group-title="INDO NEWS",TV ONE (dens)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/TvOne_2011.svg/revision/latest?cb=20181207020506" group-title="INDO NEWS",TV ONE (cloudfront)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=12&type=fitnah
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (medcom)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -410,6 +425,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest?cb=20201127145437" group-title="INDO NEWS",METRO TV (cloudfront)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=14&type=fitnah
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 #EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDO NEWS",GARUDA TV (hgmtv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -465,6 +486,12 @@ http://syok.tv:25461/843839483/33999/23254
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/de/MNC_News_%282010%29.png/revision/latest/scale-to-width-down/1000?cb=20220104035739" group-title="INDO NEWS",SINDONEWS (cloudfront)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=5&type=fitnah
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 #EXTINF:-1 tvg-id="Jawa.Pos.TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Jawa_Pos_TV_2024.png" group-title="INDO NEWS",JAWAPOS TV (streamlock)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -500,6 +527,10 @@ https://vidsemar.pages.dev/terraluna/19046.mpd
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
 http://tvratu.my.id/nissa/index.mpd?id=19046&type=dash
+#EXTINF:-1 tvg-id="Sin Po TV.id" group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png?_=20231105144013",SIN PO TV (aspaltvpasti)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
 #
 #INDO NEWS
 
@@ -1489,6 +1520,10 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
 
 #EXTINF:-1 group-title="SPORTS MIX 1",SPORTS CONNECT (cloudfront)
 https://d1jl8oqlli7412.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsStudio-Passthrough-SportsConnect/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446902rOUCzuiQg4-original-ONOncvfW.png", group-title="SPORTS MIX 1",SPORTS FIRST (cloudfront)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",SPOR TVL (mariatvcdn)
 https://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/playlist.m3u8
