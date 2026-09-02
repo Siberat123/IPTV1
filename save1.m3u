@@ -1,14 +1,7 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ARENA" tvg-logo="https://docdog.top/logo/countries/malaysia/astroarena.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO ARENA
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34608
-#EXTINF:-1 tvg-id="" tvg-name="MY: BEIN SPORTS" tvg-logo="https://docdog.top/logo/countries/malaysia/beinsports.png" group-title="ASIA | MALAYSIA VIP",MY: BEIN SPORTS
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34610
-#EXTINF:-1 tvg-id="" tvg-name="MY: WWE" tvg-logo="https://docdog.top/logo/countries/malaysia/wwenetwork.png" group-title="ASIA | MALAYSIA VIP",MY: WWE
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34612
-#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ARENA 2" tvg-logo="https://docdog.top/logo/countries/malaysia/astroarena.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO ARENA 2
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34649
+
 
 
 
@@ -219,8 +212,10 @@ http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34436
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34437
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="VN: VIP K+ SPORT 1" tvg-logo="" group-title="ASIA | VIETNAM VIP",VN: VIP K+ SPORT 1
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34956
+#EXTINF:-1 tvg-id="" tvg-name="VN: VIP K+ SPORT 2" tvg-logo="" group-title="ASIA | VIETNAM VIP",VN: VIP K+ SPORT 2
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34950
 
 #EXTINF:-1 tvg-id="" tvg-name="ALB: ART SPORT 1" tvg-logo="" group-title="EU | ALBANIA VIP",ALB: ART SPORT 1
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158021
