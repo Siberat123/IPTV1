@@ -1303,6 +1303,15 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1025526&ext
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Dd-sports.png/revision/latest?cb=20230126170013" group-title="SPORTS MIX 1",DD SPORTS 2.0(cloudfront)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_6.m3u8
 
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="PL: ELEVEN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_1.png" group-title="SPORTS MIX 1", ELEVEN SPORTS 1 (31.43.191.125)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/880
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_2.png" group-title="SPORTS MIX 1", ELEVEN SPORTS 2 (31.43.191.125)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/881
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_3.png" group-title="SPORTS MIX 1", ELEVEN SPORTS 3 (31.43.191.125)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/882
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_4.png" group-title="SPORTS MIX 1", ELEVEN SPORTS 4 (31.43.191.125)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/883
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 1",EUROSPORT 1 (31.43.191.125)
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158027
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 1",EUROSPORT 2 (31.43.191.125)
@@ -1490,6 +1499,25 @@ https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb
 
 #EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://freeshot.live/upload/source/Polsat-sport_logo.png",POLSAT SPORT 1 (seetv)
 http://de.seetv.cc/play/5456/632F375BC8243BC/video.m3u8
+
+#EXTINF:-1 tvg-id="Polsat Sport" tvg-name="PL: POLSAT SPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="SPORTS MIX 1",POLSAT SPORT 1 (31.43.191.125)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34309
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="PL: POLSAT SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="SPORTS MIX 1",POLSAT SPORT 2 (31.43.191.125)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/886
+#EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="PL: POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportnews.png" group-title="SPORTS MIX 1",POLSAT SPORT 3 (31.43.191.125)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/887
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="PL: POLSAT SPORT PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="SPORTS MIX 1",POLSAT SPORT PREMIUM 1 (31.43.191.125)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/870
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="PL: POLSAT SPORT PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium2.png" group-title="SPORTS MIX 1",POLSAT SPORT PREMIUM 2 (31.43.191.125)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/871
+#EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="PL: POLSAT SPORT EXTRA 3" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_3.png" group-title="SPORTS MIX 1",POLSAT SPORT EXTRA 3(31.43.191.125)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/872
+#EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="PL: POLSAT SPORT EXTRA 4" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_4.png" group-title="SPORTS MIX 1",POLSAT SPORT EXTRA 4 (31.43.191.125)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/873
+#EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="PL: POLSAT SPORT EXTRA 1" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_1.png" group-title="SPORTS MIX 1",POLSAT SPORT EXTRA 1 (31.43.191.125)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/874
+#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="PL: POLSAT SPORT PEXTRA 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_2.png" group-title="SPORTS MIX 1",POLSAT SPORT PEXTRA 2 (31.43.191.125)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/875
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6C1m3d.jpeg" tvg-id="" group-title="SPORTS MIX 1",QAZAQSTAN SPORT (195.201.243.254)
 http://195.201.243.254/stream10/index.m3u8
