@@ -281,3 +281,56 @@ http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/146829
 #EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 9" tvg-logo="" group-title="UK VIP NEW",UK: Hub Premier 9
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/146828
 
+
+
+#EXTINF:-1 tvg-id="MainEventUFC.au" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/1024px-UFC_logo.svg.png" group-title="Motorsport & Combat Sports",UFC
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
+
+#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" tvg-name="NBC Sports NOW (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",NBC Sports NOW (720p)
+https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
+#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" tvg-name="NBC Sports NOW (1080p)" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Football & Soccer",NBC Sports NOW (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99951253/168x168.png?type=color_onBlack" group-title="⚡ Live Matchday & Event Feeds",NBC Sports NOW
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/9ed59304-2f35-4c88-9b99-34153edef42b/4.m3u8
+
+
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1 (720p)" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="American Football & US Sports",Fox Sports 1 (720p)
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="American Football & US Sports",ESPN
+http://jumangis.cloud:2082/live/Margarito/tXBU2WnnL8/117724.m3u8
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="American Football & US Sports",ESPN 2
+http://jumangis.cloud:2082/live/Margarito/tXBU2WnnL8/117725.m3u8
+
+
+
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="FOX SPORTS" tvg-logo="https://www.izzigo.tv/images/repository/711/17055711-SNAPSHOT-m.jpg" group-title="American Football & US Sports",FOX SPORTS
+http://jumangis.cloud:2082/live/Margarito/tXBU2WnnL8/117736.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="FOX SPORTS 2" tvg-logo="https://www.izzigo.tv/images/repository/712/17055712-SNAPSHOT-m.jpg" group-title="American Football & US Sports",FOX SPORTS 2
+http://jumangis.cloud:2082/live/Margarito/tXBU2WnnL8/117737.m3u8
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FOX SPORTS 3" tvg-logo="https://www.izzigo.tv/images/repository/713/17055713-SNAPSHOT-m.jpg" group-title="American Football & US Sports",FOX SPORTS 3
+http://jumangis.cloud:2082/live/Margarito/tXBU2WnnL8/117738.m3u8
+
+
+
+#EXTINF:-1 tvg-id="DD.Sports.HD..1080p.us" tvg-name="DD Sports HD (1080p)" tvg-logo="" group-title="Main Events & Flagship Sports",DD Sports HD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-id="Live.DD.Sports.us" tvg-name="---Live(DD Sports)---" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" group-title="⚡ Live Matchday & Event Feeds",---Live(DD Sports)---
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="TNT SPORTS Premium" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",TNT SPORTS Premium
+http://200.115.120.1:8000/play/ca040/index.m3u8
+
+#EXTINF:-1 tvg-id="AYM.SPORT.us" tvg-name="AYM SPORT 🇺🇸" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",AYM SPORT 🇺🇸
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+
+
+#EXTINF:-1 tvg-id="US1000012ML" tvg-name="UEFA Champion League" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",UEFA Champion League
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ea8b928145cb0008509426/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c83aaae4-b7a8-4127-ae41-0b5fd27ac4f2
+
+
+#EXTINF:-1 tvg-id="Live.FOOTBALL.us" tvg-name="--Live(FOOTBALL)--" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Football & Soccer",--Live(FOOTBALL)--
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="REAL.MADRID.TV.us" tvg-name="REAL MADRID TV ᴴᴰ" tvg-logo="https://i.imgur.com/wddA7nT.jpg" group-title="Football & Soccer",REAL MADRID TV ᴴᴰ
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
