@@ -1353,6 +1353,11 @@ https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb
 #EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://freeshot.live/upload/source/Polsat-sport_logo.png",POLSAT SPORT 1 (seetv)
 http://de.seetv.cc/play/5456/632F375BC8243BC/video.m3u8
 
+#EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="",PREMIERE SPORTS 1 (gojosare123)
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/2908.m3u
+#EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="",PREMIERE SPORTS 2 (gojosare123)
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/2907.m3u
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6C1m3d.jpeg" tvg-id="" group-title="SPORTS MIX 1",QAZAQSTAN SPORT (195.201.243.254)
 http://195.201.243.254/stream10/index.m3u8
 
@@ -1420,6 +1425,19 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905846&ext
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS MIX 1",SKY SPORTS PREMIER LEAGUE (cloudcdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS MIX 1",SKY SPORTS ACTION (nexeraso)
+http://kho17xtr.nexeraso.top/iptv/MHG766HMYBABXR/9155/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS MIX 1",SKY SPORTS 1 NZ (djdoolky76)
+https://ott.djdoolky76.io/api/streams/250/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODI4MTcwMiwiZXhwIjoxNzkwNTUzNTk5fQ.s7EnkFFXOrbKTariWRRS_xVvtvaHF9OeEJMZY9qB5xM
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS MIX 1",SKY SPORTS PREMIER LEAGUE (gojosare123)
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/536.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS MIX 1",SKY SPORTS MAIN EVENT (gojosare123)
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/531.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS MIX 1",SKY SPORTS NEWS (gojosare123)
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/562.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7a9BCZ.jpeg" tvg-id="" group-title="SPORTS MIX 1",SKY SPORT 24 (vexiumis)
 http://weqcffv8.vexiumis.top/iptv/B3VXS594EX7ZAW/19127/index.m3u8
@@ -1601,6 +1619,15 @@ http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/2506/index.m3u8
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/6564/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 4 (ottclub)
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19054/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 1",TNT SPORTS 1 (gojosare123)
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/1596.m3u
+#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 1",TNT SPORTS 2 (gojosare123)
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/1597.m3u
+#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 1",TNT SPORTS 3 (gojosare123)
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/1751.m3u
+#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 1",TNT SPORTS 4 (gojosare123)
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/2905.m3u
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
