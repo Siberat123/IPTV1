@@ -1392,40 +1392,6 @@ http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",SKY SPORTS PREMIER LEAGUE (ottolok)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9334/index.m3u8
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iJbMNwj.jpeg" tvg-id="" group-title="SPORTS MIX 1",SKY SPORTS+ (trexlive)
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905834&extension=ts
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uiEBL3y.jpeg" tvg-id="" group-title="SPORTS MIX 1",SKY SPORTS PREMIER LEAGUE (trexlive)
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905843&extension=ts
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZQN5CC.jpeg" tvg-id="" group-title="SPORTS MIX 1",SKY SPORTS FOOTBALL (trexlive)
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905857&extension=ts
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rlZHaAO.jpeg" tvg-id="" group-title="SPORTS MIX 1",SKY SPORTS MAIN EVENT (trexlive)
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905852&extension=ts
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c4ypoFz.jpeg" tvg-id="" group-title="SPORTS MIX 1",SKY SPORTS MIX (trexlive)
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905849&extension=ts
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c2l7s7W.jpeg" tvg-id="" group-title="SPORTS MIX 1",SKY SPORTS NEWS (trexlive)
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905846&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS MIX 1",SKY SPORTS PREMIER LEAGUE (cloudcdn)
-http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=15301&deviceMac=00:1A:79:0E:F8:A1
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS MIX 1",SKY SPORTS ACTION (nexeraso)
 http://kho17xtr.nexeraso.top/iptv/MHG766HMYBABXR/9155/index.m3u8
 
@@ -1439,39 +1405,12 @@ https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS MIX 1",SKY SPORTS NEWS (gojosare123)
 https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/562.m3u
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7a9BCZ.jpeg" tvg-id="" group-title="SPORTS MIX 1",SKY SPORT 24 (vexiumis)
-http://weqcffv8.vexiumis.top/iptv/B3VXS594EX7ZAW/19127/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KMBh7Hf.jpeg" tvg-id="" group-title="SPORTS MIX 1",SKY SPORT CALCIO (vexiumis)
-http://weqcffv8.vexiumis.top/iptv/B3VXS594EX7ZAW/19113/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/apNGVwV.jpeg" tvg-id="" group-title="SPORTS MIX 1",SKY SPORT CALCIO (mytvzone)
-http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/316169.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BCzZYyI.jpeg" tvg-id="" group-title="SPORTS MIX 1",SKY SPORT ARENA (mytvzone)
-http://weqcffv8.vexiumis.top/iptv/B3VXS594EX7ZAW/19128/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QpWubye.jpeg" tvg-id="" group-title="SPORTS MIX 1",SKY SPORT MAX (mytvzone)
-http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/105969.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 1",SKY SPORT MIX (lite1kh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://lite1kh.com:80/live/190799414865/CDt6HaugYo2jLWl/180223.m3u8
-
 #EXTINF:-1 channel-id="ITBC4700002CO" tvg-id="ITBC4700002CO" tvg-chno="4633" tvg-name="Solocalcio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="SPORTS MIX 1",SOLO CALCIO (jmp2.uk)
 https://jmp2.uk/stvp-ITBC4700002CO
 #EXTINF:-1 channel-id="ITBC4700002CO" tvg-id="ITBC4700002CO" tvg-chno="4633" tvg-name="Solocalcio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="SPORTS MIX 1",SOLO CALCIO (inspirationFreetv)
 https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/7Q5vVhy/sportitaliaplus.png" group-title="SPORTS MIX 1",SOLO CALCIO (amagi.tv)
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS MIX 1",SONY SPORTS TEN 1 (cloudcdn)
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS MIX 1",SONY SPORTS TEN 2 (cloudcdn)
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS MIX 1",SONY SPORTS TEN 3 (cloudcdn)
-http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS MIX 1",SONY SPORTS TEN 4 (cloudcdn)
-http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS MIX 1",SONY SPORTS TEN 5 (cloudcdn)
-http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=15301&deviceMac=00:1A:79:0E:F8:A1
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G34ESlN.jpeg" tvg-id="" group-title="SPORTS MIX 1",SPOTV PRIME (124.222.153.240)
@@ -1497,21 +1436,12 @@ https://jmp2.uk/stvp-DEBD260000692
 #EXTINF:-1 tvg-chno="395" tvg-id="CHBD2600014C0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2600014C0_20250107T031529SQUARE.png" group-title="SPORTS MIX 1",SPORTDIGITAL SCOOORE (jmp2.uk)
 https://jmp2.uk/stvp-CHBD2600014C0
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zJ66bAZ.jpeg" tvg-id="" group-title="SPORTS MIX 1",SPORTDIGITAL FUSSBALL (streamhostingcdn) 
-https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Sportitalia_2019_Logo.png?_=20250626142542",SPORT ITALIA (amagi.tv)
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Sportitalia_2019_Logo.png?_=20250626142542",SPORT ITALIA (samsungtv)
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-wg4eophtzml6o.m3u8
 #EXTINF:-1 tvg-chno="2810" tvg-id="IT1000002TG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1000002TG_20260707T053001SQUARE.png"  group-title="SPORTS MIX 1",SPORT ITALIA (jmp2.uk)
 https://jmp2.uk/stvp-IT1000002TG
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 1",SPORT 1 (88.212.15.19)
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 1",SPORT 2 (88.212.15.19)
-http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTXK7gV.jpg" group-title="SPORTS MIX 1",SPORT 1 (antik)
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -1529,19 +1459,6 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="SPORTS MIX 1",SPORT TV 1 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99484
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="SPORTS MIX 1",SPORT TV 2 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99485
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="SPORTS MIX 1",SPORT TV 3 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99486
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="SPORTS MIX 1",SPORT TV 4 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99487
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="SPORTS MIX 1",SPORT TV 5 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99488
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv6.png" group-title="SPORTS MIX 1",SPORT TV 6 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99489
-
 #EXTINF:-1 group-title="SPORTS MIX 1",SPORTS CONNECT (cloudfront)
 https://d1jl8oqlli7412.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsStudio-Passthrough-SportsConnect/index.m3u8
 
@@ -1555,30 +1472,6 @@ https://jmp2.uk/stvp-GB380000473
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",SPOR TVL (mariatvcdn)
 https://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",S SPORT (ottolok)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6825/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 1",S SPORT 2 (lite1kh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/227610
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 1",SUPER SPORTS NEWS (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158044
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 1",SUPER SPORT 1 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158035
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 1",SUPER SPORT 2 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158036
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 1",SUPER SPORT 3 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158037
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 1",SUPER SPORT 4 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158038
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 1",SUPER SPORT 5 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158039
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 1",SUPER SPORT 6 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158040
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 1",SUPER SPORT 7 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158041
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLqYSxw.jpeg" tvg-id="" group-title="SPORTS MIX 1",T SPORTS (aynaott)
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
@@ -1587,13 +1480,6 @@ https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadi
 
 #EXTINF:-1 tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3cf9a158-a2c6-449b-8c16-cb61daa5ea2e" group-title="SPORTS MIX 1",STRONGMAN CHAMPION LEAGUE (amazonaws)
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",TABII SPOR 1 (andro)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://andro.226503.xyz/checklist/androstreamlivetb1.m3u8
-
-#EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="",TELECOSTA (hostingnuclear)
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/telemundo.png",TELEMUNDO (akamaized)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -1604,9 +1490,6 @@ https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_ch
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",TYC SPORTS (amagi.tv)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",TELEDEPORTE (c21livecloud) 
-https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 
 #EXTINF:-1 channel-id="6d8659091f745b8b864f438f06c56fae" tvg-id="6d8659091f745b8b864f438f06c56fae" tvg-chno="241" tvg-name="TNA Wrestling Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d8659091f745b8b864f438f06c56fae/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1709314978559_TNAWrestling_Roku_WhiteLogo_CenterAligned_260x147.png" group-title="SPORTS MIX 1",TNA WRESTLING (jmp2.uk)
 https://jmp2.uk/rok-6d8659091f745b8b864f438f06c56fae.m3u8
@@ -1638,22 +1521,8 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905817&ext
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RNczxwH.jpeg" group-title="SPORTS MIX 1",TNT SPORTS 2 (trexlive)
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905815&extension=ts
 
-#EXTINF:-1 tvg-id="TourSpotTV.do@HD" group-title="SPORTS MIX 1" tvg-logo="https://imgur.com/khj869k.png",TOUR SPORT (hostlagarto)
-https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORTS MIX 1",TR SPORT (teleromagna)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 1",TRING SPORT NEWS (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158049
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 1",TRING SPORT 1 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158045
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 1",TRING SPORT 2 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158046
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 1",TRING SPORT 3 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158047
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS MIX 1",TRING SPORT 4 (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158048
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png",TSN 1 (edemist)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6521/index.m3u8
@@ -1672,22 +1541,14 @@ https://mngbcg.b-cdn.net/TSN1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",TUDN (cloudfront)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951563/hls/playlist.m3u8?ads.xumo_channelId=99951563
 
-#EXTINF:-1 group-title="SPORTS MIX 1",TVC DEPORTES (topmediatv) 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/122.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/TvN_Sports_Korea.svg/250px-TvN_Sports_Korea.svg.png" group-title="SPORTS MIX 1",TVN SPORTS (jmp2.uk)
 https://jmp2.uk/stvp-KRBC800015MH
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png?_=20231124140634" group-title="SPORTS MIX 1",TVR SPORT (mncdn)
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/lysgF2PEmQ0E0w==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjhAAQ==" group-title="SPORTS MIX 1",UFC (tubi)
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/lysgF2PEmQ0E0w==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjhAAQ==" group-title="SPORTS MIX 1",UFC (xumo)
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/640px-UnifiSports2023.png" group-title="SPORTS MIX 1",UNIFI SPORT (syok)
-http://syok.tv:25461/843839483/33999/23286
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",V SPORT PREMIUM (ottolok)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/12079/index.m3u8
@@ -1700,9 +1561,6 @@ https://jmp2.uk/rok-35633f08c98857cb9e85c91eae17c0d5.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1",VIJU+ (cinerama)
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 channel-id="0128b5f756acf1e1c488509fd76b0a61" tvg-id="0128b5f756acf1e1c488509fd76b0a61" tvg-chno="265" tvg-name="X Games TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0128b5f756acf1e1c488509fd76b0a61/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758735344999_X_Games_TV_260x147_White.png" group-title="SPORTS MIX 1",X GAMES TV (jmp2.uk)
-https://jmp2.uk/rok-0128b5f756acf1e1c488509fd76b0a61.m3u8
 
 #EXTINF:-1 group-title="SPORTS MIX 1",X SPORTS (akamaized)
 https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
