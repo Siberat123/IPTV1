@@ -6,11 +6,13 @@
 
 #INDO NASIONAL
 #
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (cnnindonesia)
+#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
+https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (filex)
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (31.43.191.125)
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34325
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (inal)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="INDO NASIONAL",TRANS 7 (cloudfront)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=7&type=fitnah
@@ -18,6 +20,12 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/trans7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (filex)
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302312.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (cnnindonesia)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34324
+#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
+https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (31.43.191.125)
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34324
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="INDO NASIONAL",TRANS TV (syok)
@@ -414,6 +422,12 @@ https://5bf7b725107e5.streamlock.net/davika/davika/chunklist_w997967539.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="auto.kilisuci.tv.kediri" group-title="INDO DAERAH" tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png",KSTV (streamlock)
 https://5bf7b725107e5.streamlock.net/kstv/kstv/chunklist_w1799577873.m3u8
+#EXTVLCOPT:http-referrer=https://kstv.co.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="auto.kilisuci.tv.kediri" group-title="INDO DAERAH" tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png",KSTV (streamlock)
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -432,6 +446,20 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="INDO DAERAH",MQTV (streamlock)
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvsP7kcYHiXYfhANpz1m5X-Maw2aOB2l3b8d_g2fr5&s=10" group-title="INDO DAERAH",PUJA TV (siar)
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://pujatv.siar.us/live/pujatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/dtvi.png" group-title="INDO DAERAH",dTVi (siar)
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://e.siar.us/live/dtvi.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDO DAERAH",TATV (siar)
+https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDO DAERAH",RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
 #
 #INDO LOKAL
 
@@ -581,6 +609,8 @@ https://mncmedia.malingtv.workers.dev/inews.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=5409&type=drm
 http://tvratu.my.id/nissa/index.mpd?id=5409&type=dash
+#EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png",INEWS (beetv)
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/de/MNC_News_%282010%29.png/revision/latest/scale-to-width-down/1000?cb=20220104035739" group-title="INDO NEWS",SINDONEWS (serv00)
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1208,6 +1238,10 @@ http://66.102.126.10:8000/play/a014
 
 #EXTINF:-1 tvg-id="BritBox Mysteries" tvg-name="BritBox Mysteries" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="MOVIES & SHOWS",BritBox Mysteries (tubi)
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="MOVIES & SHOWS",WB TV (202.150.161.212)
+http://202.150.161.212:5000/live/channel29/playlist.m3u8
 #
 #MOVIES & SHOWS
 
@@ -1901,4 +1935,32 @@ http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:-1 group-title="SPORTS MIX 1",X SPORTS (akamaized)
 https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
 #
-SPORTS MIX 1
+$SPORTS MIX 1
+
+
+
+
+
+#LIVE FEEDS
+#
+#EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="LIVE FEEDS" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg",BRI Liga 1 (Digital)
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli4.m3u8
+
+#EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="LIVE FEEDS" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg",BRI Liga 1 (vidio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="LIVE FEEDS" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg",BRI Liga 1 (Nex)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
+
+#EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="LIVE FEEDS" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg",BRI Liga 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+http://mpwtv.github.io/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://ott.the-afc.com/image/1920x1080/6bee03f4-6698-44e2-a708-6b1b9f54cb28.png?v=20241226031338" group-title="LIVE FEEDS",AFC 
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+#
+#LIVE FEEDS
