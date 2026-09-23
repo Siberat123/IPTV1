@@ -1399,13 +1399,13 @@ https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/960px-NBC_Sports_2023.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail",NBC SPORTS (nbcuni)
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_NSports_Horizontal.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20260416000429",N SPORTS (leiniao)
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Logo_NSports_Vertical.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20260416000428",N SPORTS (leiniao)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e8f0afbd0dc24b80ac2737ef1d36210e/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_NSports_Horizontal.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20260416000429",N SPORTS (otteravision)
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Logo_NSports_Vertical.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20260416000428",N SPORTS (otteravision)
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_NSports_Horizontal.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20260416000429",N SPORTS (b-cdn)
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Logo_NSports_Vertical.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20260416000428",N SPORTS (b-cdn)
 https://origin-fast.b-cdn.net/NSPORTS/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_NSports_Horizontal.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20260416000429",N SPORTS (nxplay)
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Logo_NSports_Vertical.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20260416000428",N SPORTS (nxplay)
 https://cdn-5.nxplay.com.br/NSPORTS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/59o8o81649341463.png" group-title="SPORTS MIX 1",NOVA SPORT 4 (vexiumis)
@@ -1507,16 +1507,16 @@ https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-prime-kr.svg" tvg-id="" group-title="SPORTS MIX 1",SPOTV PRIME (124.222.153.240)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/SPOTV_Plus_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20150930131337" tvg-id="" group-title="SPORTS MIX 1",SPOTV PRIME (124.222.153.240)
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime1_replace_cookie
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-prime-2-kr.svg" tvg-id="" group-title="SPORTS MIX 1",SPOTV PRIME 2 (124.222.153.240) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/SPOTV_Plus_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20150930131337" tvg-id="" group-title="SPORTS MIX 1",SPOTV PRIME 2 (124.222.153.240) 
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime2_replace_cookie
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-prime-plus-kr.svg" tvg-id="" group-title="SPORTS MIX 1",SPOTV PRIME+ (124.222.153.240)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/SPOTV_Plus_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20150930131337" tvg-id="" group-title="SPORTS MIX 1",SPOTV PRIME+ (124.222.153.240)
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime_replace_cookie
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" tvg-id="" group-title="SPORTS MIX 1",SPOTV 2 (124.222.153.240)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/SPOTV_Plus_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20150930131337" tvg-id="" group-title="SPORTS MIX 1",SPOTV 2 (124.222.153.240)
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv2_replace_cookie
 
 #EXTINF:-1 tvg-logo="https://www.dslweb.de/public/resources/images/logos/logo-sportdigital.png" group-title="SPORTS MIX 1",SPORTDIGITAL (amazonaws)
@@ -1537,7 +1537,7 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-wg4eophtzml6o.m3u8
 #EXTINF:-1 tvg-chno="2810" tvg-id="IT1000002TG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Sportitalia_logo.svg/revision/latest?cb=20100602084122" group-title="SPORTS MIX 1",SPORT ITALIA (jmp2)
 https://jmp2.uk/stvp-IT1000002TG
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-1-hungary-hu.svg" group-title="SPORTS MIX 1",SPORT 1 (antik)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20151229155644" group-title="SPORTS MIX 1",SPORT 1 (antik)
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1545,7 +1545,7 @@ https://jmp2.uk/stvp-IT1000002TG
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-2-hungary-hu.svg" group-title="SPORTS MIX 1",SPORT 2 (antik)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/ff/Sport_2_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/264?cb=20210814100450" group-title="SPORTS MIX 1",SPORT 2 (antik)
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1553,27 +1553,27 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-1-pt.svg" group-title="SPORTS MIX 1",SPORT TV 1 (explouddev)
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/SporTV1.png/960px-SporTV1.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20201207000636" group-title="SPORTS MIX 1",SPORT TV 1 (explouddev)
 http://dns.explouddev.com/live/992005733/61992005733/111995.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-2-pt.svg" group-title="SPORTS MIX 1",SPORT TV 2 (explouddev)
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/SporTV2.png/960px-SporTV2.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20201207000923" group-title="SPORTS MIX 1",SPORT TV 2 (explouddev)
 http://dns.explouddev.com/live/992005733/61992005733/111998.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-3-pt.svg" group-title="SPORTS MIX 1",SPORT TV 3 (explouddev)
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/SporTV3.png/960px-SporTV3.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20201207001051" group-title="SPORTS MIX 1",SPORT TV 3 (explouddev)
 http://dns.explouddev.com/live/992005733/61992005733/112000.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-4-pt.svg" group-title="SPORTS MIX 1",SPORT TV 4 (explouddev)
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/SporTV4.png/960px-SporTV4.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20201207001219" group-title="SPORTS MIX 1",SPORT TV 4 (explouddev)
 http://dns.explouddev.com/live/992005733/61992005733/112002.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-5-pt.svg" group-title="SPORTS MIX 1",SPORT TV 5 (explouddev)
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/SporTV5.png/960px-SporTV5.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20201207001326" group-title="SPORTS MIX 1",SPORT TV 5 (explouddev)
 http://dns.explouddev.com/live/992005733/61992005733/112004.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.svg" group-title="SPORTS MIX 1",SPORT TV 6 (explouddev)
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/SporTV%2B.png/960px-SporTV%2B.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20201207001649" group-title="SPORTS MIX 1",SPORT TV + (explouddev)
 http://dns.explouddev.com/live/992005733/61992005733/112006.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0sNWg54" group-title="SPORTS MIX 1",SPORTS CONNECT (cloudfront)
 https://d1jl8oqlli7412.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsStudio-Passthrough-SportsConnect/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-first-au.png" group-title="SPORTS MIX 1",SPORTS FIRST (cloudfront)
+#EXTINF:-1 tvg-logo="https://image.pitchbook.com/2E1RM3WzaEcT5YmKMAWNAqbofGE1730895344297_200x200" group-title="SPORTS MIX 1",SPORTS FIRST (cloudfront)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 
-#EXTINF:-1 tvg-chno="2794" tvg-id="GB380000473" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-first-au.png" group-title="SPORTS MIX 1",SPORTS FIRST (jmp2)
+#EXTINF:-1 tvg-chno="2794" tvg-id="GB380000473" tvg-logo="https://image.pitchbook.com/2E1RM3WzaEcT5YmKMAWNAqbofGE1730895344297_200x200" group-title="SPORTS MIX 1",SPORTS FIRST (jmp2)
 https://jmp2.uk/stvp-GB380000473
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Sporttv_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20110126194605" group-title="SPORTS MIX 1",SPOR TVL (mariatvcdn)
@@ -1582,7 +1582,7 @@ https://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c13
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest?cb=20150719162835" group-title="SPORTS MIX 1",STAR SPORTS 2 (aynascope)
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportynet-ng-br.png" group-title="SPORTS MIX 1",SPORTYNET (leiniao)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SportyNet.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20250707132550" group-title="SPORTS MIX 1",SPORTYNET (leiniao)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/fe87ffbfed544016861c529f5324cfb4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png",STADIUM (global)
