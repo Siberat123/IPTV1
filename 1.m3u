@@ -1,6 +1,70 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV", GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="iNews", RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV", SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
+
+#EXTINF:-1 tvg-id="SIN PO tv" tvg-name="SIN PO tv", SIN PO tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
+
+
+#EXTINF:-1 tvg-id="iNews" tvg-name="iNews", iNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+
+
+#EXTINF:-1 tvg-id="antv" tvg-name="antv", antv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+
+
+#EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTV", MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS | AMAZON PRIME",trans
+https://trans.diorx.my.id/p?u=aHR0cHM6Ly92aWRlby5kZXRpay5jb20vdHJhbnM3LXNlYy9zbWlsOnRyYW5zNy5zbWlsL2NodW5rbGlzdF93NDg4MzA3NzIxX2I3NDQxMDBfc2xlbmdfdGtkMjkzZW1GMGIydGxibk4wWVhKMGRHbHRaVDB3Sm5kdmQzcGhkRzlyWlc1bGJtUjBhVzFsUFRFM09EazFORE14TlRBM05UY21kMjkzZW1GMGIydGxibWhoYzJnOWRrTmxNSEozYVVsVVRGbDZORTVhTm5jMVFrSllkRE4yWmt3NVUzWnVjR1ZTZVdwQ2VTMXVNRkoyVlQwPS5tM3U4&r=https://20.detik.com/live/trans-7&o=https://20.detik.com&k=cshx=3bcdb206
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS | AMAZON PRIME",trans
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=744100,RESOLUTION=1280x720
+https://green-night-d2b4.iontv.workers.dev/p?u=aHR0cHM6Ly92aWRlby5kZXRpay5jb20vdHJhbnN0di1zZWMvc21pbDp0cmFuc3R2LnNtaWwvY2h1bmtsaXN0X3cxMDQwMjI5NjIyX2I3NDQxMDBfc2xlbmdfdGtkMjkzZW1GMGIydGxibk4wWVhKMGRHbHRaVDB3Sm5kdmQzcGhkRzlyWlc1bGJtUjBhVzFsUFRFM09EazJPVGMwTXpreE5ERW1kMjkzZW1GMGIydGxibWhoYzJnOVEzRktNbGh5ZWxOeWJreHdSbEUxUnpGS2FHeDJTRUZxY3pBd1VIbHZUaTFaYTNCelNWaFpkR1ZxUVQwPS5tM3U4&r=https%3A%2F%2F20.detik.com%2Flive%2Ftrans-tv&o=https%3A%2F%2F20.detik.com&k=cshx%3D3bcdb206
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS | AMAZON PRIME",cnbc
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=384000,RESOLUTION=1280x720
+https://green-night-d2b4.iontv.workers.dev/p?u=aHR0cHM6Ly9saXZlLmNuYmNpbmRvbmVzaWEuY29tL2xpdmVjbmJjLXNlYy9zbWlsOmNuYmN0di5zbWlsL2NodW5rbGlzdF93NTMzNTY2NDk4X2IzODQwMDBfc2xlbmdfdGtkMjkzZW1GMGIydGxibk4wWVhKMGRHbHRaVDB3Sm5kdmQzcGhkRzlyWlc1bGJtUjBhVzFsUFRFM09EazJPVGM0TmpZMU16Z21kMjkzZW1GMGIydGxibWhoYzJnOVJUQlpOamRVV1hGUFEzcEhWVmh2Wms5RU1uSklSSGxaVm5kcldUSkpjbUV5VmxkWlJuRjRlblI0U1QwPS5tM3U4&r=https%3A%2F%2Fwww.cnbcindonesia.com%2F&o=https%3A%2F%2Fwww.cnbcindonesia.com&k=cshx%3D5e8c12a4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS | AMAZON PRIME",cnn
+#EXT-X-VERSION:3
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=384000,RESOLUTION=1280x720
+https://green-night-d2b4.iontv.workers.dev/p?u=aHR0cHM6Ly9saXZlLmNubmluZG9uZXNpYS5jb20vbGl2ZWNubi1zZWMvc21pbDpjbm50di5zbWlsL2NodW5rbGlzdF93MTM1MDY3NDU3OV9iMzg0MDAwX3NsZW5nX3RrZDI5M2VtRjBiMnRsYm5OMFlYSjBkR2x0WlQwd0puZHZkM3BoZEc5clpXNWxibVIwYVcxbFBURTNPRGsyT1RjM01EazRPVGttZDI5M2VtRjBiMnRsYm1oaGMyZzlhV3BaVm05cFZtSnZSemRITkVaNVIyMW1kVlppUm0xVU9IVkVXbEJITFhoWE5FRnJVa1JHUWtocVFUMD0ubTN1OA%3D%3D&r=https%3A%2F%2Fwww.cnnindonesia.com%2F&o=https%3A%2F%2Fwww.cnnindonesia.com&k=cshx%3Da7f2d91b
+
+
+#EXTINF: -1,ElshintaTV
+#EXTGRP:clouds
+https://cdn.nng.cloudns.us/live/m3u8/id/383fb71f4a76ab2.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="CANAIS | AMAZON PRIME",DAZN 1 HD
 http://imugosi.online/live/861970655/687908312/67457b43-df5c-42be-9b80-6ab23048af52.ts
