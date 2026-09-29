@@ -670,11 +670,11 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/CNN_2014_white.svg/revision/latest?cb=20251028170819" group-title="WORLD NEWS",CNN HEADLINES (jmp2)
 https://jmp2.uk/stvp-ATBD190000101
 
-#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/reuters-logo-black-and-white.png" group-title="WORLD NEWS",REUTERS (rakuten-uk)
+#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Reuters_%281995%29.svg/revision/latest?cb=20240709104226" group-title="WORLD NEWS",REUTERS (rakuten-uk)
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/reuters-logo-black-and-white.png" group-title="WORLD NEWS",REUTERS (jmp2)
+#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Reuters_%281995%29.svg/revision/latest?cb=20240709104226" group-title="WORLD NEWS",REUTERS (jmp2)
 https://jmp2.uk/stvp-DEBD4900001QV
-#EXTINF:-1tvg-id="ReutersTV.us@SD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/reuters-logo-black-and-white.png" group-title="WORLD NEWS",REUTERS (amagi)
+#EXTINF:-1tvg-id="ReutersTV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Reuters_%281995%29.svg/revision/latest?cb=20240709104226" group-title="WORLD NEWS",REUTERS (amagi)
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/aljazeera-net-logo-black-and-white.png" group-title="WORLD NEWS",ALJAZEERA (getaj)
@@ -1854,3 +1854,27 @@ https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
 #
 #SPORTS MIX 1
+
+
+
+
+#LIVE
+#
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE",LIVE 1
+https://live2.domainkqt.cc/live/channel15.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE",LIVE 2
+https://live2.domainkqt.cc/live/channel14.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE",LIVE 3
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE",LIVE 4
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE",LIVE 5
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE",LIVE 6
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE",LIVE 7
+https://allcutv.rctiplus.id/rcti2023.m3u8
+#
+#LIVE
