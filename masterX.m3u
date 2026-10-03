@@ -32,6 +32,11 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302264.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Indosiar_Logo_Commercial_Break.png/revision/latest?cb=20231126124841" group-title="INDO NASIONAL",INDOSIAR (filex)
 http://filex.me:8080/live/3114654477/5787654467/302264.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Indosiar_Logo_Commercial_Break.png/revision/latest?cb=20231126124841" group-title="INDO NASIONAL",INDOSIAR (calistaiptv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=205&type=drm
 https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Indosiar_Logo_Commercial_Break.png/revision/latest?cb=20231126124841" group-title="INDO NASIONAL",INDOSIAR (nextgenz)
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
@@ -142,6 +147,13 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vidsemar.pages.dev/terraluna2/204.mpd
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/SCTV_Commercial_Break_%282004-2005%29.png/revision/latest/scale-to-width-down/1000?cb=20220503071322" group-title="INDO NASIONAL",SCTV (calistaiptv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=204&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NASIONAL (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -676,6 +688,8 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 https://jmp2.uk/stvp-DEBD4900001QV
 #EXTINF:-1tvg-id="ReutersTV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Reuters_%281995%29.svg/revision/latest?cb=20240709104226" group-title="WORLD NEWS",REUTERS (amagi)
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
+#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Reuters_%281995%29.svg/revision/latest?cb=20240709104226" group-title="WORLD NEWS",REUTERS 60 (cloudfront)
+https://dbrb49pjoymg4.cloudfront.net/10001/99951197/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/aljazeera-net-logo-black-and-white.png" group-title="WORLD NEWS",ALJAZEERA (getaj)
 https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
@@ -718,6 +732,7 @@ https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest?cb=20230821202814" group-title="WORLD NEWS",EURONEWS ENGLISH (antik)
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Newsmax_logo.png/revision/latest?cb=20250408031111" group-title="WORLD NEWS",NEWSMAX (akamaized)
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
@@ -798,6 +813,9 @@ https://aegis-cloudfront-1.tubi.video/605fb6ea-f89c-451a-873c-030cb726b493/maste
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/250px-Sky_News_logo.svg.png?_=20231116033324" group-title="WORLD NEWS",SKY NEWS (cloudfront)
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99951337/300x300.webp?type=color_onBlack" group-title="WORLD NEWS",SPECTRUM NEWS+ (cloudfront)
+https://dbrb49pjoymg4.cloudfront.net/10001/99951337/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://webtv.un.org/themes/custom/un_media_theme/assets/un-logo-white-en.svg" group-title="WORLD NEWS",UN TV (kaltura)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
@@ -1860,21 +1878,56 @@ https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
 
 #LIVE
 #
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE",LIVE 1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE EVENT",LIVE 1
 https://live2.domainkqt.cc/live/channel15.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE",LIVE 2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE EVENT",LIVE 2
 https://live2.domainkqt.cc/live/channel14.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE",LIVE 3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE EVENT",LIVE 3
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE",LIVE 4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE EVENT",LIVE 4
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE",LIVE 5
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE EVENT",LIVE 5
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE",LIVE 6
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE EVENT",LIVE 6
 https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE",LIVE 7
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/3a/11/d03a11b560be0b269615b9c388791ec9.gif" tvg-id="itzplay.id" group-title="LIVE EVENT",LIVE 7
 https://allcutv.rctiplus.id/rcti2023.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kuruk1.xn--okq6e.shop/000/
+https://kuruk1.xn--okq6e.shop/kuk1/usergendx419snx12kdgwqrnd.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kuruk1.xn--okq6e.shop/000/
+https://kuruk1.xn--okq6e.shop/kuk2/usergendx0ul1ltsDx9lgcdwqrnd.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
+https://pu1se1.xn--ukq5h.shop/kuk3/usergendxt1v7slq2rnd.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
+https://pu1se1.xn--ukq5h.shop/kuk4/usergendl8g6ks0t3n.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", PPV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://polsey1.xn--zlqv28l.shop/000/
+https://polsey1.xn--zlqv28l.shop/puki1/usergendx6kal0r2bsm.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", PPV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://polsey1.xn--zlqv28l.shop/000/
+https://polsey1.xn--zlqv28l.shop/puki2/usergendxpk2s6utg0l.m3u8
+
+#EXTINF:-1 tvg-chno="151" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Croatia vs. England | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE EVENT",[Football] Croatia vs. England | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
 #
 #LIVE
