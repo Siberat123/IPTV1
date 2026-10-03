@@ -1,0 +1,144 @@
+#EXTM3U
+#EXTINF:-1, RMC 1
+http://145.239.5.177/525/mpegts
+#EXTINF:-1, Sport 1 (Alemanha)
+http://5.180.164.197:8080/SPORT1/index.m3u8
+#EXTINF:-1, L'Equipe (Alt)
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+#EXTINF:-1, FOX 🇲🇽 
+https://live-manifest.production-public.tubi.io/live/350b89fa-8786-4dd8-9707-37d3e41cf0aa/playlist.m3u8
+#EXTINF:-1, FOX Sports Roku
+https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
+#EXTINF:-1, Telemundo Deportes Ahora
+https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459
+#EXTINF:-1, RUS SPORTS
+http://185.57.68.33/110/mpegts
+#EXTINF:-1, Tennis Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischde-samsungch/playlist.m3u8
+#EXTINF:-1, Tennis Channel (alt)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1, Tennis Channel T2
+https://amg01444-amg01444c2-freelivesports-emea-11541.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelfast-tennischannelus-freelivesportsemea/playlist.m3u8
+#EXTINF:-1, Tennis TV
+https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8
+#EXTINF:-1, Tennis +
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1, SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1, Ace TV
+https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8
+#EXTINF:-1, UEFA TV
+https://live-manifest.production-public.tubi.io/live/d846008d-b608-4ddf-931c-48e9b60bf6c5/playlist.m3u8
+#EXTINF:-1, FOX Deportes in Pluto
+https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
+#EXTINF:-1, Claro Sports Mexico
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
+#EXTINF:-1, Claro Sports Chile
+https://jmp2.uk/plu-6320d80a66666000086712d7.m3u8
+#EXTINF:-1, DAZN Heldinnen
+https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
+#EXTINF:-1, DAZN Handball
+https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8
+#EXTINF:-1, DSPORTS 
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1, Bein Sports ñ
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.m3u8
+#EXTINF:-1, Bein Sports 1 France
+https://futbol9865.ultratv13.workers.dev/deportivo111/01.m3u8
+#EXTINF:-1, Bein Sports 1 France (alt)
+http://41.205.70.146/BEINSPORT1/playlist.m3u8
+#EXTINF:-1, Bein Sports 2 France
+https://futbol9865.ultratv13.workers.dev/deportivo111/02.m3u8
+#EXTINF:-1, Bein Sports 2 France (alt)
+http://41.205.70.146/BEINSPORT2/playlist.m3u8
+#EXTINF:-1, Bein Sports 3 France
+https://futbol9865.ultratv13.workers.dev/deportivo111/03.m3u8
+#EXTINF:-1, Bein Sports 3 France (alt)
+http://41.205.70.146/BEINSPORT3/playlist.m3u8
+#EXTINF:-1, Bein Sports Haber
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19064/mpegts
+#EXTINF:-1, Bein Sports Max 1
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19065/mpegts
+#EXTINF:-1, Bein Sports Max 2
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19066/mpegts
+#EXTINF:-1, Sports Illustrated TV
+https://c5879d53.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1NJVFZfSExT/playlist.m3u8
+#EXTINF:-1, FTF Sports
+https://jmp2.uk/rok-e0970e3e4ea951689b1a15f64b091cb1.m3u8
+#EXTINF:-1, DAZN 1
+http://50.7.120.34:8080/DAZN1/index.m3u8
+#EXTINF:-1, DAZN 2
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+#EXTINF:-1, DAZN 3
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+#EXTINF:-1, DAZN 4
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+#EXTINF:-1, DAZN 5
+http://23.237.104.106:8080/DAZN_5/index.m3u8
+#EXTINF:-1, Sport TV 1
+http://dns.explouddev.com/live/992005733/61992005733/111995.m3u8
+#EXTINF:-1, Sport TV 2
+http://dns.explouddev.com/live/992005733/61992005733/111998.m3u8
+#EXTINF:-1, Sport TV 3
+http://dns.explouddev.com/live/992005733/61992005733/112000.m3u8
+#EXTINF:-1, Sport TV 4
+http://dns.explouddev.com/live/992005733/61992005733/112002.m3u8
+#EXTINF:-1, Sport TV 5
+http://dns.explouddev.com/live/992005733/61992005733/112004.m3u8
+#EXTINF:-1, Sport TV 6
+http://dns.explouddev.com/live/992005733/61992005733/112006.m3u8
+#EXTINF:-1, Sport TV +
+http://50.7.120.34:8080/SPORT_TV_MAIS/index.m3u8
+#EXTINF:-1, Star Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1, Star Sports 2
+http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1, ESPN
+http://193.239.186.231/ESPN/index.m3u8
+#EXTINF:-1, ESPN 2
+http://193.239.186.231/ESPN2/index.m3u8
+#EXTINF:-1, ESPN 3
+http://193.239.186.231/ESPN3/index.m3u8
+#EXTINF:-1, ESPN 4
+http://193.239.186.231/ESPN4/index.m3u8
+#EXTINF:-1, Arena Sport 1
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+#EXTINF:-1, Arena Sport 2
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1, Free Live Sports
+https://amg26268-amg26268c27-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg26268-amg26268c27-amgplt0201/playlist.m3u8
+#EXTINF:-1, CRTV Chile
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1, ERT Sports 1
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.m3u8
+#EXTINF:-1, ERT Sports 2
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.m3u8
+#EXTINF:-1, ERT Sports 3
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports3/default/index.m3u8
+#EXTINF:-1, ERT Sports 4
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports4/default/index.m3u8
+#EXTINF:-1, Sport 1 UCR
+http://stream.mcquack.net/391/index.m3u8
+#EXTINF:-1, Sport 2 UCR
+http://stream.mcquack.net/392/index.m3u8
+#EXTINF:-1, Sport 3 UCR
+http://stream.mcquack.net/393/index.m3u8
+#EXTINF:-1, Sport 4 UCR
+http://stream.mcquack.net/394/index.m3u8
+#EXTINF:-1, Sport 5 UCR
+http://stream.mcquack.net/212/index.m3u8
+#EXTINF:-1, SKY Sport Top Event (Alemanha)
+https://7nyaler.streamhostingcdn.top/stream/6/index.m3u8
+#EXTINF:-1, SKY Sport (Austria)
+https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
+#EXTINF:-1, SportyNet 2
+http://dns.explouddev.com/live/992005733/61992005733/301421.m3u8
+#EXTINF:-1, SportyNet 3
+http://dns.explouddev.com/live/992005733/61992005733/301423.m3u8
+#EXTINF:-1, Movistar
+http://195.178.110.110:80/movistar/index.m3u8
+#EXTINF:-1, Eurovision Sport
+https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8
+#EXTINF:-1, Youtube
+https://www.youtube.com
+#EXTM3U
