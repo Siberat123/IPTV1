@@ -11,6 +11,10 @@
 https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Trans_7_2013_Iklan.svg/960px-Trans_7_2013_Iklan.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS 7 (iontv)
 https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Trans_7_2013_Iklan.svg/960px-Trans_7_2013_Iklan.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS 7 (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/33
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Trans_7_2013_Iklan.svg/960px-Trans_7_2013_Iklan.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS 7 (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/33
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Trans_TV_2001.svg/120px-Trans_TV_2001.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS TV (cnnindonesia)
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34324
@@ -20,6 +24,11 @@ https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100
 https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Trans_TV_2001.svg/120px-Trans_TV_2001.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS TV (iontv)
 https://green-night-d2b4.iontv.workers.dev/p?u=aHR0cHM6Ly92aWRlby5kZXRpay5jb20vdHJhbnN0di1zZWMvc21pbDp0cmFuc3R2LnNtaWwvY2h1bmtsaXN0X3cxNjgxNjU5NzY1X2I3NDQxMDBfc2xlbmdfdGtkMjkzZW1GMGIydGxibk4wWVhKMGRHbHRaVDB3Sm5kdmQzcGhkRzlyWlc1bGJtUjBhVzFsUFRFM09EazFNalUxTkRFM01UVW1kMjkzZW1GMGIydGxibWhoYzJnOVpqWnVkVXgwUzIwNE1GRkVlV014UkRsbmVqUkhSbGhqVFVSdk1sTkRlSFJKWWtoQ1FWbHdlbmhMVFQwPS5tM3U4&r=https%3A%2F%2F20.detik.com%2Flive%2Ftrans-tv&o=https%3A%2F%2F20.detik.com&k=cshx%3D3bcdb206
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Trans_TV_2001.svg/120px-Trans_TV_2001.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS TV (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/34
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Trans_TV_2001.svg/120px-Trans_TV_2001.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS TV (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/34
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Indosiar_Logo_Commercial_Break.png/revision/latest?cb=20231126124841" group-title="INDO NASIONAL",INDOSIAR (calistaiptv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
@@ -48,10 +57,18 @@ https://vidsemar.pages.dev/terraluna2/205.mpd
 https://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Indosiar_Logo_Commercial_Break.png/revision/latest?cb=20231126124841" group-title="INDO NASIONAL",INDOSIAR (tvratu)
 https://tvratu.my.id/vid/index.mpd?id=205
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Indosiar_Logo_Commercial_Break.png/revision/latest?cb=20231126124841" group-title="INDO NASIONAL",INDOSIAR (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/11
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Indosiar_Logo_Commercial_Break.png/revision/latest?cb=20231126124841" group-title="INDO NASIONAL",INDOSIAR (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/11
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Antv_%282009%29_%28Gray%29.svg/revision/latest?cb=20201019232803" group-title="INDO NASIONAL",ANTV (beetv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Antv_%282009%29_%28Gray%29.svg/revision/latest?cb=20201019232803" group-title="INDO NASIONAL",ANTV (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Antv_%282009%29_%28Gray%29.svg/revision/latest?cb=20201019232803" group-title="INDO NASIONAL",ANTV (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/1
 
 #EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/MNCTV_tegak_grey.png/revision/latest?cb=20180802052438",MNCTV (r-plus)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -63,6 +80,16 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=870&type=drm
 http://tvratu.my.id/nissa/index.mpd?id=870&type=dash
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/MNCTV_tegak_grey.png/revision/latest?cb=20180802052438",MNCTV (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/22
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/MNCTV_tegak_grey.png/revision/latest?cb=20180802052438",MNCTV (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/22
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/MNCTV_tegak_grey.png/revision/latest?cb=20180802052438",MNCTV (cloudfront)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=203
+https://d2tjypxxy769fn.cloudfront.net/out/v1/52f468e951c14c6ba80d4d31c833fce6/index.mpd
 
 #EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/6/69/Globaltv_indonesia_gray.png/revision/latest/scale-to-width-down/1000?cb=20230101093913",GTV (r-plus)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -74,6 +101,17 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=778&type=drm
 http://tvratu.my.id/nissa/index.mpd?id=778&type=dash
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/6/69/Globaltv_indonesia_gray.png/revision/latest/scale-to-width-down/1000?cb=20230101093913",GTV (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/9
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/6/69/Globaltv_indonesia_gray.png/revision/latest/scale-to-width-down/1000?cb=20230101093913",GTV (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/9
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/6/69/Globaltv_indonesia_gray.png/revision/latest/scale-to-width-down/1000?cb=20230101093913",GTV (cloudfront)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=202
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b2c774f2a6fc4cd1917459335d8231df/index.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/MDTV_logo_%28Gray%29.svg/revision/latest?cb=20250226155202" group-title="INDO NASIONAL",MDTV (31.43.191.125)
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34321
@@ -101,6 +139,8 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h223/index.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/MDTV_logo_%28Gray%29.svg/revision/latest?cb=20250226155202" group-title="INDO NASIONAL",MDTV (channell)
 http://gvisiontv.channell.my.id/ch/id/mdtvnow.php/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/MDTV_logo_%28Gray%29.svg/revision/latest?cb=20250226155202" group-title="INDO NASIONAL",MDTV (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/19
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/20170614145128%21RCTI_Grey.png/revision/latest/scale-to-width-down/1000?cb=20231117161037" group-title="INDO NASIONAL",RCTI (r-plus)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -108,6 +148,17 @@ http://gvisiontv.channell.my.id/ch/id/mdtvnow.php/.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/20170614145128%21RCTI_Grey.png/revision/latest/scale-to-width-down/1000?cb=20231117161037" group-title="INDO NASIONAL",RCTI (31.43.191.125)
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34322
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/20170614145128%21RCTI_Grey.png/revision/latest/scale-to-width-down/1000?cb=20231117161037" group-title="INDO NASIONAL",RCTI (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/26
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/20170614145128%21RCTI_Grey.png/revision/latest/scale-to-width-down/1000?cb=20231117161037" group-title="INDO NASIONAL",RCTI (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/26
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/20170614145128%21RCTI_Grey.png/revision/latest/scale-to-width-down/1000?cb=20231117161037" group-title="INDO NASIONAL",RCTI (cloudfront)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=201
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/ac934bd649dc47f699f793634de01635/index.mpd
+
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/SCTV_Commercial_Break_%282004-2005%29.png/revision/latest/scale-to-width-down/1000?cb=20220503071322" group-title="INDO NASIONAL",SCTV (nextgenz)
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
@@ -130,6 +181,10 @@ https://vidsemar.pages.dev/terraluna2/204.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=204&type=drm
 https://calistaiptv.my.id/indopart/play.mpd?id=204&type=dash
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/SCTV_Commercial_Break_%282004-2005%29.png/revision/latest/scale-to-width-down/1000?cb=20220503071322" group-title="INDO NASIONAL",SCTV (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/30
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/SCTV_Commercial_Break_%282004-2005%29.png/revision/latest/scale-to-width-down/1000?cb=20220503071322" group-title="INDO NASIONAL",SCTV (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/30
 
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NASIONAL (tvri)
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -137,6 +192,8 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI NASIONAL (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/37
 
 #EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI WORLD (tvri)
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
@@ -144,6 +201,11 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI WORLD (intechmedia)
 https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SPORT (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/87
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20190330132702" group-title="INDO NASIONAL",TVRI SPORT (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/87
 #
 #INDO NASIONAL
 
@@ -155,9 +217,13 @@ https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
 #
 #EXTINF:-1 tvg-id="Mentari TV" tvg-name="Mentari TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="INDO DAERAH",MENTARI TV (nextgenz)
 https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
+#EXTINF:-1 tvg-id="Mentari TV" tvg-name="Mentari TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="INDO DAERAH",MENTARI TV (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/20
 
 #EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV (intechmedia)
 https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/40
 
 #EXTINF:-1 tvg-id="GrooviaKanal.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/e1b4737ec68d96b27f713c034543d472.png" group-title="INDO DAERAH",GROOVIA KANAL (githubusercontent)
 https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8
@@ -179,6 +245,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO DAERAH",RTV (202.150.161.212)
 http://202.150.161.212:5000/live/channel23/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO DAERAH",RTV (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/29
 
 #EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548",MOJI (cdn)
 http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
@@ -192,6 +260,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548",MOJI (202.150.161.212)
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
+#EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548",MOJI (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/23
 
 #EXTINF:-1 tvg-id="BiznetAdventure.id@SD" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="INDO DAERAH",BIZNET ADVENTURE (biznet)
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -463,6 +533,8 @@ https://parahyangan.staratv.id/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="UGTV.id@SD" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="INDO DAERAH",UGTV (gunadarma)
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 tvg-id="UGTV.id@SD" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="INDO DAERAH",UGTV (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/39
 #
 #INDO LOKAL
 
@@ -483,6 +555,8 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://media.kompas.tv/webassets/assets_v1/kompastv.png" group-title="INDO NEWS",KOMPAS TV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-densxvisionhd-1.dens.tv/s/s104/index.m3u8
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://media.kompas.tv/webassets/assets_v1/kompastv.png" group-title="INDO NEWS",KOMPAS TV (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/16
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/TvOne_2023_%283D%29_Commercial_Break.png/revision/latest/scale-to-width-down/1000?cb=20240514065436" group-title="INDO NEWS",TV ONE (cdn)
 http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
@@ -506,6 +580,8 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h40/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://tvratu.my.id/nissa/index.m3u8?id=783&type=hls
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/TvOne_2023_%283D%29_Commercial_Break.png/revision/latest/scale-to-width-down/1000?cb=20240514065436" group-title="INDO NEWS",TV ONE (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/36
 
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/2010_METRO.png/revision/latest/scale-to-width-down/1000?cb=20190222062350" group-title="INDO NEWS",METRO TV (medcom)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -527,6 +603,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/2010_METRO.png/revision/latest/scale-to-width-down/1000?cb=20190222062350" group-title="INDO NEWS",METRO TV (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/21
 
 #EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Garuda_TV_putih.svg/revision/latest?cb=20211218192149" group-title="INDO NEWS",GARUDA TV (hgmtv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -540,6 +618,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 https://adptv2.mediaflow.workers.dev/garudatv/s/s123/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Garuda_TV_putih.svg/revision/latest?cb=20211218192149" group-title="INDO NEWS",GARUDA TV (intechmedia)
 https://flv.intechmedia.net/live/ch104.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Garuda_TV_putih.svg/revision/latest?cb=20211218192149" group-title="INDO NEWS",GARUDA TV (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/7
 
 #EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nusantara_TV_2015.png?utm_source=id.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" group-title="INDO NEWS",NUSANTARA TV (siar)
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -555,6 +635,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lit
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nusantara_TV_2015.png?utm_source=id.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" group-title="INDO NEWS",NUSANTARA TV (dens)
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/CNN_%281980%29.svg/revision/latest/scale-to-width-down/1000?cb=20251031105048" group-title="INDO NEWS",CNN INDONESIA (cnnindonesia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -567,11 +649,15 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_s
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/CNN_%281980%29.svg/revision/latest/scale-to-width-down/1000?cb=20251031105048" group-title="INDO NEWS",CNN INDONESIA (iontv)
 https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/CNN_%281980%29.svg/revision/latest/scale-to-width-down/1000?cb=20251031105048" group-title="INDO NEWS",CNN INDONESIA (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/5
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/CNBC_Indonesia_2025_%28white%29.svg/revision/latest?cb=20260110025625" group-title="INDO NEWS",CNBC INDONESIA (cnbcindonesia)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1242192746_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/CNBC_Indonesia_2025_%28white%29.svg/revision/latest?cb=20260110025625" group-title="INDO NEWS",CNBC INDONESIA (iontv)
 https://green-night-d2b4.iontv.workers.dev/cnbc.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/CNBC_Indonesia_2025_%28white%29.svg/revision/latest?cb=20260110025625" group-title="INDO NEWS",CNBC INDONESIA (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/4
 
 #EXTINF:-1 tvg-id="Berita Satu.id" tvg-name="Berita Satu.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/BeritaSatu_%28Stacked%29.svg/revision/latest?cb=20181125093938" group-title="INDO NEWS",BERITA SATU (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -585,6 +671,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=l
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/S2/mnf.m3u8
 #EXTINF:-1 tvg-id="Berita Satu.id" tvg-name="Berita Satu.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/BeritaSatu_%28Stacked%29.svg/revision/latest?cb=20181125093938" group-title="INDO NEWS",BERITA SATU (tenbytecdn)
 https://lnd0t3b922.tenbytecdn.com/ta-sg1/89c624c5-4b4f-473c-b50d-1a156a1c0174/720p/index.m3u8
+#EXTINF:-1 tvg-id="Berita Satu.id" tvg-name="Berita Satu.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/BeritaSatu_%28Stacked%29.svg/revision/latest?cb=20181125093938" group-title="INDO NEWS",BERITA SATU (khano)
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 
 #EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/INews_Gotham.png/revision/latest/scale-to-width-down/1000?cb=20260811075958",INEWS (r-plus)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -596,6 +684,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=5409&type=drm
 http://tvratu.my.id/nissa/index.mpd?id=5409&type=dash
+#EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/INews_Gotham.png/revision/latest/scale-to-width-down/1000?cb=20260811075958",INEWS (lancartech)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/12
+#EXTINF:-1 group-title="INDO NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/INews_Gotham.png/revision/latest/scale-to-width-down/1000?cb=20260811075958",INEWS (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/12
 
 #EXTINF:-1 tvg-id="Jawa.Pos.TV.id" tvg-logo="https://digital.jawapos.com/_next/image?url=https%3A%2F%2Fcdn-jpdigital.jawapos.com%2Fasset-epaper%2Flogo-putih.png&w=256&q=75" group-title="INDO NEWS",JAWAPOS TV (streamlock)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1292,11 +1384,18 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/63a327f073bbfd0ed01684d8/63a327f073bbfde7f7168a29_BTV%20Sports%20Logo.svg" group-title="SPORTS MIX 1",BAHRAIN SPORTS 2 (streamlock)
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/BeIN_Sports_1_logo.svg/960px-BeIN_Sports_1_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221000" group-title="SPORTS MIX 1",BEIN SPORTS 1 (adabmedia)
-https://cp11.adabmedia.com/hls2/bein1.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/BeIN_Sports_1_logo.svg/960px-BeIN_Sports_1_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221000" group-title="SPORTS MIX 1",BEIN SPORTS 1 (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/70
 
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/BeIN_Sports_1_logo.svg/960px-BeIN_Sports_1_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221000" group-title="SPORTS MIX 1",BEIN SPORTS 1 (footballii)
-https://balance.footballii.ir/hls2/bein1.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/BeIN_Sports_1_logo.svg/960px-BeIN_Sports_1_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221000" group-title="SPORTS MIX 1",BEIN SPORTS 1 (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/72
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/BeIN_Sports_2_logo.svg/960px-BeIN_Sports_2_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221003" group-title="SPORTS MIX 1",BEIN SPORTS 2 (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/73
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/BeIN_Sports_1_logo.svg/960px-BeIN_Sports_1_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221000" group-title="SPORTS MIX 1",BEIN SPORTS 1 (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/83279
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/BeIN_Sports_2_logo.svg/960px-BeIN_Sports_2_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221003" group-title="SPORTS MIX 1",BEIN SPORTS 2 (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/83280
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/BeIN_Sports_3_logo.svg/960px-BeIN_Sports_3_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221002" group-title="SPORTS MIX 1",BEIN SPORTS 3 (kazmazpaz)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6821/index.m3u8
@@ -1666,12 +1765,44 @@ http://brmcuyrv.kxubv.com/live/R36SJZZK/1BUM3WQ8/29016.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-plus-icon-uk.png" group-title="SPORTS MIX 1",SKY SPORTS PLUS (kxubv)
 http://brmcuyrv.kxubv.com/live/R36SJZZK/1BUM3WQ8/743273.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8j9KH5Y7ibFzSVdGtrlgDoBQ7lW82OshYBx8LlxqJTeVgcszr4ti4gE-ksKUwJxfao2SS0yjCX2bNaOmZFSpIqaFHb4NuSBzZV4Jrzz0laDi24QTGMETPuNVQO9rhd8CxmJSZwVfHYLZbd4-nhWUvYYH0u7kPBfuCc6pAaUZKLSP8TYu-tMXy9GcxTIU/s700/SoccerChannel.png" group-title="SPORTS MIX 1",SOCCER CHANNEL (cloudfront)
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
 #EXTINF:-1 channel-id="ITBC4700002CO" tvg-id="ITBC4700002CO" tvg-chno="4633" tvg-name="Solocalcio" tvg-logo="https://www.solocalcio.com/wp-content/uploads/2023/01/solocalcio-2x.png" group-title="SPORTS MIX 1",SOLO CALCIO (jmp2)
 https://jmp2.uk/stvp-ITBC4700002CO
 #EXTINF:-1 channel-id="ITBC4700002CO" tvg-id="ITBC4700002CO" tvg-chno="4633" tvg-name="Solocalcio" tvg-logo="https://www.solocalcio.com/wp-content/uploads/2023/01/solocalcio-2x.png" group-title="SPORTS MIX 1",SOLO CALCIO (inspirationFreetv)
 https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.solocalcio.com/wp-content/uploads/2023/01/solocalcio-2x.png" group-title="SPORTS MIX 1",SOLO CALCIO (amagi)
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ4eO-71_NgkCYIk_uWOtjpWrySYTWH8cma2aM1LlXfoeA4cIVaJ2QggTZ-4UDxYx0BtG660HCbMqbNzdrs_oFkB95F-FRsEBF7iTdgaD5qmxPITmiIbc4a1va3nY0Aw5ZWnqPlfJNjsrXB49sarLPFXFy04xz8pdJMWFmlMESb1BHZI2xuaPsUg5pBGQ/s700/Sportstars.png" group-title="SPORTS MIX 1",SPORTSTARS 1 (cloudfront)
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=112
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ92GVOE8oakgJ1PKinsPnbIBOZe3auFltULLM2mkp8_Z6z0bTk_HXEGowdbwVG4YKNPr3bp9OFzjSwyrtxy9nHi5pBXtkm3ktgypKU6L_7EQMwYXmcjCmahYwN3wNyM5htegKR1qJNjWmHzCSVYEwmvyiA4pMcY7JCKz_zLncPXJhe3V-nmZU2FU6Xa4/s700/Sportstars2.png" group-title="SPORTS MIX 1",SPORTSTARS 2 (cloudfront)
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrH1kx6VZ391lNRXOkqtTCH-gW0VS_aoj-Mj9RP5yBA8uahAICOp1upeNUcw25PBPuTvEl70X8RdMWPKmviKZKh6PEPK27KMh1eL19f1Zn4GSkpGW42Lm2MsdCu974edESGENcOh7JZpxTHXcKBs6r8-gF0hNc9Z8gcVdZBTNX2aZuJbtqBgy_y56eG8Y/s700/Sportstars3.png" group-title="SPORTS MIX 1",SPORTSTARS 3 (cloudfront)
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=114
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0pHIAL_V-7ATo-Rm_XoDzqZz-Xw2Bi2fY5ZPqog4ZAWWSR8OOZ_A-Laarw68Hnu7pvKlVu4UTd-3ssfMB2cTKHGVuV6O-vJ7CY68k5Fv60l2gqOCuj5FSsHF2-SY07vwFDOZOkUxCNXxwr3ddXnti2cC37NoKn0KkyqziKJJn5GWC9NuwhOtTF9YCKjI/s700/Sportstars4.png" group-title="SPORTS MIX 1",SPORTSTARS 4 (cloudfront)
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=205
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/SPOTV_Plus_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20150930131337" tvg-id="" group-title="SPORTS MIX 1",SPOTV PRIME (124.222.153.240)
@@ -1780,18 +1911,14 @@ https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 4 (gojosare123)
 https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/2905.m3u
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" ttvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 1 (kazmazpaz)
-http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6566/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 1 (kazmazpaz)
-http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6565/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 1 (kazmazpaz)
-http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/2505/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie"  tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250407170649"group-title="SPORTS MIX 1",TNT SPORTS 2 (kazmazpaz)
-http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/2506/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 3 (kazmazpaz)
-http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6564/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 4 (kazmazpaz)
-http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/19054/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 1 (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/27840
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie"  tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250407170649"group-title="SPORTS MIX 1",TNT SPORTS 2 (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/27841
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 3 (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/27842
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 4 (lancartech)
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/27843
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/TNT_Sports_%282023%29_alt.svg/960px-TNT_Sports_%282023%29_alt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250407170649" group-title="SPORTS MIX 1",TNT SPORTS 1 (kxubv)
 http://brmcuyrv.kxubv.com/live/R36SJZZK/1BUM3WQ8/1084873.m3u8
@@ -1922,9 +2049,9 @@ https://polsey1.xn--zlqv28l.shop/puki1/usergendx6kal0r2bsm.m3u8
 #EXTVLCOPT:http-referrer=https://polsey1.xn--zlqv28l.shop/000/
 https://polsey1.xn--zlqv28l.shop/puki2/usergendxpk2s6utg0l.m3u8
 
-#EXTINF:-1 tvg-chno="151" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Croatia vs. England | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE EVENT",[Football] Croatia vs. England | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/yKOXu", 20:00 WIB Indonesia vs Thailand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 #
 #LIVE
