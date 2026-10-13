@@ -12,25 +12,17 @@ https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_s
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Trans_7_2013_Iklan.svg/960px-Trans_7_2013_Iklan.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS 7 (cnnindonesia)
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w26855752592_b744100_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Trans_7_2013_Iklan.svg/960px-Trans_7_2013_Iklan.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS 7 (iontv)
-https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Trans_7_2013_Iklan.svg/960px-Trans_7_2013_Iklan.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS 7 (lancartech)
 https://iptv.lancartech.co.id:443/Sudika@1/78345252/33
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Trans_7_2013_Iklan.svg/960px-Trans_7_2013_Iklan.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS 7 (lancartech)
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/33
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Trans_TV_2001.svg/120px-Trans_TV_2001.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS TV (31.43.191.125)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34324
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Trans_TV_2001.svg/120px-Trans_TV_2001.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS TV (cnnindonesia)
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Trans_TV_2001.svg/120px-Trans_TV_2001.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS TV (cnnindonesia)
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w26855752598_b744100_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Trans_TV_2001.svg/120px-Trans_TV_2001.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS TV (iontv)
-https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Trans_TV_2001.svg/120px-Trans_TV_2001.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS TV (iontv)
-https://green-night-d2b4.iontv.workers.dev/p?u=aHR0cHM6Ly92aWRlby5kZXRpay5jb20vdHJhbnN0di1zZWMvc21pbDp0cmFuc3R2LnNtaWwvY2h1bmtsaXN0X3cxNjgxNjU5NzY1X2I3NDQxMDBfc2xlbmdfdGtkMjkzZW1GMGIydGxibk4wWVhKMGRHbHRaVDB3Sm5kdmQzcGhkRzlyWlc1bGJtUjBhVzFsUFRFM09EazFNalUxTkRFM01UVW1kMjkzZW1GMGIydGxibWhoYzJnOVpqWnVkVXgwUzIwNE1GRkVlV014UkRsbmVqUkhSbGhqVFVSdk1sTkRlSFJKWWtoQ1FWbHdlbmhMVFQwPS5tM3U4&r=https%3A%2F%2F20.detik.com%2Flive%2Ftrans-tv&o=https%3A%2F%2F20.detik.com&k=cshx%3D3bcdb206
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Trans_TV_2001.svg/120px-Trans_TV_2001.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS TV (lancartech)
 https://iptv.lancartech.co.id:443/Sudika@1/78345252/34
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Trans_TV_2001.svg/120px-Trans_TV_2001.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS TV (lancartech)
@@ -1397,6 +1389,27 @@ http://4.30.180.36:8420/syfy/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20200702203840" group-title="MOVIES & SHOWS",SYFY (23.237.104.106)
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="stream-13f9cba6-209f-4fdd-b2c6-9f41c39d2bf3" tvg-name="Sky Cinema Premiere UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-uk.png?raw=true" group-title="MOVIES & SHOWS",Sky Cinema Premiere (good)
+http://good.852851.xyz/l/oRZueEgPLXCQiQAYqVgnKCMBynMFcbX01PWc8V7pi2OUabSN7DuGXUjxU7Kk0gEo/play
+#EXTINF:-1 tvg-id="stream-baaab6b4-599b-4b9c-afa9-b6ebf8b5db1b" tvg-name="Sky Cinema Select UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-select-uk.png?raw=true" group-title="MOVIES & SHOWS",Sky Cinema Select (good)
+http://good.852851.xyz/l/Zy8dTbynUu3VS9HQKo4OnD-XsBd4Hua3jxLSxd5lx22Bpk_9927FsZnMCW9oN-7S/play
+#EXTINF:-1 tvg-id="stream-ae115fd7-0e32-4745-9ec8-2620ac778be4" tvg-name="Sky Cinema Hits UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-uk.png?raw=true" group-title="MOVIES & SHOWS",Sky Cinema Hits (good)
+http://good.852851.xyz/l/-l7PfMHj7HyrmYNXgDQAu_KGTzZVhqxz-wrDq7Cp00olGPcaDTwxhrusRbFOSNsU/play
+#EXTINF:-1 tvg-id="stream-f2d5850e-6e82-40e7-928b-16aa2bd3138c" tvg-name="Sky Cinema Greats UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-uk.png?raw=true" group-title="MOVIES & SHOWS",Sky Cinema Greats (good)
+http://good.852851.xyz/l/HZeqjOGxt8zPT_f2yI-sA-6RG9HeGoJq9Ikq_cCbeAOZGswxH-cY3mmriR-xKtsU/play
+#EXTINF:-1 tvg-id="stream-f652df33-0b0a-4feb-9964-6aa5135d4a4d" tvg-name="Sky Cinema Family UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-uk.png?raw=true" group-title="MOVIES & SHOWS",Sky Cinema Family (good)
+http://good.852851.xyz/l/dU_GRZJatpy3vAKrb6KkkT9sMcFGJ5iztyXbxQxEeYbGgDfsrhMcU02aLYmgj4K9/play
+#EXTINF:-1 tvg-id="stream-b271bbc6-8412-41f4-a6c2-1962830b5a8d" tvg-name="Sky Cinema Action UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-uk.png?raw=true" group-title="MOVIES & SHOWS",Sky Cinema Action (good)
+http://good.852851.xyz/l/ClsuXZ3Z3cV6zV5baYvYIxEsgWyi9SdtGJfTmqJJlt9vrVRKg96I8lpc27fKXwhV/play
+#EXTINF:-1 tvg-id="stream-d89226be-4b51-432e-8766-61f18806c5f9" tvg-name="Sky Cinema Comedy UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-uk.png?raw=true" group-title="MOVIES & SHOWS",Sky Cinema Comedy (good)
+http://good.852851.xyz/l/0h-oPIg0AAinbBLw1hCW1mPqo3FJWE2HbjgqmxJFQ6FtnnDQNF1VdmkZXeQwWMmR/play
+#EXTINF:-1 tvg-id="stream-c229993c-f9bf-4c10-b5c8-af1c9c2108de" tvg-name="Sky Cinema Thriller UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-uk.png?raw=true" group-title="MOVIES & SHOWS",Sky Cinema Thriller (good)
+http://good.852851.xyz/l/uHKoc-o-pYdCyLAn8MF_j7h1bT1pXt7A3n3EGxvwfGNBi6OdBNOuFDnxCe-q_Hbs/play
+#EXTINF:-1 tvg-id="stream-449b32a4-c464-410b-9175-3a2ed4e9af01" tvg-name="Sky Cinema Drama UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-uk.png?raw=true" group-title="MOVIES & SHOWS",Sky Cinema Drama (good)
+http://good.852851.xyz/l/PymLUyNqFP-Cf54jM8T4OHmtRWQ0Oc4vZn0ludGN7Yiyd22GjpTZLEMx36VetdU8/play
+#EXTINF:-1 tvg-id="stream-062c4f72-a61b-4763-a081-af5b2d9153a1" tvg-name="Sky Cinema Sci-Fi & Horror UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png?raw=true" group-title="MOVIES & SHOWS",Sky Cinema Sci-Fi & Horror (good)
+http://good.852851.xyz/l/SpuqTLR2YwXc4x0QmsA-QtJRRirivaboedPtU7nmiRAeoBG48LcFvR8BJPi1wKrY/play
 #
 #MOVIES & SHOWS
 
@@ -1420,6 +1433,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="SPORTS MIX 1",A SPORTS (cloudcdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=12217&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="SPORTS MIX 1",A SPORTS (playztv)
+https://playztv-apps.pages.dev/a-sports/index.m3u8
 
 #EXTINF:-1 tvg-id="ACISportTV.it@SD" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="SPORTS MIX 1",ACI SPORT TV (multistream)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
@@ -1471,8 +1487,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/63a327f073bbfd0ed01684d8/63a327f073bbfde7f7168a29_BTV%20Sports%20Logo.svg" group-title="SPORTS MIX 1",BAHRAIN SPORTS 2 (streamlock)
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/BeIN_Sports_1_logo.svg/960px-BeIN_Sports_1_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221000" group-title="SPORTS MIX 1",BEIN SPORTS 1 (best-8k)
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1965354.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/BeIN_Sports_1_logo.svg/960px-BeIN_Sports_1_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221000" group-title="SPORTS MIX 1",BEIN SPORTS 1 (mdmfista)
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:01:AB:7F&stream=1313535&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/BeIN_Sports_1_logo.svg/960px-BeIN_Sports_1_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221000" group-title="SPORTS MIX 1",BEIN SPORTS 1 (lancartech)
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/70
@@ -1487,10 +1503,15 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/83279
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/BeIN_Sports_2_logo.svg/960px-BeIN_Sports_2_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221003" group-title="SPORTS MIX 1",BEIN SPORTS 2 (lancartech)
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/83280
 
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/BeIN_Sports_1_logo.svg/960px-BeIN_Sports_1_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221000" group-title="SPORTS MIX 1",BEIN SPORTS 1 (adabmedia)
+https://cp11.adabmedia.com/hls2/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/BeIN_Sports_2_logo.svg/960px-BeIN_Sports_2_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221003" group-title="SPORTS MIX 1",BEIN SPORTS 2 (adabmedia)
 https://cp11.adabmedia.com/hls2/bein2.m3u8
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/BeIN_Sports_3_logo.svg/960px-BeIN_Sports_3_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221000" group-title="SPORTS MIX 1",BEIN SPORTS 3 (adabmedia)
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/BeIN_Sports_3_logo.svg/960px-BeIN_Sports_3_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260620221002" group-title="SPORTS MIX 1",BEIN SPORTS 3 (adabmedia)
 https://cp11.adabmedia.com/hls2/bein3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20170103120137" group-title="beIN Sports Network XTRA",BEIN SPORTS USA (good)
+http://good.852851.xyz/l/mVQg9MCPHaZER98NGvJ7xau_uxg6h1mki9cgwT56cJE_Nn9QhbUCHRGmblvlQm7_/play
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="SPORTS MIX 1",BEIN SPORTS XTRA ñ (amagi)
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
@@ -1566,8 +1587,16 @@ http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31954/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0cbss91740861809.png" group-title="SPORTS MIX 1",DAZN 1 (ottolok)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19158/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0cbss91740861809.png" group-title="SPORTS MIX 1",DAZN 1 (50.7.120.34)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20231024145412" group-title="SPORTS MIX 1",DAZN 1 (50.7.120.34)
 http://50.7.120.34:8080/DAZN1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20231024145535" group-title="SPORTS MIX 1",DAZN 2 (50.7.120.34)
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20231024145649" group-title="SPORTS MIX 1",DAZN 3 (50.7.120.34)
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20231024150500" group-title="SPORTS MIX 1",DAZN 4 (50.7.120.34)
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/DAZN_5.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20231024150556" group-title="SPORTS MIX 1",DAZN 5 (50.7.120.34)
+http://23.237.104.106:8080/DAZN_5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="SPORTS MIX 1",DAZN 2 (23.237.104)
 http://23.237.104.106:8080/DAZN_2/index.m3u8
@@ -1690,6 +1719,9 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Logo_GE_TV_%28purple%29.svg/120px-Logo_GE_TV_%28purple%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="SPORTS MIX 1",GE TV (amagi)
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Geo Super" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/Logo_Geo_Super.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20250802043931" group-title="SPORTS MIX 1",GEO SUPER (streamhub) 
+https://streamhub.dhruvpatil681.workers.dev/1100.m3u8
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/960px-Globo_logo_and_wordmark.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20151028221355" tvg-id="itzplay.id" group-title="SPORTS MIX 1",GLOBO TV (sua)
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -1701,6 +1733,30 @@ https://streams2.sofast.tv/sofast/goaltv/goaltv_3500k.m3u8
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Ht-spor-buyuk.webp" group-title="SPORTS MIX 1",HT SPOR (ercdn)
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+
+#EXTINF:-1 tvg-id="stream-668dd0ea-fc8e-4ed7-9650-b1269a03bd0f" tvg-name="Hub Sports 1 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png" group-title="SPORTS MIX 1",HUB SPORTS 1 (good)
+http://good.852851.xyz/l/w_tM2oQM5f9OupP_EeseBacg07EXLa-aqyagDltJHeHiUDA5BWSo2OkwN19TZp82/index.m3u8
+#EXTINF:-1 tvg-id="stream-6654d8dd-148f-43fd-a34d-41aef0f945db" tvg-name="Hub Sports 2 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/202_1920x1080_HTV.png" group-title="SPORTS MIX 1",HUB SPORTS 2 (good)
+http://good.852851.xyz/l/Hu-A8D_tc6RowElYu46UGbTYCnTUZqg1g9tschbayq4Lrp9dukSBuZW6A2v2MoPV/index.m3u8
+#EXTINF:-1 tvg-id="stream-6ecc4db8-0f66-4269-96ad-c2d1f3a82fb1" tvg-name="Hub Sports 3 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png" group-title="SPORTS MIX 1",HUB SPORTS 3 (good)
+http://good.852851.xyz/l/FZtK1O68vTnCxN-VVJfDPUb8Cyg8w5wL5lYXdx1rXntTQzhVrtUcarO_5Vs6M7nN/index.m3u8
+#EXTINF:-1 tvg-id="stream-7da95596-b247-4391-a776-39e170f51553" tvg-name="Hub Sports 4 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/204_1920x1080_HTV.png" group-title="SPORTS MIX 1",HUB SPORTS 4 (good)
+http://good.852851.xyz/l/pUfQheSbjKAF_bMUilbeYLyLcMeBbOBRMW-EHXnSlekLi4f4zyLmn7Bcay22Vsgo/index.m3u8
+#EXTINF:-1 tvg-id="stream-c81c06f4-d4c9-41a9-bb61-896bef866a4a" tvg-name="Hub Sports 5 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png" group-title="SPORTS MIX 1",HUB SPORTS 5 (good)
+http://good.852851.xyz/l/2Ns632geNpLT8JqXu_1hN6jNwjRd3A77CWaxdJKLW99DO2oGjRcAU1zqFspNxj1p/index.m3u8
+
+#EXTINF:-1 tvg-id="stream-1685cfe0-767a-4298-bbc6-2d95e872626d" tvg-name="Hub Premier 1" tvg-logo="https://poster.starhubgo.com/Linear_channels2/221_1920x1080_HTV.png" group-title="SPORTS MIX 1",HUB PREMIER 1 (good)
+http://good.852851.xyz/l/m65EnET__mnfj57eNqYs_iP_YzzTTwRWuj_MvWQ4hHw35zs527XmduQn_kU1jzOd/index.m3u8
+#EXTINF:-1 tvg-id="stream-24ef52de-bab7-42cf-bafe-d70fb198d07c" tvg-name="Hub Premier 2" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png" group-title="SPORTS MIX 1",HUB PREMIER 2 (good)
+http://good.852851.xyz/l/GdsMqjv-yTcNtal4_MkGiV_fFnthwevVC3-2rEEDO2vecTyg1T_RGlWHFy57XIMt/index.m3u8
+#EXTINF:-1 tvg-id="stream-a91500ef-a5f6-49e6-af3d-9231741acc0c" tvg-name="Hub Premier 3" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png" group-title="SPORTS MIX 1",HUB PREMIER 3 (good)
+http://good.852851.xyz/l/3NC_uHJOE8wIql6I1x0U5z9Byl6nsKBG2GIT8lck2WFWDbM2DUc9lXzqoZ4qYgS0/index.m3u8
+#EXTINF:-1 tvg-id="stream-2c45846d-f299-44a8-a487-484c1e03400e" tvg-name="Hub Premier 4" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png" group-title="SPORTS MIX 1",HUB PREMIER 4 (good)
+http://good.852851.xyz/l/-kmvMMdML5ABA-rLme38Te9L7Xe5fs1-E5_UWdoYA1oFLny-TWUAw-1OYrUz0aGw/index.m3u8
+#EXTINF:-1 tvg-id="stream-42ff72df-94b6-4e18-b352-3dd2572cde45" tvg-name="Hub Premier 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/225_1920x1080_HTV.png" group-title="SPORTS MIX 1",HUB PREMIER 5 (good)
+http://good.852851.xyz/l/KT9Kji_aGwM_b50NB4GN6bGmPixGhlXCcc5BkSW92oWxPCxW6l2FZvD7xHXjQbcT/index.m3u8
+#EXTINF:-1 tvg-id="stream-d5a8ece7-9440-425c-9803-70faa0c97438" tvg-name="Hub Premier 6" tvg-logo="https://poster.starhubgo.com/Linear_channels2/226_1920x1080_HTV.png" group-title="SPORTS MIX 1",HUB PREMIER 6 (good)
+http://good.852851.xyz/l/x8WIcubqnqEa16Sq5ascp7MTtVxO2T6Btn-QRdSzQuqkkEwTSisjDKBLyRUPMek8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C4%B0dman_TV_%282019%29.png/960px-%C4%B0dman_TV_%282019%29.png" group-title="SPORTS MIX 1",IDMAN TV (yodacdn)
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b2231548857bf0a078bb6387e8830040aa18cee-1ee342667d60c2ac2e8f0c594cf33331-1753218237000000-1753207437000
@@ -1759,11 +1815,29 @@ https://cdn-5.nxplay.com.br/NSPORTS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/59o8o81649341463.png" group-title="SPORTS MIX 1",NOVA SPORT 4 (vexiumis)
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31571/index.m3u8
 
+#EXTINF:-1 tvg-id="stream-3698a474-ce92-4cfe-abce-47b41a5b162d" tvg-name="Now Sports Select" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_170_122" group-title="SPORTS MIX 1",NOW SPORTS SELECT (good)
+http://good.852851.xyz/l/oKTA_Pmd5DEEuTpgDM8nTY1rM9LK7SdHRAkMgpTQlmoZAxXHssEIOzBq6k3OA1uC/index.m3u8
+#EXTINF:-1 tvg-id="stream-a0430aea-7171-4a1f-8ecd-79920552c8f4" tvg-name="Now Sports Premier League 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_170_122" group-title="SPORTS MIX 1",NOW SPORTS PREMIER LEAGUE 1 (good)
+http://good.852851.xyz/l/dJ4rWK7nWSQs3axTd_BSSSaY03RjsCITWVRffTtnWuQONO3rxQwOZemcw_5hO966/index.m3u8
+#EXTINF:-1 tvg-id="stream-8ab20786-8217-4f1f-babc-1ff163ad05e5" tvg-name="Now Sports Premier League 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_170_122" group-title="SPORTS MIX 1",NOW SPORTS PREMIER LEAGUE 2 (good)
+http://good.852851.xyz/l/VK_BNIPUib_z6j5kJXGY_dxQGrFGNEABRAxHSCff0vK34p8qu9sM6Soaw10PoLFf/index.m3u8
+#EXTINF:-1 tvg-id="stream-e6f1eabb-5b49-4722-9b9f-79eaa6d0f6da" tvg-name="Now Sports Premier League 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_170_122" group-title="SPORTS MIX 1",NOW SPORTS PREMIER LEAGUE 3 (good)
+http://good.852851.xyz/l/UeKoXg_KaGlNBU7l4Egg1EncNhv10QWBzuQEFf5WhKdoiIXyCcYh4WQkLHVehVio/index.m3u8
+#EXTINF:-1 tvg-id="stream-2e567d5d-4a02-4922-b478-8d7111d9e703" tvg-name="Now Sports Premier League 4" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_170_122" group-title="SPORTS MIX 1",NOW SPORTS PREMIER LEAGUE 4 (good)
+http://good.852851.xyz/l/Cl2cdm6g5V8EChk9VJAZFnr23Ed3Z_WnQ5Ld6GJTyYcfH7Ag5Aclr3s3YCB0Q0Dm/index.m3u8
+#EXTINF:-1 tvg-id="stream-adf60cd6-eae4-44b8-a5f2-7f2dbcfbdde6" tvg-name="Now Sports Premier League 5" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_170_122" group-title="SPORTS MIX 1",NOW SPORTS PREMIER LEAGUE 5 (good)
+http://good.852851.xyz/l/pTB5YZToRKw0n5DX_qmpBdYaHtQGrgfmgswtZiz2EBZcIjvRbkDQRwaloNLckpe9/index.m3u8
+#EXTINF:-1 tvg-id="stream-97c998d8-8b9b-4161-a61e-c086bd51d5b9" tvg-name="Now Sports Premier League 6" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_170_122" group-title="SPORTS MIX 1",NOW SPORTS PREMIER LEAGUE 6 (good)
+http://good.852851.xyz/l/V6NSUKCexeXFmRZuGEWp8u6umoECVBXi0Ka4a6AKIi10aBAZnD0mTWd8SgZUNlQG/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png" group-title="SPORTS MIX 1",OMAN SPORT (mgmlcdn)
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 channel-id="6334a574605f140007e233c4" tvg-id="6334a574605f140007e233c4" tvg-chno="2880" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="SPORTS MIX 1",PFL MMA (jmp2)
 https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS38rUpgvbMqZgOepKw5BYJo_QXXD-HghST7jAEy3sQ8OPGqXno2zTuLwwc&s=10" group-title="SPORTS MIX 1",PK SPORTS (bozztv)
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo_TV_Premier_Sport_1.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20220313174448",PREMIERE SPORTS 1 (gojosare123)
 https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/2908.m3u
@@ -1796,6 +1870,40 @@ http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/15183/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Setanta_Sports_2_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804053337" group-title="SPORTS MIX 1",SETANTA SPORTS 2 (vexiumis)
 http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/6544/index.m3u8
+
+#EXTINF:-1 tvg-id="stream-5cb0e31c-b8df-4e01-9bf9-eb567051b048" tvg-name="Sky Sport 1 NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-1-nz.png?raw=true" group-title="SPORTS MIX 1",SKY SPORT 1 (good)
+http://good.852851.xyz/l/BDQ4s50fsae92O8bSMdLz5dpguuSFb3TG_UaIbdFoOWkC9ZsV_zKXUYEQkHA678N/play
+#EXTINF:-1 tvg-id="stream-4199cd7d-269a-4da0-a19f-dc90fcf475f4" tvg-name="Sky Sport 2 NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-2-nz.png?raw=true" group-title="SPORTS MIX 1",SKY SPORT 2 (good)
+http://good.852851.xyz/l/fC6MyI68m16pEdxerbXbu-si6gMjERz69MaSCHu12pDofwJS7CgmVdqElUO-mIYX/play
+#EXTINF:-1 tvg-id="stream-b7148db8-7198-48c7-9c4b-8103ced330bc" tvg-name="Sky Sport 3 NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-3-nz.png?raw=true" group-title="SPORTS MIX 1",SKY SPORT 3 (good)
+http://good.852851.xyz/l/esWqaJ8d6fQnf8duvnHkiL8IkzvKYItv1VtX5hfKqub7I1A3OxsrfZY3JFF5y0wj/play
+#EXTINF:-1 tvg-id="stream-3e43f04a-114a-4490-8115-2e463c97516d" tvg-name="Sky Sport 4 NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-4-nz.png?raw=true" group-title="SPORTS MIX 1",SKY SPORT 4 (good)
+http://good.852851.xyz/l/OKy2ZL0NSB4dfKWP6AfkJEmtQi3GFK7osXqwgrTJEUoRR3fx71GMIyOcZCmpLZDk/play
+#EXTINF:-1 tvg-id="stream-968927ef-443e-40c6-8bfd-990c6ea04bfc" tvg-name="Sky Sport 5 NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-5-nz.png?raw=true" group-title="SPORTS MIX 1",SKY SPORT 5 (good)
+http://good.852851.xyz/l/ic4sw-ADM0a8V51TXTJ1eQP8JyHb6GWuyv5ykc6yF6gU4Ax7TNZhhLA6oCI29Jai/play
+#EXTINF:-1 tvg-id="stream-b67ebbdd-7ae5-4a9d-bb97-7285cb172991" tvg-name="Sky Sport 6 NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-6-nz.png?raw=true" group-title="SPORTS MIX 1",SKY SPORT 6 (good)
+http://good.852851.xyz/l/MainN2xbZlcvgfgy9nEo8pm0PK5FbjGheATqqjUEbg1M6Rfvg0QO0TdvDDrB0V00/play
+#EXTINF:-1 tvg-id="stream-95767130-d955-49cf-a8f5-8a6d73b402cc" tvg-name="Sky Sport 7 NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-7-nz.png?raw=true" group-title="SPORTS MIX 1",SKY SPORT 7 (good)
+http://good.852851.xyz/l/gD9GmB46nsE3WAR7gDI-JPN1b92_rMjPZ7btrxVQyUNc_Rihrxvn2n23FQsoVKM5/play
+#EXTINF:-1 tvg-id="stream-a33f1654-4212-4ccb-ad1d-7400cb5c4c1d" tvg-name="Sky Sport Premier League NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-8-nz.png?raw=true" tvg-id="SkySportPremierLeague.nz" group-title="SPORTS MIX 1",SKY SPORT PREMIER LEAGUE (good)
+http://good.852851.xyz/l/BisQdlG9524C_9B3LGVOhYDY1X6psl7cQTgc6kzt7cUQdJxtX2sKjLOXc_rGp6_7/play
+#EXTINF:-1 tvg-id="stream-bc7b11c6-db14-4388-b077-e305a6bb41bb" tvg-name="Sky Sport Select NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-select-nz.png?raw=true" group-title="SPORTS MIX 1",SKY SPORT SELECT (good)
+http://good.852851.xyz/l/QRLACWyv2D8KbmqUOUje8TgI3L3VbTyggCRbqRTl-L7fev1V6dhA1_MiMy3QSZbl/play
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20231118121315" group-title="SPORTS MIX 1",SKY SPORTS NEWS (good)
+http://good.852851.xyz/l/RvpuNWysGFkH7I7cXDkhyddNwf9LrnzF4LivWbx3ohdVBSPV4UxVDCud5zXmdwTT/play
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20231118121315" group-title="SPORTS MIX 1",SKY SPORTS MIX (good)
+http://good.852851.xyz/l/rtrIWma_A64fTPIS1LPu-mMfWuI-dgzFmsgdXGEatTrf3sIA8QXGn20aYgTV4b4O/play
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20231118121315" group-title="SPORTS MIX 1",SKY SPORTS MAIN EVENT (good)
+http://good.852851.xyz/l/dSVt2iAMJ2R6MXi_qzxMT-kNmPcBKOLBW6IBifqgdJepKTsBswrdHES6ncRzN8Uf/play
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20231118121315" group-title="SPORTS MIX 1",SKY SPORTS FOOTBALL (good)
+http://good.852851.xyz/l/Kx_OQIq2FscW2aADSidGxi7tEL6yQhHWitm2Bg_bddhJ1rvviTMABzoOpM01aQVw/play
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20231118121315" group-title="SPORTS MIX 1",SKY SPORTS PREMIER LEAGUE (good)
+http://good.852851.xyz/l/kFQktY77aUqQNfCALeT_Ev8u1gMRhVYN1HvQKw96t5LiLASGClvl5V1zERsQrSE9/play
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20231118121315" group-title="SPORTS MIX 1",SKY SPORTS+ (good)
+http://good.852851.xyz/l/wktMNCNX1EZUzXXufAo0PJYOShbA3jfjLB9Av-uy-N3LlEeAaxL5q6AYNBYAsZMQ/play
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20231118121315" group-title="SPORTS MIX 1",SKY SPORTS ACTION (good)
+http://good.852851.xyz/l/rjgkcHkLKeiV9llv9IlgKQadSVEXpxwOLoI7vZahlvCqdJxy1fH67noyQqxaCTQj/play
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="SPORTS MIX 1",SKY SPORTS PREMIER LEAGUE (etvhosts)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/16559
@@ -1927,6 +2035,11 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163886.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/41/SPOTV2_2012.png/revision/latest/scale-to-width-down/1000?cb=20230724144452&path-prefix=vi" group-title="SPORTS MIX 1",SPOTV 2 (best-8k)
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163884.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.spotv.net/static/images/intro_logo.png" group-title="SPORTS MIX 1",SPOTV (good)
+http://good.852851.xyz/l/0k_8SKhWcVGKprEONAIwr_hrKV2V6mYVyaqPAQ0upqpWdoN9WHxsMEDcpcqefiGG/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015" group-title="SPORTS MIX 1",SPOTV 2 (good)
+http://good.852851.xyz/l/qEqSn1oZoHLh0Nn0YI4vt9G7AJ3HbO0pNbAdWH0lpTlameXL9xfv24_00wIm779B/index.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1936,6 +2049,15 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163884.ts
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1011
 #EXTINF:-1 group-logo="" group-title="SPORTS MIX 1" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-l.png",SPOTV (cloudfront)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/f224a4945f2f48e892fb896645a9af6b/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=120
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-l.png" group-title="SPORTS MIX 1",SPOTV 2 (cloudfront)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
