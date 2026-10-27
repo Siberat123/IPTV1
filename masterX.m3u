@@ -1586,6 +1586,9 @@ http://212.102.38.45/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%C4%8CT_Sport_Logo_2013.svg/960px-%C4%8CT_Sport_Logo_2013.svg.png?utm_source=cs.wikipedia.org&utm_campaign=index&utm_content=thumbnail",ČT SPORT (88.212.15.19)
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0cbss91740861809.png" group-title="SPORTS MIX 1",DAZN 1 (kstv)
+http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/48443.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0cbss91740861809.png" group-title="SPORTS MIX 1",DAZN 1 (etvhosts)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/60023
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0cbss91740861809.png" group-title="SPORTS MIX 1",DAZN 1 (etvhosts)
@@ -1989,6 +1992,17 @@ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fd
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="SPORTS MIX 1",SKY SPORTS PREMIER LEAGUE (kwick)
 http://kwick.cc:80/live/Michelle1/Michelle1/276906.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-icon-uk.png" group-title="SPORTS MIX 1",SKY SPORTS MAIN EVENT (kwick)
+http://kwick.cc:80/live/Michelle1/Michelle1/276918.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-plus-icon-uk.png" group-title="SPORTS MIX 1",SKY SPORTS PLUS (kwick)
+http://kwick.cc:80/live/Michelle1/Michelle1/276933.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="SPORTS MIX 1",SKY SPORTS PREMIER LEAGUE (kstv)
+http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47871.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-icon-uk.png" group-title="SPORTS MIX 1",SKY SPORTS MAIN EVENT (kstv)
+http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47868.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-plus-icon-uk.png" group-title="SPORTS MIX 1",SKY SPORTS PLUS (kstv)
+http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47863.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-icon-uk.png" group-title="SPORTS MIX 1",SKY SPORTS MAIN EVENT (ottolok)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
@@ -2323,23 +2337,15 @@ https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
 
 
 
+#LIVE EVENT
+#
+#EXTINF:-1 tvg-id="rbtv-4479806" tvg-name="⏳ 28/10 19:15 WIB [AFC Champions League Two] Persib Bandung vs Melbourne Victory [Server 1]" tvg-logo="https://logos1.tcxru135mdqf.ru/aelogo/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80" group-title="LIVE EVENT",⏳ 28/10 19:15 WIB [AFC Champions League Two] Persib Bandung vs Melbourne Victory [Server 1]
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/U7Mz3Z6e4t0HvxoHRJbnrP9Di4OrsDM3ho1aaCIwTKWJNKnQwA.m3u8?s=0&proxy_seg=1
 
-
-
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/ELEVENPROLEAGUEHD.png" group-title="┃BE┃ WALLONIË SPORT",┃BE┃PLAY SPORTS 1 4K (FR)
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=368594&extension=ts&play_token=RlEaQ1EZlH
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/ELEVENPROLEAGUEHD.png" group-title="┃BE┃ WALLONIË SPORT",┃BE┃ PLAY SPORTS 1 HD (FR)
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=368595&extension=ts&play_token=vhrIhjSuLG
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/ELEVENPROLEAGUEHD.png" group-title="┃BE┃ WALLONIË SPORT",┃BE┃ PLAY SPORTS 2 4K (FR)
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=368596&extension=ts&play_token=l0kVOrzODR
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/ELEVENSPORTSHD.png" group-title="┃BE┃ WALLONIË SPORT",┃BE┃ PLAY SPORTS 2 HD (FR)
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=368597&extension=ts&play_token=BrqSenA8ie
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/SPORTWORLD1HD.png" group-title="┃BE┃ WALLONIË SPORT",┃BE┃ VOO SPORT WORLD 1 4K (FR)
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=368600&extension=ts&play_token=LllC70U4dz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/SPORTWORLD2HD.png" group-title="┃BE┃ WALLONIË SPORT",┃BE┃ VOO SPORT WORLD 2 4K (FR)
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=368601&extension=ts&play_token=hjuY0D5zIo
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/SPORTWORLD3HD.png" group-title="┃BE┃ WALLONIË SPORT",┃BE┃ VOO SPORT WORLD 3 4K (FR)
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=368602&extension=ts&play_token=Xr4QUcelQ9
-
+#EXTINF:-1 tvg-id="rbtv-4479806" tvg-name="⏳ 28/10 19:15 WIB [AFC Champions League Two] Persib Bandung vs Melbourne Victory [Server 1]" tvg-logo="https://logos1.tcxru135mdqf.ru/aelogo/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80" group-title="LIVE EVEN",⏳ 28/10 19:15 WIB [AFC Champions League Two] Persib Bandung vs Melbourne Victory [Server 1]
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/R6zIfwatZCU-6N5jUUBBenYMtbX69FDl-UnAnONVZXGeh4q5Vw.m3u8?s=0&proxy_seg=1
 
