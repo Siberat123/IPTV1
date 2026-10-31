@@ -91,6 +91,26 @@ http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/174429.ts
 http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/174430.ts
 #EXTINF:-1, NOVA SPORTS NEWS
 ehttp://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/174431.ts
-#EXTINF:-1, Youtube
-https://www.youtube.com
-#EXTM3U
+#EXTINF:-1, ESPN 1 Latin America South
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1, ESPN 2 Latin America South
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1, ESPN 3 Latin America South
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1, ESPN 4 Latin America South
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1, ESPN 5 Latin America South
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1, ESPN 6 Latin America South
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1, ESPN 7 Latin America South
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+
+#EXTINF:-1, Persiana Sport
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1, Persiana Sport 2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1, Persiana Sport 3
+https://pepsi3.abntv.live/hls/psp3.m3u8
+#EXTINF:-1, Persiana Sport 4
+https://pepsi4.abntv.live/hls/psp4.m3u8
