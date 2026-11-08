@@ -1743,6 +1743,15 @@ http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/36748.ts
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20160127215859" group-title="SPORTS MIX 1",ESPN 2 (pelusa)
 http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/43574.ts
 
+#EXTINF:-1 tvg-id="ElevenSports1.pl@SD" tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="SPORTS MIX 1",ELEVEN SPORTS 1 (92.114.85.87)
+http://92.114.85.87:8002/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="ElevenSports2.pl@SD" tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="SPORTS MIX 1",ELEVEN SPORTS 2 (92.114.85.87)
+http://92.114.85.87:8002/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="ElevenSports3.pl@SD" tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="SPORTS MIX 1",ELEVEN SPORTS 3 (92.114.85.87)
+http://92.114.85.87:8002/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="ElevenSports4.pl@SD" tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="SPORTS MIX 1",ELEVEN SPORTS 4 (92.114.85.87)
+http://92.114.85.87:8002/play/a00h/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXx765TQ/20240823_024350.png" group-title="SPORTS MIX 1",EUROSPORT 1 (gpcdn)
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
