@@ -252,11 +252,6 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 
 #EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV (intechmedia)
 https://flv.intechmedia.net/live/ch107.m3u8
-#EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV (lancartech)
-https://iptv.lancartech.co.id:443/Sudika@1/78345252/40
-
-#EXTINF:-1 tvg-id="GrooviaKanal.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/e1b4737ec68d96b27f713c034543d472.png" group-title="INDO DAERAH",GROOVIA KANAL (githubusercontent)
-https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8
 
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest?cb=20200922073436" group-title="INDO DAERAH",RTV (cdn)
 http://cdn.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
@@ -287,23 +282,13 @@ http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
-#EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548",MOJI (dens)
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548",MOJI (202.150.161.212)
-http://202.150.161.212:5000/live/channel39/playlist.m3u8
-#EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548",MOJI (lancartech)
-https://iptv.lancartech.co.id:443/Sudika@1/78345252/23
-#EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest?cb=20220804012548",MOJI (filex)
-http://filex.me:8080/live/1234567/7654321/302279.ts
 
 #EXTINF:-1 tvg-id="BiznetAdventure.id@SD" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="INDO DAERAH",BIZNET ADVENTURE (biznet)
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BiznetKids.id@SD" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="INDO DAERAH",BIZNET KIDS (biznet)
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+#http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
 #EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="INDO DAERAH",BIZNET LIFESTYLE (biznet)
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
+#http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.oxygen.id/public/assets/logo_oxygen.png" group-title="INDO DAERAH",OXYGEN TV (oxygen)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -345,12 +330,12 @@ https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="INDO DAERAH",THE INDONESIA CHANNEL (indonusa)
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INDO DAERAH",JAKTV (mikrofast)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_%282018%29.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="INDO DAERAH",JAKTV (mikrofast)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-origin=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://vidio123.mikrofast.web.id/vidio/5415/index.mpd
-#EXTINF:-1 tvg-logo="" group-title="INDO DAERAH",JAKTV (aspaltvpasti)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_%282018%29.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="INDO DAERAH",JAKTV (aspaltvpasti)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-origin=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -358,16 +343,16 @@ https://vidio123.mikrofast.web.id/vidio/5415/index.mpd
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=5415
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/TV_Sultra.png/revision/latest?cb=20181005160300" group-title="INDO DAERAH",SULTRA TV (sultratv)
-http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
+#http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IndonesianaTV.id@SD" tvg-logo="https://i.imgur.com/192wiS1.png" http-referrer="https://indonesiana.tv/" group-title="INDO DAERAH",INDONESIANA.TV (tvstreamcast)
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
 https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://astha.garuda.tv/assets/logo-DLGyXEGO.png" group-title="INDO DAERAH",ASTHA TV (hgmtv)
-https://hgmtv.com:19360/asthatv/1080p.m3u8
+#https://hgmtv.com:19360/asthatv/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://astha.garuda.tv/assets/logo-DLGyXEGO.png" group-title="INDO DAERAH",ASTHA TV (hgmtv)
-https://hgmtv.com:19360/asthatv/asthatv.m3u8
+#https://hgmtv.com:19360/asthatv/asthatv.m3u8
 
 #EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest?cb=20200805135934",MAGNA CHANNEL (medcom)
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -386,10 +371,6 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8?app_type=web&userid=lite
 
 #EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTV_%282012%29.svg/revision/latest?cb=20240914101736" group-title="INDO DAERAH",JTV (122.248.43.242)
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTV_%282012%29.svg/revision/latest?cb=20240914101736" group-title="INDO DAERAH",JTV (202.150.161.212)
-http://202.150.161.212:5000/live/channel38/playlist.m3u8
-#EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTV_%282012%29.svg/revision/latest?cb=20240914101736" group-title="INDO DAERAH",JTV (122.248.43.242)
-http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KawanuaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" group-title="INDO DAERAH",KAWANUA TV (kawanuatv)
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
@@ -426,9 +407,6 @@ https://e.siar.us/live/tvmu.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png" group-title="INDO DAERAH",MADU TV (siar)
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FiCom_symbol_logo.jpg/960px-FiCom_symbol_logo.jpg?_=20190417120834" group-title="INDO DAERAH", FICOM TV (siar)
-https://v3.siar.us/ficomchannel/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="INDO DAERAH",LINGKAR TV (my.id)
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
@@ -453,10 +431,6 @@ http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SriwijayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png" group-title="INDO DAERAH",SRIWIJAYA TV (siar)
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
-
-#EXTINF:-1 tvg-id="MatrixTVYogyakarta.id@HD" tvg-logo="https://stream.matrixtv.id/logo" http-referrer="https://stream.matrixtv.id/" group-title="INDO DAERAH",MATRIX TV(matrixtv)
-#EXTVLCOPT:http-referrer=https://stream.matrixtv.id/
-https://stream.matrixtv.id/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://warningfm.github.io/v3/img/bCXtnI3.png?v=1.1.1.1" group-title="INDO DAERAH",BRTV (streamlock)
 https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
@@ -496,9 +470,6 @@ http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="INDO DAERAH",TV9 NUSANTARA (streamlock)
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="INDO DAERAH",JOGJA TV (jogjatv)
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-
 #EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="INDO DAERAH",MQTV (streamlock)
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
@@ -529,12 +500,6 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlBahjahTV.id@SD" tvg-logo="https://i.imgur.com/52dlDZk.png" group-title="INDO DAERAH",AL-BAHJAH TV (202.150.161.117)
 http://202.150.161.117:8000/play/AlBahjahTV
-
-#EXTINF:-1 tvg-id="AstroBlitarTV.id@SD" tvg-logo="https://i.imgur.com/rORKbGw.png" http-referrer="https://abtelevisi.com/" group-title="INDO DAERAH",ASTRO BLITAR TV (streamlock)
-https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AtambuaTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png" group-title="INDO DAERAH",ATAMBUA TV (122.248.43.242)
-http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="INDO DAERAH",BALIKPAPAN TV (122.248.43.242)
 http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
@@ -594,8 +559,6 @@ https://malang.staratv.id/hls/0/stream.m3u8
 https://parahyangan.staratv.id/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="UGTV.id@SD" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="INDO DAERAH",UGTV (gunadarma)
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-#EXTINF:-1 tvg-id="UGTV.id@SD" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="INDO DAERAH",UGTV (gunadarma)
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
 #EXTINF:-1 tvg-id="Channel Jowo" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVKFX4rOKoppl_HFBP6Vc8pjoEG-SC4lYLkYnKJ1Kzn7IOPfOFo4D2KdHN-h_wYKj19JC66tzu3Z2A3z_f2gOaeHDAFvjpdQjvyvzJXgDgHj8ex-0XfaGo9D2nI5TlSTgZLIcQxw8zodnnRYWsavrqetk5C_BtkeLQRpeA3HNJ9VEc3IIshkuRXaHp98A/s700/JowoChannel.png" group-title="INDO DAERAH",JOWO TV (dens)
@@ -608,12 +571,6 @@ https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-flashcon-digdayasd-1.dens.tv/h/h215/S1/mnf.m3u8
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrjgH-OaL6r3iAcllFrVPG7qTK3mdNGcTTwad6lrfY-ck8jHEeVatLNmek4Cx-xEGQucGAR-TZXJ6LhXyYFSgfCCaTRKzx70iScnZYjy84g7A9oxYLkS3rfdT-80hD0uROfJKCdVZ9njBemBP4GulXoz-9zZeQwj-jXJ2VysaY9uhT1aWZGFhuIbcReY4/s700/TimorTV.png" group-title="INDO DAERAH",TIMOR TV (122.248.43.242)
-http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DensFoodChannel.id@SD" group-title="INDO DAERAH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHtEpw4BcqR4K9WVIkEFAt7NZ1ZHREbZ6bAt8ly6zYNsFp7wMULpQ6SfH8y8LEEzFfga2RZp1QlQoTyF9-sH31QQOzJ9KL6L__ZYigvaWLjxbCRuABp7Q8C3qWXMzTEJaV0Zs-TyCOMKO6CUSQrJbQnnJUOJL9xB0lnNKZCRF6kXmgLBIlT3x1_Zt567Y/s700/Densfood.png",DENS FOOD CHANNEL (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -880,8 +837,6 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 https://jmp2.uk/stvp-DEBD4900001QV
 #EXTINF:-1tvg-id="ReutersTV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Reuters_%281995%29.svg/revision/latest?cb=20240709104226" group-title="WORLD NEWS",REUTERS (amagi)
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
-#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Reuters_%281995%29.svg/revision/latest?cb=20240709104226" group-title="WORLD NEWS",REUTERS 60 (cloudfront)
-https://dbrb49pjoymg4.cloudfront.net/10001/99951197/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/aljazeera-net-logo-black-and-white.png" group-title="WORLD NEWS",ALJAZEERA (getaj)
 https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
@@ -900,15 +855,18 @@ http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f5
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bloomberg_Television_logo_white.svg/330px-Bloomberg_Television_logo_white.svg.png?_=20250216214549" group-title="WORLD NEWS",BLOOMBERG TV (fastly)
 https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-2/Source-EUTVqvs-10000-1-sknn1p-BP-HD-4-KZVY3t6YToC2_live.m3u8
+#EXTINF:-1 tvg-id="Bloomberg Originals" tvg-name="Bloomberg Originals - Server 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="WORLD NEWS",BLOOMBERG ORIGINALS (wurl)
+https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="Bloomberg Originals" tvg-name="Bloomberg Originals - Server 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="WORLD NEWS",BLOOMBERG ORIGINALS (wurl)
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="Bloomberg Originals" tvg-name="Bloomberg Originals - Server 3" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="WORLD NEWS",BLOOMBERG ORIGINALS (bloomberg)
+https://bloomberg.com/media-manifest/streams/qt.m3u8
 
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/ABC_News_-_Logo_1978-1999.svg/revision/latest?cb=20170504120624" group-title="WORLD NEWS",ABC NEWS (abc)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/ABC_News_Now_2007.png/revision/latest?cb=20110427213603" group-title="WORLD NEWS",ABC NEWS LIVE (tubi)
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_1.m3u8
-
-#EXTINF:-1 channel-id="6183f9f73a64394cf3c55690605af2a7" tvg-id="6183f9f73a64394cf3c55690605af2a7" tvg-chno="144" tvg-name="BBC News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6183f9f73a64394cf3c55690605af2a7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765822678156_ROKU_BBC_NEWS_LOGO_260x147_WHITE.png" group-title="WORLD NEWS",BBC NEWS (jmp2)
-https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/BBC_%281988%29.svg/revision/latest?cb=20171216131939" group-title="WORLD NEWS",BBC WORLD (antik)
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
@@ -944,8 +902,6 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",ARIRANG TV (cdn)
 http://cdn.nng.cloudns.us/live/m3u8/int/892fc80890b4b65.m3u8
-#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",ARIRANG TV (freetv)
-http://stream1.freetv.fun/arirang-world-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/250px-CNA_new_logo.svg.png" group-title="WORLD NEWS",CNA (cloudfront)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -997,17 +953,8 @@ https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/720p/ind
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/E-NTD_logo2.jpg?_=20220521180758" group-title="WORLD NEWS",NTD NEWS (amagi)
 https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/cb543d1e786c668f84c83c65cef341a2f94d1fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c575677a864c30d00c1db0cb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7254db80148c79218bb3dc60306d2700cd0401b0b03df2a9b01f1cc769a2b6024b933d51e28747c1d519efd5c959ca45806bf015cb93ed82db158b9b9332af50b3660d5c2079ca824bbca32ede765e6d43fe580c04777ce8a79cf04b2f8f463133929dea8c15349753eb5fe54124b201e22fce50d828c281c090eb3e7fa04d923999ddb0eb459f30319aaab15912ae6ffaedc3dc787d8be2154289a807c30f242299f1c715cb965bc6f66ba9bd6708209bd1649599a08ce6b4cd1bca7e8af4d9d51c131836224bc67cb28a61de1ed87a83c7076e091e13e3c90384cef276044f63cac052dd181ef9fc8e80d401728a431348e76ddc1454389a7a3c32b27ba1ca723dd87f4aa83a3ff25430c071fdbe2de7ae94b0556cfb8d91309205889404d6e40da0694e3b53e5886c35227f7cddfd7303370ba476e5ded9f4790e4280dac2fcc95f3d47091f5d028ee88525c86ea1b9a1c76f35474c41c1dc65ccaa17dd2db9a93bf2cf/53/1280x720_3329040/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/The_updated_News12_logo_as_of_November_2019.png" group-title="WORLD NEWS",NEWS 12 (tubi)
-https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/NBC_2023_white_logo.svg/960px-NBC_2023_white_logo.svg.png?_=20250908010132" group-title="WORLD NEWS",NBC NEWS NOW (tubi)
-https://aegis-cloudfront-1.tubi.video/605fb6ea-f89c-451a-873c-030cb726b493/master_5.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/250px-Sky_News_logo.svg.png?_=20231116033324" group-title="WORLD NEWS",SKY NEWS (cloudfront)
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99951337/300x300.webp?type=color_onBlack" group-title="WORLD NEWS",SPECTRUM NEWS+ (cloudfront)
-https://dbrb49pjoymg4.cloudfront.net/10001/99951337/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://webtv.un.org/themes/custom/un_media_theme/assets/un-logo-white-en.svg" group-title="WORLD NEWS",UN TV (kaltura)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
@@ -1032,61 +979,15 @@ https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 tvg-id="Autentic History" tvg-name="Autentic History" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="DOCUMENTARY",Autentic History (amazonaws)
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg Originals" tvg-name="Bloomberg Originals - Server 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="DOCUMENTARY",Bloomberg Originals (wurl)
-https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="Bloomberg Originals" tvg-name="Bloomberg Originals - Server 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="DOCUMENTARY",Bloomberg Originals (wurl)
-https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="Bloomberg Originals" tvg-name="Bloomberg Originals - Server 3" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="DOCUMENTARY",Bloomberg Originals (bloomberg)
-https://bloomberg.com/media-manifest/streams/qt.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="DOCUMENTARY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png",Discovery Asia (skygo) 
-https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
-
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo-1995-700x394.png",Discovery Channel (websafety101)
-http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418001
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo-1995-700x394.png",Discovery Channel (spmid)
-http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4o9Ug6qvCSr3jqQ3QC-Egc8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="DOCUMENTARY",History (cloudfront)
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=104
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="DOCUMENTARY",History (4.30.180.36)
-http://4.30.180.36:8420/history/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="DOCUMENTARY",History (212.5.144.156)
-http://212.5.144.156:8080/history/index.m3u8
-
 #EXTINF:-1 tvg-id="History Asia" tvg-name="History Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="DOCUMENTARY",History Asia (freem3u)
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 
 #EXTINF:-1 tvg-id="History Hit" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="DOCUMENTARY",History Hit (amagi)
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="DOCUMENTARY" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png",National Geographic (websafety101)
-http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418006
-#EXTINF:-1 tvg-id="" group-title="DOCUMENTARY" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png",National Geographic (spmid)
-http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4u4x_zFdV0_80DKD8yScR60
-
-#EXTINF:-1 tvg-id="National Geographic HD East" tvg-name="National Geographic HD East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="DOCUMENTARY",National Geographic (198.58.104.90)
-http://198.58.104.90:8989/natgeo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY",Animal Planet (websafety101)
-http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417996
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/250px-Outdoor_Channel_logo_2017.svg.png" group-title="DOCUMENTARY",Outdoor Channel (amagi)
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/250px-Outdoor_Channel_logo_2017.svg.png" group-title="DOCUMENTARY",Outdoor Channel (amagi)
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 channel-id="8152fae2aebf5c228eee6470242174ec" tvg-id="8152fae2aebf5c228eee6470242174ec" tvg-chno="484" tvg-name="Dinos 24/7" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8152fae2aebf5c228eee6470242174ec/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734493190895_ROKU_DINOS_247_CHANNEL_HUD2_LOGO_260x147_CENTER.png" group-title="DOCUMENTARY",BBC Dinos 24/7 (jmp2)
-https://jmp2.uk/rok-8152fae2aebf5c228eee6470242174ec.m3u8
-
-#EXTINF:-1 tvg-id="400000063" tvg-logo="https://canvas-lb.tubitv.com/opts/FgYXmM6oI193Bw==/630f09e9-a354-4d28-a952-2f5c75e09815/CHgQeDoFMS4xLjhAAQ==" group-title="DOCUMENTARY",BBC Earth (cloudfront)
-https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="400000063" tvg-logo="https://canvas-lb.tubitv.com/opts/FgYXmM6oI193Bw==/630f09e9-a354-4d28-a952-2f5c75e09815/CHgQeDoFMS4xLjhAAQ==" group-title="DOCUMENTARY",BBC Earth (cloudfront)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
@@ -1096,14 +997,9 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="DOCUMENTARY",RT Documentary (rttv)
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TerraMaterWILD.de@English" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png" group-title="DOCUMENTARY",Terra Mater Wild (amagi)
-https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
-
 #EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://i.imgur.com/0UMmG41.png" group-title="DOCUMENTARY",Outside TV (amagi)
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TravelXP4k.mv" tvg-name="Travel XP" tvg-logo="https://8upload.com/image/6857bb65966ba/travelxphilay.png" group-title="DOCUMENTARY",Travel XP (wurl.tv)
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Travel XP" tvg-name="Travel XP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="DOCUMENTARY",Travel XP (wurl)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 
@@ -1112,8 +1008,6 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="DOCUMENTARY",Adventure Earth (amazonaws)
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
-#EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="DOCUMENTARY",Adventure Earth (wurl)
-https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="DOCUMENTARY",Adventure Earth (wurl)
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/3000.m3u8
 
@@ -1141,23 +1035,11 @@ https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WildEarth" tvg-name="WildEarth" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="DOCUMENTARY",Wild Earth (cloudfront)
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 
-#EXTINF:-1 channel-id="aa16704e1ee052dea67cee1f79618754" tvg-id="aa16704e1ee052dea67cee1f79618754" tvg-chno="755" tvg-name="Alien Nation by DUST" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/aa16704e1ee052dea67cee1f79618754/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693585686439_AlienNation_HUD_260x147.png" group-title="DOCUMENTARY",Alien Nation (jmp2)
-https://jmp2.uk/rok-aa16704e1ee052dea67cee1f79618754.m3u8
-
 #EXTINF:-1 channel-id="fe08b9ce5c80c8a52c5253d026d9395c" tvg-id="fe08b9ce5c80c8a52c5253d026d9395c" tvg-chno="756" tvg-name="Ancient Aliens" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fe08b9ce5c80c8a52c5253d026d9395c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746641426935_Ancient_Aliens_GM_HUD_logoefefef_center_aligned_260x147.png" group-title="DOCUMENTARY",Ancient Aliens (jmp2)
 https://jmp2.uk/rok-fe08b9ce5c80c8a52c5253d026d9395c.m3u8
 
-#EXTINF:-1 channel-id="330e3534b1614aad9cc2740c522a5b59" tvg-id="330e3534b1614aad9cc2740c522a5b59" tvg-chno="199" tvg-name="PursuitUP" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/330e3534b1614aad9cc2740c522a5b59/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1755563221837_InfoHUD.png" group-title="DOCUMENTARY",PursuitUP (jmp2)
-https://jmp2.uk/rok-330e3534b1614aad9cc2740c522a5b59.m3u8
-
 #EXTINF:-1 channel-id="0b88dcd80f6a5e838c83a67e7cfa4b3a" tvg-id="0b88dcd80f6a5e838c83a67e7cfa4b3a" tvg-chno="475" tvg-name="MagellanTV Wildest" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0b88dcd80f6a5e838c83a67e7cfa4b3a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1743518131834_Roku_MGTVWildest_Logo_HUD.png" group-title="DOCUMENTARY",MagellanTV Wildest (jmp2)
 https://jmp2.uk/rok-0b88dcd80f6a5e838c83a67e7cfa4b3a.m3u8
-
-#EXTINF:-1 channel-id="cd2b8b03da52da0868e63927b54f9e7e" tvg-id="cd2b8b03da52da0868e63927b54f9e7e" tvg-chno="485" tvg-name="Modern Innovations by History" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cd2b8b03da52da0868e63927b54f9e7e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747059823625_Modern_Innovations_by_History_General_Market_Launch_HUD.png" group-title="DOCUMENTARY",Modern Innovations by History (jmp2)
-https://jmp2.uk/rok-cd2b8b03da52da0868e63927b54f9e7e.m3u8
-
-#EXTINF:-1 channel-id="94598743eeb76f0dae3caf86ed026deb" tvg-id="94598743eeb76f0dae3caf86ed026deb" tvg-chno="498" tvg-name="PBS Travel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/94598743eeb76f0dae3caf86ed026deb/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763400079857_260x147_CenterAligned.png" group-title="DOCUMENTARY",PBS Travel (jmp2)
-https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8
 
 #EXTINF:-1 channel-id="0b8a86b44ef0780c3b3226a63be07e0f" tvg-id="0b8a86b44ef0780c3b3226a63be07e0f" tvg-chno="626" tvg-name="Highway Thru Hell" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0b8a86b44ef0780c3b3226a63be07e0f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1755914093970_HighwayThruHell_HUD_logo_260x147.png" group-title="DOCUMENTARY",Highway Thru Hell (jmp2)
 https://jmp2.uk/rok-0b8a86b44ef0780c3b3226a63be07e0f.m3u8
@@ -1183,8 +1065,6 @@ https://aenetworks-worldwartv-rakuten.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51RhexlSf3L._AC_SY300_SX300_QL70_ML2_.jpg" group-title="DOCUMENTARY",The Wicked Tuna (amagi)
 https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sales.wildtv.ca/hubfs/WildTV%20Media%20Centre%20Packages/WaterTV%20Logo/Water_BLUE-WHITE-XL.png" group-title="DOCUMENTARY",Water Bear (amagi)
-https://waterbear-waterbear-rakuten.amagi.tv/playlist1080_p.m3u8
 #EXTINF:-1 tvg-id="WaterBear" tvg-name="WaterBear" tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" group-title="DOCUMENTARY",Water Bear (amagi)
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
 
@@ -1193,9 +1073,6 @@ https://lds-realwild-rakuten.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/9/9b/Mythbusters_Metal_logo_sign.jpg?_=20231206162444" group-title="DOCUMENTARY",Mythbuster (amagi)
 https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/1080p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png" group-title="DOCUMENTARY",Curiosity Now (amagi)
-https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/cb543d1e786c668f84c83c65cef341a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7251db80148b61299bce8c37683f03409a5e5afba358b1ebe20c14de6df3b21955977b40e19f43c8821da6d1d25bcc5e8327f9109891f08ada12d3d2f31c93748a98cd5c581fb0a43bfae053b2d5946c2a95705a297437c790e335caa1e43d277debf6cac505b5739cca4d0907461e9e4a5416e0f2cbd37d17c5f6307981ff082d18b7cd5a2e0da1eea198ef3409700791adc4d2697595fa153712873d986a1c319ef9c40397833ba2f672d5fa394678f7984bcdc9e9c3f7e6d903dc04dad7f89d0a474c480d16c908f1cd23887f9d3083e6270c700104a1935ec1c6fe5b336940cfc07ddc0114b4dec4d28b5d759a2e4b14b820ea5a036dde3d2329b67ab7c96a1efc4c60b23c33ff57229302ade85e9289efa5576bfb8ebd019509c8ba05d5fa07d31d1f5110bcff291f080c4ad9e06202276a8122c0d6d9ea630610e69594ac2032b3c1e8b9341695950d0f5bb9d5b89aaf877b1fd610/92/1920x1080_6046040/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3D51rni3as7r5C5yNVLs2BpMysnFQ7bBZ3Q&s" group-title="DOCUMENTARY",Mystery (amagi)
 https://aenetworks-mysterytv-rakuten.amagi.tv/1080p-vtt/index.m3u8
@@ -1217,9 +1094,6 @@ https://d3em2dvvzq3oj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="Documentary+" tvg-name="Documentary+" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="DOCUMENTARY",Documentary+ (amazonaws)
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="670800411a95445e2203071e" tvg-name="670800411a95445e2203071e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9f6d504c-b4d1-433a-8bb0-a7b7c8142be9" group-title="DOCUMENTARY" tvg-chno="375",Documentary+ International (amazonaws)
-https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6675bde91de4405de4d48712" tvg-name="6675bde91de4405de4d48712" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/fd143394-5285-40a8-adca-a50243e58288" group-title="DOCUMENTARY" tvg-chno="378",Popular Science (amagi)
 https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8
@@ -1244,9 +1118,6 @@ https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Get.Factual" tvg-name="Get.Factual" tvg-logo="https://i.imgur.com/4oVcjLd.png" group-title="DOCUMENTARY",Get Factual (cloudfront)
 https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
-
-#EXTINF:-1 tvg-id="Jail" tvg-name="Jail" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" group-title="DOCUMENTARY",Jail (amazonaws)
-https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Law & Crime" tvg-name="Law & Crime" tvg-logo="https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTARY",Law & Crime (klowdtv)
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
