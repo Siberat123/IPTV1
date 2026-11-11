@@ -1185,9 +1185,6 @@ https://bbc-impossible-1-us.xumo.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="AFV.us@SD" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="MOVIES & SHOWS",Always Funny (frequency)
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="MOVIES & SHOWS" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/aeef4f63419a5d5fabcf0055585f9ccc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1663970078857_FA_TRC_LOGO_MONOCHROMATIC_260x147_CENTER.png",FailArmy (jmp2)
-https://jmp2.uk/rok-aeef4f63419a5d5fabcf0055585f9ccc.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/fd/Hells_kitchen_logo.png/250px-Hells_kitchen_logo.png" group-title="MOVIES & SHOWS",Hells Kitchen (amagi)
 https://itv-hellskitchen-rakuten.amagi.tv/1080p/index.m3u8
 
@@ -1202,20 +1199,11 @@ https://enterbcef94b.airspace-cdn.cbsivideo.com/master_7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png?_=20231028030137" group-title="MOVIES & SHOWS",Entertainment Tonight (cbsivideo)
 https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
 
-#EXTINF:-1 tvg-id="698298987b62c73309c5256b" tvg-name="698298987b62c73309c5256b" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3a544454-5beb-49db-87fe-898abd8a4811" group-title="MOVIES & SHOWS" tvg-chno="365",Cirque du Soleil (amagi)
-https://amg01439-amg01439c1-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01439-amg01439c1-amgplt0201/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="MOVIES & SHOWS",Mr. Bean (amagi)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Moviefone_logo.png?_=20140831142317" group-title="MOVIES & SHOWS",Moviefone (wurl)
 https://connection3-ent-nz.samsung.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/330px-Logo_tvN.svg.png" group-title="MOVIES & SHOWS",TVN Movies (202.150.161.212)
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png?_=20210920034610" group-title="MOVIES & SHOWS",Bioskop Indonesia (202.150.161.212)
-http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED-225x225.png" group-title="MOVIES & SHOWS",We Do Movies (amagi)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomovies-benelux-ono/playlist.m3u8
@@ -1235,10 +1223,6 @@ https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="MOVIES & SHOWS",Rakuten TV Family Movies (amazonaws)
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="MOVIES & SHOWS",Rakuten Top Movies (amazonaws)
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="MOVIES & SHOWS",Rakuten Cinema (amazonaws)
-https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/31T4eMT29IL.png" group-title="MOVIES & SHOWS",Viki (wurl)
 https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1265,26 +1249,17 @@ https://jmp2.uk/rok-d32267711c6a5cf36520716c96b5b3fa.m3u8
 #EXTINF:-1 channel-id="15cc44e50d8453e18f21ea37713319c5" tvg-id="15cc44e50d8453e18f21ea37713319c5" tvg-chno="287" tvg-name="Electric Now" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/15cc44e50d8453e18f21ea37713319c5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1660071204893_1605145912343_EN_Logo_WhiteonBlack_260x147.png" group-title="MOVIES & SHOWS",Electric Now (jmp2)
 https://jmp2.uk/rok-15cc44e50d8453e18f21ea37713319c5.m3u8
 
-#EXTINF:-1 channel-id="6a0629e467b5502c906136dadac290a0" tvg-id="6a0629e467b5502c906136dadac290a0" tvg-chno="768" tvg-name="FilmRise Horror" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6a0629e467b5502c906136dadac290a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673451553962_FilmRiseHorror_HUDlogo_260x147.png" group-title="MOVIES & SHOWS",FilmRise Horror (jmp2)
-https://jmp2.uk/rok-6a0629e467b5502c906136dadac290a0.m3u8
-
 #EXTINF:-1 channel-id="349e0f0840cf21b888bff327b41a2413" tvg-id="349e0f0840cf21b888bff327b41a2413" tvg-chno="746" tvg-name="Scares by Shudder" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/349e0f0840cf21b888bff327b41a2413/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734485619426_SHUD_FastChanel_Roku_Image_HUD2BillWatts_.png" group-title="MOVIES & SHOWS",Scares by Shudder (jmp2)
 https://jmp2.uk/rok-349e0f0840cf21b888bff327b41a2413.m3u8
 
 #EXTINF:-1 channel-id="31d5929928835b90af7bee669e6dd217" tvg-id="31d5929928835b90af7bee669e6dd217" tvg-chno="291" tvg-name="El Rey Rebel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/31d5929928835b90af7bee669e6dd217/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1702918419829_ElReyRebel_Logo_Center_Alligned_260x147.png" group-title="MOVIES & SHOWS",El Rey Rebel (jmp2)
 https://jmp2.uk/rok-31d5929928835b90af7bee669e6dd217.m3u8
 
-#EXTINF:-1 channel-id="5263332f746c6b1bed25aa6c105a79d9" tvg-id="5263332f746c6b1bed25aa6c105a79d9" tvg-chno="295" tvg-name="MGM Presents" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5263332f746c6b1bed25aa6c105a79d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061592882_MGMPresents_HUDLogo_Centered_260x147.png" group-title="MOVIES & SHOWS",MGM Presents (jmp2)
-https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8
-
 #EXTINF:-1 channel-id="52c137ae3cdc50768ad7ea3cdaf0f2f4" tvg-id="52c137ae3cdc50768ad7ea3cdaf0f2f4" tvg-chno="297" tvg-name="LOL Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/52c137ae3cdc50768ad7ea3cdaf0f2f4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1663970275437_LOLnetwork_HUDlogo_centered_260x147.png" group-title="MOVIES & SHOWS",LOL Network (jmp2)
 https://jmp2.uk/rok-52c137ae3cdc50768ad7ea3cdaf0f2f4.m3u8
 
 #EXTINF:-1 channel-id="d6f71998860459eca1bed73db5988330" tvg-id="d6f71998860459eca1bed73db5988330" tvg-chno="298" tvg-name="FilmRise Free Movies" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6f71998860459eca1bed73db5988330/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001381678_RokuChannel_FilmRiseFreeMovies_HUD_Logo_260x147.png" group-title="MOVIES & SHOWS",FilmRise Movies (jmp2)
 https://jmp2.uk/rok-d6f71998860459eca1bed73db5988330.m3u8
-
-#EXTINF:-1 channel-id="2547ef42e2f45bbaa84752657cffe3c9" tvg-id="2547ef42e2f45bbaa84752657cffe3c9" tvg-chno="312" tvg-name="Tribeca Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2547ef42e2f45bbaa84752657cffe3c9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669147007249_tribeca_HUDlogo_centered_260x147.png" group-title="MOVIES & SHOWS",Tribeca Channel (jmp2)
-https://jmp2.uk/rok-2547ef42e2f45bbaa84752657cffe3c9.m3u8
 
 #EXTINF:-1 channel-id="923cd8e7aa1e5a5898aad41fdf6a0f0f" tvg-id="923cd8e7aa1e5a5898aad41fdf6a0f0f" tvg-chno="322" tvg-name="Grit Xtra" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/923cd8e7aa1e5a5898aad41fdf6a0f0f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1666130988945_GRITX_HUD_EFEFEF.png" group-title="MOVIES & SHOWS",Grit Xtra (jmp2)
 https://jmp2.uk/rok-923cd8e7aa1e5a5898aad41fdf6a0f0f.m3u8
@@ -1323,21 +1298,11 @@ https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sony_Movies_Logo.png/960px-Sony_Movies_Logo.png?_=20240926210157" group-title="MOVIES & SHOWS",Sony One Comedy (amazonaws)
 https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/movies-24-logo.png" group-title="MOVIES & SHOWS",24 Hour Movies (cloudfront)
-https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.islive=1&ads.streamtype=live
-
 #EXTINF:-1 group-title="MOVIES & SHOWS" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/brattv.png",Brat TV (amagi)
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="MOVIES & SHOWS",Discover Film (wurl.tv)
-https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BritBox Mysteries" tvg-name="BritBox Mysteries" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="MOVIES & SHOWS",BritBox Mysteries (tubi)
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="MOVIES & SHOWS",WB TV (202.150.161.212)
-http://202.150.161.212:5000/live/channel29/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/960px-ITV1_logo_%282022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20241022192006" group-title="MOVIES & SHOWS",Itv 1 (b-cdn)
 https://mngbcg.b-cdn.net/iTV/index.m3u8
