@@ -1377,6 +1377,11 @@ https://playztv-apps.pages.dev/a-sports/index.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it@SD" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="SPORTS MIX 1",ACI SPORT TV (multistream)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Antena_Play_Logo_%282022-present%29.svg/960px-Antena_Play_Logo_%282022-present%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20221105172100" group-title="SPORTS MIX 1",ANTENA PLAY (antenaplay)
+https://stream1.antenaplay.ro/as/AS.ro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Antena_Play_Logo_%282022-present%29.svg/960px-Antena_Play_Logo_%282022-present%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20221105172100" group-title="SPORTS MIX 1",ANTENA PLAY (antenaplay)
+https://live77cdn2.antenaplay.ro/live2_sdi09/live2_sdi09.m3u8
+
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hd6nx11643205736.png" group-title="SPORTS MIX 1",ARENA SPORT 1 (78.108.251.7)
 http://78.108.251.7/Arena_Sport_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/do4eok1643205747.png" group-title="SPORTS MIX 1",ARENA SPORT 2 (78.108.251.7)
@@ -1532,6 +1537,8 @@ http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/31317.ts
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%C4%8CT_Sport_Logo_2013.svg/960px-%C4%8CT_Sport_Logo_2013.svg.png?utm_source=cs.wikipedia.org&utm_campaign=index&utm_content=thumbnail",ČT SPORT (212.102.38.45)
 http://212.102.38.45/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS MIX 1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%C4%8CT_Sport_Logo_2013.svg/960px-%C4%8CT_Sport_Logo_2013.svg.png?utm_source=cs.wikipedia.org&utm_campaign=index&utm_content=thumbnail",ČT SPORT (88.212.15.50)
+http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0cbss91740861809.png" group-title="SPORTS MIX 1",DAZN 1 (ottolok)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31954/index.m3u8
@@ -1899,6 +1906,9 @@ https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.solocalcio.com/wp-content/uploads/2023/01/solocalcio-2x.png" group-title="SPORTS MIX 1",SOLO CALCIO (amagi)
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_STVR_%C5%A0port.svg/250px-Logo_STVR_%C5%A0port.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260512165828" group-title="SPORTS MIX 1",ŠPORT (88.212.15.50)
+http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zjb8awW.png" group-title="SPORTS MIX 1",SPORT 1 (mcquack)
 http://stream.mcquack.net/391/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vk0j1mY.png" group-title="SPORTS MIX 1",SPORT 2 (mcquack)
@@ -1926,20 +1936,30 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-wg4eophtzml6o.m3u8
 #EXTINF:-1 tvg-chno="2810" tvg-id="IT1000002TG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Sportitalia_logo.svg/revision/latest?cb=20100602084122" group-title="SPORTS MIX 1",SPORT ITALIA (jmp2)
 https://jmp2.uk/stvp-IT1000002TG
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20151229155644" group-title="SPORTS MIX 1",SPORT 1 (antik)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png" group-title="SPORTS MIX 1",SPORT 1 (antik)
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/ff/Sport_2_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/264?cb=20210814100450" group-title="SPORTS MIX 1",SPORT 2 (antik)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png" group-title="SPORTS MIX 1",SPORT 2 (antik)
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png" group-title="SPORTS MIX 1",SPORT 1 (88.212.7.14)
+http://88.212.7.14/live/sport1_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png" group-title="SPORTS MIX 1",SPORT 2 (88.212.7.14)
+http://88.212.7.14/live/sport2_hun/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png" group-title="SPORTS MIX 1",SPORT 1 (88.212.15.50)
+http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png" group-title="SPORTS MIX 1",SPORT 1 (88.212.15.50)
+http://88.212.15.50/live/test_sport_2/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS MIX 1" tvg-logo="https://i.postimg.cc/SKxQVKR4/ezgif-4d34ebd88fe769ce.png",SPORT 1 (141.94.193.53)
 http://141.94.193.53:80/Sport_1_HD/index.m3u8
