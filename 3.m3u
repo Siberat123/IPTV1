@@ -1,0 +1,286 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjys36Lh/ezgif-7ae685bdab8a1811.png",TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/tvone/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44twY7gq/ezgif-6a5fadaf3ade2391.png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMGv5BCF/trans-tv-id.png",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRQ11Pv/trans-7-id.png",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FXvjY3M/mnc-id-tv.png",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH27kRmG/ezgif-623db7dff0860531.png",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/630YHFpy/inews-id.png",INEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jd6RsvvD/sindonews-tv-id-png-(132-99).png",SINDONEWS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/sindonews/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NjfvngV/ezgif-389467c34311aaa0.png",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/kompas/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2T4TTN/metro-tv-id-png-(132-99).png",METRO TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/metrotv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFswJm0R/bali-tv-id.png",BALI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/balitv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4f995dde6b43fbe45bab9336476a66df17cc83270f06bc5e73492d21edcf7bef.jpg",TOM AND JERRY
+https://catcast.ismailturret.workers.dev/tomandjerry.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4f995dde6b43fbe45bab9336476a66df17cc83270f06bc5e73492d21edcf7bef.jpg",TOM AND JERRY 2
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnLRbbCc/bein-sports-1-qa-fr.png",BEIN SPORTS 1
+https://vg162.adcdsd123321.shop/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnLRbbCc/bein-sports-1-qa-fr.png",BEIN SPORTS 1
+https://vg162.adcdsd123321.shop/7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkn1JysF/bein-sports-2-qa.png",BEIN SPORTS 2
+https://vg162.adcdsd123321.shop/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkn1JysF/bein-sports-2-qa.png",BEIN SPORTS 2
+https://vg162.adcdsd123321.shop/8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdtSqwHV/bein-sports-3-qa.png",BEIN SPORTS 3
+https://vg162.adcdsd123321.shop/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdtSqwHV/bein-sports-3-qa.png",BEIN SPORTS 3
+https://vg162.adcdsd123321.shop/9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLzrhYy5/bein-sports-4-qa.png",BEIN SPORTS 4
+https://vg162.adcdsd123321.shop/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLzrhYy5/bein-sports-4-qa.png",BEIN SPORTS 4
+https://vg162.adcdsd123321.shop/10.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qTb8wdf/bein-sports-5-qa.png",BEIN SPORTS 5
+https://vg162.adcdsd123321.shop/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qTb8wdf/bein-sports-5-qa.png",BEIN SPORTS 5
+https://vg162.adcdsd123321.shop/11.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FZStZVf/bein-sports-6.png",BEIN SPORTS 6
+https://vg162.adcdsd123321.shop/6.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FZStZVf/bein-sports-6.png",BEIN SPORTS 6
+https://vg162.adcdsd123321.shop/12.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tbCD5j8/bein-sports-7-qa-png-(132-99).png",BEIN SPORTS 7
+https://vg162.adcdsd123321.shop/13.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tbCD5j8/bein-sports-7-qa-png-(132-99).png",BEIN SPORTS 7
+https://vg162.adcdsd123321.shop/14.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXhfJpT2/ezgif-87284e11cd4ec049.png",SELCUK SPORTS
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd14e17ba2ad.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXhfJpT2/ezgif-87284e11cd4ec049.png",SELCUK SPORTS
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd14e17ba2ad.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXhfJpT2/ezgif-87284e11cd4ec049.png",SELCUK SPORTS
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd14e17ba2ad.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXhfJpT2/ezgif-87284e11cd4ec049.png",SELCUK SPORTS
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd14e17ba2ad.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8
+
+
+EXTINF:-1 tvg-logo="https://i.postimg.cc/fy4J85BV/astro-premier-league-my-png-(132-99).png",ASTRO PREMIER LEAGUE
+http://tv.cloudcdn.me:80/live.ts?channelId=93739&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8KqhH4g/astro-premier-league-2-my-png-(132-99).png",ASTRO PREMIER LEAGUE 2
+http://tv.cloudcdn.me:80/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqHvgnvs/astro-grandstand-my-png-(132-99).png",ASTRO GRANDSTAND
+http://tv.cloudcdn.me:80/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsV7xycL/astro-football-my-png-(132-99).png",ASTRO FOOTBALL
+http://tv.cloudcdn.me:80/live.ts?channelId=93742&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xLNs3nq/astro-sports-plus-my-png-(132-99).png",ASTRO SPORTS PLUS
+http://tv.cloudcdn.me:80/live.ts?channelId=133122&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/aa/astro-arena-my.png",ASTRO ARENA
+http://tv.cloudcdn.me:80/live.ts?channelId=93729&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png",ASTRO ARENA 2
+http://tv.cloudcdn.me:80/live.ts?channelId=132148&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/aa/astro-arena-bola-my.png",ASTRO ARENA BOLA
+http://tv.cloudcdn.me:80/live.ts?channelId=133062&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/aa/astro-arena-bola-2-my.png",ASTRO ARENA BOLA 2
+http://tv.cloudcdn.me:80/live.ts?channelId=133063&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfmkH2Cs/tdm-sport-mo.png",TDM SPORT
+https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/185x0-icon.png",STAR SPORTS SELECT 1
+https://livetv.shamon-cable.net:8443/Star-select-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/186x0-icon.png",STAR SPORTS SELECT 2
+https://livetv.shamon-cable.net:8443/Star-select-2/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7tZYIC3.png",PRIMA SPORT 1
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7tZYIC3.png",PRIMA SPORT 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://dokagents.site/live/pr1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBWcPKX.png",PRIMA SPORT 2
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBWcPKX.png",PRIMA SPORT 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://dokagents.site/live/pr2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1zpRKZD.png",PRIMA SPORT 3
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1zpRKZD.png",PRIMA SPORT 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://dokagents.site/live/pr3/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oMmTzc.png",PRIMA SPORT 4
+#EXTVLCOPT:http-referrer=https://pulse1.xn--x2rv05jjkg.shop/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+##https://pulse1.xn--x2rv05jjkg.shop/puk4/usergendx42x9qrnd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oMmTzc.png",PRIMA SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oMmTzc.png",PRIMA SPORT 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://dokagents.site/live/pr4/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tnqYnAb.png",PRIMA SPORT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pulse1.xn--x2rv05jjkg.shop/000/
+https://pulse1.xn--x2rv05jjkg.shop/puk5/usergen0grnd3y8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tnqYnAb.png",PRIMA SPORT 5
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://dokagents.site/live/pr5/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTmRjTzf/DIGI-Sport-1.png",DIGI SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kuruk1.xn--okq6e.shop/000/
+https://kuruk1.xn--okq6e.shop/kuk1/usergendx419snx12kdgwqrnd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTmRjTzf/DIGI-Sport-1.png",DIGI SPORT 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://dokagents.site/live/digisport1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJsvhRnP/DIGI-Sport-2.png",DIGI SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kuruk1.xn--okq6e.shop/000/
+https://kuruk1.xn--okq6e.shop/kuk2/usergendx0ul1ltsDx9lgcdwqrnd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJsvhRnP/DIGI-Sport-2.png",DIGI SPORT 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://dokagents.site/live/digisport2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnFtRSdT/DIGI-Sport-3.png",DIGI SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
+https://pu1se1.xn--ukq5h.shop/kuk3/usergendxt1v7slq2rnd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnFtRSdT/DIGI-Sport-3.png",DIGI SPORT 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://dokagents.site/live/digisport3/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqyqqxRp/DIGI-Sport-4.png",DIGI SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
+https://pu1se1.xn--ukq5h.shop/kuk4/usergendl8g6ks0t3n.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqyqqxRp/DIGI-Sport-4.png",DIGI SPORT 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://dokagents.site/live/digisport4/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRxgLhWT/ezgif-421d49f0a70b777e.png",SKY SPORTS PREMIER LEAGUE
+#EXTVLCOPT:http-referrer=https://cdn.stmify.com/
+https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg70fS4V/ezgif-528249ff5c6b1314.png",POLSAT SPORT 1
+http://31.43.191.125:8080/live/K7NbHu4NGss4/NVr2w4XFquZe/34309.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXN42Wz8/ezgif-5dccd21b8cde8e25.png",POLSAT SPORT 2
+http://31.43.191.125:8080/live/K7NbHu4NGss4/NVr2w4XFquZe/886.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4cYY9XM/ezgif-558dc91d0196fc03.png",POLSAT SPORT 3
+http://31.43.191.125:8080/live/K7NbHu4NGss4/NVr2w4XFquZe/887.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhF37hH7/ezgif-5f907dc200001158.png",POLSAT SPORT PREMIUM 1
+http://31.43.191.125:8080/live/K7NbHu4NGss4/NVr2w4XFquZe/870.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2sjcpgh/ezgif-51449f00407955a7.png",POLSAT SPORT PREMIUM 2
+http://31.43.191.125:8080/live/K7NbHu4NGss4/NVr2w4XFquZe/871.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzPWtRqV/ezgif-51484d7cb1f57878.png",POLSAT SPORT FIGHT
+http://31.43.191.125:8080/live/K7NbHu4NGss4/NVr2w4XFquZe/888.ts
+
+
+
