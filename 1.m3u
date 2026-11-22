@@ -1,0 +1,360 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/inews-id.png?raw=true" group-logo="https://i.imgur.com/3X2S2RF.png" group-title="BERITA", INEWS |R+|
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed.rctiplus.com/live/inews/sindonews
+https://sw.run/CAMPWIKI_INEWS
+
+#EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-logo="https://i.imgur.com/ewuDOwg.png" group-title="BERITA", SINDONEWS +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/sindonews/index.m3u8
+
+#EXTINF:-1 tvg-id="monomax.id" tvg-logo="https://i.imgur.com/wRMKsvK.png" group-logo="https://i.imgur.com/uXqmPaD.png" group-title="TV SPORTS", MONOMAX 🇹🇭
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 4 Premium.ba" tvg-logo="https://i.imgur.com/8dNzRYS.png" group-title="TV SPORTS", ARENA SPORT 4P 🇧🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls15/as_premium4.mpd?n=browsernull-cdn.sam.net
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1CqbRo.png" group-title="TV SPORTS", DAZN 1 🇵🇹
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/25yzYjY.png" group-title="TV SPORTS", DAZN 2 🇵🇹
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4z35dr1784996780.png" group-title="TV SPORTS", DAZN 3 🇵🇹
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x2cnyr1784996789.png" group-title="TV SPORTS", DAZN 4 🇵🇹
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport4/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="TV SPORTS", ESPN
+https://sw.run/CAMPWIKI-ESPN1
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="TV SPORTS", ESPN 2
+https://sw.run/CAMPWIKI-ESPN2
+
+#EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="TV SPORTS", ESPN 3
+https://sw.run/CAMPWIKI-ESPN3
+
+#EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="TV SPORTS", ESPN 4
+https://sw.run/CAMPWIKI-ESPN4
+
+#EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ESPN_5_Logo.png/960px-ESPN_5_Logo.png" group-title="TV SPORTS", ESPN 5
+https://sw.run/CAMPWIKI-ESPN5
+
+#EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/3840px-ESPN_6_logo.svg.png" group-title="TV SPORTS", ESPN 6
+https://sw.run/CAMPWIKI-ESPN6
+
+#EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="TV SPORTS", ESPN 7
+https://sw.run/CAMPWIKI-ESPN7
+
+
+#EXTINF:-1 group-title="TV SPORTS" tvg-logo="https://i.imgur.com/bSXZR3I.png", DIGI SPORT 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://sw.run/CAMPKTR-DGS-1
+
+#EXTINF:-1 group-title="TV SPORTS" tvg-logo="https://i.imgur.com/xfWi8c7.png", DIGI SPORT 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://dokagents.site/live/digisport2/mono.m3u8
+https://sw.run/CAMPKTR-DGS-2
+
+#EXTINF:-1 group-title="TV SPORTS" tvg-logo="https://i.imgur.com/MmpO48C.png", DIGI SPORT 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://ln.run/CAMPKTR-DGS3
+
+#EXTINF:-1 group-title="TV SPORTS" tvg-logo="https://i.imgur.com/67HVISN.png", DIGI SPORT 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/&origin=https://canale-tv.com
+https://ln.run/CAMPKTR-DGS-4
+
+
+
+#EXTINF:-1 tvg-id="skysport" tvg-logo="https://i.imgur.com/Tcul5s0.png" group-title="TV SPORTS", SKY SPORTS+ 🇬🇧
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://sw.run/CAMPWIKI-SKY-SPORTS
+
+##EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="TV SPORTS", SKY SPORTS FOOTBALL
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://sw.run/CAMPWIKI-SKYSPORTS-FOOTBALL
+
+##EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" group-title="TV SPORTS", SKY SPORTS PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://sw.run/CAMPWIKI-SKYSPORTS-PREMIERL-LEAGUE
+
+
+
+#EXTINF:-1 tvg-id="Primaplay.ro" tvg-logo="https://i.imgur.com/gV95FJY.png" group-title="TV SPORTS" , PRIMA PLAY
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1"
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+https://pulse1.sanseny001.shop/puki1/usergendx6kal0r2bsm.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-logo="https://i.imgur.com/7tZYIC3.png" group-title="TV SPORTS" , PRIMA SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-logo="https://i.imgur.com/SBWcPKX.png" group-title="TV SPORTS" , PRIMA SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-logo="https://i.imgur.com/1zpRKZD.png" group-title="TV SPORTS" , PRIMA SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+https://sw.run/CAMPKTR-PRIMA-SPORT3
+
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-logo="https://i.imgur.com/9oMmTzc.png" group-title="TV SPORTS" , PRIMA SPORT 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport5.ro" tvg-logo="https://i.imgur.com/tnqYnAb.png" group-title="TV SPORTS" ,PRIMA SPORT 5
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://dokagents.site/live/pr5/mono.m3u8
+
+
+##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-id="itzplay.id" group-title="TV SPORTS", ASTRO FOOTBALL
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://pic.ktiptv.online/live/QZM197/629ebdk/26315.ts
+
+##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-id="itzplay.id" group-title="TV SPORTS", ASTRO PREMIER LEAGUE 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://pic.ktiptv.online/live/QZM197/629ebdk/26312.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png?utm_source=ms.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="itzplay.id" group-title="TV SPORTS", ASTRO PREMIER LEAGUE 2
+http://tv.cloudcdn.me:80/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
+##EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mwtc9p1731234887.png" tvg-id="itzplay.id" group-title="TV SPORTS", ASTRO  GRANSTAND 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://pic.ktiptv.online/live/QZM197/629ebdk/26314.ts
+
+
+#EXTINF:-1 tvg-id="GO3 Sport 1 (LT).lv" tvg-logo="https://i.imgur.com/7VmQAnh.png" group-title="TV SPORTS", GO3 SPORT 1 🇱🇻
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d61dd42538485231a29c656720dda04b":"d9657dd12e5fb59722aaf6adaf4c157a","9c8bc0cd6b255ad18b921387cf875f21":"64fb3b05953c7005d1e16e53bb54a0ae","a4ca788259405bd68cff11f6ea1ce8e4":"a236125571a004d4c073e16895c21f71"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/212_HTTP/__op/dash-widevine/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="GO3 Sport 2 (LT).lv" tvg-logo="https://i.imgur.com/1OCkPnk.png" group-title="TV SPORTS", GO3 SPORT 2 🇱🇻
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"76e9be4fab3e5816bce280f6ca3f73d5":"344103b77cc9bcb1b4b5461b3071639c","7026b3c03cb15e7c90bb5d98d2918eea":"66c6f85f004fb9936ed20733e5eae60c","f7839d964c5356be9acc7491cc721860":"f84a6ee22df39731fdaa7b9e5c676dd1"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/153_HTTP/__op/dash-widevine/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="GO3 Sport 3 (LT).lv" tvg-logo="https://i.imgur.com/X1ssIDB.png" group-title="TV SPORTS", GO3 SPORT 3 🇱🇻
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"757befd1199455e6ae24feff9b9b9477":"3a3f0db50fc4a4d87ae3788595219c03","34335d157d24530fa14b83c585a06257":"0a6ffd237e4ba6dc12c679aa3a36b675","aca0097e8ed3547785a29828f72fe713":"1f62d3b9bf2937cb180bf69475580544"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/166_HTTP/__op/dash-widevine/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="GO3 Sport open (LT).lv" tvg-logo="https://i.imgur.com/l9ds9uG.png" group-title="TV SPORTS", GO3 SPORT OPEN 🇱🇻
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a55253dc8ada542f9908892a16165207":"b3271fd768a7650aa651d4a47e353c4f","f6062d0e8cf65e97a567e7395cb0d5d9":"0864c690f302f8ad17a3358d842b0acf","318d2477980651e0aed4ad175955eae9":"c238b596496635e74041b7b7730ad95b"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/229_HTTP/__op/dash-widevine/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png" group-title="TV SPORTS", NOVA SPORT1 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="TV SPORTS", NOVA SPORT2 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/rcti-id.png?raw=true" group-logo="https://i.imgur.com/uRoljvf.png" group-title="ENTERTAINMENT & LIFESTYLE",RCTI |R+|
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#https://sw.run/CAMPWIKI-RCTInews
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/y9fuR6e.png" group-title="ENTERTAINMENT & LIFESTYLE", MNC TV |R+|
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#https://sw.run/CAMPWIKI-MNCTVnews
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/gtv-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", GTV |R+|
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#https://sw.run/CAMPWIKI-GTVnews
+
+##EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-7-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", TRANS 7 +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-7-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", TRANS 7 |TSM|
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
+
+##EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-7-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", TRANS 7 |®|
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311.m3u8
+
+##EXTINF:-1 tvg-id="TransTV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", TRANS TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8
+
+##EXTINF:-1 tvg-id="TransTV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", TRANS TV |®|
+https://ogietv.biz.id:443/Livetv/234/1312.ts
+
+Back up
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referer=https://livestream.transtv.co.id/
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
+
+#EXTINF:-1 tvg-id="TransTV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", TRANS TV |TSM||
+#EXTVLCOPT:http-user-agent="lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)"
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/3840px-Rajawali_Televisi.svg.png" group-title="ENTERTAINMENT & LIFESTYLE", RTV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rtv/index.m3u8
+
+#EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://i.imgur.com/apTPT8k.png"  group-title="ENTERTAINMENT & LIFESTYLE", MDTV HD |DS|
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36"
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV
+
+##EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://i.imgur.com/apTPT8k.png"  group-title="ENTERTAINMENT & LIFESTYLE", MDTV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=23
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
+
+Backup MDTV transcorp
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://maxstream.tv&Referer=https://maxstream.tv/&X-Forwarded-For=1.1.1.1&Client-IP=1.1.1.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TURUVg/manifest.mpd
+
+##EXTINF:-1 tvg-id="8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/antv-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", ANTV |®|
+https://sw.run/CAMPKTR-ANTVFHD
+
+#EXTINF:-1 tvg-id="ANTV.id@SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/antv-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", ANTV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+
+##EXTINF:-1 tvg-id="8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/antv-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", ANTV |V2|
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://nu.mayangtv.my.id/numaling/buroot1x.php?play=aHR0cHM6Ly9tYXlhbmd0di5teS5pZC92aWRpby9tYXlhbmd0di5waHA/aWQ9NzgyJnR5cGU9ZGFzaA==
+
+##EXTINF:-1 tvg-id="ANTV.id@SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/antv-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", ANTV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=10
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+##EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/sctv-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", SCTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.drm?id=204
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=204
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/sctv-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", SCTV |V2|
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vidsemar.pages.dev/terraluna3/204.mpd
+
+##EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/sctv-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", SCTV +⛔
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=8
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+
+#EXTINF:-1 tvg-id="Moji" group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/moji-id.png?raw=true", MOJI |D|
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lite&chname=Moji
+
+#EXTINF:-1 tvg-id="Moji" group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/moji-id.png?raw=true", MOJI |D2|
+#EXTVLCOPT:http-user-agent="ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index2.m3u8
+
+##EXTINF:-1 tvg-id="Moji" group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/moji-id.png?raw=true", MOJI DIGITAL
+http://013tv.com:8080/F33848/cbd9779b/298550
+
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://i.imgur.com/FJnXWQq.png" group-title="ENTERTAINMENT & LIFESTYLE", VISION PRIME +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/visionprime/index.m3u8
+
+##EXTINF: -1 tvg-id="indosiar.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", INDOSIAR +
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+
+#EXTINF: -1 tvg-id="indosiar.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", INDOSIAR |V2|
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
+https://vidsemar.pages.dev/terraluna3/205.mpd
+
+##EXTINF: -1 tvg-id="indosiar.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", INDOSIAR 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.drm?id=205
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=205
+
+#EXTINF:-1 tvg-logo="https://asthatv.com/wp-content/uploads/2026/02/Logo-Astha.png" group-title="TV DAERAH", ASTHA TV
+https://hgmtv.com:2020/hls/asthalive/576p.m3u8
