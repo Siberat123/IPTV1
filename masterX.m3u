@@ -349,10 +349,8 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=5415
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
 https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF:-1 tvg-logo="https://astha.garuda.tv/assets/logo-DLGyXEGO.png" group-title="INDO DAERAH",ASTHA TV (hgmtv)
-#https://hgmtv.com:19360/asthatv/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://astha.garuda.tv/assets/logo-DLGyXEGO.png" group-title="INDO DAERAH",ASTHA TV (hgmtv)
-#https://hgmtv.com:19360/asthatv/asthatv.m3u8
+#EXTINF:-1 tvg-logo="https://asthatv.com/wp-content/uploads/2026/02/Logo-Astha.png" group-title="INDO DAERAH",ASTHA TV (hgmtv)
+https://hgmtv.com:2020/hls/asthalive/576p.m3u8
 
 #EXTINF:-1 group-title="INDO DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest?cb=20200805135934",MAGNA CHANNEL (medcom)
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -1620,15 +1618,6 @@ http://brmcuyrv.kxubv.com/live/R36SJZZK/1BUM3WQ8/1410765.m3u8
 http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/36748.ts
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20160127215859" group-title="SPORTS MIX 1",ESPN 2 (pelusa)
 http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/43574.ts
-
-#EXTINF:-1 tvg-id="ElevenSports1.pl@SD" tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="SPORTS MIX 1",ELEVEN SPORTS 1 (92.114.85.87)
-http://92.114.85.87:8002/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="ElevenSports2.pl@SD" tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="SPORTS MIX 1",ELEVEN SPORTS 2 (92.114.85.87)
-http://92.114.85.87:8002/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="ElevenSports3.pl@SD" tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="SPORTS MIX 1",ELEVEN SPORTS 3 (92.114.85.87)
-http://92.114.85.87:8002/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="ElevenSports4.pl@SD" tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="SPORTS MIX 1",ELEVEN SPORTS 4 (92.114.85.87)
-http://92.114.85.87:8002/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXx765TQ/20240823_024350.png" group-title="SPORTS MIX 1",EUROSPORT 1 (gpcdn)
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
