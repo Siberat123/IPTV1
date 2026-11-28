@@ -28,6 +28,12 @@ https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=7&type=drm&token=KITKATTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Trans_7_2013_Iklan.svg/960px-Trans_7_2013_Iklan.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS 7 (tvking)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://tvking.xyz:8080/Syednasrullah/kng1714/5149
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Trans_7_2013_Iklan.svg/960px-Trans_7_2013_Iklan.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS 7 (31.43.191.125)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34325
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Trans_TV_2001.svg/120px-Trans_TV_2001.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS TV (royaltv)
 http://royaltv.world:25461/live/M8012/3422/102.ts
@@ -53,7 +59,19 @@ https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=6&type=drm&token=KITKATTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Trans_TV_2001.svg/120px-Trans_TV_2001.svg.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="INDO NASIONAL",TRANS TV (31.43.191.125)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34324
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Indosiar_Logo_Commercial_Break.png/revision/latest?cb=20231126124841" group-title="INDO NASIONAL",INDOSIAR (royaltv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+http://royaltv.world:25461/live/S1048/9886/105.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Indosiar_Logo_Commercial_Break.png/revision/latest?cb=20231126124841" group-title="INDO NASIONAL",INDOSIAR (royaltv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://royaltv.world:25461/live/M8012/3422/105.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Indosiar_Logo_Commercial_Break.png/revision/latest?cb=20231126124841" group-title="INDO NASIONAL",INDOSIAR (royaltv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://royaltv.world:25461/live/M8012/3422/105.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Indosiar_Logo_Commercial_Break.png/revision/latest?cb=20231126124841" group-title="INDO NASIONAL",INDOSIAR (ktpremium)
 http://ktpremium.world:2095/QPP44780988/1710/73617
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Indosiar_Logo_Commercial_Break.png/revision/latest?cb=20231126124841" group-title="INDO NASIONAL",INDOSIAR (31.43.191.125)
@@ -90,6 +108,14 @@ https://tvratu.my.id/vid/index.mpd?id=205
 https://vidio123.mikrofast.web.id/vidio/205/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Antv_%282009%29_%28Gray%29.svg/revision/latest?cb=20201019232803" group-title="INDO NASIONAL",ANTV (royaltv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://royaltv.world:25461/live/M8012/3422/106.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Antv_%282009%29_%28Gray%29.svg/revision/latest?cb=20201019232803" group-title="INDO NASIONAL",ANTV (tvratu)
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://tvratu.my.id/nissa/index.m3u8?id=782&type=hls
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Antv_%282009%29_%28Gray%29.svg/revision/latest?cb=20201019232803" group-title="INDO NASIONAL",ANTV (royaltv)
 http://royaltv.world:25461/live/M8012/3422/106.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Antv_%282009%29_%28Gray%29.svg/revision/latest?cb=20201019232803" group-title="INDO NASIONAL",ANTV (aspaltvpasti)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -117,6 +143,15 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=10&type=drm&token=KITKATTV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/MNCTV_tegak_grey.png/revision/latest?cb=20180802052438",MNCTV (royaltv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+http://royaltv.world:25461/live/S1048/9886/23531.ts
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/MNCTV_tegak_grey.png/revision/latest?cb=20180802052438",MNCTV (royaltv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://royaltv.world:25461/live/M8012/3422/23531.ts
+#EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/MNCTV_tegak_grey.png/revision/latest?cb=20180802052438",MNCTV (31.43.191.125)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34326
 #EXTINF:-1 group-title="INDO NASIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/MNCTV_tegak_grey.png/revision/latest?cb=20180802052438",MNCTV (cloudfront)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -176,8 +211,16 @@ https://vidio123.mikrofast.web.id/vidio/875/index.mpd
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=875
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/20170614145128%21RCTI_Grey.png/revision/latest/scale-to-width-down/1000?cb=20231117161037" group-title="INDO NASIONAL",RCTI (royaltv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+http://royaltv.world:25461/live/S1048/9886/100.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/20170614145128%21RCTI_Grey.png/revision/latest/scale-to-width-down/1000?cb=20231117161037" group-title="INDO NASIONAL",RCTI (royaltv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://royaltv.world:25461/live/M8012/3422/100.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/20170614145128%21RCTI_Grey.png/revision/latest/scale-to-width-down/1000?cb=20231117161037" group-title="INDO NASIONAL",RCTI (31.43.191.125)
 http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34322
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/20170614145128%21RCTI_Grey.png/revision/latest/scale-to-width-down/1000?cb=20231117161037" group-title="INDO NASIONAL",RCTI (filex)
+https://filex.me:8443/live/1234567/7654321/302297.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/20170614145128%21RCTI_Grey.png/revision/latest/scale-to-width-down/1000?cb=20231117161037" group-title="INDO NASIONAL",RCTI (cloudfront)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -191,6 +234,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/ac934bd649dc47f699f793634de01635/in
 #KODIPROP:inputstream.adaptive.license_key=http://liveloveyou.my.id/gvision/widevine.php?id=1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/SCTV_Commercial_Break_%282004-2005%29.png/revision/latest/scale-to-width-down/1000?cb=20220503071322" group-title="INDO NASIONAL",SCTV (royaltv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+http://royaltv.world:25461/live/S1048/9886/101.ts
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/SCTV_Commercial_Break_%282004-2005%29.png/revision/latest/scale-to-width-down/1000?cb=20220503071322" group-title="INDO NASIONAL",SCTV (royaltv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://royaltv.world:25461/live/M8012/3422/101.ts
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/SCTV_Commercial_Break_%282004-2005%29.png/revision/latest/scale-to-width-down/1000?cb=20220503071322" group-title="INDO NASIONAL",SCTV (aspaltvpasti)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-origin=https://m.vidio.com
@@ -762,6 +811,10 @@ https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://video.detik.com/
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w46702288_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png" group-title="INDO NEWS",INEWS (royaltv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://royaltv.world:25461/live/M8012/3422/99.ts
 
 #EXTINF:-1 tvg-id="Berita Satu.id" tvg-name="Berita Satu.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/BeritaSatu_%28Stacked%29.svg/revision/latest?cb=20181125093938" group-title="INDO NEWS",BERITA SATU (mikrofast)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -2497,5 +2550,30 @@ http://bosstv.click:8080/live/18012689/77561563/172913.ts
 http://bosstv.click:8080/live/18012689/77561563/172914.ts
 #EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="SPORTS MIX 2",ALWAN SPORTS 5 (bosstv)
 http://bosstv.click:8080/live/18012689/77561563/172915.ts
+
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png",SUKAN RTM (tenbytecdn)
+https://0pnspbp7iq.tenbytecdn.com/live/sukanrtm/playlist.m3u8?md5=d37IcGPjis7vNQ_rIuF7yA&expires=1791181673
+
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_1.png",ELEVEN SPORTS 1 (31.43.191.125)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/880
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_2.png",ELEVEN SPORTS 2 (31.43.191.125)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/881
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_3.png",ELEVEN SPORTS 3 (31.43.191.125)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/882
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_4.png",ELEVEN SPORTS 4 (31.43.191.125)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/883
+
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png",CANAL+ SPORT (31.43.191.125)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/876
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png",CANAL+ SPORT 2 (31.43.191.125)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/877
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_3.png",CANAL+ SPORT 3 (31.43.191.125)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/878
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_4.png",CANAL+ SPORT 4 (31.43.191.125)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/879
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_5.png",CANAL+ SPORT 5 (31.43.191.125)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/889
+#EXTINF:-1 group-title="SPORTS MIX 2" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_SPORT_6.png",CANAL+ SPORT 6 (31.43.191.125)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/158703
 #
 #SPORTS MIX 2
