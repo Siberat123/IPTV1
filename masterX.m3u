@@ -2288,6 +2288,13 @@ https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
 
 #SPORTS MIX 2
 #
+#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 2",BEIN SPORTS 1 (27.124.71.27)
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 2",BEIN SPORTS 2 (27.124.71.27)
+http://27.124.71.27/beIN_Sports_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS MIX 2",BEIN SPORTS 3 (27.124.71.27)
+http://27.124.71.27/beIN_Sports_3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zj1pap1731234597.png" group-title="SPORTS MIX 2",ASTRO ARENA (fhvpnw)
 http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410915.ts
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5wx2p81731236425.png" group-title="SPORTS MIX 2",ASTRO ARENA 2 (fhvpnw)
