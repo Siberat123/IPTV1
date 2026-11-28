@@ -722,3 +722,115 @@ http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeW1_PA3ve3lxYwPlmFR1csY
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWef8kPQ0wGt6-ZKC3F1BfwMw
 
 
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR (test)
+http://royaltv.world:25461/live/S1048/9886/105.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png", SCTV (test)
+http://royaltv.world:25461/live/S1048/9886/101.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://abestreaming.com/logo/fixtv/RCTI.png" group-title="ShareExt@Relax", RCTI (test)
+http://royaltv.world:25461/live/S1048/9886/100.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg", MNCTV (test)
+http://royaltv.world:25461/live/S1048/9886/23531.ts
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://abestreaming.com/logo/fixtv/RCTI.png" group-title="ShareExt@Relax", ID: RCTI HD
+https://filex.me:8443/live/1234567/7654321/302297.ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI (v+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1
+https://dsgtq5sngxkde.cloudfront.net/rcti/index.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.imgur.com/EpQCkcy.png", MYSPORTS (malay)
+https://cuwf8jayq1.tenbytecdn.com/live/mysport/abr/mysport_720p/chunks.m3u8?md5=bdP8cbWMDLGkyqjwqUJ6KQ&expires=1791228591
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.imgur.com/3g3oZ5a.png", TV OKEY (malay)
+https://cuwf8jayq1.tenbytecdn.com/live/tvokey/abr/tvokey_1080p/chunks.m3u8?md5=vSHmoPyovEsJyxo9uXgjfg&expires=1791226922
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png", SUKAN RTM (malay)
+https://0pnspbp7iq.tenbytecdn.com/live/sukanrtm/playlist.m3u8?md5=d37IcGPjis7vNQ_rIuF7yA&expires=1791181673
+#https://shorter.me/SUKAN
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TH: TRUE SPORTS 1
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/157333
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TH: TRUE SPORTS 2
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/157332
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TH: TRUE SPORTS 3
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/157331
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TH: TRUE SPORTS 5
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/157330
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TH: TRUE SPORTS 6
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/157329
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TH: TRUE SPORTS 7
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/157334
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TH: PPTV
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/157386
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_1.png",ELEVEN SPORTS 1 (PL)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/880
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_2.png",ELEVEN SPORTS 2 (PL)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/881
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_3.png",ELEVEN SPORTS 3 (PL)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/882
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_4.png",ELEVEN SPORTS 4 (PL)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/883
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png",CANAL+SPORT (PL)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/876
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png",CANAL+SPORT 2 (PL)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/877
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_3.png",CANAL+SPORT 3 (PL)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/878
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_4.png",CANAL+SPORT 4 (PL)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/879
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_5.png",CANAL+SPORT 5 (PL)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/889
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_SPORT_6.png",CANAL+SPORT 6 (PL)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/158703
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://docdog.top/logo/countries/pl/CANAL_SPORT_7.png",CANAL+SPORT 7 (PL)
+http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/158702
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/P5RTyt7r/ezgif-8739420ec07149a5.png",TW: ELTA SPORTs 2 FHD
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158835
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/DZQ99Fxp/ezgif-8f9dbedb092ff151.png",TW: ELTA SPORTs 3 FHD
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158836
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/DZQ99Fxp/ezgif-8f9dbedb092ff151.png",TW: ELTA Sports 4 FHD 
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158837
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png", TW: ELTA Sports Max 1 FHD
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158879
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/P5RTyt7r/ezgif-8739420ec07149a5.png", TW: ELTA Sports Max 2 FHD
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158880
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/DZQ99Fxp/ezgif-8f9dbedb092ff151.png", TW: ELTA Sports Max 3 FHD
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158881
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/DZQ99Fxp/ezgif-8f9dbedb092ff151.png", TW: ELTA Sports Max 4 FHD
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158882
+
+
+
